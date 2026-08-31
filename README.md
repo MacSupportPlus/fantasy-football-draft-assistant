@@ -77,3 +77,30 @@ players slip through. A name-based join can't fully close that; the
 community-maintained `dynastyprocess/data` ID crosswalk (which maps Sleeper
 IDs directly to FantasyPros/gsis IDs) would be the next step up if better
 coverage is needed later.
+
+`build:vbd` computes the actual value-based-drafting board — this is the
+point of the whole pipeline. For each scoring format:
+
+1. **Project points.** Players with nflverse history get a recency-weighted
+   projection (most recent season weighted highest) from their per-game
+   rate, scaled by a recency-weighted games-played estimate (capped at 17) —
+   so injury history quietly lowers a projection instead of assuming a full
+   season. Players with no usable history (rookies, etc.) get a projection
+   interpolated from FantasyPros' position rank against a curve built from
+   players who have both history and an FP rank.
+2. **Replacement level.** League settings (`pipeline/src/vbd/replacement.ts`
+   — defaults to a standard 12-team league) determine a "replacement rank"
+   per position (teams × starters, plus a share of FLEX slots for RB/WR/TE).
+   The projected points of the player at that rank is the replacement value.
+3. **VBD score** = projected points − replacement value at that position.
+   Sorting by this, not raw projected points, is what makes this a real
+   draft board instead of a projections list.
+
+Writes `data/processed/vbd-rankings-{std,half-ppr,ppr}.json`.
+
+**Known gap: no K or DST rankings yet.** nflverse's player-level stats file
+doesn't track kicking at all, and has no team-defense fantasy scoring
+(sacks/INTs/TDs are in a separate `stats_team` file, but points-allowed —
+needed for standard DST scoring — isn't in there and would need a join
+against game results). Right now K/DST players get skipped entirely rather
+than given a made-up number.

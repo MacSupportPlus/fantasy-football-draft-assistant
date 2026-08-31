@@ -7,7 +7,8 @@
     "fetch:sleeper": "tsx src/fetch-players.ts",
     "fetch:rankings": "tsx src/fetch-rankings.ts",
     "fetch:stats": "tsx src/fetch-stats.ts",
-    "build:crosswalk": "tsx src/build-crosswalk.ts"
+    "build:crosswalk": "tsx src/build-crosswalk.ts",
+    "build:vbd": "tsx src/build-vbd-rankings.ts"
   },
   "dependencies": {},
   "devDependencies": {
