@@ -8,6 +8,7 @@
     "fetch:rankings": "tsx src/fetch-rankings.ts",
     "fetch:stats": "tsx src/fetch-stats.ts",
     "fetch:team-defense": "tsx src/fetch-team-defense.ts",
+    "fetch:kickers": "tsx src/fetch-kickers.ts",
     "build:crosswalk": "tsx src/build-crosswalk.ts",
     "build:vbd": "tsx src/build-vbd-rankings.ts"
   },

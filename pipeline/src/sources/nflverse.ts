@@ -24,6 +24,14 @@ export async function fetchTeamStatsCsv(season: number): Promise<string> {
   return fetchCsv(url, `nflverse stats_team (${season})`);
 }
 
+// Same data, per-week instead of season totals — includes an opponent_team
+// column, which is what makes yards-allowed computable (season totals don't
+// say who was allowed what).
+export async function fetchTeamStatsWeekCsv(season: number): Promise<string> {
+  const url = `https://github.com/nflverse/nflverse-data/releases/download/stats_team/stats_team_week_${season}.csv`;
+  return fetchCsv(url, `nflverse stats_team_week (${season})`);
+}
+
 // Every game, every season, in one file — includes final scores, which is
 // what points-allowed (needed for D/ST scoring) is derived from.
 export async function fetchGamesCsv(): Promise<string> {

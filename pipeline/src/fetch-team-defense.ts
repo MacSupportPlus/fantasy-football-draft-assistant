@@ -1,7 +1,7 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { fetchGamesCsv, fetchTeamStatsCsv } from "./sources/nflverse.js";
+import { fetchGamesCsv, fetchTeamStatsCsv, fetchTeamStatsWeekCsv } from "./sources/nflverse.js";
 import { parseCsv } from "./util/csv.js";
 import type { SeasonStats } from "./types/stats.js";
 import type { DefenseSeasonStats } from "./types/defense.js";
@@ -14,17 +14,31 @@ function num(v: string): number {
   return Number.isFinite(n) ? n : 0;
 }
 
-// Standard D/ST points-allowed tiers, scored per game (not on the season
-// total — allowing 35 in one game and 0 in another is very different from
-// allowing 17.5 twice).
+// This league's exact D/ST scoring (not a generic default):
+// 0 pts allowed=5, 1-6=4, 7-13=3, 14-17=1, 18-27=0, 28-34=-1, 35-45=-3, 46+=-5
 function pointsAllowedTier(pointsAllowed: number): number {
-  if (pointsAllowed === 0) return 10;
-  if (pointsAllowed <= 6) return 7;
-  if (pointsAllowed <= 13) return 4;
-  if (pointsAllowed <= 20) return 1;
+  if (pointsAllowed === 0) return 5;
+  if (pointsAllowed <= 6) return 4;
+  if (pointsAllowed <= 13) return 3;
+  if (pointsAllowed <= 17) return 1;
   if (pointsAllowed <= 27) return 0;
   if (pointsAllowed <= 34) return -1;
-  return -4;
+  if (pointsAllowed <= 45) return -3;
+  return -5;
+}
+
+// <100=5, 100-199=3, 200-299=2, 300-349=0, 350-399=-1, 400-449=-3,
+// 450-499=-5, 500-549=-6, 550+=-7
+function yardsAllowedTier(yardsAllowed: number): number {
+  if (yardsAllowed < 100) return 5;
+  if (yardsAllowed <= 199) return 3;
+  if (yardsAllowed <= 299) return 2;
+  if (yardsAllowed <= 349) return 0;
+  if (yardsAllowed <= 399) return -1;
+  if (yardsAllowed <= 449) return -3;
+  if (yardsAllowed <= 499) return -5;
+  if (yardsAllowed <= 549) return -6;
+  return -7;
 }
 
 async function computePointsAllowedByTeamSeason(
@@ -51,6 +65,37 @@ async function computePointsAllowedByTeamSeason(
   return byTeamSeason;
 }
 
+// Weekly team stats include an opponent_team column — a team's yards
+// allowed that week is simply its opponent's own total offensive yards
+// that week, so this needs no join against schedules.
+async function computeYardsAllowedByTeamSeason(
+  seasons: number[]
+): Promise<Map<string, number>> {
+  const byTeamSeason = new Map<string, number>();
+
+  for (const season of seasons) {
+    const rows = parseCsv(await fetchTeamStatsWeekCsv(season)).filter(
+      (r) => r.season_type === "REG"
+    );
+
+    const ownYardsByTeamWeek = new Map<string, number>();
+    for (const r of rows) {
+      ownYardsByTeamWeek.set(
+        `${r.team}|${r.week}`,
+        num(r.passing_yards) + num(r.rushing_yards)
+      );
+    }
+
+    for (const r of rows) {
+      const yardsAllowed = ownYardsByTeamWeek.get(`${r.opponent_team}|${r.week}`) ?? 0;
+      const key = `${r.team}|${season}`;
+      byTeamSeason.set(key, (byTeamSeason.get(key) ?? 0) + yardsAllowedTier(yardsAllowed));
+    }
+  }
+
+  return byTeamSeason;
+}
+
 async function main() {
   // Reuse the same season window the offensive stats pipeline already
   // settled on, so the two stay in sync automatically.
@@ -62,7 +107,10 @@ async function main() {
     .slice(0, 3);
   console.log(`Using seasons: ${seasons.join(", ")}`);
 
-  const pointsAllowedByTeamSeason = await computePointsAllowedByTeamSeason(seasons);
+  const [pointsAllowedByTeamSeason, yardsAllowedByTeamSeason] = await Promise.all([
+    computePointsAllowedByTeamSeason(seasons),
+    computeYardsAllowedByTeamSeason(seasons),
+  ]);
 
   const results: DefenseSeasonStats[] = [];
   for (const season of seasons) {
@@ -74,16 +122,13 @@ async function main() {
       const interceptions = num(r.def_interceptions);
       const fumbleRecoveries = num(r.fumble_recovery_opp);
       const safeties = num(r.def_safeties);
-      // def_tds: INT-return/blocked-kick-return TDs. fumble_recovery_tds and
-      // special_teams_tds are tracked separately by nflverse and don't
-      // overlap with def_tds or each other.
       const defensiveTds =
         num(r.def_tds) + num(r.fumble_recovery_tds) + num(r.special_teams_tds);
       const blockedKicks =
         num(r.def_punt_blocks) + num(r.def_pat_blocks) + num(r.def_fg_blocks);
       const gamesPlayed = num(r.games);
-      const pointsAllowedScore =
-        pointsAllowedByTeamSeason.get(`${r.team}|${season}`) ?? 0;
+      const pointsAllowedScore = pointsAllowedByTeamSeason.get(`${r.team}|${season}`) ?? 0;
+      const yardsAllowedScore = yardsAllowedByTeamSeason.get(`${r.team}|${season}`) ?? 0;
 
       const fantasyPoints =
         sacks * 1 +
@@ -92,7 +137,8 @@ async function main() {
         safeties * 2 +
         defensiveTds * 6 +
         blockedKicks * 2 +
-        pointsAllowedScore;
+        pointsAllowedScore +
+        yardsAllowedScore;
 
       results.push({
         team: r.team,
@@ -105,6 +151,7 @@ async function main() {
         defensiveTds,
         blockedKicks,
         pointsAllowedScore,
+        yardsAllowedScore,
         fantasyPoints,
         fantasyPointsPerGame: gamesPlayed > 0 ? fantasyPoints / gamesPlayed : 0,
       });

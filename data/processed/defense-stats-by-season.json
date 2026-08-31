@@ -9,9 +9,10 @@
     "safeties": 2,
     "defensiveTds": 3,
     "blockedKicks": 0,
-    "pointsAllowedScore": 12,
-    "fantasyPoints": 109,
-    "fantasyPointsPerGame": 6.411764705882353
+    "pointsAllowedScore": 7,
+    "yardsAllowedScore": -16,
+    "fantasyPoints": 88,
+    "fantasyPointsPerGame": 5.176470588235294
   },
   {
     "team": "ATL",
@@ -23,9 +24,10 @@
     "safeties": 1,
     "defensiveTds": 4,
     "blockedKicks": 2,
-    "pointsAllowedScore": -3,
-    "fantasyPoints": 94,
-    "fantasyPointsPerGame": 5.529411764705882
+    "pointsAllowedScore": -5,
+    "yardsAllowedScore": -13,
+    "fantasyPoints": 79,
+    "fantasyPointsPerGame": 4.647058823529412
   },
   {
     "team": "BAL",
@@ -37,9 +39,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 1,
-    "pointsAllowedScore": 15,
-    "fantasyPoints": 122,
-    "fantasyPointsPerGame": 7.176470588235294
+    "pointsAllowedScore": 9,
+    "yardsAllowedScore": -12,
+    "fantasyPoints": 104,
+    "fantasyPointsPerGame": 6.117647058823529
   },
   {
     "team": "BUF",
@@ -51,9 +54,10 @@
     "safeties": 1,
     "defensiveTds": 3,
     "blockedKicks": 0,
-    "pointsAllowedScore": 10,
-    "fantasyPoints": 131,
-    "fantasyPointsPerGame": 7.705882352941177
+    "pointsAllowedScore": 6,
+    "yardsAllowedScore": -14,
+    "fantasyPoints": 113,
+    "fantasyPointsPerGame": 6.647058823529412
   },
   {
     "team": "CAR",
@@ -65,9 +69,10 @@
     "safeties": 0,
     "defensiveTds": 0,
     "blockedKicks": 0,
-    "pointsAllowedScore": -28,
-    "fantasyPoints": 38,
-    "fantasyPointsPerGame": 2.235294117647059
+    "pointsAllowedScore": -26,
+    "yardsAllowedScore": -46,
+    "fantasyPoints": -6,
+    "fantasyPointsPerGame": -0.35294117647058826
   },
   {
     "team": "CHI",
@@ -79,9 +84,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 2,
-    "pointsAllowedScore": 10,
-    "fantasyPoints": 120,
-    "fantasyPointsPerGame": 7.0588235294117645
+    "pointsAllowedScore": 2,
+    "yardsAllowedScore": -22,
+    "fantasyPoints": 90,
+    "fantasyPointsPerGame": 5.294117647058823
   },
   {
     "team": "CIN",
@@ -94,8 +100,9 @@
     "defensiveTds": 3,
     "blockedKicks": 1,
     "pointsAllowedScore": -6,
-    "fantasyPoints": 102,
-    "fantasyPointsPerGame": 6
+    "yardsAllowedScore": -17,
+    "fantasyPoints": 85,
+    "fantasyPointsPerGame": 5
   },
   {
     "team": "CLE",
@@ -107,9 +114,10 @@
     "safeties": 1,
     "defensiveTds": 2,
     "blockedKicks": 1,
-    "pointsAllowedScore": -6,
-    "fantasyPoints": 75,
-    "fantasyPointsPerGame": 4.411764705882353
+    "pointsAllowedScore": -8,
+    "yardsAllowedScore": -13,
+    "fantasyPoints": 60,
+    "fantasyPointsPerGame": 3.5294117647058822
   },
   {
     "team": "DAL",
@@ -122,8 +130,9 @@
     "defensiveTds": 4,
     "blockedKicks": 1,
     "pointsAllowedScore": -11,
-    "fantasyPoints": 110,
-    "fantasyPointsPerGame": 6.470588235294118
+    "yardsAllowedScore": -23,
+    "fantasyPoints": 87,
+    "fantasyPointsPerGame": 5.117647058823529
   },
   {
     "team": "DEN",
@@ -135,9 +144,10 @@
     "safeties": 2,
     "defensiveTds": 5,
     "blockedKicks": 0,
-    "pointsAllowedScore": 34,
-    "fantasyPoints": 179,
-    "fantasyPointsPerGame": 10.529411764705882
+    "pointsAllowedScore": 20,
+    "yardsAllowedScore": -8,
+    "fantasyPoints": 157,
+    "fantasyPointsPerGame": 9.235294117647058
   },
   {
     "team": "DET",
@@ -149,9 +159,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 0,
-    "pointsAllowedScore": 24,
-    "fantasyPoints": 121,
-    "fantasyPointsPerGame": 7.117647058823529
+    "pointsAllowedScore": 11,
+    "yardsAllowedScore": -14,
+    "fantasyPoints": 94,
+    "fantasyPointsPerGame": 5.529411764705882
   },
   {
     "team": "GB",
@@ -163,9 +174,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 2,
-    "pointsAllowedScore": 27,
-    "fantasyPoints": 144,
-    "fantasyPointsPerGame": 8.470588235294118
+    "pointsAllowedScore": 16,
+    "yardsAllowedScore": -2,
+    "fantasyPoints": 131,
+    "fantasyPointsPerGame": 7.705882352941177
   },
   {
     "team": "HOU",
@@ -177,9 +189,10 @@
     "safeties": 1,
     "defensiveTds": 3,
     "blockedKicks": 0,
-    "pointsAllowedScore": 14,
-    "fantasyPoints": 139,
-    "fantasyPointsPerGame": 8.176470588235293
+    "pointsAllowedScore": 7,
+    "yardsAllowedScore": -3,
+    "fantasyPoints": 129,
+    "fantasyPointsPerGame": 7.588235294117647
   },
   {
     "team": "IND",
@@ -191,9 +204,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": -5,
-    "fantasyPoints": 89,
-    "fantasyPointsPerGame": 5.235294117647059
+    "pointsAllowedScore": -4,
+    "yardsAllowedScore": -23,
+    "fantasyPoints": 67,
+    "fantasyPointsPerGame": 3.9411764705882355
   },
   {
     "team": "JAX",
@@ -205,9 +219,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 2,
-    "pointsAllowedScore": 3,
-    "fantasyPoints": 71,
-    "fantasyPointsPerGame": 4.176470588235294
+    "pointsAllowedScore": -6,
+    "yardsAllowedScore": -37,
+    "fantasyPoints": 25,
+    "fantasyPointsPerGame": 1.4705882352941178
   },
   {
     "team": "KC",
@@ -219,9 +234,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": 19,
-    "fantasyPoints": 106,
-    "fantasyPointsPerGame": 6.235294117647059
+    "pointsAllowedScore": 12,
+    "yardsAllowedScore": -9,
+    "fantasyPoints": 90,
+    "fantasyPointsPerGame": 5.294117647058823
   },
   {
     "team": "LA",
@@ -233,9 +249,10 @@
     "safeties": 1,
     "defensiveTds": 4,
     "blockedKicks": 4,
-    "pointsAllowedScore": 6,
-    "fantasyPoints": 118,
-    "fantasyPointsPerGame": 6.9411764705882355
+    "pointsAllowedScore": 2,
+    "yardsAllowedScore": -23,
+    "fantasyPoints": 91,
+    "fantasyPointsPerGame": 5.352941176470588
   },
   {
     "team": "LAC",
@@ -247,9 +264,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": 29,
-    "fantasyPoints": 124,
-    "fantasyPointsPerGame": 7.294117647058823
+    "pointsAllowedScore": 19,
+    "yardsAllowedScore": -9,
+    "fantasyPoints": 105,
+    "fantasyPointsPerGame": 6.176470588235294
   },
   {
     "team": "LV",
@@ -261,9 +279,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 0,
-    "pointsAllowedScore": -5,
-    "fantasyPoints": 64,
-    "fantasyPointsPerGame": 3.764705882352941
+    "pointsAllowedScore": -6,
+    "yardsAllowedScore": -9,
+    "fantasyPoints": 54,
+    "fantasyPointsPerGame": 3.176470588235294
   },
   {
     "team": "MIA",
@@ -275,9 +294,10 @@
     "safeties": 0,
     "defensiveTds": 0,
     "blockedKicks": 0,
-    "pointsAllowedScore": 12,
-    "fantasyPoints": 79,
-    "fantasyPointsPerGame": 4.647058823529412
+    "pointsAllowedScore": 6,
+    "yardsAllowedScore": 3,
+    "fantasyPoints": 76,
+    "fantasyPointsPerGame": 4.470588235294118
   },
   {
     "team": "MIN",
@@ -289,9 +309,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 2,
-    "pointsAllowedScore": 25,
-    "fantasyPoints": 161,
-    "fantasyPointsPerGame": 9.470588235294118
+    "pointsAllowedScore": 17,
+    "yardsAllowedScore": -17,
+    "fantasyPoints": 136,
+    "fantasyPointsPerGame": 8
   },
   {
     "team": "NE",
@@ -303,9 +324,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": 1,
-    "fantasyPoints": 61,
-    "fantasyPointsPerGame": 3.588235294117647
+    "pointsAllowedScore": -2,
+    "yardsAllowedScore": -12,
+    "fantasyPoints": 46,
+    "fantasyPointsPerGame": 2.7058823529411766
   },
   {
     "team": "NO",
@@ -317,9 +339,10 @@
     "safeties": 1,
     "defensiveTds": 1,
     "blockedKicks": 4,
-    "pointsAllowedScore": 7,
-    "fantasyPoints": 96,
-    "fantasyPointsPerGame": 5.647058823529412
+    "pointsAllowedScore": 2,
+    "yardsAllowedScore": -36,
+    "fantasyPoints": 55,
+    "fantasyPointsPerGame": 3.235294117647059
   },
   {
     "team": "NYG",
@@ -331,9 +354,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 2,
-    "pointsAllowedScore": -2,
-    "fantasyPoints": 89,
-    "fantasyPointsPerGame": 5.235294117647059
+    "pointsAllowedScore": -5,
+    "yardsAllowedScore": -22,
+    "fantasyPoints": 64,
+    "fantasyPointsPerGame": 3.764705882352941
   },
   {
     "team": "NYJ",
@@ -345,9 +369,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 2,
-    "pointsAllowedScore": 6,
-    "fantasyPoints": 92,
-    "fantasyPointsPerGame": 5.411764705882353
+    "pointsAllowedScore": 1,
+    "yardsAllowedScore": -3,
+    "fantasyPoints": 84,
+    "fantasyPointsPerGame": 4.9411764705882355
   },
   {
     "team": "PHI",
@@ -359,9 +384,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": 30,
-    "fantasyPoints": 131,
-    "fantasyPointsPerGame": 7.705882352941177
+    "pointsAllowedScore": 18,
+    "yardsAllowedScore": 10,
+    "fantasyPoints": 129,
+    "fantasyPointsPerGame": 7.588235294117647
   },
   {
     "team": "PIT",
@@ -373,9 +399,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 3,
-    "pointsAllowedScore": 19,
-    "fantasyPoints": 143,
-    "fantasyPointsPerGame": 8.411764705882353
+    "pointsAllowedScore": 11,
+    "yardsAllowedScore": -11,
+    "fantasyPoints": 124,
+    "fantasyPointsPerGame": 7.294117647058823
   },
   {
     "team": "SEA",
@@ -387,9 +414,10 @@
     "safeties": 1,
     "defensiveTds": 5,
     "blockedKicks": 3,
-    "pointsAllowedScore": 15,
-    "fantasyPoints": 133,
-    "fantasyPointsPerGame": 7.823529411764706
+    "pointsAllowedScore": 5,
+    "yardsAllowedScore": -13,
+    "fantasyPoints": 110,
+    "fantasyPointsPerGame": 6.470588235294118
   },
   {
     "team": "SF",
@@ -401,9 +429,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 2,
-    "pointsAllowedScore": -3,
-    "fantasyPoints": 83,
-    "fantasyPointsPerGame": 4.882352941176471
+    "pointsAllowedScore": -7,
+    "yardsAllowedScore": -3,
+    "fantasyPoints": 76,
+    "fantasyPointsPerGame": 4.470588235294118
   },
   {
     "team": "TB",
@@ -415,9 +444,10 @@
     "safeties": 1,
     "defensiveTds": 2,
     "blockedKicks": 2,
-    "pointsAllowedScore": 4,
-    "fantasyPoints": 104,
-    "fantasyPointsPerGame": 6.117647058823529
+    "pointsAllowedScore": 2,
+    "yardsAllowedScore": -19,
+    "fantasyPoints": 83,
+    "fantasyPointsPerGame": 4.882352941176471
   },
   {
     "team": "TEN",
@@ -429,9 +459,10 @@
     "safeties": 2,
     "defensiveTds": 0,
     "blockedKicks": 0,
-    "pointsAllowedScore": -7,
-    "fantasyPoints": 63,
-    "fantasyPointsPerGame": 3.7058823529411766
+    "pointsAllowedScore": -9,
+    "yardsAllowedScore": 3,
+    "fantasyPoints": 64,
+    "fantasyPointsPerGame": 3.764705882352941
   },
   {
     "team": "WAS",
@@ -443,9 +474,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": 5,
-    "fantasyPoints": 90,
-    "fantasyPointsPerGame": 5.294117647058823
+    "pointsAllowedScore": 0,
+    "yardsAllowedScore": -7,
+    "fantasyPoints": 78,
+    "fantasyPointsPerGame": 4.588235294117647
   },
   {
     "team": "ARI",
@@ -458,8 +490,9 @@
     "defensiveTds": 1,
     "blockedKicks": 0,
     "pointsAllowedScore": -9,
-    "fantasyPoints": 64,
-    "fantasyPointsPerGame": 3.764705882352941
+    "yardsAllowedScore": -21,
+    "fantasyPoints": 43,
+    "fantasyPointsPerGame": 2.5294117647058822
   },
   {
     "team": "ATL",
@@ -471,9 +504,10 @@
     "safeties": 1,
     "defensiveTds": 1,
     "blockedKicks": 0,
-    "pointsAllowedScore": 12,
-    "fantasyPoints": 94,
-    "fantasyPointsPerGame": 5.529411764705882
+    "pointsAllowedScore": 5,
+    "yardsAllowedScore": -5,
+    "fantasyPoints": 82,
+    "fantasyPointsPerGame": 4.823529411764706
   },
   {
     "team": "BAL",
@@ -485,9 +519,10 @@
     "safeties": 1,
     "defensiveTds": 2,
     "blockedKicks": 0,
-    "pointsAllowedScore": 37,
-    "fantasyPoints": 171,
-    "fantasyPointsPerGame": 10.058823529411764
+    "pointsAllowedScore": 22,
+    "yardsAllowedScore": -3,
+    "fantasyPoints": 153,
+    "fantasyPointsPerGame": 9
   },
   {
     "team": "BUF",
@@ -499,9 +534,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 1,
-    "pointsAllowedScore": 25,
-    "fantasyPoints": 158,
-    "fantasyPointsPerGame": 9.294117647058824
+    "pointsAllowedScore": 15,
+    "yardsAllowedScore": -4,
+    "fantasyPoints": 144,
+    "fantasyPointsPerGame": 8.470588235294118
   },
   {
     "team": "CAR",
@@ -513,9 +549,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 0,
-    "pointsAllowedScore": 0,
-    "fantasyPoints": 67,
-    "fantasyPointsPerGame": 3.9411764705882355
+    "pointsAllowedScore": -1,
+    "yardsAllowedScore": 9,
+    "fantasyPoints": 75,
+    "fantasyPointsPerGame": 4.411764705882353
   },
   {
     "team": "CHI",
@@ -527,9 +564,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 2,
-    "pointsAllowedScore": 11,
-    "fantasyPoints": 113,
-    "fantasyPointsPerGame": 6.647058823529412
+    "pointsAllowedScore": 6,
+    "yardsAllowedScore": -11,
+    "fantasyPoints": 97,
+    "fantasyPointsPerGame": 5.705882352941177
   },
   {
     "team": "CIN",
@@ -541,9 +579,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 0,
-    "pointsAllowedScore": 7,
-    "fantasyPoints": 115,
-    "fantasyPointsPerGame": 6.764705882352941
+    "pointsAllowedScore": 4,
+    "yardsAllowedScore": -31,
+    "fantasyPoints": 81,
+    "fantasyPointsPerGame": 4.764705882352941
   },
   {
     "team": "CLE",
@@ -555,9 +594,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 3,
-    "pointsAllowedScore": 19,
-    "fantasyPoints": 147,
-    "fantasyPointsPerGame": 8.647058823529411
+    "pointsAllowedScore": 8,
+    "yardsAllowedScore": 12,
+    "fantasyPoints": 148,
+    "fantasyPointsPerGame": 8.705882352941176
   },
   {
     "team": "DAL",
@@ -569,9 +609,10 @@
     "safeties": 1,
     "defensiveTds": 7,
     "blockedKicks": 3,
-    "pointsAllowedScore": 30,
-    "fantasyPoints": 177,
-    "fantasyPointsPerGame": 10.411764705882353
+    "pointsAllowedScore": 17,
+    "yardsAllowedScore": 0,
+    "fantasyPoints": 164,
+    "fantasyPointsPerGame": 9.647058823529411
   },
   {
     "team": "DEN",
@@ -583,9 +624,10 @@
     "safeties": 1,
     "defensiveTds": 2,
     "blockedKicks": 1,
-    "pointsAllowedScore": 6,
-    "fantasyPoints": 116,
-    "fantasyPointsPerGame": 6.823529411764706
+    "pointsAllowedScore": 1,
+    "yardsAllowedScore": -28,
+    "fantasyPoints": 83,
+    "fantasyPointsPerGame": 4.882352941176471
   },
   {
     "team": "DET",
@@ -597,9 +639,10 @@
     "safeties": 1,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": 5,
-    "fantasyPoints": 100,
-    "fantasyPointsPerGame": 5.882352941176471
+    "pointsAllowedScore": -2,
+    "yardsAllowedScore": -19,
+    "fantasyPoints": 74,
+    "fantasyPointsPerGame": 4.352941176470588
   },
   {
     "team": "GB",
@@ -611,9 +654,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 2,
-    "pointsAllowedScore": 18,
-    "fantasyPoints": 115,
-    "fantasyPointsPerGame": 6.764705882352941
+    "pointsAllowedScore": 9,
+    "yardsAllowedScore": -16,
+    "fantasyPoints": 90,
+    "fantasyPointsPerGame": 5.294117647058823
   },
   {
     "team": "HOU",
@@ -625,9 +669,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 1,
-    "pointsAllowedScore": 14,
-    "fantasyPoints": 126,
-    "fantasyPointsPerGame": 7.411764705882353
+    "pointsAllowedScore": 8,
+    "yardsAllowedScore": -11,
+    "fantasyPoints": 109,
+    "fantasyPointsPerGame": 6.411764705882353
   },
   {
     "team": "IND",
@@ -639,9 +684,10 @@
     "safeties": 1,
     "defensiveTds": 5,
     "blockedKicks": 1,
-    "pointsAllowedScore": 3,
-    "fantasyPoints": 136,
-    "fantasyPointsPerGame": 8
+    "pointsAllowedScore": -3,
+    "yardsAllowedScore": -21,
+    "fantasyPoints": 109,
+    "fantasyPointsPerGame": 6.411764705882353
   },
   {
     "team": "JAX",
@@ -653,9 +699,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 0,
-    "pointsAllowedScore": 13,
-    "fantasyPoints": 119,
-    "fantasyPointsPerGame": 7
+    "pointsAllowedScore": 5,
+    "yardsAllowedScore": -15,
+    "fantasyPoints": 96,
+    "fantasyPointsPerGame": 5.647058823529412
   },
   {
     "team": "KC",
@@ -667,9 +714,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 1,
-    "pointsAllowedScore": 25,
-    "fantasyPoints": 130,
-    "fantasyPointsPerGame": 7.647058823529412
+    "pointsAllowedScore": 17,
+    "yardsAllowedScore": 6,
+    "fantasyPoints": 128,
+    "fantasyPointsPerGame": 7.529411764705882
   },
   {
     "team": "LA",
@@ -681,9 +729,10 @@
     "safeties": 2,
     "defensiveTds": 0,
     "blockedKicks": 1,
-    "pointsAllowedScore": 6,
-    "fantasyPoints": 83,
-    "fantasyPointsPerGame": 4.882352941176471
+    "pointsAllowedScore": 1,
+    "yardsAllowedScore": -19,
+    "fantasyPoints": 59,
+    "fantasyPointsPerGame": 3.4705882352941178
   },
   {
     "team": "LAC",
@@ -695,9 +744,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 0,
-    "pointsAllowedScore": 16,
-    "fantasyPoints": 112,
-    "fantasyPointsPerGame": 6.588235294117647
+    "pointsAllowedScore": 5,
+    "yardsAllowedScore": -25,
+    "fantasyPoints": 76,
+    "fantasyPointsPerGame": 4.470588235294118
   },
   {
     "team": "LV",
@@ -709,9 +759,10 @@
     "safeties": 1,
     "defensiveTds": 5,
     "blockedKicks": 1,
-    "pointsAllowedScore": 21,
-    "fantasyPoints": 145,
-    "fantasyPointsPerGame": 8.529411764705882
+    "pointsAllowedScore": 13,
+    "yardsAllowedScore": -8,
+    "fantasyPoints": 129,
+    "fantasyPointsPerGame": 7.588235294117647
   },
   {
     "team": "MIA",
@@ -723,9 +774,10 @@
     "safeties": 0,
     "defensiveTds": 4,
     "blockedKicks": 0,
-    "pointsAllowedScore": 13,
-    "fantasyPoints": 147,
-    "fantasyPointsPerGame": 8.647058823529411
+    "pointsAllowedScore": 2,
+    "yardsAllowedScore": -12,
+    "fantasyPoints": 124,
+    "fantasyPointsPerGame": 7.294117647058823
   },
   {
     "team": "MIN",
@@ -737,9 +789,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 1,
-    "pointsAllowedScore": 23,
-    "fantasyPoints": 124,
-    "fantasyPointsPerGame": 7.294117647058823
+    "pointsAllowedScore": 12,
+    "yardsAllowedScore": -15,
+    "fantasyPoints": 98,
+    "fantasyPointsPerGame": 5.764705882352941
   },
   {
     "team": "NE",
@@ -751,9 +804,10 @@
     "safeties": 1,
     "defensiveTds": 2,
     "blockedKicks": 1,
-    "pointsAllowedScore": 16,
-    "fantasyPoints": 104,
-    "fantasyPointsPerGame": 6.117647058823529
+    "pointsAllowedScore": 9,
+    "yardsAllowedScore": 6,
+    "fantasyPoints": 103,
+    "fantasyPointsPerGame": 6.0588235294117645
   },
   {
     "team": "NO",
@@ -765,9 +819,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 0,
-    "pointsAllowedScore": 31,
-    "fantasyPoints": 141,
-    "fantasyPointsPerGame": 8.294117647058824
+    "pointsAllowedScore": 17,
+    "yardsAllowedScore": -7,
+    "fantasyPoints": 120,
+    "fantasyPointsPerGame": 7.0588235294117645
   },
   {
     "team": "NYG",
@@ -779,9 +834,10 @@
     "safeties": 0,
     "defensiveTds": 4,
     "blockedKicks": 1,
-    "pointsAllowedScore": 5,
-    "fantasyPoints": 127,
-    "fantasyPointsPerGame": 7.470588235294118
+    "pointsAllowedScore": 0,
+    "yardsAllowedScore": -20,
+    "fantasyPoints": 102,
+    "fantasyPointsPerGame": 6
   },
   {
     "team": "NYJ",
@@ -793,9 +849,10 @@
     "safeties": 3,
     "defensiveTds": 4,
     "blockedKicks": 1,
-    "pointsAllowedScore": 17,
-    "fantasyPoints": 149,
-    "fantasyPointsPerGame": 8.764705882352942
+    "pointsAllowedScore": 10,
+    "yardsAllowedScore": -1,
+    "fantasyPoints": 141,
+    "fantasyPointsPerGame": 8.294117647058824
   },
   {
     "team": "PHI",
@@ -807,9 +864,10 @@
     "safeties": 1,
     "defensiveTds": 3,
     "blockedKicks": 1,
-    "pointsAllowedScore": -3,
-    "fantasyPoints": 96,
-    "fantasyPointsPerGame": 5.647058823529412
+    "pointsAllowedScore": -5,
+    "yardsAllowedScore": -22,
+    "fantasyPoints": 72,
+    "fantasyPointsPerGame": 4.235294117647059
   },
   {
     "team": "PIT",
@@ -821,9 +879,10 @@
     "safeties": 1,
     "defensiveTds": 2,
     "blockedKicks": 3,
-    "pointsAllowedScore": 22,
-    "fantasyPoints": 143,
-    "fantasyPointsPerGame": 8.411764705882353
+    "pointsAllowedScore": 14,
+    "yardsAllowedScore": -14,
+    "fantasyPoints": 121,
+    "fantasyPointsPerGame": 7.117647058823529
   },
   {
     "team": "SEA",
@@ -835,9 +894,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 1,
-    "pointsAllowedScore": 4,
-    "fantasyPoints": 109,
-    "fantasyPointsPerGame": 6.411764705882353
+    "pointsAllowedScore": 0,
+    "yardsAllowedScore": -33,
+    "fantasyPoints": 72,
+    "fantasyPointsPerGame": 4.235294117647059
   },
   {
     "team": "SF",
@@ -849,9 +909,10 @@
     "safeties": 1,
     "defensiveTds": 1,
     "blockedKicks": 0,
-    "pointsAllowedScore": 29,
-    "fantasyPoints": 141,
-    "fantasyPointsPerGame": 8.294117647058824
+    "pointsAllowedScore": 19,
+    "yardsAllowedScore": -1,
+    "fantasyPoints": 130,
+    "fantasyPointsPerGame": 7.647058823529412
   },
   {
     "team": "TB",
@@ -863,9 +924,10 @@
     "safeties": 1,
     "defensiveTds": 1,
     "blockedKicks": 0,
-    "pointsAllowedScore": 27,
-    "fantasyPoints": 132,
-    "fantasyPointsPerGame": 7.764705882352941
+    "pointsAllowedScore": 15,
+    "yardsAllowedScore": -20,
+    "fantasyPoints": 100,
+    "fantasyPointsPerGame": 5.882352941176471
   },
   {
     "team": "TEN",
@@ -877,9 +939,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 2,
-    "pointsAllowedScore": 15,
-    "fantasyPoints": 98,
-    "fantasyPointsPerGame": 5.764705882352941
+    "pointsAllowedScore": 6,
+    "yardsAllowedScore": -8,
+    "fantasyPoints": 81,
+    "fantasyPointsPerGame": 4.764705882352941
   },
   {
     "team": "WAS",
@@ -891,9 +954,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": -26,
-    "fantasyPoints": 56,
-    "fantasyPointsPerGame": 3.2941176470588234
+    "pointsAllowedScore": -20,
+    "yardsAllowedScore": -38,
+    "fantasyPoints": 24,
+    "fantasyPointsPerGame": 1.411764705882353
   },
   {
     "team": "ARI",
@@ -905,9 +969,10 @@
     "safeties": 0,
     "defensiveTds": 5,
     "blockedKicks": 1,
-    "pointsAllowedScore": -8,
-    "fantasyPoints": 100,
-    "fantasyPointsPerGame": 5.882352941176471
+    "pointsAllowedScore": -10,
+    "yardsAllowedScore": -16,
+    "fantasyPoints": 82,
+    "fantasyPointsPerGame": 4.823529411764706
   },
   {
     "team": "ATL",
@@ -919,9 +984,10 @@
     "safeties": 1,
     "defensiveTds": 4,
     "blockedKicks": 3,
-    "pointsAllowedScore": 2,
-    "fantasyPoints": 89,
-    "fantasyPointsPerGame": 5.235294117647059
+    "pointsAllowedScore": -2,
+    "yardsAllowedScore": -22,
+    "fantasyPoints": 63,
+    "fantasyPointsPerGame": 3.7058823529411766
   },
   {
     "team": "BAL",
@@ -933,9 +999,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 2,
-    "pointsAllowedScore": 26,
-    "fantasyPoints": 134,
-    "fantasyPointsPerGame": 7.882352941176471
+    "pointsAllowedScore": 18,
+    "yardsAllowedScore": -7,
+    "fantasyPoints": 119,
+    "fantasyPointsPerGame": 7
   },
   {
     "team": "BUF",
@@ -947,9 +1014,10 @@
     "safeties": 2,
     "defensiveTds": 3,
     "blockedKicks": 1,
-    "pointsAllowedScore": 29,
-    "fantasyPoints": 147,
-    "fantasyPointsPerGame": 9.1875
+    "pointsAllowedScore": 18,
+    "yardsAllowedScore": -10,
+    "fantasyPoints": 126,
+    "fantasyPointsPerGame": 7.875
   },
   {
     "team": "CAR",
@@ -961,9 +1029,10 @@
     "safeties": 0,
     "defensiveTds": 4,
     "blockedKicks": 5,
-    "pointsAllowedScore": 9,
-    "fantasyPoints": 112,
-    "fantasyPointsPerGame": 6.588235294117647
+    "pointsAllowedScore": 5,
+    "yardsAllowedScore": -20,
+    "fantasyPoints": 88,
+    "fantasyPointsPerGame": 5.176470588235294
   },
   {
     "team": "CHI",
@@ -975,9 +1044,10 @@
     "safeties": 0,
     "defensiveTds": 0,
     "blockedKicks": 1,
-    "pointsAllowedScore": -10,
-    "fantasyPoints": 58,
-    "fantasyPointsPerGame": 3.411764705882353
+    "pointsAllowedScore": -12,
+    "yardsAllowedScore": -29,
+    "fantasyPoints": 27,
+    "fantasyPointsPerGame": 1.588235294117647
   },
   {
     "team": "CIN",
@@ -989,9 +1059,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 2,
-    "pointsAllowedScore": 13,
-    "fantasyPoints": 101,
-    "fantasyPointsPerGame": 6.3125
+    "pointsAllowedScore": 8,
+    "yardsAllowedScore": -11,
+    "fantasyPoints": 85,
+    "fantasyPointsPerGame": 5.3125
   },
   {
     "team": "CLE",
@@ -1003,9 +1074,10 @@
     "safeties": 0,
     "defensiveTds": 4,
     "blockedKicks": 1,
-    "pointsAllowedScore": 7,
-    "fantasyPoints": 107,
-    "fantasyPointsPerGame": 6.294117647058823
+    "pointsAllowedScore": 4,
+    "yardsAllowedScore": -6,
+    "fantasyPoints": 98,
+    "fantasyPointsPerGame": 5.764705882352941
   },
   {
     "team": "DAL",
@@ -1017,9 +1089,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 2,
-    "pointsAllowedScore": 24,
-    "fantasyPoints": 166,
-    "fantasyPointsPerGame": 9.764705882352942
+    "pointsAllowedScore": 13,
+    "yardsAllowedScore": -10,
+    "fantasyPoints": 145,
+    "fantasyPointsPerGame": 8.529411764705882
   },
   {
     "team": "DEN",
@@ -1031,9 +1104,10 @@
     "safeties": 1,
     "defensiveTds": 0,
     "blockedKicks": 1,
-    "pointsAllowedScore": 15,
-    "fantasyPoints": 101,
-    "fantasyPointsPerGame": 5.9411764705882355
+    "pointsAllowedScore": 9,
+    "yardsAllowedScore": -3,
+    "fantasyPoints": 92,
+    "fantasyPointsPerGame": 5.411764705882353
   },
   {
     "team": "DET",
@@ -1045,9 +1119,10 @@
     "safeties": 1,
     "defensiveTds": 2,
     "blockedKicks": 1,
-    "pointsAllowedScore": -5,
-    "fantasyPoints": 94,
-    "fantasyPointsPerGame": 5.529411764705882
+    "pointsAllowedScore": -7,
+    "yardsAllowedScore": -39,
+    "fantasyPoints": 53,
+    "fantasyPointsPerGame": 3.1176470588235294
   },
   {
     "team": "GB",
@@ -1059,9 +1134,10 @@
     "safeties": 1,
     "defensiveTds": 3,
     "blockedKicks": 1,
-    "pointsAllowedScore": 12,
-    "fantasyPoints": 116,
-    "fantasyPointsPerGame": 6.823529411764706
+    "pointsAllowedScore": 7,
+    "yardsAllowedScore": -13,
+    "fantasyPoints": 98,
+    "fantasyPointsPerGame": 5.764705882352941
   },
   {
     "team": "HOU",
@@ -1073,9 +1149,10 @@
     "safeties": 1,
     "defensiveTds": 2,
     "blockedKicks": 0,
-    "pointsAllowedScore": 1,
-    "fantasyPoints": 108,
-    "fantasyPointsPerGame": 6.352941176470588
+    "pointsAllowedScore": -2,
+    "yardsAllowedScore": -32,
+    "fantasyPoints": 73,
+    "fantasyPointsPerGame": 4.294117647058823
   },
   {
     "team": "IND",
@@ -1087,9 +1164,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 3,
-    "pointsAllowedScore": -2,
-    "fantasyPoints": 108,
-    "fantasyPointsPerGame": 6.352941176470588
+    "pointsAllowedScore": -6,
+    "yardsAllowedScore": -9,
+    "fantasyPoints": 95,
+    "fantasyPointsPerGame": 5.588235294117647
   },
   {
     "team": "JAX",
@@ -1101,9 +1179,10 @@
     "safeties": 0,
     "defensiveTds": 4,
     "blockedKicks": 0,
-    "pointsAllowedScore": 26,
-    "fantasyPoints": 139,
-    "fantasyPointsPerGame": 8.176470588235293
+    "pointsAllowedScore": 13,
+    "yardsAllowedScore": -18,
+    "fantasyPoints": 108,
+    "fantasyPointsPerGame": 6.352941176470588
   },
   {
     "team": "KC",
@@ -1115,9 +1194,10 @@
     "safeties": 1,
     "defensiveTds": 2,
     "blockedKicks": 0,
-    "pointsAllowedScore": 12,
-    "fantasyPoints": 121,
-    "fantasyPointsPerGame": 7.117647058823529
+    "pointsAllowedScore": 8,
+    "yardsAllowedScore": -14,
+    "fantasyPoints": 103,
+    "fantasyPointsPerGame": 6.0588235294117645
   },
   {
     "team": "LA",
@@ -1129,9 +1209,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": 9,
-    "fantasyPoints": 99,
-    "fantasyPointsPerGame": 5.823529411764706
+    "pointsAllowedScore": 6,
+    "yardsAllowedScore": -16,
+    "fantasyPoints": 80,
+    "fantasyPointsPerGame": 4.705882352941177
   },
   {
     "team": "LAC",
@@ -1143,9 +1224,10 @@
     "safeties": 1,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": 5,
-    "fantasyPoints": 103,
-    "fantasyPointsPerGame": 6.0588235294117645
+    "pointsAllowedScore": 2,
+    "yardsAllowedScore": -18,
+    "fantasyPoints": 82,
+    "fantasyPointsPerGame": 4.823529411764706
   },
   {
     "team": "LV",
@@ -1157,9 +1239,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 2,
-    "pointsAllowedScore": 0,
-    "fantasyPoints": 75,
-    "fantasyPointsPerGame": 4.411764705882353
+    "pointsAllowedScore": -2,
+    "yardsAllowedScore": -27,
+    "fantasyPoints": 46,
+    "fantasyPointsPerGame": 2.7058823529411766
   },
   {
     "team": "MIA",
@@ -1171,9 +1254,10 @@
     "safeties": 1,
     "defensiveTds": 4,
     "blockedKicks": 2,
-    "pointsAllowedScore": 7,
-    "fantasyPoints": 105,
-    "fantasyPointsPerGame": 6.176470588235294
+    "pointsAllowedScore": 3,
+    "yardsAllowedScore": -15,
+    "fantasyPoints": 86,
+    "fantasyPointsPerGame": 5.0588235294117645
   },
   {
     "team": "MIN",
@@ -1185,9 +1269,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 3,
-    "pointsAllowedScore": -4,
-    "fantasyPoints": 102,
-    "fantasyPointsPerGame": 6
+    "pointsAllowedScore": -3,
+    "yardsAllowedScore": -41,
+    "fantasyPoints": 62,
+    "fantasyPointsPerGame": 3.6470588235294117
   },
   {
     "team": "NE",
@@ -1199,9 +1284,10 @@
     "safeties": 0,
     "defensiveTds": 8,
     "blockedKicks": 1,
-    "pointsAllowedScore": 21,
-    "fantasyPoints": 184,
-    "fantasyPointsPerGame": 10.823529411764707
+    "pointsAllowedScore": 10,
+    "yardsAllowedScore": -13,
+    "fantasyPoints": 160,
+    "fantasyPointsPerGame": 9.411764705882353
   },
   {
     "team": "NO",
@@ -1213,9 +1299,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": 24,
-    "fantasyPoints": 108,
-    "fantasyPointsPerGame": 6.352941176470588
+    "pointsAllowedScore": 12,
+    "yardsAllowedScore": -5,
+    "fantasyPoints": 91,
+    "fantasyPointsPerGame": 5.352941176470588
   },
   {
     "team": "NYG",
@@ -1227,9 +1314,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 2,
-    "pointsAllowedScore": 12,
-    "fantasyPoints": 106,
-    "fantasyPointsPerGame": 6.235294117647059
+    "pointsAllowedScore": 5,
+    "yardsAllowedScore": -23,
+    "fantasyPoints": 76,
+    "fantasyPointsPerGame": 4.470588235294118
   },
   {
     "team": "NYJ",
@@ -1241,9 +1329,10 @@
     "safeties": 2,
     "defensiveTds": 1,
     "blockedKicks": 3,
-    "pointsAllowedScore": 25,
-    "fantasyPoints": 117,
-    "fantasyPointsPerGame": 6.882352941176471
+    "pointsAllowedScore": 16,
+    "yardsAllowedScore": -2,
+    "fantasyPoints": 106,
+    "fantasyPointsPerGame": 6.235294117647059
   },
   {
     "team": "PHI",
@@ -1255,9 +1344,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 0,
-    "pointsAllowedScore": 13,
-    "fantasyPoints": 148,
-    "fantasyPointsPerGame": 8.705882352941176
+    "pointsAllowedScore": 9,
+    "yardsAllowedScore": 0,
+    "fantasyPoints": 144,
+    "fantasyPointsPerGame": 8.470588235294118
   },
   {
     "team": "PIT",
@@ -1269,9 +1359,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 3,
-    "pointsAllowedScore": 8,
-    "fantasyPoints": 106,
-    "fantasyPointsPerGame": 6.235294117647059
+    "pointsAllowedScore": 6,
+    "yardsAllowedScore": -15,
+    "fantasyPoints": 89,
+    "fantasyPointsPerGame": 5.235294117647059
   },
   {
     "team": "SEA",
@@ -1283,9 +1374,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 1,
-    "pointsAllowedScore": 4,
-    "fantasyPoints": 112,
-    "fantasyPointsPerGame": 6.588235294117647
+    "pointsAllowedScore": 2,
+    "yardsAllowedScore": -22,
+    "fantasyPoints": 88,
+    "fantasyPointsPerGame": 5.176470588235294
   },
   {
     "team": "SF",
@@ -1297,9 +1389,10 @@
     "safeties": 0,
     "defensiveTds": 3,
     "blockedKicks": 0,
-    "pointsAllowedScore": 38,
-    "fantasyPoints": 160,
-    "fantasyPointsPerGame": 9.411764705882353
+    "pointsAllowedScore": 25,
+    "yardsAllowedScore": 3,
+    "fantasyPoints": 150,
+    "fantasyPointsPerGame": 8.823529411764707
   },
   {
     "team": "TB",
@@ -1311,9 +1404,10 @@
     "safeties": 0,
     "defensiveTds": 1,
     "blockedKicks": 1,
-    "pointsAllowedScore": 11,
-    "fantasyPoints": 103,
-    "fantasyPointsPerGame": 6.0588235294117645
+    "pointsAllowedScore": 7,
+    "yardsAllowedScore": -7,
+    "fantasyPoints": 92,
+    "fantasyPointsPerGame": 5.411764705882353
   },
   {
     "team": "TEN",
@@ -1325,9 +1419,10 @@
     "safeties": 0,
     "defensiveTds": 2,
     "blockedKicks": 1,
-    "pointsAllowedScore": 8,
-    "fantasyPoints": 101,
-    "fantasyPointsPerGame": 5.9411764705882355
+    "pointsAllowedScore": 4,
+    "yardsAllowedScore": -22,
+    "fantasyPoints": 75,
+    "fantasyPointsPerGame": 4.411764705882353
   },
   {
     "team": "WAS",
@@ -1339,8 +1434,9 @@
     "safeties": 1,
     "defensiveTds": 3,
     "blockedKicks": 1,
-    "pointsAllowedScore": 15,
-    "fantasyPoints": 116,
-    "fantasyPointsPerGame": 6.823529411764706
+    "pointsAllowedScore": 8,
+    "yardsAllowedScore": 5,
+    "fantasyPoints": 114,
+    "fantasyPointsPerGame": 6.705882352941177
   }
 ]

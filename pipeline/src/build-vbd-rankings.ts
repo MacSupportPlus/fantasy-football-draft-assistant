@@ -3,10 +3,11 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import type { CrosswalkEntry } from "./types/crosswalk.js";
 import type { DefenseSeasonStats } from "./types/defense.js";
+import type { KickerSeasonStats } from "./types/kicker.js";
 import type { ConsensusRanking, ScoringFormat } from "./types/ranking.js";
 import type { SeasonStats } from "./types/stats.js";
 import type { VbdEntry } from "./types/vbd.js";
-import { projectDefensePlayers, projectPlayers } from "./vbd/project-points.js";
+import { projectDefensePlayers, projectKickerPlayers, projectPlayers } from "./vbd/project-points.js";
 import { computeReplacementValues, DEFAULT_LEAGUE_SETTINGS } from "./vbd/replacement.js";
 import { normalizeTeam } from "./util/normalize.js";
 
@@ -46,9 +47,21 @@ async function main() {
     list.push(d);
     defenseSeasonsByTeam.set(team, list);
   }
-  // D/ST scoring doesn't vary by scoring format, so it's computed once and
-  // reused for all three outputs below.
+  const kickerSeasons = await readJson<KickerSeasonStats[]>(
+    "kicker-stats-by-season.json"
+  );
+  const kickerSeasonsByTeam = new Map<string, KickerSeasonStats[]>();
+  for (const k of kickerSeasons) {
+    const team = normalizeTeam(k.team)!;
+    const list = kickerSeasonsByTeam.get(team) ?? [];
+    list.push(k);
+    kickerSeasonsByTeam.set(team, list);
+  }
+
+  // D/ST and K scoring don't vary by scoring format, so both are computed
+  // once and reused for all three outputs below.
   const defenseProjected = projectDefensePlayers(crosswalk, defenseSeasonsByTeam);
+  const kickerProjected = projectKickerPlayers(crosswalk, kickerSeasonsByTeam);
 
   for (const scoring of SCORING_FORMATS) {
     const rankings = await readJson<ConsensusRanking[]>(RANKINGS_FILES[scoring]);
@@ -57,6 +70,7 @@ async function main() {
     const projected = [
       ...projectPlayers(crosswalk, seasonsByGsisId, fpById, scoring),
       ...defenseProjected,
+      ...kickerProjected,
     ];
 
     const byPosition = new Map<string, typeof projected>();

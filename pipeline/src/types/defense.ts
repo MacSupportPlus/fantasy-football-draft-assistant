@@ -1,8 +1,9 @@
 // Team defense (D/ST) season aggregate, built from nflverse's team-level
-// stats file plus game results (for points-allowed, which isn't a per-team
-// counting stat — it depends on what the *opponent* scored each week).
-// Unlike offense, D/ST scoring doesn't vary by PPR/Half-PPR/Standard, so
-// there's just one fantasyPoints number instead of three.
+// stats file plus game results (for points-allowed) and weekly team stats
+// (for yards-allowed) — neither is a simple per-team counting stat, since
+// both depend on what the *opponent* did each week. Scoring matches this
+// league's exact rules (league settings pasted 2026-08-31), not a generic
+// default — see fetch-team-defense.ts for the point values.
 export interface DefenseSeasonStats {
   team: string;
   season: number;
@@ -14,6 +15,7 @@ export interface DefenseSeasonStats {
   defensiveTds: number;
   blockedKicks: number;
   pointsAllowedScore: number;
+  yardsAllowedScore: number;
   fantasyPoints: number;
   fantasyPointsPerGame: number;
 }

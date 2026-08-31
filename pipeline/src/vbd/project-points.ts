@@ -1,5 +1,6 @@
 import type { CrosswalkEntry } from "../types/crosswalk.js";
 import type { DefenseSeasonStats } from "../types/defense.js";
+import type { KickerSeasonStats } from "../types/kicker.js";
 import type { ConsensusRanking, ScoringFormat } from "../types/ranking.js";
 import type { SeasonStats } from "../types/stats.js";
 import type { ProjectedPlayer } from "../types/vbd.js";
@@ -189,6 +190,46 @@ export function projectDefensePlayers(
       sleeperId: p.sleeperId,
       name: p.name,
       position: "DST",
+      team: p.team,
+      projectedPoints: perGame * Math.min(games, MAX_GAMES),
+      source: "history",
+    });
+  }
+
+  return projected;
+}
+
+// Kickers: nflverse has no per-kicker stats, only team-level FG/PAT data, so
+// this proxies "whoever kicks for this team" the same way D/ST does — every
+// Sleeper-rostered K at a given team gets that team's historical kicking
+// output. If a kicker just changed teams, this reflects his new team's
+// recent kicking history, not his own — a real limitation, not a bug.
+export function projectKickerPlayers(
+  crosswalk: CrosswalkEntry[],
+  seasonsByTeam: Map<string, KickerSeasonStats[]>
+): ProjectedPlayer[] {
+  const projected: ProjectedPlayer[] = [];
+
+  for (const p of crosswalk) {
+    if (p.position !== "K") continue;
+    const team = normalizeTeam(p.team);
+    const seasons = team ? seasonsByTeam.get(team) : undefined;
+    if (!seasons || seasons.length === 0) continue;
+
+    const recent = [...seasons].sort((a, b) => b.season - a.season).slice(0, 3);
+    const weights = RECENCY_WEIGHTS[recent.length];
+
+    let perGame = 0;
+    let games = 0;
+    recent.forEach((s, i) => {
+      perGame += weights[i] * s.fantasyPointsPerGame;
+      games += weights[i] * s.gamesPlayed;
+    });
+
+    projected.push({
+      sleeperId: p.sleeperId,
+      name: p.name,
+      position: "K",
       team: p.team,
       projectedPoints: perGame * Math.min(games, MAX_GAMES),
       source: "history",
