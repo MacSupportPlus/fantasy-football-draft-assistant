@@ -8,6 +8,9 @@ import { PlayerCardComponent } from './components/player-card.component';
 import { ValueChartComponent } from './components/value-chart.component';
 import { InfoIconComponent } from './components/info-icon.component';
 import { GlossaryComponent } from './components/glossary.component';
+import { DraftNightComponent } from './components/draft-night.component';
+
+type ViewMode = 'table' | 'draft-night';
 
 const POSITIONS = ['ALL', 'QB', 'RB', 'WR', 'TE', 'DST', 'K'] as const;
 const SCORING_OPTIONS: [ScoringFormat, string][] = [
@@ -19,7 +22,15 @@ const SCORING_OPTIONS: [ScoringFormat, string][] = [
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, FormsModule, PlayerCardComponent, ValueChartComponent, InfoIconComponent, GlossaryComponent],
+  imports: [
+    CommonModule,
+    FormsModule,
+    PlayerCardComponent,
+    ValueChartComponent,
+    InfoIconComponent,
+    GlossaryComponent,
+    DraftNightComponent,
+  ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
@@ -32,6 +43,7 @@ export class AppComponent {
   readonly selectedDetail = signal<PlayerDetail | null>(null);
   readonly showCharts = signal(true);
   readonly showGlossary = signal(false);
+  readonly viewMode = signal<ViewMode>('table');
 
   readonly filtered = computed(() => {
     const pos = this.positionFilter();

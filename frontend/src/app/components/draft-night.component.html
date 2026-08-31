@@ -1,0 +1,59 @@
+<div class="draft-night">
+  <div class="pick-counter">
+    <span class="pick-label">On the clock</span>
+    <span class="pick-number">Pick #{{ pickNumber() }}</span>
+  </div>
+
+  @if (hero().length > 0) {
+    <div class="hero-row">
+      @for (e of hero(); track e.sleeperId; let i = $index) {
+        <button
+          type="button"
+          class="hero-card"
+          [class.top-pick]="i === 0"
+          [attr.data-pos]="e.position"
+          (click)="draft(e)"
+        >
+          <span class="hero-rank">#{{ e.liveOverallRank }}</span>
+          <span class="hero-name">{{ e.name }}</span>
+          <span class="hero-meta">
+            <span class="pos-chip" [attr.data-pos]="e.position">{{ e.position }}</span>
+            {{ e.team ?? '—' }}
+          </span>
+          <span class="hero-vbd">{{ e.liveVbdScore }} <small>VBD</small></span>
+        </button>
+      }
+    </div>
+  }
+
+  <div class="board-grid">
+    @for (col of columns(); track col.position) {
+      <div class="board-col">
+        <div class="col-header" [attr.data-pos]="col.position">{{ col.position }}</div>
+        @for (e of col.players; track e.sleeperId; let i = $index) {
+          <button type="button" class="board-row" [class.top-tier]="i < 3" (click)="draft(e)">
+            <span class="row-rank">{{ i + 1 }}</span>
+            <span class="row-name">{{ e.name }}</span>
+            <span class="row-team">{{ e.team ?? '—' }}</span>
+            <span class="row-vbd">{{ e.liveVbdScore }}</span>
+          </button>
+        } @empty {
+          <p class="col-empty">All drafted</p>
+        }
+      </div>
+    }
+  </div>
+
+  @if (draftedList().length > 0) {
+    <div class="drafted-strip">
+      <span class="drafted-strip-label">Drafted ({{ draftedList().length }})</span>
+      <div class="drafted-chips">
+        @for (e of draftedList(); track e.sleeperId) {
+          <button type="button" class="drafted-chip" (click)="draft(e)" title="Click to undo">
+            {{ e.name }} <span class="undo-x">×</span>
+          </button>
+        }
+      </div>
+    </div>
+  }
+</div>

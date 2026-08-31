@@ -1,0 +1,246 @@
+.draft-night {
+  padding-bottom: 20px;
+}
+
+.pick-counter {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.pick-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #6fe0a0;
+  font-weight: 700;
+}
+
+.pick-number {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.hero-row {
+  display: grid;
+  grid-template-columns: 1.6fr repeat(4, 1fr);
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.hero-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  background: #171a20;
+  border: 1px solid #262b34;
+  border-radius: 12px;
+  padding: 16px;
+  cursor: pointer;
+  text-align: left;
+  color: #e8eaed;
+  transition: transform 0.12s, border-color 0.12s;
+}
+
+.hero-card:hover {
+  transform: translateY(-2px);
+  border-color: #6fe0a0;
+}
+
+.hero-card.top-pick {
+  grid-row: span 1;
+  background: linear-gradient(155deg, #17301f, #171a20 60%);
+  border: 1px solid #2f5c3d;
+  box-shadow: 0 0 0 1px rgba(111, 224, 160, 0.15), 0 12px 32px rgba(111, 224, 160, 0.08);
+}
+
+.hero-card.top-pick .hero-name {
+  font-size: 1.35rem;
+}
+
+.hero-card.top-pick .hero-vbd {
+  font-size: 1.5rem;
+}
+
+.hero-rank {
+  font-size: 0.68rem;
+  color: #6b7280;
+  font-weight: 700;
+}
+
+.hero-name {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.hero-meta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78rem;
+  color: #9aa2ad;
+}
+
+.hero-vbd {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: #6fe0a0;
+}
+
+.hero-vbd small {
+  font-size: 0.6rem;
+  color: #6b7280;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.pos-chip {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 999px;
+  font-size: 0.66rem;
+  font-weight: 700;
+  color: #0d0f13;
+}
+
+.pos-chip[data-pos='QB'] { background: #3987e5; }
+.pos-chip[data-pos='RB'] { background: #d95926; }
+.pos-chip[data-pos='WR'] { background: #199e70; }
+.pos-chip[data-pos='TE'] { background: #c98500; }
+.pos-chip[data-pos='DST'] { background: #d55181; }
+.pos-chip[data-pos='K'] { background: #008300; }
+
+.board-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+  margin-bottom: 24px;
+}
+
+.board-col {
+  background: #12151a;
+  border: 1px solid #22262e;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.col-header {
+  text-align: center;
+  padding: 8px 0;
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: #0d0f13;
+}
+
+.col-header[data-pos='QB'] { background: #3987e5; }
+.col-header[data-pos='RB'] { background: #d95926; }
+.col-header[data-pos='WR'] { background: #199e70; }
+.col-header[data-pos='TE'] { background: #c98500; }
+.col-header[data-pos='DST'] { background: #d55181; }
+.col-header[data-pos='K'] { background: #008300; }
+
+.board-row {
+  display: grid;
+  grid-template-columns: 18px 1fr auto auto;
+  gap: 6px;
+  align-items: center;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #1c2027;
+  background: transparent;
+  color: #cfd4db;
+  padding: 6px 8px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 0.76rem;
+}
+
+.board-row:hover {
+  background: #1c2129;
+}
+
+.board-row.top-tier {
+  background: rgba(255, 191, 107, 0.06);
+}
+
+.board-row.top-tier:hover {
+  background: rgba(255, 191, 107, 0.12);
+}
+
+.row-rank {
+  color: #6b7280;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.7rem;
+}
+
+.row-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: #e8eaed;
+  font-weight: 500;
+}
+
+.row-team {
+  color: #6b7280;
+  font-size: 0.68rem;
+}
+
+.row-vbd {
+  color: #6fe0a0;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.col-empty {
+  padding: 16px 8px;
+  text-align: center;
+  color: #6b7280;
+  font-size: 0.76rem;
+}
+
+.drafted-strip {
+  border-top: 1px solid #22262e;
+  padding-top: 14px;
+}
+
+.drafted-strip-label {
+  display: block;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6b7280;
+  margin-bottom: 8px;
+}
+
+.drafted-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.drafted-chip {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border: 1px solid #262b34;
+  background: #171a20;
+  color: #6b7280;
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  cursor: pointer;
+  text-decoration: line-through;
+}
+
+.drafted-chip:hover {
+  border-color: #ff8f8f;
+  color: #ff8f8f;
+}
+
+.undo-x {
+  text-decoration: none;
+  font-weight: 700;
+}

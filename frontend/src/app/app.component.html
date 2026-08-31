@@ -7,6 +7,14 @@
     </div>
 
     <div class="header-actions">
+      <div class="view-toggle">
+        <button type="button" class="view-btn" [class.active]="viewMode() === 'table'" (click)="viewMode.set('table')">
+          Table
+        </button>
+        <button type="button" class="view-btn" [class.active]="viewMode() === 'draft-night'" (click)="viewMode.set('draft-night')">
+          🏈 Draft Night
+        </button>
+      </div>
       <button type="button" class="glossary-btn" (click)="showGlossary.set(true)">
         <span class="mini-icon">i</span> How to read this
       </button>
@@ -24,6 +32,10 @@
       </div>
     </div>
   </header>
+
+  @if (viewMode() === 'draft-night') {
+    <app-draft-night />
+  } @else {
 
   <div class="charts-toggle-row">
     <button type="button" class="charts-toggle" (click)="showCharts.set(!showCharts())">
@@ -124,6 +136,8 @@
         </tbody>
       </table>
     </div>
+  }
+
   }
 </div>
 
