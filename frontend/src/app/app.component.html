@@ -1,0 +1,98 @@
+<div class="page">
+  <header class="header">
+    <div class="header-title">
+      <h1>Draft Board</h1>
+      <span class="subtitle">Value-based draft rankings, live-updated as you pick</span>
+    </div>
+
+    <div class="scoring-toggle">
+      @for (fmt of scoringOptions; track fmt[0]) {
+        <button
+          type="button"
+          class="scoring-btn"
+          [class.active]="board.scoring() === fmt[0]"
+          (click)="setScoring(fmt[0])"
+        >
+          {{ fmt[1] }}
+        </button>
+      }
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <div class="position-tabs">
+      @for (pos of positions; track pos) {
+        <button
+          type="button"
+          class="tab"
+          [class.active]="positionFilter() === pos"
+          (click)="setPositionFilter(pos)"
+        >
+          {{ pos }}
+        </button>
+      }
+    </div>
+
+    <input
+      class="search"
+      type="text"
+      placeholder="Search players..."
+      [value]="search()"
+      (input)="onSearchInput($any($event.target).value)"
+    />
+
+    <label class="hide-drafted">
+      <input type="checkbox" [checked]="hideDrafted()" (change)="hideDrafted.set($any($event.target).checked)" />
+      Hide drafted
+    </label>
+
+    <div class="draft-status">
+      <span>{{ draftedCount() }} drafted</span>
+      <button type="button" class="reset-btn" (click)="resetDraft()">Reset draft</button>
+    </div>
+  </div>
+
+  @if (board.loading()) {
+    <p class="state-message">Loading rankings…</p>
+  } @else if (board.error()) {
+    <p class="state-message error">{{ board.error() }}</p>
+  } @else {
+    <table class="board">
+      <thead>
+        <tr>
+          <th class="col-rank">Rank</th>
+          <th class="col-name">Player</th>
+          <th>Pos</th>
+          <th>Team</th>
+          <th class="col-num">Proj Pts</th>
+          <th class="col-num">VBD</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        @for (e of filtered(); track e.sleeperId) {
+          <tr [class.drafted]="e.drafted">
+            <td class="col-rank">{{ e.drafted ? '—' : e.liveOverallRank }}</td>
+            <td class="col-name">
+              {{ e.name }}
+              @if (e.source === 'interpolated') {
+                <span class="badge-interpolated" title="No usable historical stats — projection interpolated from FantasyPros rank">est.</span>
+              }
+            </td>
+            <td><span class="pos-badge" [attr.data-pos]="e.position">{{ e.position }}</span></td>
+            <td>{{ e.team ?? '—' }}</td>
+            <td class="col-num">{{ e.projectedPoints }}</td>
+            <td class="col-num vbd" [class.positive]="e.liveVbdScore > 0">{{ e.liveVbdScore }}</td>
+            <td class="col-action">
+              <button type="button" class="draft-btn" [class.undo]="e.drafted" (click)="toggleDraft(e.sleeperId)">
+                {{ e.drafted ? 'Undo' : 'Draft' }}
+              </button>
+            </td>
+          </tr>
+        } @empty {
+          <tr><td colspan="7" class="state-message">No players match this filter.</td></tr>
+        }
+      </tbody>
+    </table>
+  }
+</div>

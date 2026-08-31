@@ -1,10 +1,11 @@
 import type { LeagueSettings, ProjectedPlayer } from "../types/vbd.js";
 
-// Standard 12-team league, single QB, standard FLEX. Edit this to match
-// your actual draft — it's the single biggest lever in VBD, since it
-// decides where "replacement level" falls at every position.
+// 14-team league, single QB, standard FLEX (matches the real ESPN league
+// this is being built for). Edit this to match your actual draft — it's
+// the single biggest lever in VBD, since it decides where "replacement
+// level" falls at every position.
 export const DEFAULT_LEAGUE_SETTINGS: LeagueSettings = {
-  teams: 12,
+  teams: 14,
   starters: { QB: 1, RB: 2, WR: 2, TE: 1, FLEX: 1, K: 1, DST: 1 },
   flexShare: { RB: 0.5, WR: 0.4, TE: 0.1 },
 };
