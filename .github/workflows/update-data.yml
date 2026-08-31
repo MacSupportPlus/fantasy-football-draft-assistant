@@ -1,0 +1,50 @@
+name: Update draft data
+
+on:
+  schedule:
+    # 10:00 UTC daily (~6am ET). Rankings/injury status can shift day to day
+    # during draft season; nflverse historical stats barely change off-season.
+    - cron: "0 10 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: pipeline/package-lock.json
+
+      - name: Install pipeline dependencies
+        working-directory: pipeline
+        run: npm ci
+
+      - name: Run data pipeline
+        working-directory: pipeline
+        run: |
+          npm run fetch:sleeper
+          npm run fetch:rankings
+          npm run fetch:stats
+          npm run fetch:team-defense
+          npm run fetch:kickers
+          npm run build:crosswalk
+          npm run build:vbd
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/processed/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Scheduled data refresh ($(date -u +%Y-%m-%d))"
+            git push
+          fi
