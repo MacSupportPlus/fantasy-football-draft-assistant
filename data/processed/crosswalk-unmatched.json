@@ -1,13 +1,6 @@
 [
   {
     "source": "fantasypros",
-    "name": "Hollywood Brown",
-    "position": "WR",
-    "team": "PHI",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Tyreek Hill",
     "position": "WR",
     "team": "FA",
@@ -32,13 +25,6 @@
     "name": "Joe Mixon",
     "position": "RB",
     "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Bam Knight",
-    "position": "RB",
-    "team": "ARI",
     "reason": "no-name-match"
   },
   {
@@ -515,13 +501,6 @@
     "name": "Josiah Deguara",
     "position": "TE",
     "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Andrew Beck",
-    "position": "TE",
-    "team": "NYJ",
     "reason": "no-name-match"
   },
   {
@@ -2066,13 +2045,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Andrew Beck",
-    "position": "FB",
-    "team": "HOU",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Irv Smith",
     "position": "TE",
     "team": "CIN",
@@ -2216,13 +2188,6 @@
     "name": "Michael Jackson",
     "position": "CB",
     "team": "SEA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Scott Miller",
-    "position": "WR",
-    "team": "PIT",
     "reason": "no-name-match"
   },
   {
@@ -2510,13 +2475,6 @@
     "name": "Isaiah Hodgins",
     "position": "WR",
     "team": "NYG",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Reggie Gilliam",
-    "position": "FB",
-    "team": "BUF",
     "reason": "no-name-match"
   },
   {
@@ -2906,13 +2864,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Kenneth Gainwell",
-    "position": "RB",
-    "team": "PHI",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Kyle Trask",
     "position": "QB",
     "team": "TB",
@@ -2948,13 +2899,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Josh Palmer",
-    "position": "WR",
-    "team": "LAC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Amari Rodgers",
     "position": "WR",
     "team": "IND",
@@ -2979,13 +2923,6 @@
     "name": "Samori Toure",
     "position": "WR",
     "team": "GB",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Bam Knight",
-    "position": "RB",
-    "team": "DET",
     "reason": "no-name-match"
   },
   {
@@ -3053,23 +2990,9 @@
   },
   {
     "source": "nflverse",
-    "name": "Mike Woods",
-    "position": "WR",
-    "team": "CLE",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Zander Horvath",
     "position": "RB",
     "team": "LAC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Tanner Conner",
-    "position": "WR",
-    "team": "MIA",
     "reason": "no-name-match"
   },
   {
@@ -3126,20 +3049,6 @@
     "name": "Hassan Haskins",
     "position": "RB",
     "team": "LAC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Velus Jones",
-    "position": "RB",
-    "team": "CAR",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Chigoziem Okonkwo",
-    "position": "TE",
-    "team": "TEN",
     "reason": "no-name-match"
   },
   {
@@ -3480,13 +3389,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Irvin Charles",
-    "position": "WR",
-    "team": "NYJ",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Justyn Ross",
     "position": "WR",
     "team": "KC",
@@ -3497,13 +3399,6 @@
     "name": "Malcolm Rodriguez",
     "position": "ILB",
     "team": "DET",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Andrew Ogletree",
-    "position": "TE",
-    "team": "IND",
     "reason": "no-name-match"
   },
   {
@@ -3616,13 +3511,6 @@
     "name": "Elijah Cooks",
     "position": "WR",
     "team": "JAX",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Christopher Brooks",
-    "position": "RB",
-    "team": "GB",
     "reason": "no-name-match"
   },
   {

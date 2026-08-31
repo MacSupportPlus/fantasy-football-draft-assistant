@@ -2,6 +2,7 @@ import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { normalizeName, normalizePosition, normalizeTeam } from "./util/normalize.js";
+import { fetchIdCrosswalk } from "./sources/dynastyprocess.js";
 import type { Player } from "./types/player.js";
 import type { ConsensusRanking } from "./types/ranking.js";
 import type { SeasonStats } from "./types/stats.js";
@@ -71,30 +72,50 @@ async function main() {
     }
   }
 
+  // Primary path: dynastyprocess's community-maintained ID crosswalk maps
+  // Sleeper IDs directly to FantasyPros/gsis IDs — no name-matching, no
+  // nickname problem. It only covers individual players though (no team
+  // defenses), so D/ST — and anyone this file hasn't indexed yet, like
+  // brand-new rookies — still needs the name-based fallback below.
+  console.log("Fetching dynastyprocess ID crosswalk...");
+  const idCrosswalk = await fetchIdCrosswalk();
+  const directBySleeperId = new Map(idCrosswalk.map((r) => [r.sleeperId, r]));
+
   const sleeperIndex = new Map<string, Candidate[]>();
   const crosswalk = new Map<string, CrosswalkEntry>();
+  const directMatchedFpIds = new Set<number>();
+  const directMatchedGsisIds = new Set<string>();
+
   for (const p of sleeperPlayers) {
     const key = joinKey(p.name, p.position);
     const list = sleeperIndex.get(key) ?? [];
     list.push({ sleeperId: p.id, team: p.team });
     sleeperIndex.set(key, list);
 
+    const direct = directBySleeperId.get(p.id);
+    const fantasyProsId = direct?.fantasyProsId ?? null;
+    const gsisId = direct?.gsisId ?? null;
+    if (fantasyProsId !== null) directMatchedFpIds.add(fantasyProsId);
+    if (gsisId !== null) directMatchedGsisIds.add(gsisId);
+
     crosswalk.set(p.id, {
       sleeperId: p.id,
       name: p.name,
       position: p.position,
       team: p.team,
-      fantasyProsId: null,
-      gsisId: null,
+      fantasyProsId,
+      gsisId,
     });
   }
 
   const unmatched: UnmatchedEntry[] = [];
 
   for (const fp of fpById.values()) {
+    if (directMatchedFpIds.has(fp.fantasyProsId)) continue; // already resolved directly
     const result = matchSleeper(sleeperIndex, fp.name, fp.position, fp.team);
     if ("sleeperId" in result) {
-      crosswalk.get(result.sleeperId)!.fantasyProsId = fp.fantasyProsId;
+      const entry = crosswalk.get(result.sleeperId)!;
+      if (entry.fantasyProsId === null) entry.fantasyProsId = fp.fantasyProsId;
     } else {
       unmatched.push({
         source: "fantasypros",
@@ -108,9 +129,11 @@ async function main() {
   }
 
   for (const nf of nflverseByGsisId.values()) {
+    if (directMatchedGsisIds.has(nf.gsisId)) continue;
     const result = matchSleeper(sleeperIndex, nf.name, nf.position, nf.team);
     if ("sleeperId" in result) {
-      crosswalk.get(result.sleeperId)!.gsisId = nf.gsisId;
+      const entry = crosswalk.get(result.sleeperId)!;
+      if (entry.gsisId === null) entry.gsisId = nf.gsisId;
     } else {
       unmatched.push({
         source: "nflverse",
@@ -128,8 +151,12 @@ async function main() {
   const withGsis = entries.filter((e) => e.gsisId !== null).length;
 
   console.log(`Sleeper players: ${entries.length}`);
-  console.log(`  matched to FantasyPros: ${withFp} (of ${fpById.size} FP entries)`);
-  console.log(`  matched to nflverse:    ${withGsis} (of ${nflverseByGsisId.size} nflverse players)`);
+  console.log(
+    `  matched to FantasyPros: ${withFp} (of ${fpById.size} FP entries; ${directMatchedFpIds.size} via direct ID crosswalk)`
+  );
+  console.log(
+    `  matched to nflverse:    ${withGsis} (of ${nflverseByGsisId.size} nflverse players; ${directMatchedGsisIds.size} via direct ID crosswalk)`
+  );
   console.log(`Unmatched/ambiguous entries: ${unmatched.length}`);
 
   await writeFile(
