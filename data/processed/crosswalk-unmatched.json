@@ -1,0 +1,4069 @@
+[
+  {
+    "source": "fantasypros",
+    "name": "Hollywood Brown",
+    "position": "WR",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Tyreek Hill",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Kareem Hunt",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Cedric Tillman",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Joe Mixon",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Bam Knight",
+    "position": "RB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Zane Gonzalez",
+    "position": "K",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jam Miller",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Austin Ekeler",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Kyle Juszczyk",
+    "position": "RB",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Brandon McManus",
+    "position": "K",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Terrell Jennings",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Tommy Myers",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Zach Ertz",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Antonio Gibson",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jake Moody",
+    "position": "K",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Hunter Luepke",
+    "position": "RB",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Taysom Hill",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "DeAndre Hopkins",
+    "position": "WR",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Theo Wease Jr.",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Tyler Lockett",
+    "position": "WR",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Miles Davis",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Patrick Ricard",
+    "position": "RB",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Mitch Tinsley",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Cedrick Wilson Jr.",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Alec Ingold",
+    "position": "RB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Max Bredeson",
+    "position": "RB",
+    "team": "MIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Adam Prentice",
+    "position": "RB",
+    "team": "DEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jakobie Keeney-James",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Quentin Skinner",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jaheim Bell",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Michael Burton",
+    "position": "RB",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Miles Kitselman",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jake Browning",
+    "position": "QB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Alexander Mattison",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Miles Sanders",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Myles Montgomery",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Joshua Simon",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Craig Reynolds",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Hassan Haskins",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Isaiah Hodgins",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Desmond Reid",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jack Stoll",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Ronnie Bell",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Mecole Hardman Jr.",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "JuJu Smith-Schuster",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Brenden Bates",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Bub Means",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Donovan Edwards",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Terrace Marshall Jr.",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Dante Pettis",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Noah Brown",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "CJ Dippre",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Chris Moore",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Curtis Samuel",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Joshua Cephus",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Deontay Burnett",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Shane Zylstra",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Samori Toure",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Zaire Mitchell-Paden",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Patrick Taylor Jr.",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Layne Pryor",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Ethan Conner",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Chip Trayanum",
+    "position": "RB",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Patrick Gurd",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Carson Steele",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Coleman Bennett",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Nick Mullens",
+    "position": "QB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Josh Johnson",
+    "position": "QB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Shane Buechele",
+    "position": "QB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Dante Miller",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Damon Bankston",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Kenny McIntosh",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Josiah Deguara",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Andrew Beck",
+    "position": "TE",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Raheem Blackshear",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Anthony Hankerson",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Raheem Mostert",
+    "position": "RB",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Cam Akers",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Dan Villari",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Zack Moss",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Owen Wright",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Rohan Jones",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jeff Wilson Jr.",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Gus Edwards",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Royce Freeman",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "D'Onta Foreman",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Clyde Edwards-Helaire",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Myles Gaskin",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Darrynton Evans",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Tyrion Davis-Price",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Brandin Cooks",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Lucas Scott",
+    "position": "RB",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Deuce Vaughn",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Brock Lampe",
+    "position": "RB",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Sederrick Cunningham",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Isaiah Neyor",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Tru Edwards",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Hakeem Butler",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Keelan Marion",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Kobe Prentice",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Bryson Green",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tom Brady",
+    "position": "QB",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Andy Lee",
+    "position": "P",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Marcedes Lewis",
+    "position": "TE",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Matt Ryan",
+    "position": "QB",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "DeSean Jackson",
+    "position": "WR",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chad Henne",
+    "position": "QB",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Josh Johnson",
+    "position": "QB",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chase Daniel",
+    "position": "QB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Brian Hoyer",
+    "position": "QB",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Colt McCoy",
+    "position": "QB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "A.J. Green",
+    "position": "WR",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Julio Jones",
+    "position": "WR",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Blaine Gabbert",
+    "position": "QB",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mark Ingram",
+    "position": "RB",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kyle Rudolph",
+    "position": "TE",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Randall Cobb",
+    "position": "WR",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nick Bellore",
+    "position": "ILB",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cole Beasley",
+    "position": "WR",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Brandon Bolden",
+    "position": "RB",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Russell Wilson",
+    "position": "QB",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Marvin Jones",
+    "position": "WR",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nick Foles",
+    "position": "QB",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "T.Y. Hilton",
+    "position": "WR",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Josh Gordon",
+    "position": "WR",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Bryan Anger",
+    "position": "P",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ryan Tannehill",
+    "position": "QB",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kyle Juszczyk",
+    "position": "FB",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Adam Thielen",
+    "position": "WR",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Zach Ertz",
+    "position": "TE",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Marquise Goodwin",
+    "position": "WR",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "David Bakhtiari",
+    "position": "T",
+    "team": "GB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ryan Griffin",
+    "position": "TE",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Rex Burkhead",
+    "position": "RB",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Robert Woods",
+    "position": "WR",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Giovani Bernard",
+    "position": "RB",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Latavius Murray",
+    "position": "RB",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "DeAndre Hopkins",
+    "position": "WR",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cordarrelle Patterson",
+    "position": "RB",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Damien Williams",
+    "position": "RB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Keith Smith",
+    "position": "FB",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "John Brown",
+    "position": "WR",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Brandin Cooks",
+    "position": "WR",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Teddy Bridgewater",
+    "position": "QB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Logan Thomas",
+    "position": "TE",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cameron Brate",
+    "position": "TE",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Derek Carr",
+    "position": "QB",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Sammy Watkins",
+    "position": "WR",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jimmy Garoppolo",
+    "position": "QB",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jerick McKinnon",
+    "position": "RB",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jarvis Landry",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Richard Rodgers",
+    "position": "TE",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Allen Robinson",
+    "position": "WR",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Amari Cooper",
+    "position": "WR",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kevin White",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "DeVante Parker",
+    "position": "WR",
+    "team": "NE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nelson Agholor",
+    "position": "WR",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Maxx Williams",
+    "position": "TE",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "MyCole Pruitt",
+    "position": "TE",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Michael Burton",
+    "position": "FB",
+    "team": "DEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Raheem Mostert",
+    "position": "RB",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Eric Tomlinson",
+    "position": "TE",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "DeAndre Carter",
+    "position": "WR",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jake Kumerow",
+    "position": "WR",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Taylor Heinicke",
+    "position": "QB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Malcolm Brown",
+    "position": "RB",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Damiere Byrd",
+    "position": "WR",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jamison Crowder",
+    "position": "WR",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Breshad Perriman",
+    "position": "WR",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tevin Coleman",
+    "position": "RB",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Blake Bell",
+    "position": "TE",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mike Davis",
+    "position": "RB",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chris Conley",
+    "position": "WR",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "C.J. Uzomah",
+    "position": "TE",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Geoff Swaim",
+    "position": "TE",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Melvin Gordon",
+    "position": "RB",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Trevor Siemian",
+    "position": "QB",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "David Johnson",
+    "position": "RB",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ty Montgomery",
+    "position": "WR",
+    "team": "NE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tyler Lockett",
+    "position": "WR",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tyler Kroft",
+    "position": "TE",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Duke Johnson",
+    "position": "RB",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chris Moore",
+    "position": "WR",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jeff Driskel",
+    "position": "QB",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kamu Grugier-Hill",
+    "position": "ILB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dwayne Washington",
+    "position": "RB",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Matthias Farley",
+    "position": "FS",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "J.D. McKissic",
+    "position": "RB",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Robbie Chosen",
+    "position": "WR",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Stephen Anderson",
+    "position": "TE",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Michael Thomas",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jordan Howard",
+    "position": "RB",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nate Sudfeld",
+    "position": "QB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Clayton Fejedelem",
+    "position": "SS",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Derek Watt",
+    "position": "FB",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "C.J. Ham",
+    "position": "FB",
+    "team": "MIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Riley Dixon",
+    "position": "P",
+    "team": "DEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Will Parks",
+    "position": "FS",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jonathan Williams",
+    "position": "RB",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Marcus Johnson",
+    "position": "WR",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tyler Boyd",
+    "position": "WR",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tyreek Hill",
+    "position": "WR",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ezekiel Elliott",
+    "position": "RB",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jack Conklin",
+    "position": "T",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Pharoh Cooper",
+    "position": "WR",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mike Thomas",
+    "position": "WR",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kenyan Drake",
+    "position": "RB",
+    "team": "GB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Zach Pascal",
+    "position": "WR",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "P.J. Walker",
+    "position": "QB",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Curtis Samuel",
+    "position": "WR",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Trent Taylor",
+    "position": "WR",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Matt Breida",
+    "position": "RB",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nick Mullens",
+    "position": "QB",
+    "team": "MIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Taysom Hill",
+    "position": "TE",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "C.J. Board",
+    "position": "WR",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Patrick Ricard",
+    "position": "FB",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cody Hollister",
+    "position": "WR",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Anthony Firkser",
+    "position": "TE",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Isaiah McKenzie",
+    "position": "WR",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mike Williams",
+    "position": "WR",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Davis Webb",
+    "position": "QB",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jamal Agnew",
+    "position": "WR",
+    "team": "JAX",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Noah Brown",
+    "position": "WR",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tanner Gentry",
+    "position": "WR",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Keelan Cole",
+    "position": "WR",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Austin Ekeler",
+    "position": "RB",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Corey Clement",
+    "position": "RB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mason Schreck",
+    "position": "TE",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Leonard Fournette",
+    "position": "RB",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "JuJu Smith-Schuster",
+    "position": "WR",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Corey Davis",
+    "position": "WR",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "O.J. Howard",
+    "position": "TE",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dalvin Cook",
+    "position": "RB",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Gerald Everett",
+    "position": "TE",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Joe Mixon",
+    "position": "RB",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kareem Hunt",
+    "position": "RB",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "D'Onta Foreman",
+    "position": "RB",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kenny Golladay",
+    "position": "WR",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "C.J. Beathard",
+    "position": "QB",
+    "team": "JAX",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Josh Reynolds",
+    "position": "WR",
+    "team": "JAX",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jamaal Williams",
+    "position": "RB",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Marlon Mack",
+    "position": "RB",
+    "team": "DEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nathan Peterman",
+    "position": "QB",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dan Arnold",
+    "position": "TE",
+    "team": "JAX",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "River Cracraft",
+    "position": "WR",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ross Dwelley",
+    "position": "TE",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cam Sims",
+    "position": "WR",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Phillip Lindsay",
+    "position": "RB",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jeffery Wilson",
+    "position": "RB",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Will Dissly",
+    "position": "TE",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Michael Dickson",
+    "position": "P",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jason Cabinda",
+    "position": "FB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tim Boyle",
+    "position": "QB",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Gus Edwards",
+    "position": "RB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mike Boone",
+    "position": "RB",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dontrell Hilliard",
+    "position": "RB",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Equanimeous St. Brown",
+    "position": "WR",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Richie James",
+    "position": "WR",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Byron Pringle",
+    "position": "WR",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Darrel Williams",
+    "position": "RB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Keith Kirkwood",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Marcus Allen",
+    "position": "ILB",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "M.J. Stewart",
+    "position": "SS",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Lorenzo Carter",
+    "position": "OLB",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jordan Akins",
+    "position": "TE",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Keke Coutee",
+    "position": "WR",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nyheim Hines",
+    "position": "RB",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jordan Wilkins",
+    "position": "RB",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mike White",
+    "position": "QB",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Russell Gage",
+    "position": "WR",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Boston Scott",
+    "position": "RB",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cedrick Wilson",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Justin Jackson",
+    "position": "RB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Sean Chandler",
+    "position": "SS",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Allen Lazard",
+    "position": "WR",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Reggie Bonnafon",
+    "position": "RB",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Godwin Igwebuike",
+    "position": "RB",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Brandon Powell",
+    "position": "WR",
+    "team": "MIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "James Washington",
+    "position": "WR",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chase Edmonds",
+    "position": "RB",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dallin Leavitt",
+    "position": "SS",
+    "team": "GB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Rashaad Penny",
+    "position": "RB",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Michael Gallup",
+    "position": "WR",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tre'Quan Smith",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "D.J. Chark",
+    "position": "WR",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nick Chubb",
+    "position": "RB",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ronald Jones",
+    "position": "RB",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Hayden Hurst",
+    "position": "TE",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Royce Freeman",
+    "position": "RB",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Sony Michel",
+    "position": "RB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dante Pettis",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "John Wolford",
+    "position": "QB",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Steven Sims",
+    "position": "WR",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Brett Rypien",
+    "position": "QB",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Andrew Beck",
+    "position": "FB",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Irv Smith",
+    "position": "TE",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Alexander Mattison",
+    "position": "RB",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Hunter Renfrow",
+    "position": "WR",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Penny Hart",
+    "position": "WR",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "David Blough",
+    "position": "QB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jamie Gillan",
+    "position": "P",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Khari Blasingame",
+    "position": "FB",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Alec Ingold",
+    "position": "FB",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Keisean Nixon",
+    "position": "CB",
+    "team": "GB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mecole Hardman",
+    "position": "WR",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Trace McSorley",
+    "position": "QB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jack Fox",
+    "position": "P",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Devine Ozigbo",
+    "position": "RB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Deonte Harty",
+    "position": "WR",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Diontae Johnson",
+    "position": "WR",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Benny Snell",
+    "position": "RB",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Zach Gentry",
+    "position": "TE",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Miles Sanders",
+    "position": "RB",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Trevon Wesco",
+    "position": "TE",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Andrew Van Ginkel",
+    "position": "OLB",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Michael Jackson",
+    "position": "CB",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Scott Miller",
+    "position": "WR",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tommy Sweeney",
+    "position": "TE",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Myles Gaskin",
+    "position": "RB",
+    "team": "MIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "C.J. Moore",
+    "position": "FS",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Donald Parham",
+    "position": "TE",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Stanley Morgan",
+    "position": "WR",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jalen Guyton",
+    "position": "WR",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jason Moore",
+    "position": "WR",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tyron Johnson",
+    "position": "WR",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jeff Smith",
+    "position": "WR",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Andy Isabella",
+    "position": "WR",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Joseph Fortson",
+    "position": "TE",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jesper Horsted",
+    "position": "TE",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Craig Reynolds",
+    "position": "RB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Parker Hesse",
+    "position": "TE",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Juwann Winfree",
+    "position": "WR",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kendall Blanton",
+    "position": "TE",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jake Gervase",
+    "position": "ILB",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nsimba Webster",
+    "position": "WR",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "N'Keal Harry",
+    "position": "WR",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Parris Campbell",
+    "position": "WR",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Damien Harris",
+    "position": "RB",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Darrell Henderson",
+    "position": "RB",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Miles Boykin",
+    "position": "WR",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jakob Johnson",
+    "position": "FB",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chris Streveler",
+    "position": "QB",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mitchell Wilcox",
+    "position": "TE",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ben Ellefson",
+    "position": "TE",
+    "team": "MIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "James Robinson",
+    "position": "RB",
+    "team": "GB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tony Jones",
+    "position": "RB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kendall Hinton",
+    "position": "WR",
+    "team": "DEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Andre Baccellia",
+    "position": "WR",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tommy Townsend",
+    "position": "P",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jonathan Ward",
+    "position": "RB",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Bryce Perkins",
+    "position": "QB",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Giovanni Ricci",
+    "position": "TE",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Patrick Taylor",
+    "position": "RB",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Noah Togiai",
+    "position": "TE",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tyler Mabry",
+    "position": "TE",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "J.J. Taylor",
+    "position": "RB",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "James Proche",
+    "position": "WR",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Isaiah Hodgins",
+    "position": "WR",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Reggie Gilliam",
+    "position": "FB",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Devin Asiasi",
+    "position": "TE",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Gabe Davis",
+    "position": "WR",
+    "team": "JAX",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Marquez Callaway",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jacob Eason",
+    "position": "QB",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dezmon Patmon",
+    "position": "WR",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Harrison Bryant",
+    "position": "TE",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Donovan Peoples-Jones",
+    "position": "WR",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Freddie Swain",
+    "position": "WR",
+    "team": "DEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tyler Davis",
+    "position": "TE",
+    "team": "GB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Zack Moss",
+    "position": "RB",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Denzel Mims",
+    "position": "WR",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Laviska Shenault Jr.",
+    "position": "WR",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Quintez Cephus",
+    "position": "WR",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Darrynton Evans",
+    "position": "RB",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Braden Mann",
+    "position": "P",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chase Claypool",
+    "position": "WR",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Antonio Gibson",
+    "position": "RB",
+    "team": "NE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ashtyn Davis",
+    "position": "SS",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Josiah Deguara",
+    "position": "TE",
+    "team": "JAX",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Anthony McFarland",
+    "position": "RB",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Clyde Edwards-Helaire",
+    "position": "RB",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Bryan Edwards",
+    "position": "WR",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Joshua Kelley",
+    "position": "RB",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Eno Benjamin",
+    "position": "RB",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "K.J. Hamler",
+    "position": "WR",
+    "team": "DEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cam Akers",
+    "position": "RB",
+    "team": "MIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Brycen Hopkins",
+    "position": "TE",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Stephen Sullivan",
+    "position": "TE",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tyrie Cleveland",
+    "position": "WR",
+    "team": "DEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ke'Shawn Vaughn",
+    "position": "RB",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ty'Son Williams",
+    "position": "RB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mike Strachan",
+    "position": "WR",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Deon Jackson",
+    "position": "RB",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "D.J. Turner",
+    "position": "WR",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Shane Zylstra",
+    "position": "TE",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Spencer Brown",
+    "position": "RB",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Elijah Mitchell",
+    "position": "RB",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Shi Smith",
+    "position": "WR",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "D'Wayne Eskridge",
+    "position": "WR",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Larry Rountree",
+    "position": "RB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Racey McMath",
+    "position": "WR",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Demetric Felton",
+    "position": "RB",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kylin Hill",
+    "position": "RB",
+    "team": "GB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dax Milne",
+    "position": "WR",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Miller Forristall",
+    "position": "TE",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Adam Prentice",
+    "position": "FB",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jack Stoll",
+    "position": "TE",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cade Johnson",
+    "position": "WR",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Caleb Huntley",
+    "position": "RB",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chris Evans",
+    "position": "RB",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jalen Camp",
+    "position": "WR",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jaelon Darden",
+    "position": "WR",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Penei Sewell",
+    "position": "T",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kadarius Toney",
+    "position": "WR",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jacob Harris",
+    "position": "WR",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kenneth Gainwell",
+    "position": "RB",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kyle Trask",
+    "position": "QB",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Rondale Moore",
+    "position": "WR",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Avery Williams",
+    "position": "RB",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Frank Darby",
+    "position": "WR",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Terrace Marshall",
+    "position": "WR",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Josh Palmer",
+    "position": "WR",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Amari Rodgers",
+    "position": "WR",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Anthony Schwartz",
+    "position": "WR",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Trestan Ebner",
+    "position": "RB",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Samori Toure",
+    "position": "WR",
+    "team": "GB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Bam Knight",
+    "position": "RB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Armani Rogers",
+    "position": "TE",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Anthony Brown",
+    "position": "QB",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Marcus Jones",
+    "position": "CB",
+    "team": "NE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "David Bell",
+    "position": "WR",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Snoop Conner",
+    "position": "RB",
+    "team": "JAX",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Montrell Washington",
+    "position": "WR",
+    "team": "DEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kyle Philips",
+    "position": "WR",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kevin Harris",
+    "position": "RB",
+    "team": "NE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Keaontay Ingram",
+    "position": "RB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mike Woods",
+    "position": "WR",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Zander Horvath",
+    "position": "RB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tanner Conner",
+    "position": "WR",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Braylon Sanders",
+    "position": "WR",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jalen Virgil",
+    "position": "WR",
+    "team": "DEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "JoJo Domann",
+    "position": "OLB",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Raheem Blackshear",
+    "position": "RB",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Troy Hairston",
+    "position": "FB",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ryan Wright",
+    "position": "P",
+    "team": "MIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Peyton Hendershot",
+    "position": "TE",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Hassan Haskins",
+    "position": "RB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Velus Jones",
+    "position": "RB",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chigoziem Okonkwo",
+    "position": "TE",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tyrion Davis-Price",
+    "position": "RB",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Isaiah Spiller",
+    "position": "RB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Bailey Zappe",
+    "position": "QB",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Desmond Ridder",
+    "position": "QB",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Daylen Baldwin",
+    "position": "WR",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Josh Ali",
+    "position": "WR",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Thomas Morstead",
+    "position": "P",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jimmy Graham",
+    "position": "TE",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Johnny Hekker",
+    "position": "P",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cody Davis",
+    "position": "FS",
+    "team": "NE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tress Way",
+    "position": "P",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Matt Barkley",
+    "position": "QB",
+    "team": "JAX",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Willie Snead",
+    "position": "WR",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "AJ McCarron",
+    "position": "QB",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Donovan Smith",
+    "position": "T",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Alex Erickson",
+    "position": "WR",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Alex Armah",
+    "position": "RB",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jalen Reeves-Maybin",
+    "position": "OLB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cameron Johnston",
+    "position": "P",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dan Skipper",
+    "position": "T",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kevin Rader",
+    "position": "TE",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nick Bawden",
+    "position": "FB",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Logan Cooke",
+    "position": "P",
+    "team": "JAX",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Logan Woodside",
+    "position": "QB",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ezekiel Turner",
+    "position": "ILB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "David Wells",
+    "position": "TE",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jake Browning",
+    "position": "QB",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Keelan Doss",
+    "position": "WR",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cody Thompson",
+    "position": "WR",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Malik Taylor",
+    "position": "WR",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Amani Hooker",
+    "position": "FS",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jeffery Simmons",
+    "position": "DT",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Trey Pipkins",
+    "position": "T",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Derrick Gore",
+    "position": "RB",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Blake Gillikin",
+    "position": "P",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Trishton Jackson",
+    "position": "WR",
+    "team": "MIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Khalil Dorsey",
+    "position": "CB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ben Bredeson",
+    "position": "G",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Collin Johnson",
+    "position": "WR",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "La'Mical Perine",
+    "position": "RB",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Noah Igbinoghene",
+    "position": "CB",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Lynn Bowden",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Brandin Echols",
+    "position": "CB",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kenny Yeboah",
+    "position": "TE",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nick Niemann",
+    "position": "ILB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Grant Stuard",
+    "position": "MLB",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jake Funk",
+    "position": "RB",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chauncey Golston",
+    "position": "DE",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Irvin Charles",
+    "position": "WR",
+    "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Justyn Ross",
+    "position": "WR",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Malcolm Rodriguez",
+    "position": "ILB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Andrew Ogletree",
+    "position": "TE",
+    "team": "IND",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "John FitzPatrick",
+    "position": "TE",
+    "team": "GB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kwamie Lassiter",
+    "position": "WR",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Rod Williams",
+    "position": "TE",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cole Fotheringham",
+    "position": "TE",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ryan Stonehouse",
+    "position": "P",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tucker Fisk",
+    "position": "TE",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ty Zentner",
+    "position": "P",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Clayton Tune",
+    "position": "QB",
+    "team": "ARI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dorian Thompson-Robinson",
+    "position": "QB",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jaren Hall",
+    "position": "QB",
+    "team": "MIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "A.T. Perry",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Deuce Vaughn",
+    "position": "RB",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Antoine Green",
+    "position": "WR",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Colton Dowell",
+    "position": "WR",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ronnie Bell",
+    "position": "WR",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Elijah Cooks",
+    "position": "WR",
+    "team": "JAX",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Christopher Brooks",
+    "position": "RB",
+    "team": "GB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Hunter Luepke",
+    "position": "FB",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Rakim Jarrett",
+    "position": "WR",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Elijah Dotson",
+    "position": "RB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Cedric Tillman",
+    "position": "WR",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Zach Evans",
+    "position": "RB",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Rodney McLeod",
+    "position": "FS",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jordan Matthews",
+    "position": "TE",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "C.J. Goodwin",
+    "position": "CB",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Taylor Decker",
+    "position": "T",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Miles Killebrew",
+    "position": "SS",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "John Ross",
+    "position": "WR",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "J.K. Scott",
+    "position": "P",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Anthony Miller",
+    "position": "WR",
+    "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jonathan Owens",
+    "position": "SS",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tavierre Thomas",
+    "position": "CB",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Trenton Scott",
+    "position": "T",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Sam Hubbard",
+    "position": "DE",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Julian Love",
+    "position": "SS",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "A.J. Cole",
+    "position": "P",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jake Bailey",
+    "position": "P",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "James Pierre",
+    "position": "CB",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dan Chisena",
+    "position": "WR",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Sam Franklin",
+    "position": "SS",
+    "team": "CAR",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kristian Wilkerson",
+    "position": "WR",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Deommodore Lenoir",
+    "position": "CB",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Zach Davidson",
+    "position": "TE",
+    "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Divine Deablo",
+    "position": "MLB",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Josh Blackwell",
+    "position": "CB",
+    "team": "CHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Mike Caliendo",
+    "position": "G",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tyler Smith",
+    "position": "G",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Vederian Lowe",
+    "position": "T",
+    "team": "NE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Tyreik McAllister",
+    "position": "RB",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "J.J. Russell",
+    "position": "ILB",
+    "team": "TB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Juanyeh Thomas",
+    "position": "FS",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Aaron Shampklin",
+    "position": "RB",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dane Belton",
+    "position": "SS",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Bryce Ford-Wheaton",
+    "position": "WR",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ben VanSumeren",
+    "position": "FB",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Grant DuBose",
+    "position": "WR",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Scott Matlock",
+    "position": "FB",
+    "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kenny McIntosh",
+    "position": "RB",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "John Samuel Shenker",
+    "position": "TE",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Wanya Morris",
+    "position": "T",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Baylor Cupp",
+    "position": "TE",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Carson Steele",
+    "position": "RB",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Bub Means",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jase McClellan",
+    "position": "RB",
+    "team": "ATL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jaheim Bell",
+    "position": "TE",
+    "team": "NE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Brenden Bates",
+    "position": "TE",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ramel Keyton",
+    "position": "WR",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Blake Watson",
+    "position": "RB",
+    "team": "DEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Matthew Hayball",
+    "position": "P",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dallin Holker",
+    "position": "TE",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jermaine Jackson",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jacob Kibodi",
+    "position": "RB",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Dell Pettus",
+    "position": "FS",
+    "team": "NE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "J.C. Latham",
+    "position": "T",
+    "team": "TEN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ainias Smith",
+    "position": "WR",
+    "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Terrell Jennings",
+    "position": "RB",
+    "team": "NE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jermaine Burton",
+    "position": "WR",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jaden Hicks",
+    "position": "SS",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Javon Baker",
+    "position": "WR",
+    "team": "NE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ja'Lynn Polk",
+    "position": "WR",
+    "team": "NE",
+    "reason": "no-name-match"
+  }
+]

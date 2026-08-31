@@ -60,6 +60,20 @@ core volume stats (targets, carries, receptions, etc). Note: as of this
 writing nflverse's file tops out at the 2024 season — it may lag the most
 recently completed season.
 
-None of these sources share a common player ID yet (Sleeper IDs, FantasyPros
-IDs, and nflverse's gsis_id are all different) — that join is the next
-pipeline step.
+`build:crosswalk` joins the three sources on normalized name + position
+(team as a tie-breaker when a name collides), since none of them share an
+ID. Sleeper is the anchor — every Sleeper player gets a crosswalk row, with
+`fantasyProsId`/`gsisId` filled in where a confident match was found. Writes
+`data/processed/player-crosswalk.json` (992 rows) and
+`data/processed/crosswalk-unmatched.json` (entries from the other two
+sources that didn't match anything, for review).
+
+Current match rates: 839/942 FantasyPros entries, 451/930 nflverse players.
+Most unmatched nflverse entries are players who retired sometime in the last
+3 seasons and are no longer Sleeper-rostered (expected). The known gap is
+nicknames FantasyPros uses that Sleeper doesn't — e.g. FantasyPros lists
+"Hollywood Brown", Sleeper lists "Marquise Brown" — so a handful of active
+players slip through. A name-based join can't fully close that; the
+community-maintained `dynastyprocess/data` ID crosswalk (which maps Sleeper
+IDs directly to FantasyPros/gsis IDs) would be the next step up if better
+coverage is needed later.
