@@ -98,9 +98,24 @@ point of the whole pipeline. For each scoring format:
 
 Writes `data/processed/vbd-rankings-{std,half-ppr,ppr}.json`.
 
-**Known gap: no K or DST rankings yet.** nflverse's player-level stats file
-doesn't track kicking at all, and has no team-defense fantasy scoring
-(sacks/INTs/TDs are in a separate `stats_team` file, but points-allowed —
-needed for standard DST scoring — isn't in there and would need a join
-against game results). Right now K/DST players get skipped entirely rather
-than given a made-up number.
+**DST is now ranked** (`fetch:team-defense` + `build-vbd-rankings.ts`):
+nflverse's `stats_team` release has sacks/INTs/fumble recoveries/defensive
+TDs/blocked kicks per team per season, but not points-allowed — that's
+derived by joining nflverse's `games.csv` (every game, every season, with
+final scores) and scoring each team's weekly points-allowed on the standard
+tiered scale (0 pts allowed = 10, 1-6 = 7, ... 35+ = -4), then summing across
+the season. D/ST scoring doesn't change by PPR format, so it's computed once
+and reused across all three output files.
+
+**Worth knowing:** D/ST fantasy performance is much less consistent
+year-over-year than a skill player's — a great defense one season regresses
+hard more often than a great WR does. The recency-weighted projection here
+still gives real weight to "how this defense actually performed," which can
+rank a defense higher than most real drafters would take one. Treat the
+DST numbers as a reasonable tiebreaker, not gospel — this is a known
+limitation of applying the same model to a much less persistent position,
+not a bug.
+
+**Still not rankable: kickers.** nflverse has no per-kicker stats anywhere.
+(There's team-level field-goal/PAT data in `stats_team` that could proxy a
+team's current kicker, but that hasn't been built.)

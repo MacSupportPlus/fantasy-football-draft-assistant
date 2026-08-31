@@ -585,6 +585,19 @@
     "overallRank": 45
   },
   {
+    "sleeperId": "DEN",
+    "name": "Denver Broncos",
+    "position": "DST",
+    "team": "DEN",
+    "scoring": "PPR",
+    "projectedPoints": 144.5,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 28.3,
+    "positionRank": 1,
+    "overallRank": 46
+  },
+  {
     "sleeperId": "13287",
     "name": "Jeremiyah Love",
     "position": "RB",
@@ -595,7 +608,20 @@
     "replacementValue": 192.2,
     "vbdScore": 26.6,
     "positionRank": 17,
-    "overallRank": 46
+    "overallRank": 47
+  },
+  {
+    "sleeperId": "BUF",
+    "name": "Buffalo Bills",
+    "position": "DST",
+    "team": "BUF",
+    "scoring": "PPR",
+    "projectedPoints": 142.4,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 26.2,
+    "positionRank": 2,
+    "overallRank": 48
   },
   {
     "sleeperId": "8112",
@@ -608,7 +634,20 @@
     "replacementValue": 201.9,
     "vbdScore": 25.8,
     "positionRank": 15,
-    "overallRank": 47
+    "overallRank": 49
+  },
+  {
+    "sleeperId": "DAL",
+    "name": "Dallas Cowboys",
+    "position": "DST",
+    "team": "DAL",
+    "scoring": "PPR",
+    "projectedPoints": 141.3,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 25.1,
+    "positionRank": 3,
+    "overallRank": 50
   },
   {
     "sleeperId": "5967",
@@ -621,7 +660,7 @@
     "replacementValue": 192.2,
     "vbdScore": 24.8,
     "positionRank": 18,
-    "overallRank": 48
+    "overallRank": 51
   },
   {
     "sleeperId": "12519",
@@ -634,7 +673,20 @@
     "replacementValue": 201.9,
     "vbdScore": 24.1,
     "positionRank": 16,
-    "overallRank": 49
+    "overallRank": 52
+  },
+  {
+    "sleeperId": "BAL",
+    "name": "Baltimore Ravens",
+    "position": "DST",
+    "team": "BAL",
+    "scoring": "PPR",
+    "projectedPoints": 139.1,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 22.9,
+    "positionRank": 4,
+    "overallRank": 53
   },
   {
     "sleeperId": "12517",
@@ -647,7 +699,20 @@
     "replacementValue": 144.5,
     "vbdScore": 22.1,
     "positionRank": 7,
-    "overallRank": 50
+    "overallRank": 54
+  },
+  {
+    "sleeperId": "MIN",
+    "name": "Minnesota Vikings",
+    "position": "DST",
+    "team": "MIN",
+    "scoring": "PPR",
+    "projectedPoints": 138.1,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 21.9,
+    "positionRank": 5,
+    "overallRank": 55
   },
   {
     "sleeperId": "4892",
@@ -660,7 +725,7 @@
     "replacementValue": 261.5,
     "vbdScore": 20.4,
     "positionRank": 10,
-    "overallRank": 51
+    "overallRank": 56
   },
   {
     "sleeperId": "4033",
@@ -673,7 +738,20 @@
     "replacementValue": 144.5,
     "vbdScore": 19.9,
     "positionRank": 8,
-    "overallRank": 52
+    "overallRank": 57
+  },
+  {
+    "sleeperId": "PIT",
+    "name": "Pittsburgh Steelers",
+    "position": "DST",
+    "team": "PIT",
+    "scoring": "PPR",
+    "projectedPoints": 135.6,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 19.4,
+    "positionRank": 6,
+    "overallRank": 58
   },
   {
     "sleeperId": "5892",
@@ -686,7 +764,7 @@
     "replacementValue": 192.2,
     "vbdScore": 17.8,
     "positionRank": 19,
-    "overallRank": 53
+    "overallRank": 59
   },
   {
     "sleeperId": "7525",
@@ -699,7 +777,7 @@
     "replacementValue": 201.9,
     "vbdScore": 17.6,
     "positionRank": 17,
-    "overallRank": 54
+    "overallRank": 60
   },
   {
     "sleeperId": "4199",
@@ -712,7 +790,7 @@
     "replacementValue": 192.2,
     "vbdScore": 16.2,
     "positionRank": 20,
-    "overallRank": 55
+    "overallRank": 61
   },
   {
     "sleeperId": "8136",
@@ -725,7 +803,7 @@
     "replacementValue": 192.2,
     "vbdScore": 15.5,
     "positionRank": 21,
-    "overallRank": 56
+    "overallRank": 62
   },
   {
     "sleeperId": "9756",
@@ -738,7 +816,7 @@
     "replacementValue": 201.9,
     "vbdScore": 14.7,
     "positionRank": 18,
-    "overallRank": 57
+    "overallRank": 63
   },
   {
     "sleeperId": "8150",
@@ -751,7 +829,7 @@
     "replacementValue": 192.2,
     "vbdScore": 14.3,
     "positionRank": 22,
-    "overallRank": 58
+    "overallRank": 64
   },
   {
     "sleeperId": "6790",
@@ -764,7 +842,7 @@
     "replacementValue": 192.2,
     "vbdScore": 13.5,
     "positionRank": 23,
-    "overallRank": 59
+    "overallRank": 65
   },
   {
     "sleeperId": "7528",
@@ -777,7 +855,33 @@
     "replacementValue": 192.2,
     "vbdScore": 13.5,
     "positionRank": 24,
-    "overallRank": 60
+    "overallRank": 66
+  },
+  {
+    "sleeperId": "GB",
+    "name": "Green Bay Packers",
+    "position": "DST",
+    "team": "GB",
+    "scoring": "PPR",
+    "projectedPoints": 129.7,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 13.5,
+    "positionRank": 7,
+    "overallRank": 67
+  },
+  {
+    "sleeperId": "HOU",
+    "name": "Houston Texans",
+    "position": "DST",
+    "team": "HOU",
+    "scoring": "PPR",
+    "projectedPoints": 128.9,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 12.7,
+    "positionRank": 8,
+    "overallRank": 68
   },
   {
     "sleeperId": "12512",
@@ -790,7 +894,7 @@
     "replacementValue": 192.2,
     "vbdScore": 11.8,
     "positionRank": 25,
-    "overallRank": 61
+    "overallRank": 69
   },
   {
     "sleeperId": "8210",
@@ -803,7 +907,7 @@
     "replacementValue": 144.5,
     "vbdScore": 10.7,
     "positionRank": 9,
-    "overallRank": 62
+    "overallRank": 70
   },
   {
     "sleeperId": "1479",
@@ -816,7 +920,7 @@
     "replacementValue": 201.9,
     "vbdScore": 10.7,
     "positionRank": 19,
-    "overallRank": 63
+    "overallRank": 71
   },
   {
     "sleeperId": "9488",
@@ -829,7 +933,7 @@
     "replacementValue": 201.9,
     "vbdScore": 9.9,
     "positionRank": 20,
-    "overallRank": 64
+    "overallRank": 72
   },
   {
     "sleeperId": "4981",
@@ -842,7 +946,7 @@
     "replacementValue": 201.9,
     "vbdScore": 9.6,
     "positionRank": 21,
-    "overallRank": 65
+    "overallRank": 73
   },
   {
     "sleeperId": "5947",
@@ -855,7 +959,7 @@
     "replacementValue": 201.9,
     "vbdScore": 9.5,
     "positionRank": 22,
-    "overallRank": 66
+    "overallRank": 74
   },
   {
     "sleeperId": "12514",
@@ -868,7 +972,7 @@
     "replacementValue": 201.9,
     "vbdScore": 9.4,
     "positionRank": 23,
-    "overallRank": 67
+    "overallRank": 75
   },
   {
     "sleeperId": "6797",
@@ -881,7 +985,7 @@
     "replacementValue": 261.5,
     "vbdScore": 8.8,
     "positionRank": 11,
-    "overallRank": 68
+    "overallRank": 76
   },
   {
     "sleeperId": "4144",
@@ -894,7 +998,20 @@
     "replacementValue": 144.5,
     "vbdScore": 7.8,
     "positionRank": 10,
-    "overallRank": 69
+    "overallRank": 77
+  },
+  {
+    "sleeperId": "PHI",
+    "name": "Philadelphia Eagles",
+    "position": "DST",
+    "team": "PHI",
+    "scoring": "PPR",
+    "projectedPoints": 123.9,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 7.7,
+    "positionRank": 9,
+    "overallRank": 78
   },
   {
     "sleeperId": "12518",
@@ -907,7 +1024,7 @@
     "replacementValue": 144.5,
     "vbdScore": 7.1,
     "positionRank": 11,
-    "overallRank": 70
+    "overallRank": 79
   },
   {
     "sleeperId": "5045",
@@ -920,7 +1037,7 @@
     "replacementValue": 201.9,
     "vbdScore": 6.7,
     "positionRank": 24,
-    "overallRank": 71
+    "overallRank": 80
   },
   {
     "sleeperId": "9997",
@@ -933,7 +1050,7 @@
     "replacementValue": 201.9,
     "vbdScore": 6.5,
     "positionRank": 25,
-    "overallRank": 72
+    "overallRank": 81
   },
   {
     "sleeperId": "13305",
@@ -946,7 +1063,7 @@
     "replacementValue": 192.2,
     "vbdScore": 6.5,
     "positionRank": 26,
-    "overallRank": 73
+    "overallRank": 82
   },
   {
     "sleeperId": "5846",
@@ -959,7 +1076,7 @@
     "replacementValue": 201.9,
     "vbdScore": 6.4,
     "positionRank": 26,
-    "overallRank": 74
+    "overallRank": 83
   },
   {
     "sleeperId": "12490",
@@ -972,7 +1089,20 @@
     "replacementValue": 192.2,
     "vbdScore": 5.9,
     "positionRank": 27,
-    "overallRank": 75
+    "overallRank": 84
+  },
+  {
+    "sleeperId": "SEA",
+    "name": "Seattle Seahawks",
+    "position": "DST",
+    "team": "SEA",
+    "scoring": "PPR",
+    "projectedPoints": 121.6,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 5.4,
+    "positionRank": 10,
+    "overallRank": 85
   },
   {
     "sleeperId": "6813",
@@ -985,7 +1115,7 @@
     "replacementValue": 192.2,
     "vbdScore": 5,
     "positionRank": 28,
-    "overallRank": 76
+    "overallRank": 86
   },
   {
     "sleeperId": "10222",
@@ -998,7 +1128,7 @@
     "replacementValue": 201.9,
     "vbdScore": 3.7,
     "positionRank": 27,
-    "overallRank": 77
+    "overallRank": 87
   },
   {
     "sleeperId": "8151",
@@ -1011,7 +1141,7 @@
     "replacementValue": 192.2,
     "vbdScore": 1.8,
     "positionRank": 29,
-    "overallRank": 78
+    "overallRank": 88
   },
   {
     "sleeperId": "6783",
@@ -1024,7 +1154,7 @@
     "replacementValue": 201.9,
     "vbdScore": 1.3,
     "positionRank": 28,
-    "overallRank": 79
+    "overallRank": 89
   },
   {
     "sleeperId": "5844",
@@ -1037,7 +1167,7 @@
     "replacementValue": 144.5,
     "vbdScore": 0.5,
     "positionRank": 12,
-    "overallRank": 80
+    "overallRank": 90
   },
   {
     "sleeperId": "1373",
@@ -1050,7 +1180,7 @@
     "replacementValue": 261.5,
     "vbdScore": 0,
     "positionRank": 12,
-    "overallRank": 81
+    "overallRank": 91
   },
   {
     "sleeperId": "4066",
@@ -1063,7 +1193,7 @@
     "replacementValue": 144.5,
     "vbdScore": 0,
     "positionRank": 13,
-    "overallRank": 82
+    "overallRank": 92
   },
   {
     "sleeperId": "6819",
@@ -1076,7 +1206,7 @@
     "replacementValue": 201.9,
     "vbdScore": 0,
     "positionRank": 29,
-    "overallRank": 83
+    "overallRank": 93
   },
   {
     "sleeperId": "2449",
@@ -1089,7 +1219,7 @@
     "replacementValue": 201.9,
     "vbdScore": 0,
     "positionRank": 30,
-    "overallRank": 84
+    "overallRank": 94
   },
   {
     "sleeperId": "13286",
@@ -1102,7 +1232,46 @@
     "replacementValue": 192.2,
     "vbdScore": 0,
     "positionRank": 30,
-    "overallRank": 85
+    "overallRank": 95
+  },
+  {
+    "sleeperId": "KC",
+    "name": "Kansas City Chiefs",
+    "position": "DST",
+    "team": "KC",
+    "scoring": "PPR",
+    "projectedPoints": 116.2,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 0,
+    "positionRank": 11,
+    "overallRank": 96
+  },
+  {
+    "sleeperId": "LAC",
+    "name": "Los Angeles Chargers",
+    "position": "DST",
+    "team": "LAC",
+    "scoring": "PPR",
+    "projectedPoints": 116.2,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": 0,
+    "positionRank": 12,
+    "overallRank": 97
+  },
+  {
+    "sleeperId": "SF",
+    "name": "San Francisco 49ers",
+    "position": "DST",
+    "team": "SF",
+    "scoring": "PPR",
+    "projectedPoints": 115.8,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -0.4,
+    "positionRank": 13,
+    "overallRank": 98
   },
   {
     "sleeperId": "7594",
@@ -1115,7 +1284,7 @@
     "replacementValue": 192.2,
     "vbdScore": -0.6,
     "positionRank": 31,
-    "overallRank": 86
+    "overallRank": 99
   },
   {
     "sleeperId": "6826",
@@ -1128,7 +1297,20 @@
     "replacementValue": 144.5,
     "vbdScore": -0.7,
     "positionRank": 14,
-    "overallRank": 87
+    "overallRank": 100
+  },
+  {
+    "sleeperId": "NYJ",
+    "name": "New York Jets",
+    "position": "DST",
+    "team": "NYJ",
+    "scoring": "PPR",
+    "projectedPoints": 114.1,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -2.1,
+    "positionRank": 14,
+    "overallRank": 101
   },
   {
     "sleeperId": "7569",
@@ -1141,7 +1323,33 @@
     "replacementValue": 201.9,
     "vbdScore": -2.8,
     "positionRank": 31,
-    "overallRank": 88
+    "overallRank": 102
+  },
+  {
+    "sleeperId": "TB",
+    "name": "Tampa Bay Buccaneers",
+    "position": "DST",
+    "team": "TB",
+    "scoring": "PPR",
+    "projectedPoints": 112.2,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -4,
+    "positionRank": 15,
+    "overallRank": 103
+  },
+  {
+    "sleeperId": "NO",
+    "name": "New Orleans Saints",
+    "position": "DST",
+    "team": "NO",
+    "scoring": "PPR",
+    "projectedPoints": 111.9,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -4.3,
+    "positionRank": 16,
+    "overallRank": 104
   },
   {
     "sleeperId": "7543",
@@ -1154,7 +1362,7 @@
     "replacementValue": 192.2,
     "vbdScore": -4.8,
     "positionRank": 32,
-    "overallRank": 89
+    "overallRank": 105
   },
   {
     "sleeperId": "6801",
@@ -1167,7 +1375,7 @@
     "replacementValue": 201.9,
     "vbdScore": -5.3,
     "positionRank": 32,
-    "overallRank": 90
+    "overallRank": 106
   },
   {
     "sleeperId": "11628",
@@ -1180,7 +1388,7 @@
     "replacementValue": 201.9,
     "vbdScore": -5.4,
     "positionRank": 33,
-    "overallRank": 91
+    "overallRank": 107
   },
   {
     "sleeperId": "12536",
@@ -1193,7 +1401,7 @@
     "replacementValue": 201.9,
     "vbdScore": -5.6,
     "positionRank": 34,
-    "overallRank": 92
+    "overallRank": 108
   },
   {
     "sleeperId": "12529",
@@ -1206,7 +1414,7 @@
     "replacementValue": 192.2,
     "vbdScore": -5.9,
     "positionRank": 33,
-    "overallRank": 93
+    "overallRank": 109
   },
   {
     "sleeperId": "11560",
@@ -1219,7 +1427,20 @@
     "replacementValue": 261.5,
     "vbdScore": -6.9,
     "positionRank": 13,
-    "overallRank": 94
+    "overallRank": 110
+  },
+  {
+    "sleeperId": "DET",
+    "name": "Detroit Lions",
+    "position": "DST",
+    "team": "DET",
+    "scoring": "PPR",
+    "projectedPoints": 109.3,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -6.9,
+    "positionRank": 17,
+    "overallRank": 111
   },
   {
     "sleeperId": "12506",
@@ -1232,7 +1453,20 @@
     "replacementValue": 144.5,
     "vbdScore": -7.9,
     "positionRank": 15,
-    "overallRank": 95
+    "overallRank": 112
+  },
+  {
+    "sleeperId": "IND",
+    "name": "Indianapolis Colts",
+    "position": "DST",
+    "team": "IND",
+    "scoring": "PPR",
+    "projectedPoints": 106.9,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -9.3,
+    "positionRank": 18,
+    "overallRank": 113
   },
   {
     "sleeperId": "11655",
@@ -1245,7 +1479,7 @@
     "replacementValue": 192.2,
     "vbdScore": -9.9,
     "positionRank": 34,
-    "overallRank": 96
+    "overallRank": 114
   },
   {
     "sleeperId": "5001",
@@ -1258,7 +1492,7 @@
     "replacementValue": 144.5,
     "vbdScore": -10.3,
     "positionRank": 16,
-    "overallRank": 97
+    "overallRank": 115
   },
   {
     "sleeperId": "4037",
@@ -1271,7 +1505,33 @@
     "replacementValue": 201.9,
     "vbdScore": -10.4,
     "positionRank": 35,
-    "overallRank": 98
+    "overallRank": 116
+  },
+  {
+    "sleeperId": "CIN",
+    "name": "Cincinnati Bengals",
+    "position": "DST",
+    "team": "CIN",
+    "scoring": "PPR",
+    "projectedPoints": 105.7,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -10.5,
+    "positionRank": 19,
+    "overallRank": 117
+  },
+  {
+    "sleeperId": "CHI",
+    "name": "Chicago Bears",
+    "position": "DST",
+    "team": "CHI",
+    "scoring": "PPR",
+    "projectedPoints": 105.5,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -10.7,
+    "positionRank": 20,
+    "overallRank": 118
   },
   {
     "sleeperId": "12526",
@@ -1284,7 +1544,7 @@
     "replacementValue": 201.9,
     "vbdScore": -10.8,
     "positionRank": 36,
-    "overallRank": 99
+    "overallRank": 119
   },
   {
     "sleeperId": "7600",
@@ -1297,7 +1557,20 @@
     "replacementValue": 144.5,
     "vbdScore": -11,
     "positionRank": 17,
-    "overallRank": 100
+    "overallRank": 120
+  },
+  {
+    "sleeperId": "MIA",
+    "name": "Miami Dolphins",
+    "position": "DST",
+    "team": "MIA",
+    "scoring": "PPR",
+    "projectedPoints": 104.6,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -11.6,
+    "positionRank": 21,
+    "overallRank": 121
   },
   {
     "sleeperId": "7611",
@@ -1310,7 +1583,33 @@
     "replacementValue": 192.2,
     "vbdScore": -11.8,
     "positionRank": 35,
-    "overallRank": 101
+    "overallRank": 122
+  },
+  {
+    "sleeperId": "NYG",
+    "name": "New York Giants",
+    "position": "DST",
+    "team": "NYG",
+    "scoring": "PPR",
+    "projectedPoints": 103.8,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -12.4,
+    "positionRank": 22,
+    "overallRank": 123
+  },
+  {
+    "sleeperId": "LAR",
+    "name": "Los Angeles Rams",
+    "position": "DST",
+    "team": "LAR",
+    "scoring": "PPR",
+    "projectedPoints": 103.7,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -12.5,
+    "positionRank": 23,
+    "overallRank": 124
   },
   {
     "sleeperId": "7567",
@@ -1323,7 +1622,20 @@
     "replacementValue": 192.2,
     "vbdScore": -12.7,
     "positionRank": 36,
-    "overallRank": 102
+    "overallRank": 125
+  },
+  {
+    "sleeperId": "CLE",
+    "name": "Cleveland Browns",
+    "position": "DST",
+    "team": "CLE",
+    "scoring": "PPR",
+    "projectedPoints": 103,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -13.2,
+    "positionRank": 24,
+    "overallRank": 126
   },
   {
     "sleeperId": "4034",
@@ -1336,7 +1648,7 @@
     "replacementValue": 192.2,
     "vbdScore": -13.6,
     "positionRank": 37,
-    "overallRank": 103
+    "overallRank": 127
   },
   {
     "sleeperId": "3214",
@@ -1349,7 +1661,7 @@
     "replacementValue": 144.5,
     "vbdScore": -14.5,
     "positionRank": 18,
-    "overallRank": 104
+    "overallRank": 128
   },
   {
     "sleeperId": "11624",
@@ -1362,7 +1674,7 @@
     "replacementValue": 201.9,
     "vbdScore": -14.7,
     "positionRank": 37,
-    "overallRank": 105
+    "overallRank": 129
   },
   {
     "sleeperId": "13417",
@@ -1375,7 +1687,7 @@
     "replacementValue": 201.9,
     "vbdScore": -15.9,
     "positionRank": 38,
-    "overallRank": 106
+    "overallRank": 130
   },
   {
     "sleeperId": "7526",
@@ -1388,7 +1700,7 @@
     "replacementValue": 201.9,
     "vbdScore": -16.3,
     "positionRank": 39,
-    "overallRank": 107
+    "overallRank": 131
   },
   {
     "sleeperId": "9758",
@@ -1401,7 +1713,7 @@
     "replacementValue": 261.5,
     "vbdScore": -16.7,
     "positionRank": 14,
-    "overallRank": 108
+    "overallRank": 132
   },
   {
     "sleeperId": "13281",
@@ -1414,7 +1726,33 @@
     "replacementValue": 201.9,
     "vbdScore": -17.1,
     "positionRank": 40,
-    "overallRank": 109
+    "overallRank": 133
+  },
+  {
+    "sleeperId": "JAX",
+    "name": "Jacksonville Jaguars",
+    "position": "DST",
+    "team": "JAX",
+    "scoring": "PPR",
+    "projectedPoints": 99,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -17.2,
+    "positionRank": 25,
+    "overallRank": 134
+  },
+  {
+    "sleeperId": "NE",
+    "name": "New England Patriots",
+    "position": "DST",
+    "team": "NE",
+    "scoring": "PPR",
+    "projectedPoints": 98.5,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -17.7,
+    "positionRank": 26,
+    "overallRank": 135
   },
   {
     "sleeperId": "9484",
@@ -1427,7 +1765,7 @@
     "replacementValue": 144.5,
     "vbdScore": -18.1,
     "positionRank": 19,
-    "overallRank": 110
+    "overallRank": 136
   },
   {
     "sleeperId": "5872",
@@ -1440,7 +1778,7 @@
     "replacementValue": 201.9,
     "vbdScore": -18.3,
     "positionRank": 41,
-    "overallRank": 111
+    "overallRank": 137
   },
   {
     "sleeperId": "13294",
@@ -1453,7 +1791,7 @@
     "replacementValue": 201.9,
     "vbdScore": -18.6,
     "positionRank": 42,
-    "overallRank": 112
+    "overallRank": 138
   },
   {
     "sleeperId": "13307",
@@ -1466,7 +1804,7 @@
     "replacementValue": 144.5,
     "vbdScore": -19.3,
     "positionRank": 20,
-    "overallRank": 113
+    "overallRank": 139
   },
   {
     "sleeperId": "8111",
@@ -1479,7 +1817,7 @@
     "replacementValue": 144.5,
     "vbdScore": -19.9,
     "positionRank": 21,
-    "overallRank": 114
+    "overallRank": 140
   },
   {
     "sleeperId": "5133",
@@ -1492,7 +1830,7 @@
     "replacementValue": 144.5,
     "vbdScore": -20.3,
     "positionRank": 22,
-    "overallRank": 115
+    "overallRank": 141
   },
   {
     "sleeperId": "4039",
@@ -1505,7 +1843,7 @@
     "replacementValue": 201.9,
     "vbdScore": -20.9,
     "positionRank": 43,
-    "overallRank": 116
+    "overallRank": 142
   },
   {
     "sleeperId": "13269",
@@ -1518,7 +1856,20 @@
     "replacementValue": 261.5,
     "vbdScore": -21.1,
     "positionRank": 15,
-    "overallRank": 117
+    "overallRank": 143
+  },
+  {
+    "sleeperId": "ARI",
+    "name": "Arizona Cardinals",
+    "position": "DST",
+    "team": "ARI",
+    "scoring": "PPR",
+    "projectedPoints": 93.7,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -22.5,
+    "positionRank": 27,
+    "overallRank": 144
   },
   {
     "sleeperId": "7553",
@@ -1531,7 +1882,20 @@
     "replacementValue": 144.5,
     "vbdScore": -22.9,
     "positionRank": 23,
-    "overallRank": 118
+    "overallRank": 145
+  },
+  {
+    "sleeperId": "ATL",
+    "name": "Atlanta Falcons",
+    "position": "DST",
+    "team": "ATL",
+    "scoring": "PPR",
+    "projectedPoints": 93,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -23.2,
+    "positionRank": 28,
+    "overallRank": 146
   },
   {
     "sleeperId": "5022",
@@ -1544,7 +1908,7 @@
     "replacementValue": 144.5,
     "vbdScore": -23.3,
     "positionRank": 24,
-    "overallRank": 119
+    "overallRank": 147
   },
   {
     "sleeperId": "8137",
@@ -1557,7 +1921,7 @@
     "replacementValue": 201.9,
     "vbdScore": -23.4,
     "positionRank": 44,
-    "overallRank": 120
+    "overallRank": 148
   },
   {
     "sleeperId": "8183",
@@ -1570,7 +1934,7 @@
     "replacementValue": 261.5,
     "vbdScore": -24.6,
     "positionRank": 16,
-    "overallRank": 121
+    "overallRank": 149
   },
   {
     "sleeperId": "13330",
@@ -1583,7 +1947,7 @@
     "replacementValue": 144.5,
     "vbdScore": -24.8,
     "positionRank": 25,
-    "overallRank": 122
+    "overallRank": 150
   },
   {
     "sleeperId": "12489",
@@ -1596,7 +1960,7 @@
     "replacementValue": 192.2,
     "vbdScore": -24.8,
     "positionRank": 38,
-    "overallRank": 123
+    "overallRank": 151
   },
   {
     "sleeperId": "10236",
@@ -1609,7 +1973,20 @@
     "replacementValue": 144.5,
     "vbdScore": -25.1,
     "positionRank": 26,
-    "overallRank": 124
+    "overallRank": 152
+  },
+  {
+    "sleeperId": "LV",
+    "name": "Las Vegas Raiders",
+    "position": "DST",
+    "team": "LV",
+    "scoring": "PPR",
+    "projectedPoints": 90.5,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -25.7,
+    "positionRank": 29,
+    "overallRank": 153
   },
   {
     "sleeperId": "9500",
@@ -1622,7 +1999,7 @@
     "replacementValue": 201.9,
     "vbdScore": -27,
     "positionRank": 45,
-    "overallRank": 125
+    "overallRank": 154
   },
   {
     "sleeperId": "7002",
@@ -1635,7 +2012,7 @@
     "replacementValue": 144.5,
     "vbdScore": -27.2,
     "positionRank": 27,
-    "overallRank": 126
+    "overallRank": 155
   },
   {
     "sleeperId": "5849",
@@ -1648,7 +2025,20 @@
     "replacementValue": 261.5,
     "vbdScore": -27.3,
     "positionRank": 17,
-    "overallRank": 127
+    "overallRank": 156
+  },
+  {
+    "sleeperId": "WAS",
+    "name": "Washington Commanders",
+    "position": "DST",
+    "team": "WAS",
+    "scoring": "PPR",
+    "projectedPoints": 85,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -31.2,
+    "positionRank": 30,
+    "overallRank": 157
   },
   {
     "sleeperId": "8154",
@@ -1661,7 +2051,7 @@
     "replacementValue": 192.2,
     "vbdScore": -31.7,
     "positionRank": 39,
-    "overallRank": 128
+    "overallRank": 158
   },
   {
     "sleeperId": "12487",
@@ -1674,7 +2064,7 @@
     "replacementValue": 144.5,
     "vbdScore": -32.8,
     "positionRank": 28,
-    "overallRank": 129
+    "overallRank": 159
   },
   {
     "sleeperId": "13324",
@@ -1687,7 +2077,7 @@
     "replacementValue": 144.5,
     "vbdScore": -32.8,
     "positionRank": 29,
-    "overallRank": 130
+    "overallRank": 160
   },
   {
     "sleeperId": "9224",
@@ -1700,7 +2090,7 @@
     "replacementValue": 192.2,
     "vbdScore": -33,
     "positionRank": 40,
-    "overallRank": 131
+    "overallRank": 161
   },
   {
     "sleeperId": "13421",
@@ -1713,7 +2103,7 @@
     "replacementValue": 144.5,
     "vbdScore": -33.5,
     "positionRank": 30,
-    "overallRank": 132
+    "overallRank": 162
   },
   {
     "sleeperId": "8110",
@@ -1726,7 +2116,7 @@
     "replacementValue": 144.5,
     "vbdScore": -33.9,
     "positionRank": 31,
-    "overallRank": 133
+    "overallRank": 163
   },
   {
     "sleeperId": "8131",
@@ -1739,7 +2129,7 @@
     "replacementValue": 144.5,
     "vbdScore": -34.3,
     "positionRank": 32,
-    "overallRank": 134
+    "overallRank": 164
   },
   {
     "sleeperId": "4993",
@@ -1752,7 +2142,20 @@
     "replacementValue": 144.5,
     "vbdScore": -35.1,
     "positionRank": 33,
-    "overallRank": 135
+    "overallRank": 165
+  },
+  {
+    "sleeperId": "TEN",
+    "name": "Tennessee Titans",
+    "position": "DST",
+    "team": "TEN",
+    "scoring": "PPR",
+    "projectedPoints": 81.1,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -35.1,
+    "positionRank": 31,
+    "overallRank": 166
   },
   {
     "sleeperId": "7021",
@@ -1765,7 +2168,7 @@
     "replacementValue": 192.2,
     "vbdScore": -36.9,
     "positionRank": 41,
-    "overallRank": 136
+    "overallRank": 167
   },
   {
     "sleeperId": "12502",
@@ -1778,7 +2181,7 @@
     "replacementValue": 144.5,
     "vbdScore": -38.5,
     "positionRank": 34,
-    "overallRank": 137
+    "overallRank": 168
   },
   {
     "sleeperId": "9753",
@@ -1791,7 +2194,7 @@
     "replacementValue": 192.2,
     "vbdScore": -40.5,
     "positionRank": 42,
-    "overallRank": 138
+    "overallRank": 169
   },
   {
     "sleeperId": "2505",
@@ -1804,7 +2207,7 @@
     "replacementValue": 144.5,
     "vbdScore": -41.6,
     "positionRank": 35,
-    "overallRank": 139
+    "overallRank": 170
   },
   {
     "sleeperId": "6768",
@@ -1817,7 +2220,7 @@
     "replacementValue": 261.5,
     "vbdScore": -42.2,
     "positionRank": 18,
-    "overallRank": 140
+    "overallRank": 171
   },
   {
     "sleeperId": "9502",
@@ -1830,7 +2233,7 @@
     "replacementValue": 201.9,
     "vbdScore": -45.6,
     "positionRank": 46,
-    "overallRank": 141
+    "overallRank": 172
   },
   {
     "sleeperId": "5857",
@@ -1843,7 +2246,7 @@
     "replacementValue": 144.5,
     "vbdScore": -46.3,
     "positionRank": 36,
-    "overallRank": 142
+    "overallRank": 173
   },
   {
     "sleeperId": "12658",
@@ -1856,7 +2259,7 @@
     "replacementValue": 144.5,
     "vbdScore": -46.4,
     "positionRank": 37,
-    "overallRank": 143
+    "overallRank": 174
   },
   {
     "sleeperId": "13298",
@@ -1869,7 +2272,7 @@
     "replacementValue": 201.9,
     "vbdScore": -46.7,
     "positionRank": 47,
-    "overallRank": 144
+    "overallRank": 175
   },
   {
     "sleeperId": "7588",
@@ -1882,7 +2285,7 @@
     "replacementValue": 192.2,
     "vbdScore": -49.7,
     "positionRank": 43,
-    "overallRank": 145
+    "overallRank": 176
   },
   {
     "sleeperId": "13414",
@@ -1895,7 +2298,7 @@
     "replacementValue": 192.2,
     "vbdScore": -50.7,
     "positionRank": 44,
-    "overallRank": 146
+    "overallRank": 177
   },
   {
     "sleeperId": "10229",
@@ -1908,7 +2311,7 @@
     "replacementValue": 201.9,
     "vbdScore": -51.9,
     "positionRank": 48,
-    "overallRank": 147
+    "overallRank": 178
   },
   {
     "sleeperId": "12493",
@@ -1921,7 +2324,7 @@
     "replacementValue": 144.5,
     "vbdScore": -52.3,
     "positionRank": 38,
-    "overallRank": 148
+    "overallRank": 179
   },
   {
     "sleeperId": "7828",
@@ -1934,7 +2337,7 @@
     "replacementValue": 144.5,
     "vbdScore": -52.4,
     "positionRank": 39,
-    "overallRank": 149
+    "overallRank": 180
   },
   {
     "sleeperId": "8228",
@@ -1947,7 +2350,7 @@
     "replacementValue": 192.2,
     "vbdScore": -53.6,
     "positionRank": 45,
-    "overallRank": 150
+    "overallRank": 181
   },
   {
     "sleeperId": "7523",
@@ -1960,7 +2363,20 @@
     "replacementValue": 261.5,
     "vbdScore": -54.4,
     "positionRank": 19,
-    "overallRank": 151
+    "overallRank": 182
+  },
+  {
+    "sleeperId": "CAR",
+    "name": "Carolina Panthers",
+    "position": "DST",
+    "team": "CAR",
+    "scoring": "PPR",
+    "projectedPoints": 61.5,
+    "source": "history",
+    "replacementValue": 116.2,
+    "vbdScore": -54.7,
+    "positionRank": 32,
+    "overallRank": 183
   },
   {
     "sleeperId": "6828",
@@ -1973,7 +2389,7 @@
     "replacementValue": 192.2,
     "vbdScore": -55.5,
     "positionRank": 46,
-    "overallRank": 152
+    "overallRank": 184
   },
   {
     "sleeperId": "13349",
@@ -1986,7 +2402,7 @@
     "replacementValue": 144.5,
     "vbdScore": -55.7,
     "positionRank": 40,
-    "overallRank": 153
+    "overallRank": 185
   },
   {
     "sleeperId": "9754",
@@ -1999,7 +2415,7 @@
     "replacementValue": 201.9,
     "vbdScore": -56.5,
     "positionRank": 49,
-    "overallRank": 154
+    "overallRank": 186
   },
   {
     "sleeperId": "3202",
@@ -2012,7 +2428,7 @@
     "replacementValue": 144.5,
     "vbdScore": -56.9,
     "positionRank": 41,
-    "overallRank": 155
+    "overallRank": 187
   },
   {
     "sleeperId": "11620",
@@ -2025,7 +2441,7 @@
     "replacementValue": 201.9,
     "vbdScore": -57,
     "positionRank": 50,
-    "overallRank": 156
+    "overallRank": 188
   },
   {
     "sleeperId": "13400",
@@ -2038,7 +2454,7 @@
     "replacementValue": 144.5,
     "vbdScore": -58.8,
     "positionRank": 42,
-    "overallRank": 157
+    "overallRank": 189
   },
   {
     "sleeperId": "12521",
@@ -2051,7 +2467,7 @@
     "replacementValue": 144.5,
     "vbdScore": -59.2,
     "positionRank": 43,
-    "overallRank": 158
+    "overallRank": 190
   },
   {
     "sleeperId": "6130",
@@ -2064,7 +2480,7 @@
     "replacementValue": 192.2,
     "vbdScore": -59.5,
     "positionRank": 47,
-    "overallRank": 159
+    "overallRank": 191
   },
   {
     "sleeperId": "13434",
@@ -2077,7 +2493,7 @@
     "replacementValue": 144.5,
     "vbdScore": -59.9,
     "positionRank": 44,
-    "overallRank": 160
+    "overallRank": 192
   },
   {
     "sleeperId": "13288",
@@ -2090,7 +2506,7 @@
     "replacementValue": 192.2,
     "vbdScore": -61.3,
     "positionRank": 48,
-    "overallRank": 161
+    "overallRank": 193
   },
   {
     "sleeperId": "421",
@@ -2103,7 +2519,7 @@
     "replacementValue": 261.5,
     "vbdScore": -61.6,
     "positionRank": 20,
-    "overallRank": 162
+    "overallRank": 194
   },
   {
     "sleeperId": "13278",
@@ -2116,7 +2532,7 @@
     "replacementValue": 144.5,
     "vbdScore": -61.9,
     "positionRank": 45,
-    "overallRank": 163
+    "overallRank": 195
   },
   {
     "sleeperId": "9508",
@@ -2129,7 +2545,7 @@
     "replacementValue": 192.2,
     "vbdScore": -62,
     "positionRank": 49,
-    "overallRank": 164
+    "overallRank": 196
   },
   {
     "sleeperId": "8144",
@@ -2142,7 +2558,7 @@
     "replacementValue": 201.9,
     "vbdScore": -62.9,
     "positionRank": 51,
-    "overallRank": 165
+    "overallRank": 197
   },
   {
     "sleeperId": "8126",
@@ -2155,7 +2571,7 @@
     "replacementValue": 201.9,
     "vbdScore": -63.3,
     "positionRank": 52,
-    "overallRank": 166
+    "overallRank": 198
   },
   {
     "sleeperId": "5985",
@@ -2168,7 +2584,7 @@
     "replacementValue": 144.5,
     "vbdScore": -63.6,
     "positionRank": 46,
-    "overallRank": 167
+    "overallRank": 199
   },
   {
     "sleeperId": "6803",
@@ -2181,7 +2597,7 @@
     "replacementValue": 201.9,
     "vbdScore": -63.7,
     "positionRank": 53,
-    "overallRank": 168
+    "overallRank": 200
   },
   {
     "sleeperId": "8121",
@@ -2194,7 +2610,7 @@
     "replacementValue": 201.9,
     "vbdScore": -63.8,
     "positionRank": 54,
-    "overallRank": 169
+    "overallRank": 201
   },
   {
     "sleeperId": "7090",
@@ -2207,7 +2623,7 @@
     "replacementValue": 201.9,
     "vbdScore": -64,
     "positionRank": 55,
-    "overallRank": 170
+    "overallRank": 202
   },
   {
     "sleeperId": "1166",
@@ -2220,7 +2636,7 @@
     "replacementValue": 261.5,
     "vbdScore": -65.1,
     "positionRank": 21,
-    "overallRank": 171
+    "overallRank": 203
   },
   {
     "sleeperId": "8132",
@@ -2233,7 +2649,7 @@
     "replacementValue": 192.2,
     "vbdScore": -65.4,
     "positionRank": 50,
-    "overallRank": 172
+    "overallRank": 204
   },
   {
     "sleeperId": "11603",
@@ -2246,7 +2662,7 @@
     "replacementValue": 144.5,
     "vbdScore": -66,
     "positionRank": 47,
-    "overallRank": 173
+    "overallRank": 205
   },
   {
     "sleeperId": "3271",
@@ -2259,7 +2675,7 @@
     "replacementValue": 144.5,
     "vbdScore": -66.3,
     "positionRank": 48,
-    "overallRank": 174
+    "overallRank": 206
   },
   {
     "sleeperId": "11618",
@@ -2272,7 +2688,7 @@
     "replacementValue": 201.9,
     "vbdScore": -66.5,
     "positionRank": 56,
-    "overallRank": 175
+    "overallRank": 207
   },
   {
     "sleeperId": "13279",
@@ -2285,7 +2701,7 @@
     "replacementValue": 201.9,
     "vbdScore": -67.4,
     "positionRank": 57,
-    "overallRank": 176
+    "overallRank": 208
   },
   {
     "sleeperId": "7049",
@@ -2298,7 +2714,7 @@
     "replacementValue": 201.9,
     "vbdScore": -68.3,
     "positionRank": 58,
-    "overallRank": 177
+    "overallRank": 209
   },
   {
     "sleeperId": "8142",
@@ -2311,7 +2727,7 @@
     "replacementValue": 201.9,
     "vbdScore": -69.3,
     "positionRank": 59,
-    "overallRank": 178
+    "overallRank": 210
   },
   {
     "sleeperId": "3294",
@@ -2324,7 +2740,7 @@
     "replacementValue": 261.5,
     "vbdScore": -70.1,
     "positionRank": 22,
-    "overallRank": 179
+    "overallRank": 211
   },
   {
     "sleeperId": "12530",
@@ -2337,7 +2753,7 @@
     "replacementValue": 201.9,
     "vbdScore": -70.2,
     "positionRank": 60,
-    "overallRank": 180
+    "overallRank": 212
   },
   {
     "sleeperId": "8219",
@@ -2350,7 +2766,7 @@
     "replacementValue": 144.5,
     "vbdScore": -70.3,
     "positionRank": 49,
-    "overallRank": 181
+    "overallRank": 213
   },
   {
     "sleeperId": "9501",
@@ -2363,7 +2779,7 @@
     "replacementValue": 201.9,
     "vbdScore": -71.1,
     "positionRank": 61,
-    "overallRank": 182
+    "overallRank": 214
   },
   {
     "sleeperId": "11600",
@@ -2376,7 +2792,7 @@
     "replacementValue": 144.5,
     "vbdScore": -71.3,
     "positionRank": 50,
-    "overallRank": 183
+    "overallRank": 215
   },
   {
     "sleeperId": "5906",
@@ -2389,7 +2805,7 @@
     "replacementValue": 144.5,
     "vbdScore": -72.3,
     "positionRank": 51,
-    "overallRank": 184
+    "overallRank": 216
   },
   {
     "sleeperId": "13408",
@@ -2402,7 +2818,7 @@
     "replacementValue": 144.5,
     "vbdScore": -73.4,
     "positionRank": 52,
-    "overallRank": 185
+    "overallRank": 217
   },
   {
     "sleeperId": "6804",
@@ -2415,7 +2831,7 @@
     "replacementValue": 261.5,
     "vbdScore": -73.7,
     "positionRank": 23,
-    "overallRank": 186
+    "overallRank": 218
   },
   {
     "sleeperId": "8134",
@@ -2428,7 +2844,7 @@
     "replacementValue": 201.9,
     "vbdScore": -74.8,
     "positionRank": 62,
-    "overallRank": 187
+    "overallRank": 219
   },
   {
     "sleeperId": "6149",
@@ -2441,7 +2857,7 @@
     "replacementValue": 201.9,
     "vbdScore": -75,
     "positionRank": 63,
-    "overallRank": 188
+    "overallRank": 220
   },
   {
     "sleeperId": "11575",
@@ -2454,7 +2870,7 @@
     "replacementValue": 192.2,
     "vbdScore": -76.1,
     "positionRank": 51,
-    "overallRank": 189
+    "overallRank": 221
   },
   {
     "sleeperId": "11597",
@@ -2467,7 +2883,7 @@
     "replacementValue": 144.5,
     "vbdScore": -76.4,
     "positionRank": 53,
-    "overallRank": 190
+    "overallRank": 222
   },
   {
     "sleeperId": "11626",
@@ -2480,7 +2896,7 @@
     "replacementValue": 201.9,
     "vbdScore": -76.8,
     "positionRank": 64,
-    "overallRank": 191
+    "overallRank": 223
   },
   {
     "sleeperId": "12509",
@@ -2493,7 +2909,7 @@
     "replacementValue": 201.9,
     "vbdScore": -77.6,
     "positionRank": 65,
-    "overallRank": 192
+    "overallRank": 224
   },
   {
     "sleeperId": "12498",
@@ -2506,7 +2922,7 @@
     "replacementValue": 144.5,
     "vbdScore": -77.9,
     "positionRank": 54,
-    "overallRank": 193
+    "overallRank": 225
   },
   {
     "sleeperId": "12473",
@@ -2519,7 +2935,7 @@
     "replacementValue": 144.5,
     "vbdScore": -78.4,
     "positionRank": 55,
-    "overallRank": 194
+    "overallRank": 226
   },
   {
     "sleeperId": "8205",
@@ -2532,7 +2948,7 @@
     "replacementValue": 192.2,
     "vbdScore": -78.6,
     "positionRank": 52,
-    "overallRank": 195
+    "overallRank": 227
   },
   {
     "sleeperId": "6865",
@@ -2545,7 +2961,7 @@
     "replacementValue": 144.5,
     "vbdScore": -79.4,
     "positionRank": 56,
-    "overallRank": 196
+    "overallRank": 228
   },
   {
     "sleeperId": "9228",
@@ -2558,7 +2974,7 @@
     "replacementValue": 261.5,
     "vbdScore": -79.9,
     "positionRank": 24,
-    "overallRank": 197
+    "overallRank": 229
   },
   {
     "sleeperId": "13402",
@@ -2571,7 +2987,7 @@
     "replacementValue": 201.9,
     "vbdScore": -80,
     "positionRank": 66,
-    "overallRank": 198
+    "overallRank": 230
   },
   {
     "sleeperId": "4950",
@@ -2584,7 +3000,7 @@
     "replacementValue": 201.9,
     "vbdScore": -80.2,
     "positionRank": 67,
-    "overallRank": 199
+    "overallRank": 231
   },
   {
     "sleeperId": "7591",
@@ -2597,7 +3013,7 @@
     "replacementValue": 261.5,
     "vbdScore": -80.4,
     "positionRank": 25,
-    "overallRank": 200
+    "overallRank": 232
   },
   {
     "sleeperId": "10232",
@@ -2610,7 +3026,7 @@
     "replacementValue": 201.9,
     "vbdScore": -80.6,
     "positionRank": 68,
-    "overallRank": 201
+    "overallRank": 233
   },
   {
     "sleeperId": "7571",
@@ -2623,7 +3039,7 @@
     "replacementValue": 201.9,
     "vbdScore": -81.7,
     "positionRank": 69,
-    "overallRank": 202
+    "overallRank": 234
   },
   {
     "sleeperId": "13345",
@@ -2636,7 +3052,7 @@
     "replacementValue": 192.2,
     "vbdScore": -83,
     "positionRank": 53,
-    "overallRank": 203
+    "overallRank": 235
   },
   {
     "sleeperId": "8167",
@@ -2649,7 +3065,7 @@
     "replacementValue": 201.9,
     "vbdScore": -83.3,
     "positionRank": 70,
-    "overallRank": 204
+    "overallRank": 236
   },
   {
     "sleeperId": "6806",
@@ -2662,7 +3078,7 @@
     "replacementValue": 192.2,
     "vbdScore": -83.7,
     "positionRank": 54,
-    "overallRank": 205
+    "overallRank": 237
   },
   {
     "sleeperId": "8143",
@@ -2675,7 +3091,7 @@
     "replacementValue": 192.2,
     "vbdScore": -83.8,
     "positionRank": 55,
-    "overallRank": 206
+    "overallRank": 238
   },
   {
     "sleeperId": "8148",
@@ -2688,7 +3104,7 @@
     "replacementValue": 201.9,
     "vbdScore": -84,
     "positionRank": 71,
-    "overallRank": 207
+    "overallRank": 239
   },
   {
     "sleeperId": "11564",
@@ -2701,7 +3117,7 @@
     "replacementValue": 261.5,
     "vbdScore": -84.3,
     "positionRank": 26,
-    "overallRank": 208
+    "overallRank": 240
   },
   {
     "sleeperId": "7596",
@@ -2714,7 +3130,7 @@
     "replacementValue": 201.9,
     "vbdScore": -84.5,
     "positionRank": 72,
-    "overallRank": 209
+    "overallRank": 241
   },
   {
     "sleeperId": "13268",
@@ -2727,7 +3143,7 @@
     "replacementValue": 201.9,
     "vbdScore": -85.9,
     "positionRank": 73,
-    "overallRank": 210
+    "overallRank": 242
   },
   {
     "sleeperId": "7694",
@@ -2740,7 +3156,7 @@
     "replacementValue": 144.5,
     "vbdScore": -86.1,
     "positionRank": 57,
-    "overallRank": 211
+    "overallRank": 243
   },
   {
     "sleeperId": "3286",
@@ -2753,7 +3169,7 @@
     "replacementValue": 201.9,
     "vbdScore": -86.1,
     "positionRank": 74,
-    "overallRank": 212
+    "overallRank": 244
   },
   {
     "sleeperId": "4147",
@@ -2766,7 +3182,7 @@
     "replacementValue": 192.2,
     "vbdScore": -86.2,
     "positionRank": 56,
-    "overallRank": 213
+    "overallRank": 245
   },
   {
     "sleeperId": "12501",
@@ -2779,7 +3195,7 @@
     "replacementValue": 201.9,
     "vbdScore": -86.6,
     "positionRank": 75,
-    "overallRank": 214
+    "overallRank": 246
   },
   {
     "sleeperId": "9486",
@@ -2792,7 +3208,7 @@
     "replacementValue": 201.9,
     "vbdScore": -86.9,
     "positionRank": 76,
-    "overallRank": 215
+    "overallRank": 247
   },
   {
     "sleeperId": "5973",
@@ -2805,7 +3221,7 @@
     "replacementValue": 144.5,
     "vbdScore": -87,
     "positionRank": 58,
-    "overallRank": 216
+    "overallRank": 248
   },
   {
     "sleeperId": "8676",
@@ -2818,7 +3234,7 @@
     "replacementValue": 201.9,
     "vbdScore": -87.4,
     "positionRank": 77,
-    "overallRank": 217
+    "overallRank": 249
   },
   {
     "sleeperId": "5995",
@@ -2831,7 +3247,7 @@
     "replacementValue": 192.2,
     "vbdScore": -88.9,
     "positionRank": 57,
-    "overallRank": 218
+    "overallRank": 250
   },
   {
     "sleeperId": "12535",
@@ -2844,7 +3260,7 @@
     "replacementValue": 201.9,
     "vbdScore": -90.2,
     "positionRank": 78,
-    "overallRank": 219
+    "overallRank": 251
   },
   {
     "sleeperId": "11637",
@@ -2857,7 +3273,7 @@
     "replacementValue": 201.9,
     "vbdScore": -90.4,
     "positionRank": 79,
-    "overallRank": 220
+    "overallRank": 252
   },
   {
     "sleeperId": "7496",
@@ -2870,7 +3286,7 @@
     "replacementValue": 201.9,
     "vbdScore": -90.9,
     "positionRank": 80,
-    "overallRank": 221
+    "overallRank": 253
   },
   {
     "sleeperId": "11439",
@@ -2883,7 +3299,7 @@
     "replacementValue": 192.2,
     "vbdScore": -91.5,
     "positionRank": 58,
-    "overallRank": 222
+    "overallRank": 254
   },
   {
     "sleeperId": "9480",
@@ -2896,7 +3312,7 @@
     "replacementValue": 144.5,
     "vbdScore": -91.9,
     "positionRank": 59,
-    "overallRank": 223
+    "overallRank": 255
   },
   {
     "sleeperId": "13346",
@@ -2909,7 +3325,7 @@
     "replacementValue": 201.9,
     "vbdScore": -92.5,
     "positionRank": 81,
-    "overallRank": 224
+    "overallRank": 256
   },
   {
     "sleeperId": "12483",
@@ -2922,7 +3338,7 @@
     "replacementValue": 201.9,
     "vbdScore": -92.9,
     "positionRank": 82,
-    "overallRank": 225
+    "overallRank": 257
   },
   {
     "sleeperId": "13270",
@@ -2935,7 +3351,7 @@
     "replacementValue": 201.9,
     "vbdScore": -92.9,
     "positionRank": 83,
-    "overallRank": 226
+    "overallRank": 258
   },
   {
     "sleeperId": "4602",
@@ -2948,7 +3364,7 @@
     "replacementValue": 144.5,
     "vbdScore": -93,
     "positionRank": 60,
-    "overallRank": 227
+    "overallRank": 259
   },
   {
     "sleeperId": "11569",
@@ -2961,7 +3377,7 @@
     "replacementValue": 192.2,
     "vbdScore": -93.7,
     "positionRank": 59,
-    "overallRank": 228
+    "overallRank": 260
   },
   {
     "sleeperId": "7602",
@@ -2974,7 +3390,7 @@
     "replacementValue": 144.5,
     "vbdScore": -94.5,
     "positionRank": 61,
-    "overallRank": 229
+    "overallRank": 261
   },
   {
     "sleeperId": "9482",
@@ -2987,7 +3403,7 @@
     "replacementValue": 144.5,
     "vbdScore": -94.6,
     "positionRank": 62,
-    "overallRank": 230
+    "overallRank": 262
   },
   {
     "sleeperId": "9494",
@@ -3000,7 +3416,7 @@
     "replacementValue": 201.9,
     "vbdScore": -95,
     "positionRank": 84,
-    "overallRank": 231
+    "overallRank": 263
   },
   {
     "sleeperId": "11834",
@@ -3013,7 +3429,7 @@
     "replacementValue": 201.9,
     "vbdScore": -95.4,
     "positionRank": 85,
-    "overallRank": 232
+    "overallRank": 264
   },
   {
     "sleeperId": "6869",
@@ -3026,7 +3442,7 @@
     "replacementValue": 144.5,
     "vbdScore": -95.7,
     "positionRank": 63,
-    "overallRank": 233
+    "overallRank": 265
   },
   {
     "sleeperId": "13285",
@@ -3039,7 +3455,7 @@
     "replacementValue": 201.9,
     "vbdScore": -95.9,
     "positionRank": 86,
-    "overallRank": 234
+    "overallRank": 266
   },
   {
     "sleeperId": "11651",
@@ -3052,7 +3468,7 @@
     "replacementValue": 192.2,
     "vbdScore": -96,
     "positionRank": 60,
-    "overallRank": 235
+    "overallRank": 267
   },
   {
     "sleeperId": "12503",
@@ -3065,7 +3481,7 @@
     "replacementValue": 201.9,
     "vbdScore": -96.2,
     "positionRank": 87,
-    "overallRank": 236
+    "overallRank": 268
   },
   {
     "sleeperId": "10213",
@@ -3078,7 +3494,7 @@
     "replacementValue": 201.9,
     "vbdScore": -97.6,
     "positionRank": 88,
-    "overallRank": 237
+    "overallRank": 269
   },
   {
     "sleeperId": "5409",
@@ -3091,7 +3507,7 @@
     "replacementValue": 144.5,
     "vbdScore": -98.8,
     "positionRank": 64,
-    "overallRank": 238
+    "overallRank": 270
   },
   {
     "sleeperId": "10871",
@@ -3104,7 +3520,7 @@
     "replacementValue": 144.5,
     "vbdScore": -98.9,
     "positionRank": 65,
-    "overallRank": 239
+    "overallRank": 271
   },
   {
     "sleeperId": "12480",
@@ -3117,7 +3533,7 @@
     "replacementValue": 144.5,
     "vbdScore": -99.8,
     "positionRank": 66,
-    "overallRank": 240
+    "overallRank": 272
   },
   {
     "sleeperId": "12641",
@@ -3130,7 +3546,7 @@
     "replacementValue": 201.9,
     "vbdScore": -99.8,
     "positionRank": 89,
-    "overallRank": 241
+    "overallRank": 273
   },
   {
     "sleeperId": "10231",
@@ -3143,7 +3559,7 @@
     "replacementValue": 144.5,
     "vbdScore": -99.9,
     "positionRank": 67,
-    "overallRank": 242
+    "overallRank": 274
   },
   {
     "sleeperId": "10212",
@@ -3156,7 +3572,7 @@
     "replacementValue": 144.5,
     "vbdScore": -100.1,
     "positionRank": 68,
-    "overallRank": 243
+    "overallRank": 275
   },
   {
     "sleeperId": "12547",
@@ -3169,7 +3585,7 @@
     "replacementValue": 201.9,
     "vbdScore": -100.9,
     "positionRank": 90,
-    "overallRank": 244
+    "overallRank": 276
   },
   {
     "sleeperId": "4943",
@@ -3182,7 +3598,7 @@
     "replacementValue": 261.5,
     "vbdScore": -101,
     "positionRank": 27,
-    "overallRank": 245
+    "overallRank": 277
   },
   {
     "sleeperId": "4314",
@@ -3195,7 +3611,7 @@
     "replacementValue": 144.5,
     "vbdScore": -101.1,
     "positionRank": 69,
-    "overallRank": 246
+    "overallRank": 278
   },
   {
     "sleeperId": "13347",
@@ -3208,7 +3624,7 @@
     "replacementValue": 192.2,
     "vbdScore": -101.2,
     "positionRank": 61,
-    "overallRank": 247
+    "overallRank": 279
   },
   {
     "sleeperId": "13311",
@@ -3221,7 +3637,7 @@
     "replacementValue": 201.9,
     "vbdScore": -101.5,
     "positionRank": 91,
-    "overallRank": 248
+    "overallRank": 280
   },
   {
     "sleeperId": "8225",
@@ -3234,7 +3650,7 @@
     "replacementValue": 144.5,
     "vbdScore": -102.1,
     "positionRank": 70,
-    "overallRank": 249
+    "overallRank": 281
   },
   {
     "sleeperId": "12531",
@@ -3247,7 +3663,7 @@
     "replacementValue": 192.2,
     "vbdScore": -102.3,
     "positionRank": 62,
-    "overallRank": 250
+    "overallRank": 282
   },
   {
     "sleeperId": "2359",
@@ -3260,7 +3676,7 @@
     "replacementValue": 192.2,
     "vbdScore": -103,
     "positionRank": 63,
-    "overallRank": 251
+    "overallRank": 283
   },
   {
     "sleeperId": "4054",
@@ -3273,7 +3689,7 @@
     "replacementValue": 144.5,
     "vbdScore": -103.1,
     "positionRank": 71,
-    "overallRank": 252
+    "overallRank": 284
   },
   {
     "sleeperId": "13322",
@@ -3286,7 +3702,7 @@
     "replacementValue": 144.5,
     "vbdScore": -103.8,
     "positionRank": 72,
-    "overallRank": 253
+    "overallRank": 285
   },
   {
     "sleeperId": "12522",
@@ -3299,7 +3715,7 @@
     "replacementValue": 261.5,
     "vbdScore": -104.6,
     "positionRank": 28,
-    "overallRank": 254
+    "overallRank": 286
   },
   {
     "sleeperId": "13275",
@@ -3312,7 +3728,7 @@
     "replacementValue": 261.5,
     "vbdScore": -104.6,
     "positionRank": 29,
-    "overallRank": 255
+    "overallRank": 287
   },
   {
     "sleeperId": "10235",
@@ -3325,7 +3741,7 @@
     "replacementValue": 192.2,
     "vbdScore": -105.2,
     "positionRank": 64,
-    "overallRank": 256
+    "overallRank": 288
   },
   {
     "sleeperId": "13319",
@@ -3338,7 +3754,7 @@
     "replacementValue": 144.5,
     "vbdScore": -106.1,
     "positionRank": 73,
-    "overallRank": 257
+    "overallRank": 289
   },
   {
     "sleeperId": "7562",
@@ -3351,7 +3767,7 @@
     "replacementValue": 201.9,
     "vbdScore": -106.6,
     "positionRank": 92,
-    "overallRank": 258
+    "overallRank": 290
   },
   {
     "sleeperId": "7891",
@@ -3364,7 +3780,7 @@
     "replacementValue": 144.5,
     "vbdScore": -106.7,
     "positionRank": 74,
-    "overallRank": 259
+    "overallRank": 291
   },
   {
     "sleeperId": "13301",
@@ -3377,7 +3793,7 @@
     "replacementValue": 201.9,
     "vbdScore": -107,
     "positionRank": 93,
-    "overallRank": 260
+    "overallRank": 292
   },
   {
     "sleeperId": "11576",
@@ -3390,7 +3806,7 @@
     "replacementValue": 192.2,
     "vbdScore": -107,
     "positionRank": 65,
-    "overallRank": 261
+    "overallRank": 293
   },
   {
     "sleeperId": "12545",
@@ -3403,7 +3819,7 @@
     "replacementValue": 261.5,
     "vbdScore": -107.2,
     "positionRank": 30,
-    "overallRank": 262
+    "overallRank": 294
   },
   {
     "sleeperId": "12472",
@@ -3416,7 +3832,7 @@
     "replacementValue": 192.2,
     "vbdScore": -107.4,
     "positionRank": 66,
-    "overallRank": 263
+    "overallRank": 295
   },
   {
     "sleeperId": "5008",
@@ -3429,7 +3845,7 @@
     "replacementValue": 144.5,
     "vbdScore": -107.8,
     "positionRank": 75,
-    "overallRank": 264
+    "overallRank": 296
   },
   {
     "sleeperId": "9225",
@@ -3442,7 +3858,7 @@
     "replacementValue": 192.2,
     "vbdScore": -108.1,
     "positionRank": 67,
-    "overallRank": 265
+    "overallRank": 297
   },
   {
     "sleeperId": "11638",
@@ -3455,7 +3871,7 @@
     "replacementValue": 201.9,
     "vbdScore": -108.4,
     "positionRank": 94,
-    "overallRank": 266
+    "overallRank": 298
   },
   {
     "sleeperId": "11592",
@@ -3468,7 +3884,7 @@
     "replacementValue": 144.5,
     "vbdScore": -108.7,
     "positionRank": 76,
-    "overallRank": 267
+    "overallRank": 299
   },
   {
     "sleeperId": "11646",
@@ -3481,7 +3897,7 @@
     "replacementValue": 201.9,
     "vbdScore": -109.3,
     "positionRank": 95,
-    "overallRank": 268
+    "overallRank": 300
   },
   {
     "sleeperId": "5970",
@@ -3494,7 +3910,7 @@
     "replacementValue": 201.9,
     "vbdScore": -109.4,
     "positionRank": 96,
-    "overallRank": 269
+    "overallRank": 301
   },
   {
     "sleeperId": "4351",
@@ -3507,7 +3923,7 @@
     "replacementValue": 201.9,
     "vbdScore": -109.5,
     "positionRank": 97,
-    "overallRank": 270
+    "overallRank": 302
   },
   {
     "sleeperId": "11588",
@@ -3520,7 +3936,7 @@
     "replacementValue": 192.2,
     "vbdScore": -109.7,
     "positionRank": 68,
-    "overallRank": 271
+    "overallRank": 303
   },
   {
     "sleeperId": "11599",
@@ -3533,7 +3949,7 @@
     "replacementValue": 144.5,
     "vbdScore": -110.2,
     "positionRank": 77,
-    "overallRank": 272
+    "overallRank": 304
   },
   {
     "sleeperId": "8125",
@@ -3546,7 +3962,7 @@
     "replacementValue": 201.9,
     "vbdScore": -110.7,
     "positionRank": 98,
-    "overallRank": 273
+    "overallRank": 305
   },
   {
     "sleeperId": "7607",
@@ -3559,7 +3975,7 @@
     "replacementValue": 192.2,
     "vbdScore": -112,
     "positionRank": 69,
-    "overallRank": 274
+    "overallRank": 306
   },
   {
     "sleeperId": "8177",
@@ -3572,7 +3988,7 @@
     "replacementValue": 144.5,
     "vbdScore": -112.1,
     "positionRank": 78,
-    "overallRank": 275
+    "overallRank": 307
   },
   {
     "sleeperId": "13317",
@@ -3585,7 +4001,7 @@
     "replacementValue": 201.9,
     "vbdScore": -112.3,
     "positionRank": 99,
-    "overallRank": 276
+    "overallRank": 308
   },
   {
     "sleeperId": "10226",
@@ -3598,7 +4014,7 @@
     "replacementValue": 201.9,
     "vbdScore": -112.4,
     "positionRank": 100,
-    "overallRank": 277
+    "overallRank": 309
   },
   {
     "sleeperId": "9481",
@@ -3611,7 +4027,7 @@
     "replacementValue": 144.5,
     "vbdScore": -112.5,
     "positionRank": 79,
-    "overallRank": 278
+    "overallRank": 310
   },
   {
     "sleeperId": "4177",
@@ -3624,7 +4040,7 @@
     "replacementValue": 201.9,
     "vbdScore": -112.5,
     "positionRank": 101,
-    "overallRank": 279
+    "overallRank": 311
   },
   {
     "sleeperId": "13299",
@@ -3637,7 +4053,7 @@
     "replacementValue": 144.5,
     "vbdScore": -112.6,
     "positionRank": 80,
-    "overallRank": 280
+    "overallRank": 312
   },
   {
     "sleeperId": "13296",
@@ -3650,7 +4066,7 @@
     "replacementValue": 201.9,
     "vbdScore": -112.6,
     "positionRank": 102,
-    "overallRank": 281
+    "overallRank": 313
   },
   {
     "sleeperId": "4454",
@@ -3663,7 +4079,7 @@
     "replacementValue": 201.9,
     "vbdScore": -114.1,
     "positionRank": 103,
-    "overallRank": 282
+    "overallRank": 314
   },
   {
     "sleeperId": "9479",
@@ -3676,7 +4092,7 @@
     "replacementValue": 144.5,
     "vbdScore": -114.5,
     "positionRank": 81,
-    "overallRank": 283
+    "overallRank": 315
   },
   {
     "sleeperId": "6271",
@@ -3689,7 +4105,7 @@
     "replacementValue": 201.9,
     "vbdScore": -114.6,
     "positionRank": 104,
-    "overallRank": 284
+    "overallRank": 316
   },
   {
     "sleeperId": "8249",
@@ -3702,7 +4118,7 @@
     "replacementValue": 144.5,
     "vbdScore": -114.7,
     "positionRank": 82,
-    "overallRank": 285
+    "overallRank": 317
   },
   {
     "sleeperId": "6001",
@@ -3715,7 +4131,7 @@
     "replacementValue": 144.5,
     "vbdScore": -115.1,
     "positionRank": 83,
-    "overallRank": 286
+    "overallRank": 318
   },
   {
     "sleeperId": "8583",
@@ -3728,7 +4144,7 @@
     "replacementValue": 144.5,
     "vbdScore": -116.2,
     "positionRank": 84,
-    "overallRank": 287
+    "overallRank": 319
   },
   {
     "sleeperId": "12495",
@@ -3741,7 +4157,7 @@
     "replacementValue": 192.2,
     "vbdScore": -116.2,
     "positionRank": 70,
-    "overallRank": 288
+    "overallRank": 320
   },
   {
     "sleeperId": "8129",
@@ -3754,7 +4170,7 @@
     "replacementValue": 192.2,
     "vbdScore": -116.4,
     "positionRank": 71,
-    "overallRank": 289
+    "overallRank": 321
   },
   {
     "sleeperId": "12505",
@@ -3767,7 +4183,7 @@
     "replacementValue": 201.9,
     "vbdScore": -116.6,
     "positionRank": 105,
-    "overallRank": 290
+    "overallRank": 322
   },
   {
     "sleeperId": "8119",
@@ -3780,7 +4196,7 @@
     "replacementValue": 201.9,
     "vbdScore": -116.7,
     "positionRank": 106,
-    "overallRank": 291
+    "overallRank": 323
   },
   {
     "sleeperId": "13079",
@@ -3793,7 +4209,7 @@
     "replacementValue": 201.9,
     "vbdScore": -117.2,
     "positionRank": 107,
-    "overallRank": 292
+    "overallRank": 324
   },
   {
     "sleeperId": "5086",
@@ -3806,7 +4222,7 @@
     "replacementValue": 201.9,
     "vbdScore": -117.3,
     "positionRank": 108,
-    "overallRank": 293
+    "overallRank": 325
   },
   {
     "sleeperId": "12496",
@@ -3819,7 +4235,7 @@
     "replacementValue": 201.9,
     "vbdScore": -117.6,
     "positionRank": 109,
-    "overallRank": 294
+    "overallRank": 326
   },
   {
     "sleeperId": "8127",
@@ -3832,7 +4248,7 @@
     "replacementValue": 144.5,
     "vbdScore": -117.7,
     "positionRank": 85,
-    "overallRank": 295
+    "overallRank": 327
   },
   {
     "sleeperId": "13337",
@@ -3845,7 +4261,7 @@
     "replacementValue": 192.2,
     "vbdScore": -117.8,
     "positionRank": 72,
-    "overallRank": 296
+    "overallRank": 328
   },
   {
     "sleeperId": "8181",
@@ -3858,7 +4274,7 @@
     "replacementValue": 144.5,
     "vbdScore": -118.1,
     "positionRank": 86,
-    "overallRank": 297
+    "overallRank": 329
   },
   {
     "sleeperId": "13274",
@@ -3871,7 +4287,7 @@
     "replacementValue": 201.9,
     "vbdScore": -118.1,
     "positionRank": 110,
-    "overallRank": 298
+    "overallRank": 330
   },
   {
     "sleeperId": "5096",
@@ -3884,7 +4300,7 @@
     "replacementValue": 201.9,
     "vbdScore": -118.2,
     "positionRank": 111,
-    "overallRank": 299
+    "overallRank": 331
   },
   {
     "sleeperId": "10227",
@@ -3897,7 +4313,7 @@
     "replacementValue": 144.5,
     "vbdScore": -118.3,
     "positionRank": 87,
-    "overallRank": 300
+    "overallRank": 332
   },
   {
     "sleeperId": "12485",
@@ -3910,7 +4326,7 @@
     "replacementValue": 201.9,
     "vbdScore": -118.6,
     "positionRank": 112,
-    "overallRank": 301
+    "overallRank": 333
   },
   {
     "sleeperId": "8408",
@@ -3923,7 +4339,7 @@
     "replacementValue": 192.2,
     "vbdScore": -119.3,
     "positionRank": 73,
-    "overallRank": 302
+    "overallRank": 334
   },
   {
     "sleeperId": "11433",
@@ -3936,7 +4352,7 @@
     "replacementValue": 144.5,
     "vbdScore": -119.9,
     "positionRank": 88,
-    "overallRank": 303
+    "overallRank": 335
   },
   {
     "sleeperId": "12718",
@@ -3949,7 +4365,7 @@
     "replacementValue": 201.9,
     "vbdScore": -120.6,
     "positionRank": 113,
-    "overallRank": 304
+    "overallRank": 336
   },
   {
     "sleeperId": "7716",
@@ -3962,7 +4378,7 @@
     "replacementValue": 144.5,
     "vbdScore": -121,
     "positionRank": 89,
-    "overallRank": 305
+    "overallRank": 337
   },
   {
     "sleeperId": "11370",
@@ -3975,7 +4391,7 @@
     "replacementValue": 192.2,
     "vbdScore": -122,
     "positionRank": 74,
-    "overallRank": 306
+    "overallRank": 338
   },
   {
     "sleeperId": "3634",
@@ -3988,7 +4404,7 @@
     "replacementValue": 201.9,
     "vbdScore": -122.1,
     "positionRank": 114,
-    "overallRank": 307
+    "overallRank": 339
   },
   {
     "sleeperId": "4443",
@@ -4001,7 +4417,7 @@
     "replacementValue": 144.5,
     "vbdScore": -122.5,
     "positionRank": 90,
-    "overallRank": 308
+    "overallRank": 340
   },
   {
     "sleeperId": "8117",
@@ -4014,7 +4430,7 @@
     "replacementValue": 201.9,
     "vbdScore": -122.6,
     "positionRank": 115,
-    "overallRank": 309
+    "overallRank": 341
   },
   {
     "sleeperId": "8145",
@@ -4027,7 +4443,7 @@
     "replacementValue": 144.5,
     "vbdScore": -122.7,
     "positionRank": 91,
-    "overallRank": 310
+    "overallRank": 342
   },
   {
     "sleeperId": "3258",
@@ -4040,7 +4456,7 @@
     "replacementValue": 144.5,
     "vbdScore": -123.6,
     "positionRank": 92,
-    "overallRank": 311
+    "overallRank": 343
   },
   {
     "sleeperId": "13320",
@@ -4053,7 +4469,7 @@
     "replacementValue": 201.9,
     "vbdScore": -123.7,
     "positionRank": 116,
-    "overallRank": 312
+    "overallRank": 344
   },
   {
     "sleeperId": "7106",
@@ -4066,7 +4482,7 @@
     "replacementValue": 144.5,
     "vbdScore": -124.5,
     "positionRank": 93,
-    "overallRank": 313
+    "overallRank": 345
   },
   {
     "sleeperId": "13423",
@@ -4079,7 +4495,7 @@
     "replacementValue": 192.2,
     "vbdScore": -124.9,
     "positionRank": 75,
-    "overallRank": 314
+    "overallRank": 346
   },
   {
     "sleeperId": "7608",
@@ -4092,7 +4508,7 @@
     "replacementValue": 192.2,
     "vbdScore": -124.9,
     "positionRank": 76,
-    "overallRank": 315
+    "overallRank": 347
   },
   {
     "sleeperId": "6529",
@@ -4105,7 +4521,7 @@
     "replacementValue": 144.5,
     "vbdScore": -125,
     "positionRank": 94,
-    "overallRank": 316
+    "overallRank": 348
   },
   {
     "sleeperId": "4189",
@@ -4118,7 +4534,7 @@
     "replacementValue": 144.5,
     "vbdScore": -125.1,
     "positionRank": 95,
-    "overallRank": 317
+    "overallRank": 349
   },
   {
     "sleeperId": "7842",
@@ -4131,7 +4547,7 @@
     "replacementValue": 144.5,
     "vbdScore": -125.1,
     "positionRank": 96,
-    "overallRank": 318
+    "overallRank": 350
   },
   {
     "sleeperId": "7535",
@@ -4144,7 +4560,7 @@
     "replacementValue": 144.5,
     "vbdScore": -125.5,
     "positionRank": 97,
-    "overallRank": 319
+    "overallRank": 351
   },
   {
     "sleeperId": "12469",
@@ -4157,7 +4573,7 @@
     "replacementValue": 192.2,
     "vbdScore": -125.5,
     "positionRank": 77,
-    "overallRank": 320
+    "overallRank": 352
   },
   {
     "sleeperId": "10214",
@@ -4170,7 +4586,7 @@
     "replacementValue": 144.5,
     "vbdScore": -126.1,
     "positionRank": 98,
-    "overallRank": 321
+    "overallRank": 353
   },
   {
     "sleeperId": "12482",
@@ -4183,7 +4599,7 @@
     "replacementValue": 201.9,
     "vbdScore": -126.6,
     "positionRank": 117,
-    "overallRank": 322
+    "overallRank": 354
   },
   {
     "sleeperId": "11593",
@@ -4196,7 +4612,7 @@
     "replacementValue": 144.5,
     "vbdScore": -126.7,
     "positionRank": 99,
-    "overallRank": 323
+    "overallRank": 355
   },
   {
     "sleeperId": "5848",
@@ -4209,7 +4625,7 @@
     "replacementValue": 201.9,
     "vbdScore": -127.2,
     "positionRank": 118,
-    "overallRank": 324
+    "overallRank": 356
   },
   {
     "sleeperId": "7554",
@@ -4222,7 +4638,7 @@
     "replacementValue": 144.5,
     "vbdScore": -127.3,
     "positionRank": 100,
-    "overallRank": 325
+    "overallRank": 357
   },
   {
     "sleeperId": "10220",
@@ -4235,7 +4651,7 @@
     "replacementValue": 144.5,
     "vbdScore": -127.3,
     "positionRank": 101,
-    "overallRank": 326
+    "overallRank": 358
   },
   {
     "sleeperId": "11201",
@@ -4248,7 +4664,7 @@
     "replacementValue": 144.5,
     "vbdScore": -127.4,
     "positionRank": 102,
-    "overallRank": 327
+    "overallRank": 359
   },
   {
     "sleeperId": "7568",
@@ -4261,7 +4677,7 @@
     "replacementValue": 144.5,
     "vbdScore": -128.2,
     "positionRank": 103,
-    "overallRank": 328
+    "overallRank": 360
   },
   {
     "sleeperId": "13264",
@@ -4274,7 +4690,7 @@
     "replacementValue": 201.9,
     "vbdScore": -128.2,
     "positionRank": 119,
-    "overallRank": 329
+    "overallRank": 361
   },
   {
     "sleeperId": "11371",
@@ -4287,7 +4703,7 @@
     "replacementValue": 144.5,
     "vbdScore": -128.4,
     "positionRank": 104,
-    "overallRank": 330
+    "overallRank": 362
   },
   {
     "sleeperId": "4219",
@@ -4300,7 +4716,7 @@
     "replacementValue": 192.2,
     "vbdScore": -128.4,
     "positionRank": 78,
-    "overallRank": 331
+    "overallRank": 363
   },
   {
     "sleeperId": "7536",
@@ -4313,7 +4729,7 @@
     "replacementValue": 144.5,
     "vbdScore": -128.5,
     "positionRank": 105,
-    "overallRank": 332
+    "overallRank": 364
   },
   {
     "sleeperId": "9229",
@@ -4326,7 +4742,7 @@
     "replacementValue": 261.5,
     "vbdScore": -128.8,
     "positionRank": 31,
-    "overallRank": 333
+    "overallRank": 365
   },
   {
     "sleeperId": "8172",
@@ -4339,7 +4755,7 @@
     "replacementValue": 144.5,
     "vbdScore": -128.8,
     "positionRank": 106,
-    "overallRank": 334
+    "overallRank": 366
   },
   {
     "sleeperId": "11199",
@@ -4352,7 +4768,7 @@
     "replacementValue": 192.2,
     "vbdScore": -128.9,
     "positionRank": 79,
-    "overallRank": 335
+    "overallRank": 367
   },
   {
     "sleeperId": "5870",
@@ -4365,7 +4781,7 @@
     "replacementValue": 261.5,
     "vbdScore": -129.2,
     "positionRank": 32,
-    "overallRank": 336
+    "overallRank": 368
   },
   {
     "sleeperId": "12540",
@@ -4378,7 +4794,7 @@
     "replacementValue": 201.9,
     "vbdScore": -129.2,
     "positionRank": 120,
-    "overallRank": 337
+    "overallRank": 369
   },
   {
     "sleeperId": "13293",
@@ -4391,7 +4807,7 @@
     "replacementValue": 201.9,
     "vbdScore": -129.2,
     "positionRank": 121,
-    "overallRank": 338
+    "overallRank": 370
   },
   {
     "sleeperId": "9487",
@@ -4404,7 +4820,7 @@
     "replacementValue": 201.9,
     "vbdScore": -129.5,
     "positionRank": 122,
-    "overallRank": 339
+    "overallRank": 371
   },
   {
     "sleeperId": "6039",
@@ -4417,7 +4833,7 @@
     "replacementValue": 192.2,
     "vbdScore": -129.9,
     "positionRank": 80,
-    "overallRank": 340
+    "overallRank": 372
   },
   {
     "sleeperId": "12497",
@@ -4430,7 +4846,7 @@
     "replacementValue": 201.9,
     "vbdScore": -130,
     "positionRank": 123,
-    "overallRank": 341
+    "overallRank": 373
   },
   {
     "sleeperId": "8214",
@@ -4443,7 +4859,7 @@
     "replacementValue": 144.5,
     "vbdScore": -130.2,
     "positionRank": 107,
-    "overallRank": 342
+    "overallRank": 374
   },
   {
     "sleeperId": "12543",
@@ -4456,7 +4872,7 @@
     "replacementValue": 192.2,
     "vbdScore": -130.2,
     "positionRank": 81,
-    "overallRank": 343
+    "overallRank": 375
   },
   {
     "sleeperId": "11596",
@@ -4469,7 +4885,7 @@
     "replacementValue": 144.5,
     "vbdScore": -130.7,
     "positionRank": 108,
-    "overallRank": 344
+    "overallRank": 376
   },
   {
     "sleeperId": "11820",
@@ -4482,7 +4898,7 @@
     "replacementValue": 144.5,
     "vbdScore": -130.7,
     "positionRank": 109,
-    "overallRank": 345
+    "overallRank": 377
   },
   {
     "sleeperId": "13338",
@@ -4495,7 +4911,7 @@
     "replacementValue": 201.9,
     "vbdScore": -131.1,
     "positionRank": 124,
-    "overallRank": 346
+    "overallRank": 378
   },
   {
     "sleeperId": "12457",
@@ -4508,7 +4924,7 @@
     "replacementValue": 192.2,
     "vbdScore": -131.2,
     "positionRank": 82,
-    "overallRank": 347
+    "overallRank": 379
   },
   {
     "sleeperId": "13348",
@@ -4521,7 +4937,7 @@
     "replacementValue": 192.2,
     "vbdScore": -131.5,
     "positionRank": 83,
-    "overallRank": 348
+    "overallRank": 380
   },
   {
     "sleeperId": "5374",
@@ -4534,7 +4950,7 @@
     "replacementValue": 201.9,
     "vbdScore": -131.6,
     "positionRank": 125,
-    "overallRank": 349
+    "overallRank": 381
   },
   {
     "sleeperId": "8227",
@@ -4547,7 +4963,7 @@
     "replacementValue": 144.5,
     "vbdScore": -131.7,
     "positionRank": 110,
-    "overallRank": 350
+    "overallRank": 382
   },
   {
     "sleeperId": "8170",
@@ -4560,7 +4976,7 @@
     "replacementValue": 144.5,
     "vbdScore": -132,
     "positionRank": 111,
-    "overallRank": 351
+    "overallRank": 383
   },
   {
     "sleeperId": "8484",
@@ -4573,7 +4989,7 @@
     "replacementValue": 144.5,
     "vbdScore": -132.1,
     "positionRank": 112,
-    "overallRank": 352
+    "overallRank": 384
   },
   {
     "sleeperId": "13329",
@@ -4586,7 +5002,7 @@
     "replacementValue": 201.9,
     "vbdScore": -132.6,
     "positionRank": 126,
-    "overallRank": 353
+    "overallRank": 385
   },
   {
     "sleeperId": "4995",
@@ -4599,7 +5015,7 @@
     "replacementValue": 144.5,
     "vbdScore": -134,
     "positionRank": 113,
-    "overallRank": 354
+    "overallRank": 386
   },
   {
     "sleeperId": "12467",
@@ -4612,7 +5028,7 @@
     "replacementValue": 192.2,
     "vbdScore": -134.5,
     "positionRank": 84,
-    "overallRank": 355
+    "overallRank": 387
   },
   {
     "sleeperId": "11082",
@@ -4625,7 +5041,7 @@
     "replacementValue": 144.5,
     "vbdScore": -134.8,
     "positionRank": 114,
-    "overallRank": 356
+    "overallRank": 388
   },
   {
     "sleeperId": "11716",
@@ -4638,7 +5054,7 @@
     "replacementValue": 144.5,
     "vbdScore": -134.8,
     "positionRank": 115,
-    "overallRank": 357
+    "overallRank": 389
   },
   {
     "sleeperId": "11627",
@@ -4651,7 +5067,7 @@
     "replacementValue": 201.9,
     "vbdScore": -134.8,
     "positionRank": 127,
-    "overallRank": 358
+    "overallRank": 390
   },
   {
     "sleeperId": "96",
@@ -4664,7 +5080,7 @@
     "replacementValue": 261.5,
     "vbdScore": -135.1,
     "positionRank": 33,
-    "overallRank": 359
+    "overallRank": 391
   },
   {
     "sleeperId": "3048",
@@ -4677,7 +5093,7 @@
     "replacementValue": 144.5,
     "vbdScore": -135.2,
     "positionRank": 116,
-    "overallRank": 360
+    "overallRank": 392
   },
   {
     "sleeperId": "12541",
@@ -4690,7 +5106,7 @@
     "replacementValue": 201.9,
     "vbdScore": -135.6,
     "positionRank": 128,
-    "overallRank": 361
+    "overallRank": 393
   },
   {
     "sleeperId": "11435",
@@ -4703,7 +5119,7 @@
     "replacementValue": 192.2,
     "vbdScore": -136.4,
     "positionRank": 85,
-    "overallRank": 362
+    "overallRank": 394
   },
   {
     "sleeperId": "12062",
@@ -4716,7 +5132,7 @@
     "replacementValue": 144.5,
     "vbdScore": -136.7,
     "positionRank": 117,
-    "overallRank": 363
+    "overallRank": 395
   },
   {
     "sleeperId": "11304",
@@ -4729,7 +5145,7 @@
     "replacementValue": 144.5,
     "vbdScore": -136.8,
     "positionRank": 118,
-    "overallRank": 364
+    "overallRank": 396
   },
   {
     "sleeperId": "7075",
@@ -4742,7 +5158,7 @@
     "replacementValue": 144.5,
     "vbdScore": -137.4,
     "positionRank": 119,
-    "overallRank": 365
+    "overallRank": 397
   },
   {
     "sleeperId": "13302",
@@ -4755,7 +5171,7 @@
     "replacementValue": 192.2,
     "vbdScore": -138.5,
     "positionRank": 86,
-    "overallRank": 366
+    "overallRank": 398
   },
   {
     "sleeperId": "7066",
@@ -4768,7 +5184,7 @@
     "replacementValue": 201.9,
     "vbdScore": -138.8,
     "positionRank": 129,
-    "overallRank": 367
+    "overallRank": 399
   },
   {
     "sleeperId": "12533",
@@ -4781,7 +5197,7 @@
     "replacementValue": 192.2,
     "vbdScore": -139,
     "positionRank": 87,
-    "overallRank": 368
+    "overallRank": 400
   },
   {
     "sleeperId": "6853",
@@ -4794,7 +5210,7 @@
     "replacementValue": 201.9,
     "vbdScore": -139.1,
     "positionRank": 130,
-    "overallRank": 369
+    "overallRank": 401
   },
   {
     "sleeperId": "12504",
@@ -4807,7 +5223,7 @@
     "replacementValue": 192.2,
     "vbdScore": -139.2,
     "positionRank": 88,
-    "overallRank": 370
+    "overallRank": 402
   },
   {
     "sleeperId": "6843",
@@ -4820,7 +5236,7 @@
     "replacementValue": 144.5,
     "vbdScore": -139.4,
     "positionRank": 120,
-    "overallRank": 371
+    "overallRank": 403
   },
   {
     "sleeperId": "8917",
@@ -4833,7 +5249,7 @@
     "replacementValue": 201.9,
     "vbdScore": -140,
     "positionRank": 131,
-    "overallRank": 372
+    "overallRank": 404
   },
   {
     "sleeperId": "3200",
@@ -4846,7 +5262,7 @@
     "replacementValue": 201.9,
     "vbdScore": -140.7,
     "positionRank": 132,
-    "overallRank": 373
+    "overallRank": 405
   },
   {
     "sleeperId": "8523",
@@ -4859,7 +5275,7 @@
     "replacementValue": 144.5,
     "vbdScore": -141.3,
     "positionRank": 121,
-    "overallRank": 374
+    "overallRank": 406
   },
   {
     "sleeperId": "6927",
@@ -4872,7 +5288,7 @@
     "replacementValue": 201.9,
     "vbdScore": -142.3,
     "positionRank": 133,
-    "overallRank": 375
+    "overallRank": 407
   },
   {
     "sleeperId": "11595",
@@ -4885,7 +5301,7 @@
     "replacementValue": 144.5,
     "vbdScore": -142.8,
     "positionRank": 122,
-    "overallRank": 376
+    "overallRank": 408
   },
   {
     "sleeperId": "12357",
@@ -4898,7 +5314,7 @@
     "replacementValue": 144.5,
     "vbdScore": -142.9,
     "positionRank": 123,
-    "overallRank": 377
+    "overallRank": 409
   },
   {
     "sleeperId": "11630",
@@ -4911,7 +5327,7 @@
     "replacementValue": 201.9,
     "vbdScore": -143.1,
     "positionRank": 134,
-    "overallRank": 378
+    "overallRank": 410
   },
   {
     "sleeperId": "6964",
@@ -4924,7 +5340,7 @@
     "replacementValue": 144.5,
     "vbdScore": -143.3,
     "positionRank": 124,
-    "overallRank": 379
+    "overallRank": 411
   },
   {
     "sleeperId": "7531",
@@ -4937,7 +5353,7 @@
     "replacementValue": 144.5,
     "vbdScore": -143.4,
     "positionRank": 125,
-    "overallRank": 380
+    "overallRank": 412
   },
   {
     "sleeperId": "11579",
@@ -4950,7 +5366,7 @@
     "replacementValue": 192.2,
     "vbdScore": -143.5,
     "positionRank": 89,
-    "overallRank": 381
+    "overallRank": 413
   },
   {
     "sleeperId": "12476",
@@ -4963,7 +5379,7 @@
     "replacementValue": 192.2,
     "vbdScore": -143.8,
     "positionRank": 90,
-    "overallRank": 382
+    "overallRank": 414
   },
   {
     "sleeperId": "12544",
@@ -4976,7 +5392,7 @@
     "replacementValue": 192.2,
     "vbdScore": -143.8,
     "positionRank": 91,
-    "overallRank": 383
+    "overallRank": 415
   },
   {
     "sleeperId": "13411",
@@ -4989,7 +5405,7 @@
     "replacementValue": 201.9,
     "vbdScore": -144.2,
     "positionRank": 135,
-    "overallRank": 384
+    "overallRank": 416
   },
   {
     "sleeperId": "7670",
@@ -5002,7 +5418,7 @@
     "replacementValue": 201.9,
     "vbdScore": -144.4,
     "positionRank": 136,
-    "overallRank": 385
+    "overallRank": 417
   },
   {
     "sleeperId": "8698",
@@ -5015,7 +5431,7 @@
     "replacementValue": 144.5,
     "vbdScore": -144.5,
     "positionRank": 126,
-    "overallRank": 386
+    "overallRank": 418
   },
   {
     "sleeperId": "10224",
@@ -5028,7 +5444,7 @@
     "replacementValue": 144.5,
     "vbdScore": -144.5,
     "positionRank": 127,
-    "overallRank": 387
+    "overallRank": 419
   },
   {
     "sleeperId": "4080",
@@ -5041,7 +5457,7 @@
     "replacementValue": 201.9,
     "vbdScore": -144.5,
     "positionRank": 137,
-    "overallRank": 388
+    "overallRank": 420
   },
   {
     "sleeperId": "12787",
@@ -5054,7 +5470,7 @@
     "replacementValue": 192.2,
     "vbdScore": -144.8,
     "positionRank": 92,
-    "overallRank": 389
+    "overallRank": 421
   },
   {
     "sleeperId": "11610",
@@ -5067,7 +5483,7 @@
     "replacementValue": 201.9,
     "vbdScore": -145.1,
     "positionRank": 138,
-    "overallRank": 390
+    "overallRank": 422
   },
   {
     "sleeperId": "11589",
@@ -5080,7 +5496,7 @@
     "replacementValue": 192.2,
     "vbdScore": -145.2,
     "positionRank": 93,
-    "overallRank": 391
+    "overallRank": 423
   },
   {
     "sleeperId": "9492",
@@ -5093,7 +5509,7 @@
     "replacementValue": 201.9,
     "vbdScore": -146,
     "positionRank": 139,
-    "overallRank": 392
+    "overallRank": 424
   },
   {
     "sleeperId": "13413",
@@ -5106,7 +5522,7 @@
     "replacementValue": 201.9,
     "vbdScore": -146.1,
     "positionRank": 140,
-    "overallRank": 393
+    "overallRank": 425
   },
   {
     "sleeperId": "11571",
@@ -5119,7 +5535,7 @@
     "replacementValue": 192.2,
     "vbdScore": -146.3,
     "positionRank": 94,
-    "overallRank": 394
+    "overallRank": 426
   },
   {
     "sleeperId": "9504",
@@ -5132,7 +5548,7 @@
     "replacementValue": 201.9,
     "vbdScore": -146.8,
     "positionRank": 141,
-    "overallRank": 395
+    "overallRank": 427
   },
   {
     "sleeperId": "9999",
@@ -5145,7 +5561,7 @@
     "replacementValue": 261.5,
     "vbdScore": -147.7,
     "positionRank": 34,
-    "overallRank": 396
+    "overallRank": 428
   },
   {
     "sleeperId": "4274",
@@ -5158,7 +5574,7 @@
     "replacementValue": 201.9,
     "vbdScore": -147.8,
     "positionRank": 142,
-    "overallRank": 397
+    "overallRank": 429
   },
   {
     "sleeperId": "11625",
@@ -5171,7 +5587,7 @@
     "replacementValue": 201.9,
     "vbdScore": -148.1,
     "positionRank": 143,
-    "overallRank": 398
+    "overallRank": 430
   },
   {
     "sleeperId": "12455",
@@ -5184,7 +5600,7 @@
     "replacementValue": 192.2,
     "vbdScore": -148.1,
     "positionRank": 95,
-    "overallRank": 399
+    "overallRank": 431
   },
   {
     "sleeperId": "13477",
@@ -5197,7 +5613,7 @@
     "replacementValue": 201.9,
     "vbdScore": -148.4,
     "positionRank": 144,
-    "overallRank": 400
+    "overallRank": 432
   },
   {
     "sleeperId": "13424",
@@ -5210,7 +5626,7 @@
     "replacementValue": 192.2,
     "vbdScore": -148.4,
     "positionRank": 96,
-    "overallRank": 401
+    "overallRank": 433
   },
   {
     "sleeperId": "7527",
@@ -5223,7 +5639,7 @@
     "replacementValue": 261.5,
     "vbdScore": -149,
     "positionRank": 35,
-    "overallRank": 402
+    "overallRank": 434
   },
   {
     "sleeperId": "7538",
@@ -5236,7 +5652,7 @@
     "replacementValue": 261.5,
     "vbdScore": -149.2,
     "positionRank": 36,
-    "overallRank": 403
+    "overallRank": 435
   },
   {
     "sleeperId": "11623",
@@ -5249,7 +5665,7 @@
     "replacementValue": 201.9,
     "vbdScore": -149.4,
     "positionRank": 145,
-    "overallRank": 404
+    "overallRank": 436
   },
   {
     "sleeperId": "10225",
@@ -5262,7 +5678,7 @@
     "replacementValue": 201.9,
     "vbdScore": -149.4,
     "positionRank": 146,
-    "overallRank": 405
+    "overallRank": 437
   },
   {
     "sleeperId": "8180",
@@ -5275,7 +5691,7 @@
     "replacementValue": 201.9,
     "vbdScore": -150,
     "positionRank": 147,
-    "overallRank": 406
+    "overallRank": 438
   },
   {
     "sleeperId": "13420",
@@ -5288,7 +5704,7 @@
     "replacementValue": 201.9,
     "vbdScore": -150.6,
     "positionRank": 148,
-    "overallRank": 407
+    "overallRank": 439
   },
   {
     "sleeperId": "7587",
@@ -5301,7 +5717,7 @@
     "replacementValue": 201.9,
     "vbdScore": -150.8,
     "positionRank": 149,
-    "overallRank": 408
+    "overallRank": 440
   },
   {
     "sleeperId": "13405",
@@ -5314,7 +5730,7 @@
     "replacementValue": 192.2,
     "vbdScore": -150.9,
     "positionRank": 97,
-    "overallRank": 409
+    "overallRank": 441
   },
   {
     "sleeperId": "8116",
@@ -5327,7 +5743,7 @@
     "replacementValue": 192.2,
     "vbdScore": -151.9,
     "positionRank": 98,
-    "overallRank": 410
+    "overallRank": 442
   },
   {
     "sleeperId": "8147",
@@ -5340,7 +5756,7 @@
     "replacementValue": 201.9,
     "vbdScore": -152.6,
     "positionRank": 150,
-    "overallRank": 411
+    "overallRank": 443
   },
   {
     "sleeperId": "12471",
@@ -5353,7 +5769,7 @@
     "replacementValue": 192.2,
     "vbdScore": -153.1,
     "positionRank": 99,
-    "overallRank": 412
+    "overallRank": 444
   },
   {
     "sleeperId": "13353",
@@ -5366,7 +5782,7 @@
     "replacementValue": 201.9,
     "vbdScore": -153.6,
     "positionRank": 151,
-    "overallRank": 413
+    "overallRank": 445
   },
   {
     "sleeperId": "6011",
@@ -5379,7 +5795,7 @@
     "replacementValue": 261.5,
     "vbdScore": -153.8,
     "positionRank": 37,
-    "overallRank": 414
+    "overallRank": 446
   },
   {
     "sleeperId": "6960",
@@ -5392,7 +5808,7 @@
     "replacementValue": 201.9,
     "vbdScore": -153.9,
     "positionRank": 152,
-    "overallRank": 415
+    "overallRank": 447
   },
   {
     "sleeperId": "8204",
@@ -5405,7 +5821,7 @@
     "replacementValue": 201.9,
     "vbdScore": -154.2,
     "positionRank": 153,
-    "overallRank": 416
+    "overallRank": 448
   },
   {
     "sleeperId": "8230",
@@ -5418,7 +5834,7 @@
     "replacementValue": 192.2,
     "vbdScore": -154.4,
     "positionRank": 100,
-    "overallRank": 417
+    "overallRank": 449
   },
   {
     "sleeperId": "8139",
@@ -5431,7 +5847,7 @@
     "replacementValue": 192.2,
     "vbdScore": -155.2,
     "positionRank": 101,
-    "overallRank": 418
+    "overallRank": 450
   },
   {
     "sleeperId": "10866",
@@ -5444,7 +5860,7 @@
     "replacementValue": 261.5,
     "vbdScore": -155.6,
     "positionRank": 38,
-    "overallRank": 419
+    "overallRank": 451
   },
   {
     "sleeperId": "4718",
@@ -5457,7 +5873,7 @@
     "replacementValue": 192.2,
     "vbdScore": -156.3,
     "positionRank": 102,
-    "overallRank": 420
+    "overallRank": 452
   },
   {
     "sleeperId": "11565",
@@ -5470,7 +5886,7 @@
     "replacementValue": 261.5,
     "vbdScore": -156.5,
     "positionRank": 39,
-    "overallRank": 421
+    "overallRank": 453
   },
   {
     "sleeperId": "12523",
@@ -5483,7 +5899,7 @@
     "replacementValue": 201.9,
     "vbdScore": -156.5,
     "positionRank": 154,
-    "overallRank": 422
+    "overallRank": 454
   },
   {
     "sleeperId": "9506",
@@ -5496,7 +5912,7 @@
     "replacementValue": 192.2,
     "vbdScore": -157.5,
     "positionRank": 103,
-    "overallRank": 423
+    "overallRank": 455
   },
   {
     "sleeperId": "9757",
@@ -5509,7 +5925,7 @@
     "replacementValue": 192.2,
     "vbdScore": -157.7,
     "positionRank": 104,
-    "overallRank": 424
+    "overallRank": 456
   },
   {
     "sleeperId": "8800",
@@ -5522,7 +5938,7 @@
     "replacementValue": 192.2,
     "vbdScore": -157.8,
     "positionRank": 105,
-    "overallRank": 425
+    "overallRank": 457
   },
   {
     "sleeperId": "12492",
@@ -5535,7 +5951,7 @@
     "replacementValue": 201.9,
     "vbdScore": -157.9,
     "positionRank": 155,
-    "overallRank": 426
+    "overallRank": 458
   },
   {
     "sleeperId": "10219",
@@ -5548,7 +5964,7 @@
     "replacementValue": 192.2,
     "vbdScore": -157.9,
     "positionRank": 106,
-    "overallRank": 427
+    "overallRank": 459
   },
   {
     "sleeperId": "2078",
@@ -5561,7 +5977,7 @@
     "replacementValue": 201.9,
     "vbdScore": -158.6,
     "positionRank": 156,
-    "overallRank": 428
+    "overallRank": 460
   },
   {
     "sleeperId": "11586",
@@ -5574,7 +5990,7 @@
     "replacementValue": 192.2,
     "vbdScore": -158.7,
     "positionRank": 107,
-    "overallRank": 429
+    "overallRank": 461
   },
   {
     "sleeperId": "11647",
@@ -5587,7 +6003,7 @@
     "replacementValue": 192.2,
     "vbdScore": -159.5,
     "positionRank": 108,
-    "overallRank": 430
+    "overallRank": 462
   },
   {
     "sleeperId": "8207",
@@ -5600,7 +6016,7 @@
     "replacementValue": 192.2,
     "vbdScore": -159.7,
     "positionRank": 109,
-    "overallRank": 431
+    "overallRank": 463
   },
   {
     "sleeperId": "5938",
@@ -5613,7 +6029,7 @@
     "replacementValue": 201.9,
     "vbdScore": -159.9,
     "positionRank": 157,
-    "overallRank": 432
+    "overallRank": 464
   },
   {
     "sleeperId": "12738",
@@ -5626,7 +6042,7 @@
     "replacementValue": 192.2,
     "vbdScore": -160,
     "positionRank": 110,
-    "overallRank": 433
+    "overallRank": 465
   },
   {
     "sleeperId": "13533",
@@ -5639,7 +6055,7 @@
     "replacementValue": 201.9,
     "vbdScore": -160.4,
     "positionRank": 158,
-    "overallRank": 434
+    "overallRank": 466
   },
   {
     "sleeperId": "11299",
@@ -5652,7 +6068,7 @@
     "replacementValue": 192.2,
     "vbdScore": -161.3,
     "positionRank": 111,
-    "overallRank": 435
+    "overallRank": 467
   },
   {
     "sleeperId": "6918",
@@ -5665,7 +6081,7 @@
     "replacementValue": 192.2,
     "vbdScore": -161.7,
     "positionRank": 112,
-    "overallRank": 436
+    "overallRank": 468
   },
   {
     "sleeperId": "10234",
@@ -5678,7 +6094,7 @@
     "replacementValue": 201.9,
     "vbdScore": -162,
     "positionRank": 159,
-    "overallRank": 437
+    "overallRank": 469
   },
   {
     "sleeperId": "10867",
@@ -5691,7 +6107,7 @@
     "replacementValue": 201.9,
     "vbdScore": -162.3,
     "positionRank": 160,
-    "overallRank": 438
+    "overallRank": 470
   },
   {
     "sleeperId": "7593",
@@ -5704,7 +6120,7 @@
     "replacementValue": 192.2,
     "vbdScore": -162.8,
     "positionRank": 113,
-    "overallRank": 439
+    "overallRank": 471
   },
   {
     "sleeperId": "12499",
@@ -5717,7 +6133,7 @@
     "replacementValue": 201.9,
     "vbdScore": -163,
     "positionRank": 161,
-    "overallRank": 440
+    "overallRank": 472
   },
   {
     "sleeperId": "5773",
@@ -5730,7 +6146,7 @@
     "replacementValue": 201.9,
     "vbdScore": -163.2,
     "positionRank": 162,
-    "overallRank": 441
+    "overallRank": 473
   },
   {
     "sleeperId": "11210",
@@ -5743,7 +6159,7 @@
     "replacementValue": 201.9,
     "vbdScore": -163.5,
     "positionRank": 163,
-    "overallRank": 442
+    "overallRank": 474
   },
   {
     "sleeperId": "6694",
@@ -5756,7 +6172,7 @@
     "replacementValue": 192.2,
     "vbdScore": -163.9,
     "positionRank": 114,
-    "overallRank": 443
+    "overallRank": 475
   },
   {
     "sleeperId": "13272",
@@ -5769,7 +6185,7 @@
     "replacementValue": 261.5,
     "vbdScore": -164,
     "positionRank": 40,
-    "overallRank": 444
+    "overallRank": 476
   },
   {
     "sleeperId": "13380",
@@ -5782,7 +6198,7 @@
     "replacementValue": 201.9,
     "vbdScore": -164.1,
     "positionRank": 164,
-    "overallRank": 445
+    "overallRank": 477
   },
   {
     "sleeperId": "12634",
@@ -5795,7 +6211,7 @@
     "replacementValue": 201.9,
     "vbdScore": -164.1,
     "positionRank": 165,
-    "overallRank": 446
+    "overallRank": 478
   },
   {
     "sleeperId": "8220",
@@ -5808,7 +6224,7 @@
     "replacementValue": 192.2,
     "vbdScore": -165,
     "positionRank": 115,
-    "overallRank": 447
+    "overallRank": 479
   },
   {
     "sleeperId": "11421",
@@ -5821,7 +6237,7 @@
     "replacementValue": 201.9,
     "vbdScore": -165.1,
     "positionRank": 166,
-    "overallRank": 448
+    "overallRank": 480
   },
   {
     "sleeperId": "11643",
@@ -5834,7 +6250,7 @@
     "replacementValue": 192.2,
     "vbdScore": -165.5,
     "positionRank": 116,
-    "overallRank": 449
+    "overallRank": 481
   },
   {
     "sleeperId": "12670",
@@ -5847,7 +6263,7 @@
     "replacementValue": 201.9,
     "vbdScore": -166.4,
     "positionRank": 167,
-    "overallRank": 450
+    "overallRank": 482
   },
   {
     "sleeperId": "11650",
@@ -5860,7 +6276,7 @@
     "replacementValue": 201.9,
     "vbdScore": -167.1,
     "positionRank": 168,
-    "overallRank": 451
+    "overallRank": 483
   },
   {
     "sleeperId": "9511",
@@ -5873,7 +6289,7 @@
     "replacementValue": 192.2,
     "vbdScore": -168,
     "positionRank": 117,
-    "overallRank": 452
+    "overallRank": 484
   },
   {
     "sleeperId": "6931",
@@ -5886,7 +6302,7 @@
     "replacementValue": 192.2,
     "vbdScore": -168.6,
     "positionRank": 118,
-    "overallRank": 453
+    "overallRank": 485
   },
   {
     "sleeperId": "5154",
@@ -5899,7 +6315,7 @@
     "replacementValue": 201.9,
     "vbdScore": -169.3,
     "positionRank": 169,
-    "overallRank": 454
+    "overallRank": 486
   },
   {
     "sleeperId": "13333",
@@ -5912,7 +6328,7 @@
     "replacementValue": 201.9,
     "vbdScore": -169.3,
     "positionRank": 170,
-    "overallRank": 455
+    "overallRank": 487
   },
   {
     "sleeperId": "11306",
@@ -5925,7 +6341,7 @@
     "replacementValue": 201.9,
     "vbdScore": -170.5,
     "positionRank": 171,
-    "overallRank": 456
+    "overallRank": 488
   },
   {
     "sleeperId": "13276",
@@ -5938,7 +6354,7 @@
     "replacementValue": 201.9,
     "vbdScore": -170.8,
     "positionRank": 172,
-    "overallRank": 457
+    "overallRank": 489
   },
   {
     "sleeperId": "19",
@@ -5951,7 +6367,7 @@
     "replacementValue": 261.5,
     "vbdScore": -171.1,
     "positionRank": 41,
-    "overallRank": 458
+    "overallRank": 490
   },
   {
     "sleeperId": "6427",
@@ -5964,7 +6380,7 @@
     "replacementValue": 201.9,
     "vbdScore": -171.4,
     "positionRank": 173,
-    "overallRank": 459
+    "overallRank": 491
   },
   {
     "sleeperId": "9497",
@@ -5977,7 +6393,7 @@
     "replacementValue": 201.9,
     "vbdScore": -171.5,
     "positionRank": 174,
-    "overallRank": 460
+    "overallRank": 492
   },
   {
     "sleeperId": "12524",
@@ -5990,7 +6406,7 @@
     "replacementValue": 261.5,
     "vbdScore": -171.6,
     "positionRank": 42,
-    "overallRank": 461
+    "overallRank": 493
   },
   {
     "sleeperId": "6996",
@@ -6003,7 +6419,7 @@
     "replacementValue": 192.2,
     "vbdScore": -172.4,
     "positionRank": 119,
-    "overallRank": 462
+    "overallRank": 494
   },
   {
     "sleeperId": "11034",
@@ -6016,7 +6432,7 @@
     "replacementValue": 201.9,
     "vbdScore": -173,
     "positionRank": 175,
-    "overallRank": 463
+    "overallRank": 495
   },
   {
     "sleeperId": "8223",
@@ -6029,7 +6445,7 @@
     "replacementValue": 201.9,
     "vbdScore": -173,
     "positionRank": 176,
-    "overallRank": 464
+    "overallRank": 496
   },
   {
     "sleeperId": "6847",
@@ -6042,7 +6458,7 @@
     "replacementValue": 201.9,
     "vbdScore": -173.2,
     "positionRank": 177,
-    "overallRank": 465
+    "overallRank": 497
   },
   {
     "sleeperId": "7529",
@@ -6055,7 +6471,7 @@
     "replacementValue": 192.2,
     "vbdScore": -173.3,
     "positionRank": 120,
-    "overallRank": 466
+    "overallRank": 498
   },
   {
     "sleeperId": "8195",
@@ -6068,7 +6484,7 @@
     "replacementValue": 192.2,
     "vbdScore": -173.7,
     "positionRank": 121,
-    "overallRank": 467
+    "overallRank": 499
   },
   {
     "sleeperId": "9227",
@@ -6081,7 +6497,7 @@
     "replacementValue": 192.2,
     "vbdScore": -173.9,
     "positionRank": 122,
-    "overallRank": 468
+    "overallRank": 500
   },
   {
     "sleeperId": "11237",
@@ -6094,7 +6510,7 @@
     "replacementValue": 192.2,
     "vbdScore": -174.5,
     "positionRank": 123,
-    "overallRank": 469
+    "overallRank": 501
   },
   {
     "sleeperId": "8135",
@@ -6107,7 +6523,7 @@
     "replacementValue": 201.9,
     "vbdScore": -174.6,
     "positionRank": 178,
-    "overallRank": 470
+    "overallRank": 502
   },
   {
     "sleeperId": "10223",
@@ -6120,7 +6536,7 @@
     "replacementValue": 192.2,
     "vbdScore": -174.6,
     "positionRank": 124,
-    "overallRank": 471
+    "overallRank": 503
   },
   {
     "sleeperId": "8200",
@@ -6133,7 +6549,7 @@
     "replacementValue": 201.9,
     "vbdScore": -174.9,
     "positionRank": 179,
-    "overallRank": 472
+    "overallRank": 504
   },
   {
     "sleeperId": "9510",
@@ -6146,7 +6562,7 @@
     "replacementValue": 192.2,
     "vbdScore": -175.1,
     "positionRank": 125,
-    "overallRank": 473
+    "overallRank": 505
   },
   {
     "sleeperId": "6598",
@@ -6159,7 +6575,7 @@
     "replacementValue": 201.9,
     "vbdScore": -175.7,
     "positionRank": 180,
-    "overallRank": 474
+    "overallRank": 506
   },
   {
     "sleeperId": "7757",
@@ -6172,7 +6588,7 @@
     "replacementValue": 201.9,
     "vbdScore": -176.3,
     "positionRank": 181,
-    "overallRank": 475
+    "overallRank": 507
   },
   {
     "sleeperId": "7204",
@@ -6185,7 +6601,7 @@
     "replacementValue": 192.2,
     "vbdScore": -176.4,
     "positionRank": 126,
-    "overallRank": 476
+    "overallRank": 508
   },
   {
     "sleeperId": "11577",
@@ -6198,7 +6614,7 @@
     "replacementValue": 192.2,
     "vbdScore": -176.5,
     "positionRank": 127,
-    "overallRank": 477
+    "overallRank": 509
   },
   {
     "sleeperId": "12520",
@@ -6211,7 +6627,7 @@
     "replacementValue": 201.9,
     "vbdScore": -176.6,
     "positionRank": 182,
-    "overallRank": 478
+    "overallRank": 510
   },
   {
     "sleeperId": "12462",
@@ -6224,7 +6640,7 @@
     "replacementValue": 192.2,
     "vbdScore": -177.7,
     "positionRank": 128,
-    "overallRank": 479
+    "overallRank": 511
   },
   {
     "sleeperId": "6144",
@@ -6237,7 +6653,7 @@
     "replacementValue": 192.2,
     "vbdScore": -177.8,
     "positionRank": 129,
-    "overallRank": 480
+    "overallRank": 512
   },
   {
     "sleeperId": "11895",
@@ -6250,7 +6666,7 @@
     "replacementValue": 201.9,
     "vbdScore": -178,
     "positionRank": 183,
-    "overallRank": 481
+    "overallRank": 513
   },
   {
     "sleeperId": "10218",
@@ -6263,7 +6679,7 @@
     "replacementValue": 201.9,
     "vbdScore": -178.7,
     "positionRank": 184,
-    "overallRank": 482
+    "overallRank": 514
   },
   {
     "sleeperId": "12969",
@@ -6276,7 +6692,7 @@
     "replacementValue": 192.2,
     "vbdScore": -179,
     "positionRank": 130,
-    "overallRank": 483
+    "overallRank": 515
   },
   {
     "sleeperId": "4017",
@@ -6289,7 +6705,7 @@
     "replacementValue": 261.5,
     "vbdScore": -179.1,
     "positionRank": 43,
-    "overallRank": 484
+    "overallRank": 516
   },
   {
     "sleeperId": "13394",
@@ -6302,7 +6718,7 @@
     "replacementValue": 201.9,
     "vbdScore": -179.5,
     "positionRank": 185,
-    "overallRank": 485
+    "overallRank": 517
   },
   {
     "sleeperId": "8208",
@@ -6315,7 +6731,7 @@
     "replacementValue": 192.2,
     "vbdScore": -179.8,
     "positionRank": 131,
-    "overallRank": 486
+    "overallRank": 518
   },
   {
     "sleeperId": "8188",
@@ -6328,7 +6744,7 @@
     "replacementValue": 201.9,
     "vbdScore": -179.9,
     "positionRank": 186,
-    "overallRank": 487
+    "overallRank": 519
   },
   {
     "sleeperId": "8254",
@@ -6341,7 +6757,7 @@
     "replacementValue": 192.2,
     "vbdScore": -180,
     "positionRank": 132,
-    "overallRank": 488
+    "overallRank": 520
   },
   {
     "sleeperId": "6154",
@@ -6354,7 +6770,7 @@
     "replacementValue": 201.9,
     "vbdScore": -180.3,
     "positionRank": 187,
-    "overallRank": 489
+    "overallRank": 521
   },
   {
     "sleeperId": "13419",
@@ -6367,7 +6783,7 @@
     "replacementValue": 192.2,
     "vbdScore": -180.4,
     "positionRank": 133,
-    "overallRank": 490
+    "overallRank": 522
   },
   {
     "sleeperId": "7595",
@@ -6380,7 +6796,7 @@
     "replacementValue": 201.9,
     "vbdScore": -180.7,
     "positionRank": 188,
-    "overallRank": 491
+    "overallRank": 523
   },
   {
     "sleeperId": "6798",
@@ -6393,7 +6809,7 @@
     "replacementValue": 201.9,
     "vbdScore": -181,
     "positionRank": 189,
-    "overallRank": 492
+    "overallRank": 524
   },
   {
     "sleeperId": "11573",
@@ -6406,7 +6822,7 @@
     "replacementValue": 192.2,
     "vbdScore": -181.7,
     "positionRank": 134,
-    "overallRank": 493
+    "overallRank": 525
   },
   {
     "sleeperId": "11378",
@@ -6419,7 +6835,7 @@
     "replacementValue": 192.2,
     "vbdScore": -181.9,
     "positionRank": 135,
-    "overallRank": 494
+    "overallRank": 526
   },
   {
     "sleeperId": "8076",
@@ -6432,7 +6848,7 @@
     "replacementValue": 201.9,
     "vbdScore": -183,
     "positionRank": 190,
-    "overallRank": 495
+    "overallRank": 527
   },
   {
     "sleeperId": "13595",
@@ -6445,7 +6861,7 @@
     "replacementValue": 192.2,
     "vbdScore": -183,
     "positionRank": 136,
-    "overallRank": 496
+    "overallRank": 528
   },
   {
     "sleeperId": "12470",
@@ -6458,7 +6874,7 @@
     "replacementValue": 261.5,
     "vbdScore": -183.3,
     "positionRank": 44,
-    "overallRank": 497
+    "overallRank": 529
   },
   {
     "sleeperId": "11783",
@@ -6471,7 +6887,7 @@
     "replacementValue": 201.9,
     "vbdScore": -183.7,
     "positionRank": 191,
-    "overallRank": 498
+    "overallRank": 530
   },
   {
     "sleeperId": "11729",
@@ -6484,7 +6900,7 @@
     "replacementValue": 192.2,
     "vbdScore": -184.1,
     "positionRank": 137,
-    "overallRank": 499
+    "overallRank": 531
   },
   {
     "sleeperId": "5121",
@@ -6497,7 +6913,7 @@
     "replacementValue": 201.9,
     "vbdScore": -184.2,
     "positionRank": 192,
-    "overallRank": 500
+    "overallRank": 532
   },
   {
     "sleeperId": "7537",
@@ -6510,7 +6926,7 @@
     "replacementValue": 192.2,
     "vbdScore": -184.4,
     "positionRank": 138,
-    "overallRank": 501
+    "overallRank": 533
   },
   {
     "sleeperId": "7720",
@@ -6523,7 +6939,7 @@
     "replacementValue": 192.2,
     "vbdScore": -184.4,
     "positionRank": 139,
-    "overallRank": 502
+    "overallRank": 534
   },
   {
     "sleeperId": "11583",
@@ -6536,7 +6952,7 @@
     "replacementValue": 192.2,
     "vbdScore": -184.7,
     "positionRank": 140,
-    "overallRank": 503
+    "overallRank": 535
   },
   {
     "sleeperId": "4179",
@@ -6549,7 +6965,7 @@
     "replacementValue": 261.5,
     "vbdScore": -184.8,
     "positionRank": 45,
-    "overallRank": 504
+    "overallRank": 536
   },
   {
     "sleeperId": "8756",
@@ -6562,7 +6978,7 @@
     "replacementValue": 201.9,
     "vbdScore": -184.8,
     "positionRank": 193,
-    "overallRank": 505
+    "overallRank": 537
   },
   {
     "sleeperId": "6012",
@@ -6575,7 +6991,7 @@
     "replacementValue": 192.2,
     "vbdScore": -184.9,
     "positionRank": 141,
-    "overallRank": 506
+    "overallRank": 538
   },
   {
     "sleeperId": "8253",
@@ -6588,7 +7004,7 @@
     "replacementValue": 201.9,
     "vbdScore": -185.1,
     "positionRank": 194,
-    "overallRank": 507
+    "overallRank": 539
   },
   {
     "sleeperId": "11311",
@@ -6601,7 +7017,7 @@
     "replacementValue": 201.9,
     "vbdScore": -185.3,
     "positionRank": 195,
-    "overallRank": 508
+    "overallRank": 540
   },
   {
     "sleeperId": "13297",
@@ -6614,7 +7030,7 @@
     "replacementValue": 201.9,
     "vbdScore": -186.1,
     "positionRank": 196,
-    "overallRank": 509
+    "overallRank": 541
   },
   {
     "sleeperId": "11959",
@@ -6627,7 +7043,7 @@
     "replacementValue": 201.9,
     "vbdScore": -186.4,
     "positionRank": 197,
-    "overallRank": 510
+    "overallRank": 542
   },
   {
     "sleeperId": "2306",
@@ -6640,7 +7056,7 @@
     "replacementValue": 261.5,
     "vbdScore": -186.5,
     "positionRank": 46,
-    "overallRank": 511
+    "overallRank": 543
   },
   {
     "sleeperId": "8168",
@@ -6653,7 +7069,7 @@
     "replacementValue": 201.9,
     "vbdScore": -186.9,
     "positionRank": 198,
-    "overallRank": 512
+    "overallRank": 544
   },
   {
     "sleeperId": "11636",
@@ -6666,7 +7082,7 @@
     "replacementValue": 201.9,
     "vbdScore": -187.1,
     "positionRank": 199,
-    "overallRank": 513
+    "overallRank": 545
   },
   {
     "sleeperId": "7812",
@@ -6679,7 +7095,7 @@
     "replacementValue": 201.9,
     "vbdScore": -187.2,
     "positionRank": 200,
-    "overallRank": 514
+    "overallRank": 546
   },
   {
     "sleeperId": "6453",
@@ -6692,7 +7108,7 @@
     "replacementValue": 201.9,
     "vbdScore": -187.3,
     "positionRank": 201,
-    "overallRank": 515
+    "overallRank": 547
   },
   {
     "sleeperId": "12491",
@@ -6705,7 +7121,7 @@
     "replacementValue": 192.2,
     "vbdScore": -187.4,
     "positionRank": 142,
-    "overallRank": 516
+    "overallRank": 548
   },
   {
     "sleeperId": "7559",
@@ -6718,7 +7134,7 @@
     "replacementValue": 201.9,
     "vbdScore": -187.7,
     "positionRank": 202,
-    "overallRank": 517
+    "overallRank": 549
   },
   {
     "sleeperId": "8194",
@@ -6731,7 +7147,7 @@
     "replacementValue": 192.2,
     "vbdScore": -187.9,
     "positionRank": 143,
-    "overallRank": 518
+    "overallRank": 550
   },
   {
     "sleeperId": "11377",
@@ -6744,7 +7160,7 @@
     "replacementValue": 201.9,
     "vbdScore": -188,
     "positionRank": 203,
-    "overallRank": 519
+    "overallRank": 551
   },
   {
     "sleeperId": "7599",
@@ -6757,7 +7173,7 @@
     "replacementValue": 192.2,
     "vbdScore": -188,
     "positionRank": 144,
-    "overallRank": 520
+    "overallRank": 552
   },
   {
     "sleeperId": "11570",
@@ -6770,7 +7186,7 @@
     "replacementValue": 192.2,
     "vbdScore": -189.1,
     "positionRank": 145,
-    "overallRank": 521
+    "overallRank": 553
   },
   {
     "sleeperId": "11616",
@@ -6783,7 +7199,7 @@
     "replacementValue": 201.9,
     "vbdScore": -189.2,
     "positionRank": 204,
-    "overallRank": 522
+    "overallRank": 554
   },
   {
     "sleeperId": "10228",
@@ -6796,7 +7212,7 @@
     "replacementValue": 201.9,
     "vbdScore": -189.4,
     "positionRank": 205,
-    "overallRank": 523
+    "overallRank": 555
   },
   {
     "sleeperId": "11581",
@@ -6809,7 +7225,7 @@
     "replacementValue": 192.2,
     "vbdScore": -189.4,
     "positionRank": 146,
-    "overallRank": 524
+    "overallRank": 556
   },
   {
     "sleeperId": "8250",
@@ -6822,7 +7238,7 @@
     "replacementValue": 201.9,
     "vbdScore": -190,
     "positionRank": 206,
-    "overallRank": 525
+    "overallRank": 557
   },
   {
     "sleeperId": "4972",
@@ -6835,7 +7251,7 @@
     "replacementValue": 261.5,
     "vbdScore": -190.2,
     "positionRank": 47,
-    "overallRank": 526
+    "overallRank": 558
   },
   {
     "sleeperId": "9490",
@@ -6848,7 +7264,7 @@
     "replacementValue": 201.9,
     "vbdScore": -190.2,
     "positionRank": 207,
-    "overallRank": 527
+    "overallRank": 559
   },
   {
     "sleeperId": "11644",
@@ -6861,7 +7277,7 @@
     "replacementValue": 192.2,
     "vbdScore": -190.3,
     "positionRank": 147,
-    "overallRank": 528
+    "overallRank": 560
   },
   {
     "sleeperId": "12048",
@@ -6874,7 +7290,7 @@
     "replacementValue": 192.2,
     "vbdScore": -190.3,
     "positionRank": 148,
-    "overallRank": 529
+    "overallRank": 561
   },
   {
     "sleeperId": "11963",
@@ -6887,7 +7303,7 @@
     "replacementValue": 192.2,
     "vbdScore": -190.4,
     "positionRank": 149,
-    "overallRank": 530
+    "overallRank": 562
   },
   {
     "sleeperId": "9220",
@@ -6900,7 +7316,7 @@
     "replacementValue": 192.2,
     "vbdScore": -190.5,
     "positionRank": 150,
-    "overallRank": 531
+    "overallRank": 563
   },
   {
     "sleeperId": "6699",
@@ -6913,7 +7329,7 @@
     "replacementValue": 201.9,
     "vbdScore": -191.1,
     "positionRank": 208,
-    "overallRank": 532
+    "overallRank": 564
   },
   {
     "sleeperId": "8013",
@@ -6926,7 +7342,7 @@
     "replacementValue": 201.9,
     "vbdScore": -191.2,
     "positionRank": 209,
-    "overallRank": 533
+    "overallRank": 565
   },
   {
     "sleeperId": "829",
@@ -6939,7 +7355,7 @@
     "replacementValue": 261.5,
     "vbdScore": -191.4,
     "positionRank": 48,
-    "overallRank": 534
+    "overallRank": 566
   },
   {
     "sleeperId": "2334",
@@ -6952,7 +7368,7 @@
     "replacementValue": 201.9,
     "vbdScore": -191.8,
     "positionRank": 210,
-    "overallRank": 535
+    "overallRank": 567
   },
   {
     "sleeperId": "12171",
@@ -6965,7 +7381,7 @@
     "replacementValue": 192.2,
     "vbdScore": -192,
     "positionRank": 151,
-    "overallRank": 536
+    "overallRank": 568
   },
   {
     "sleeperId": "8414",
@@ -6978,7 +7394,7 @@
     "replacementValue": 201.9,
     "vbdScore": -192.2,
     "positionRank": 211,
-    "overallRank": 537
+    "overallRank": 569
   },
   {
     "sleeperId": "8202",
@@ -6991,7 +7407,7 @@
     "replacementValue": 201.9,
     "vbdScore": -192.6,
     "positionRank": 212,
-    "overallRank": 538
+    "overallRank": 570
   },
   {
     "sleeperId": "11629",
@@ -7004,7 +7420,7 @@
     "replacementValue": 201.9,
     "vbdScore": -192.8,
     "positionRank": 213,
-    "overallRank": 539
+    "overallRank": 571
   },
   {
     "sleeperId": "6185",
@@ -7017,7 +7433,7 @@
     "replacementValue": 261.5,
     "vbdScore": -193.9,
     "positionRank": 49,
-    "overallRank": 540
+    "overallRank": 572
   },
   {
     "sleeperId": "11562",
@@ -7030,7 +7446,7 @@
     "replacementValue": 261.5,
     "vbdScore": -194.2,
     "positionRank": 50,
-    "overallRank": 541
+    "overallRank": 573
   },
   {
     "sleeperId": "11574",
@@ -7043,7 +7459,7 @@
     "replacementValue": 192.2,
     "vbdScore": -194.2,
     "positionRank": 152,
-    "overallRank": 542
+    "overallRank": 574
   },
   {
     "sleeperId": "11617",
@@ -7056,7 +7472,7 @@
     "replacementValue": 201.9,
     "vbdScore": -194.7,
     "positionRank": 214,
-    "overallRank": 543
+    "overallRank": 575
   },
   {
     "sleeperId": "11320",
@@ -7069,7 +7485,7 @@
     "replacementValue": 201.9,
     "vbdScore": -195.1,
     "positionRank": 215,
-    "overallRank": 544
+    "overallRank": 576
   },
   {
     "sleeperId": "7746",
@@ -7082,7 +7498,7 @@
     "replacementValue": 201.9,
     "vbdScore": -195.3,
     "positionRank": 216,
-    "overallRank": 545
+    "overallRank": 577
   },
   {
     "sleeperId": "8160",
@@ -7095,7 +7511,7 @@
     "replacementValue": 261.5,
     "vbdScore": -195.6,
     "positionRank": 51,
-    "overallRank": 546
+    "overallRank": 578
   },
   {
     "sleeperId": "11168",
@@ -7108,7 +7524,7 @@
     "replacementValue": 201.9,
     "vbdScore": -195.7,
     "positionRank": 217,
-    "overallRank": 547
+    "overallRank": 579
   },
   {
     "sleeperId": "6386",
@@ -7121,7 +7537,7 @@
     "replacementValue": 201.9,
     "vbdScore": -195.8,
     "positionRank": 218,
-    "overallRank": 548
+    "overallRank": 580
   },
   {
     "sleeperId": "3155",
@@ -7134,7 +7550,7 @@
     "replacementValue": 201.9,
     "vbdScore": -196.6,
     "positionRank": 219,
-    "overallRank": 549
+    "overallRank": 581
   },
   {
     "sleeperId": "11633",
@@ -7147,7 +7563,7 @@
     "replacementValue": 201.9,
     "vbdScore": -196.7,
     "positionRank": 220,
-    "overallRank": 550
+    "overallRank": 582
   },
   {
     "sleeperId": "6588",
@@ -7160,7 +7576,7 @@
     "replacementValue": 201.9,
     "vbdScore": -197.3,
     "positionRank": 221,
-    "overallRank": 551
+    "overallRank": 583
   },
   {
     "sleeperId": "7039",
@@ -7173,7 +7589,7 @@
     "replacementValue": 201.9,
     "vbdScore": -197.5,
     "positionRank": 222,
-    "overallRank": 552
+    "overallRank": 584
   },
   {
     "sleeperId": "8801",
@@ -7186,7 +7602,7 @@
     "replacementValue": 201.9,
     "vbdScore": -198.3,
     "positionRank": 223,
-    "overallRank": 553
+    "overallRank": 585
   },
   {
     "sleeperId": "11762",
@@ -7199,7 +7615,7 @@
     "replacementValue": 201.9,
     "vbdScore": -198.6,
     "positionRank": 224,
-    "overallRank": 554
+    "overallRank": 586
   },
   {
     "sleeperId": "3257",
@@ -7212,7 +7628,7 @@
     "replacementValue": 261.5,
     "vbdScore": -198.9,
     "positionRank": 52,
-    "overallRank": 555
+    "overallRank": 587
   },
   {
     "sleeperId": "8176",
@@ -7225,7 +7641,7 @@
     "replacementValue": 201.9,
     "vbdScore": -199,
     "positionRank": 225,
-    "overallRank": 556
+    "overallRank": 588
   },
   {
     "sleeperId": "7521",
@@ -7238,7 +7654,7 @@
     "replacementValue": 201.9,
     "vbdScore": -199.2,
     "positionRank": 226,
-    "overallRank": 557
+    "overallRank": 589
   },
   {
     "sleeperId": "11608",
@@ -7251,7 +7667,7 @@
     "replacementValue": 201.9,
     "vbdScore": -199.3,
     "positionRank": 227,
-    "overallRank": 558
+    "overallRank": 590
   },
   {
     "sleeperId": "7436",
@@ -7264,7 +7680,7 @@
     "replacementValue": 201.9,
     "vbdScore": -199.4,
     "positionRank": 228,
-    "overallRank": 559
+    "overallRank": 591
   },
   {
     "sleeperId": "11806",
@@ -7277,7 +7693,7 @@
     "replacementValue": 201.9,
     "vbdScore": -199.5,
     "positionRank": 229,
-    "overallRank": 560
+    "overallRank": 592
   },
   {
     "sleeperId": "8783",
@@ -7290,7 +7706,7 @@
     "replacementValue": 201.9,
     "vbdScore": -200,
     "positionRank": 230,
-    "overallRank": 561
+    "overallRank": 593
   },
   {
     "sleeperId": "8527",
@@ -7303,7 +7719,7 @@
     "replacementValue": 201.9,
     "vbdScore": -200.1,
     "positionRank": 231,
-    "overallRank": 562
+    "overallRank": 594
   },
   {
     "sleeperId": "8921",
@@ -7316,7 +7732,7 @@
     "replacementValue": 201.9,
     "vbdScore": -200.2,
     "positionRank": 232,
-    "overallRank": 563
+    "overallRank": 595
   },
   {
     "sleeperId": "11808",
@@ -7329,7 +7745,7 @@
     "replacementValue": 201.9,
     "vbdScore": -200.6,
     "positionRank": 233,
-    "overallRank": 564
+    "overallRank": 596
   },
   {
     "sleeperId": "11994",
@@ -7342,7 +7758,7 @@
     "replacementValue": 201.9,
     "vbdScore": -200.8,
     "positionRank": 234,
-    "overallRank": 565
+    "overallRank": 597
   },
   {
     "sleeperId": "11157",
@@ -7355,7 +7771,7 @@
     "replacementValue": 201.9,
     "vbdScore": -201.1,
     "positionRank": 235,
-    "overallRank": 566
+    "overallRank": 598
   },
   {
     "sleeperId": "8114",
@@ -7368,7 +7784,7 @@
     "replacementValue": 201.9,
     "vbdScore": -201.1,
     "positionRank": 236,
-    "overallRank": 567
+    "overallRank": 599
   },
   {
     "sleeperId": "8745",
@@ -7381,7 +7797,7 @@
     "replacementValue": 201.9,
     "vbdScore": -201.9,
     "positionRank": 237,
-    "overallRank": 568
+    "overallRank": 600
   },
   {
     "sleeperId": "10860",
@@ -7394,7 +7810,7 @@
     "replacementValue": 201.9,
     "vbdScore": -201.9,
     "positionRank": 238,
-    "overallRank": 569
+    "overallRank": 601
   },
   {
     "sleeperId": "11257",
@@ -7407,7 +7823,7 @@
     "replacementValue": 201.9,
     "vbdScore": -201.9,
     "positionRank": 239,
-    "overallRank": 570
+    "overallRank": 602
   },
   {
     "sleeperId": "11921",
@@ -7420,7 +7836,7 @@
     "replacementValue": 201.9,
     "vbdScore": -201.9,
     "positionRank": 240,
-    "overallRank": 571
+    "overallRank": 603
   },
   {
     "sleeperId": "4574",
@@ -7433,7 +7849,7 @@
     "replacementValue": 261.5,
     "vbdScore": -202.1,
     "positionRank": 53,
-    "overallRank": 572
+    "overallRank": 604
   },
   {
     "sleeperId": "2307",
@@ -7446,7 +7862,7 @@
     "replacementValue": 261.5,
     "vbdScore": -203.1,
     "positionRank": 54,
-    "overallRank": 573
+    "overallRank": 605
   },
   {
     "sleeperId": "5854",
@@ -7459,7 +7875,7 @@
     "replacementValue": 261.5,
     "vbdScore": -204.7,
     "positionRank": 55,
-    "overallRank": 574
+    "overallRank": 606
   },
   {
     "sleeperId": "13303",
@@ -7472,7 +7888,7 @@
     "replacementValue": 261.5,
     "vbdScore": -212.8,
     "positionRank": 56,
-    "overallRank": 575
+    "overallRank": 607
   },
   {
     "sleeperId": "7083",
@@ -7485,7 +7901,7 @@
     "replacementValue": 261.5,
     "vbdScore": -213.5,
     "positionRank": 57,
-    "overallRank": 576
+    "overallRank": 608
   },
   {
     "sleeperId": "8162",
@@ -7498,7 +7914,7 @@
     "replacementValue": 261.5,
     "vbdScore": -216.4,
     "positionRank": 58,
-    "overallRank": 577
+    "overallRank": 609
   },
   {
     "sleeperId": "11559",
@@ -7511,7 +7927,7 @@
     "replacementValue": 261.5,
     "vbdScore": -217.4,
     "positionRank": 59,
-    "overallRank": 578
+    "overallRank": 610
   },
   {
     "sleeperId": "3976",
@@ -7524,7 +7940,7 @@
     "replacementValue": 261.5,
     "vbdScore": -220.2,
     "positionRank": 60,
-    "overallRank": 579
+    "overallRank": 611
   },
   {
     "sleeperId": "11292",
@@ -7537,7 +7953,7 @@
     "replacementValue": 261.5,
     "vbdScore": -222.1,
     "positionRank": 61,
-    "overallRank": 580
+    "overallRank": 612
   },
   {
     "sleeperId": "827",
@@ -7550,7 +7966,7 @@
     "replacementValue": 261.5,
     "vbdScore": -222.9,
     "positionRank": 62,
-    "overallRank": 581
+    "overallRank": 613
   },
   {
     "sleeperId": "7583",
@@ -7563,7 +7979,7 @@
     "replacementValue": 261.5,
     "vbdScore": -225.9,
     "positionRank": 63,
-    "overallRank": 582
+    "overallRank": 614
   },
   {
     "sleeperId": "3161",
@@ -7576,7 +7992,7 @@
     "replacementValue": 261.5,
     "vbdScore": -227.2,
     "positionRank": 64,
-    "overallRank": 583
+    "overallRank": 615
   },
   {
     "sleeperId": "7585",
@@ -7589,7 +8005,7 @@
     "replacementValue": 261.5,
     "vbdScore": -231,
     "positionRank": 65,
-    "overallRank": 584
+    "overallRank": 616
   },
   {
     "sleeperId": "9230",
@@ -7602,7 +8018,7 @@
     "replacementValue": 261.5,
     "vbdScore": -232.7,
     "positionRank": 66,
-    "overallRank": 585
+    "overallRank": 617
   },
   {
     "sleeperId": "12500",
@@ -7615,7 +8031,7 @@
     "replacementValue": 261.5,
     "vbdScore": -232.9,
     "positionRank": 67,
-    "overallRank": 586
+    "overallRank": 618
   },
   {
     "sleeperId": "8161",
@@ -7628,7 +8044,7 @@
     "replacementValue": 261.5,
     "vbdScore": -234.8,
     "positionRank": 68,
-    "overallRank": 587
+    "overallRank": 619
   },
   {
     "sleeperId": "11557",
@@ -7641,7 +8057,7 @@
     "replacementValue": 261.5,
     "vbdScore": -242.2,
     "positionRank": 69,
-    "overallRank": 588
+    "overallRank": 620
   },
   {
     "sleeperId": "11256",
@@ -7654,7 +8070,7 @@
     "replacementValue": 261.5,
     "vbdScore": -242.9,
     "positionRank": 70,
-    "overallRank": 589
+    "overallRank": 621
   },
   {
     "sleeperId": "6136",
@@ -7667,7 +8083,7 @@
     "replacementValue": 261.5,
     "vbdScore": -246.2,
     "positionRank": 71,
-    "overallRank": 590
+    "overallRank": 622
   },
   {
     "sleeperId": "7610",
@@ -7680,7 +8096,7 @@
     "replacementValue": 261.5,
     "vbdScore": -247.4,
     "positionRank": 72,
-    "overallRank": 591
+    "overallRank": 623
   },
   {
     "sleeperId": "8206",
@@ -7693,7 +8109,7 @@
     "replacementValue": 261.5,
     "vbdScore": -248,
     "positionRank": 73,
-    "overallRank": 592
+    "overallRank": 624
   },
   {
     "sleeperId": "10215",
@@ -7706,7 +8122,7 @@
     "replacementValue": 261.5,
     "vbdScore": -248.2,
     "positionRank": 74,
-    "overallRank": 593
+    "overallRank": 625
   },
   {
     "sleeperId": "1737",
@@ -7719,7 +8135,7 @@
     "replacementValue": 261.5,
     "vbdScore": -255.5,
     "positionRank": 75,
-    "overallRank": 594
+    "overallRank": 626
   },
   {
     "sleeperId": "5127",
@@ -7732,7 +8148,7 @@
     "replacementValue": 261.5,
     "vbdScore": -256.3,
     "positionRank": 76,
-    "overallRank": 595
+    "overallRank": 627
   },
   {
     "sleeperId": "3357",
@@ -7745,7 +8161,7 @@
     "replacementValue": 261.5,
     "vbdScore": -258,
     "positionRank": 77,
-    "overallRank": 596
+    "overallRank": 628
   },
   {
     "sleeperId": "9998",
@@ -7758,7 +8174,7 @@
     "replacementValue": 261.5,
     "vbdScore": -258.8,
     "positionRank": 78,
-    "overallRank": 597
+    "overallRank": 629
   },
   {
     "sleeperId": "10983",
@@ -7771,7 +8187,7 @@
     "replacementValue": 261.5,
     "vbdScore": -260.2,
     "positionRank": 79,
-    "overallRank": 598
+    "overallRank": 630
   },
   {
     "sleeperId": "8413",
@@ -7784,6 +8200,6 @@
     "replacementValue": 261.5,
     "vbdScore": -261,
     "positionRank": 80,
-    "overallRank": 599
+    "overallRank": 631
   }
 ]

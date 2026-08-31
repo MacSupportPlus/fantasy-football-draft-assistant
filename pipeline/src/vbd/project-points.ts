@@ -1,7 +1,9 @@
 import type { CrosswalkEntry } from "../types/crosswalk.js";
+import type { DefenseSeasonStats } from "../types/defense.js";
 import type { ConsensusRanking, ScoringFormat } from "../types/ranking.js";
 import type { SeasonStats } from "../types/stats.js";
 import type { ProjectedPlayer } from "../types/vbd.js";
+import { normalizeTeam } from "../util/normalize.js";
 
 const MAX_GAMES = 17;
 
@@ -150,6 +152,46 @@ export function projectPlayers(
       team: p.team,
       projectedPoints: interpolated,
       source: "interpolated",
+    });
+  }
+
+  return projected;
+}
+
+// D/ST scoring doesn't vary by PPR/Half-PPR/Standard, so this is run once
+// and reused across all three scoring-format outputs. Sleeper's DEF entries
+// use the team abbreviation as both the player ID and the position label
+// "DEF" — nflverse's team defense stats use "DST"-style team codes with
+// their own abbreviation quirks (normalizeTeam reconciles those).
+export function projectDefensePlayers(
+  crosswalk: CrosswalkEntry[],
+  seasonsByTeam: Map<string, DefenseSeasonStats[]>
+): ProjectedPlayer[] {
+  const projected: ProjectedPlayer[] = [];
+
+  for (const p of crosswalk) {
+    if (p.position !== "DEF") continue;
+    const team = normalizeTeam(p.team);
+    const seasons = team ? seasonsByTeam.get(team) : undefined;
+    if (!seasons || seasons.length === 0) continue;
+
+    const recent = [...seasons].sort((a, b) => b.season - a.season).slice(0, 3);
+    const weights = RECENCY_WEIGHTS[recent.length];
+
+    let perGame = 0;
+    let games = 0;
+    recent.forEach((s, i) => {
+      perGame += weights[i] * s.fantasyPointsPerGame;
+      games += weights[i] * s.gamesPlayed;
+    });
+
+    projected.push({
+      sleeperId: p.sleeperId,
+      name: p.name,
+      position: "DST",
+      team: p.team,
+      projectedPoints: perGame * Math.min(games, MAX_GAMES),
+      source: "history",
     });
   }
 

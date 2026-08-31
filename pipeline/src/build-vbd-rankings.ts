@@ -2,11 +2,13 @@ import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import type { CrosswalkEntry } from "./types/crosswalk.js";
+import type { DefenseSeasonStats } from "./types/defense.js";
 import type { ConsensusRanking, ScoringFormat } from "./types/ranking.js";
 import type { SeasonStats } from "./types/stats.js";
 import type { VbdEntry } from "./types/vbd.js";
-import { projectPlayers } from "./vbd/project-points.js";
+import { projectDefensePlayers, projectPlayers } from "./vbd/project-points.js";
 import { computeReplacementValues, DEFAULT_LEAGUE_SETTINGS } from "./vbd/replacement.js";
+import { normalizeTeam } from "./util/normalize.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PROCESSED_DIR = path.resolve(__dirname, "../../data/processed");
@@ -34,11 +36,28 @@ async function main() {
     seasonsByGsisId.set(s.gsisId, list);
   }
 
+  const defenseSeasons = await readJson<DefenseSeasonStats[]>(
+    "defense-stats-by-season.json"
+  );
+  const defenseSeasonsByTeam = new Map<string, DefenseSeasonStats[]>();
+  for (const d of defenseSeasons) {
+    const team = normalizeTeam(d.team)!;
+    const list = defenseSeasonsByTeam.get(team) ?? [];
+    list.push(d);
+    defenseSeasonsByTeam.set(team, list);
+  }
+  // D/ST scoring doesn't vary by scoring format, so it's computed once and
+  // reused for all three outputs below.
+  const defenseProjected = projectDefensePlayers(crosswalk, defenseSeasonsByTeam);
+
   for (const scoring of SCORING_FORMATS) {
     const rankings = await readJson<ConsensusRanking[]>(RANKINGS_FILES[scoring]);
     const fpById = new Map(rankings.map((r) => [r.fantasyProsId, r]));
 
-    const projected = projectPlayers(crosswalk, seasonsByGsisId, fpById, scoring);
+    const projected = [
+      ...projectPlayers(crosswalk, seasonsByGsisId, fpById, scoring),
+      ...defenseProjected,
+    ];
 
     const byPosition = new Map<string, typeof projected>();
     for (const p of projected) {
