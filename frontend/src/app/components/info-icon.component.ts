@@ -1,6 +1,9 @@
-import { Component, Input, signal } from '@angular/core';
+import { Component, ElementRef, Input, signal, ViewChild } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { getMetric } from '../metrics-glossary';
+
+const TOOLTIP_WIDTH = 220;
+const MARGIN = 8;
 
 @Component({
   selector: 'app-info-icon',
@@ -8,24 +11,33 @@ import { getMetric } from '../metrics-glossary';
   imports: [CommonModule],
   template: `
     <span
+      #icon
       class="info-icon"
       tabindex="0"
       role="button"
       [attr.aria-label]="'What is ' + (def()?.label ?? metricKey) + '?'"
-      (pointerenter)="open.set(true)"
-      (pointerleave)="open.set(false)"
-      (focus)="open.set(true)"
-      (blur)="open.set(false)"
+      (pointerenter)="show()"
+      (pointerleave)="hide()"
+      (focus)="show()"
+      (blur)="hide()"
     >
       i
-      @if (open() && def(); as d) {
-        <span class="info-tooltip" role="tooltip">{{ d.short }}</span>
-      }
     </span>
+    @if (open() && def(); as d) {
+      <span
+        class="info-tooltip"
+        role="tooltip"
+        [style.top.px]="tooltipTop()"
+        [style.left.px]="tooltipLeft()"
+      >{{ d.short }}</span>
+    }
   `,
   styles: `
+    :host {
+      display: inline-flex;
+    }
+
     .info-icon {
-      position: relative;
       display: inline-flex;
       align-items: center;
       justify-content: center;
@@ -41,6 +53,7 @@ import { getMetric } from '../metrics-glossary';
       cursor: help;
       margin-left: 4px;
       vertical-align: middle;
+      flex-shrink: 0;
     }
 
     .info-icon:hover,
@@ -51,10 +64,13 @@ import { getMetric } from '../metrics-glossary';
     }
 
     .info-tooltip {
-      position: absolute;
-      bottom: calc(100% + 6px);
-      left: 50%;
-      transform: translateX(-50%);
+      /* position: fixed + JS-computed coordinates, not absolute — an
+         absolutely-positioned tooltip nested inside a scrolling table
+         (overflow-x: auto also clips the Y axis per the CSS spec's
+         "one axis non-visible forces the other to auto" rule) gets cut
+         off or renders in the wrong place. Fixed positioning escapes
+         every ancestor's overflow clipping entirely. */
+      position: fixed;
       width: 220px;
       background: #1e232b;
       color: #dfe3e8;
@@ -67,7 +83,7 @@ import { getMetric } from '../metrics-glossary';
       border-radius: 6px;
       border: 1px solid #2f3540;
       box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
-      z-index: 50;
+      z-index: 500;
       text-transform: none;
       letter-spacing: normal;
       white-space: normal;
@@ -77,9 +93,36 @@ import { getMetric } from '../metrics-glossary';
 })
 export class InfoIconComponent {
   @Input({ required: true }) metricKey!: string;
+  @ViewChild('icon') iconRef!: ElementRef<HTMLElement>;
+
   readonly open = signal(false);
+  readonly tooltipTop = signal(0);
+  readonly tooltipLeft = signal(0);
 
   def() {
     return getMetric(this.metricKey);
+  }
+
+  show(): void {
+    const rect = this.iconRef.nativeElement.getBoundingClientRect();
+    const centeredLeft = rect.left + rect.width / 2 - TOOLTIP_WIDTH / 2;
+    const clampedLeft = Math.max(
+      MARGIN,
+      Math.min(centeredLeft, window.innerWidth - TOOLTIP_WIDTH - MARGIN)
+    );
+
+    // Prefer above the icon; flip below if there's not enough room
+    // (e.g. the icon sits near the top of the viewport).
+    const estimatedHeight = 70;
+    const above = rect.top - estimatedHeight - 6;
+    const top = above > MARGIN ? above : rect.bottom + 6;
+
+    this.tooltipTop.set(top);
+    this.tooltipLeft.set(clampedLeft);
+    this.open.set(true);
+  }
+
+  hide(): void {
+    this.open.set(false);
   }
 }

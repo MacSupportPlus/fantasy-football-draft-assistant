@@ -108,6 +108,9 @@
 }
 
 .stat-label {
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
   font-size: 0.68rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
@@ -160,6 +163,7 @@
   border-bottom: 1px solid #2a2f38;
   font-size: 0.7rem;
   text-transform: uppercase;
+  white-space: nowrap;
 }
 
 .seasons td {
