@@ -198,7 +198,13 @@ Worked example (Josh Allen, PPR — verified against the actual output):
 
 Weighted PPG = 0.5×23.27 + 0.3×23.21 + 0.2×24.72 = **23.54**
 Weighted games = 0.5×16 + 0.3×17 + 0.2×16 = **16.3**
-Projection = 23.54 × 16.3 ≈ **383.8 points** — matches the real output exactly.
+Projection = 23.54 × 16.3 ≈ **383.8 points** — the pure recency-weighted number.
+
+That raw number then passes through several more adjustment layers before
+it's final — regression to the mean, a blend with FantasyPros' consensus
+rank, age, injury status, opportunity trend, and strength of schedule. Full
+detail, including a real bug caught and fixed while building this, is in
+**"Making the scores better" below** rather than duplicated here.
 
 **Players with no usable NFL history** (rookies, practice-squad call-ups):
 there's nothing to weight, so the projection is *interpolated* instead:
@@ -310,69 +316,80 @@ needs the crosswalk plus the defense/kicker stats.
 
 ## Making the scores better
 
-Ranked roughly by impact-for-effort, based on what's genuinely missing from
-the current model rather than generic advice:
+Everything below started as a prioritized wishlist and has since been built
+(items 1–7). Order of operations for the final projection, all in
+`pipeline/src/vbd/project-points.ts` unless noted:
 
-1. **Blend expert judgment into every projection, not just rookies'.**
-   Right now FantasyPros' consensus rank is *only* used as a fallback for
-   players with no history. But real analysts price in things pure trailing
-   stats can't see — a coaching change, a new WR1 opportunity after a trade,
-   a QB's injury recovery outlook. A player's last 3 seasons say nothing
-   about a situation that changed this offseason. Blending some weight of
-   FP's ECR into *every* player's projection (not just as a rookie
-   fallback) would let expert context correct for what history can't
-   capture. Probably the single best improvement for the effort involved.
+**raw recency-weighted rate → regression to the mean → blend with FantasyPros
+rank → × age multiplier → × injury multiplier → × opportunity-trend
+multiplier → × strength-of-schedule multiplier → final projected points**
 
-2. **Use age.** Sleeper's data already includes each player's age — fetched,
-   sitting in `players.json`, and completely unused. Aging curves are one of
-   the best-documented tools in fantasy analytics: RBs fall off a cliff
-   around 27-28, WRs decline more gradually and later, QBs age gracefully.
-   An age-adjusted multiplier per position would catch declining veterans
-   who still look fine on trailing stats but are about to fall off.
+1. ✅ **Blend expert judgment into every projection, not just rookies'.**
+   FantasyPros' consensus rank is now blended into *every* history-based
+   player's projection at a fixed 20% weight (`BLEND_WEIGHT` in
+   `project-points.ts`), using the same rank→points curve built for the
+   rookie-interpolation fallback. Previously only rookies got this signal.
 
-3. **Use injury status.** Sleeper's `injuryStatus` field (Questionable/IR/
-   etc.) is captured but never referenced in the ranking. A player
-   currently on IR should get a visible flag or a projection discount
-   instead of being ranked purely on last year's healthy numbers.
+2. ✅ **Age.** `pipeline/src/vbd/adjustments.ts` → `ageMultiplier()`. Position-
+   specific decline curves (RB from 27, WR/TE from 30, QB from 38), reading
+   Sleeper's `age` field that was previously fetched and ignored.
 
-4. **Capture opportunity/efficiency metrics, not just counting stats.**
-   nflverse's raw data already has `target_share`, `air_yards_share`,
-   `wopr`, and EPA-based metrics per player — none of which make it into
-   the aggregated `stats-by-season.json` today. A rising target share late
-   last season is a better forward signal than a season-long scoring
-   average. This is a concrete addition to `fetch-stats.ts`, not a new data
-   source.
+3. ✅ **Injury status.** Same file → `injuryMultiplier()`. Discounts
+   Out/IR/PUP/Suspended (-25%), Doubtful (-15%), Questionable (-5%), using
+   Sleeper's `injuryStatus` field.
 
-5. **Regress small samples toward the mean.** A player who scored a fluky
-   8 TDs on an unsustainable rate should get pulled toward a more typical
-   rate, not projected as if it continues. Standard fix: blend an
-   individual's rate stat with the positional average, weighted by sample
-   size (games played).
+4. ✅ **Opportunity/efficiency metrics.** `fetch-stats.ts` now captures
+   `target_share`, `air_yards_share`, and `wopr` (season averages) into
+   `stats-by-season.json`. `opportunityTrendMultiplier()` compares the two
+   most recent seasons' WOPR and nudges the projection (±8% max, dampened)
+   for a rising or falling opportunity trend a trailing-points average
+   wouldn't reflect yet.
 
-6. **Strength of schedule.** `games.csv` already includes next season's
-   full schedule. Adjusting projections (especially D/ST) by opponent
-   quality is a real, available signal not currently used.
+5. ✅ **Regress small samples toward the mean.** Each player's rate is
+   shrunk toward their position's average rate, weighted by how many
+   weighted games of their own history they have. **Real bug found while
+   building this:** the first version computed the "positional average"
+   across *every* player with any history — every position has a long tail
+   of career backups with a handful of snaps, which drags the average down
+   to something no actual starter resembles. Josh Allen's projection
+   dropped from 383.8 to 297 before this was caught. Fixed by restricting
+   the reference mean to players with a real starter-level sample (≥12
+   weighted games) and easing the shrinkage weight — Allen now lands at
+   339.7, a modest, defensible pull instead of a severe distortion.
 
-7. **Close the nickname gap in the crosswalk.** Swapping to the
-   community-maintained `dynastyprocess/data` ID crosswalk (maps Sleeper
-   IDs directly to FantasyPros/gsis IDs, no name-matching needed) would
-   catch the handful of active players — like "Hollywood Brown" — who
-   currently fall through to the cruder interpolation path because their
-   nickname doesn't match across sources.
+6. ✅ **Strength of schedule.** `pipeline/src/vbd/strength-of-schedule.ts`.
+   Pulls next season's schedule from `games.csv`, uses each team's own
+   D/ST fantasy output as a "how tough is this defense" proxy, and applies
+   a bounded (±6%) adjustment to QB/RB/WR/TE based on how their upcoming
+   opponents compare to league average. Explicitly a coarse first pass —
+   it's whole-team strength, not position-specific matchup data (it
+   doesn't know a defense is bad against the pass but good against the
+   run).
 
-8. **The D/ST and K "team proxy" ceiling.** Both are capped by nflverse
-   having no individual-level data at all for these positions. A real fix
-   would mean parsing raw play-by-play to attribute kicks/sacks/turnovers
-   to individual players — a materially bigger, messier data source than
-   anything else in this pipeline. Worth doing only if K/DST accuracy
-   turns out to actually matter to how the draft goes.
+7. ✅ **Close the nickname gap in the crosswalk.** `build-crosswalk.ts` now
+   uses the community-maintained `dynastyprocess/data` ID crosswalk
+   (`pipeline/src/sources/dynastyprocess.ts`) as the *primary* join —
+   direct Sleeper-ID → FantasyPros/gsis-ID lookup, no name-matching. Name
+   matching still runs as a fallback for whatever it doesn't cover (mainly
+   D/ST, since defenses aren't individual players). gsis matches nearly
+   doubled (451 → 819); "Hollywood"/Marquise Brown resolves correctly now.
 
-None of these are built yet — this is a prioritized list to pick from, not
-a to-do list already committed to.
+8. **Not built — the D/ST and K "team proxy" ceiling.** Both are capped by
+   nflverse having no individual-level data for these positions. A real
+   fix means parsing raw play-by-play to attribute kicks/sacks/turnovers to
+   individual players — a materially bigger, messier data source than
+   anything else here. Worth doing only if K/DST accuracy turns out to
+   matter to how the draft actually goes.
+
+All the constants involved (blend weight, shrinkage strength, starter-game
+threshold, age curve slopes, SOS bound) are deliberately modest and
+documented inline — they're reasonable first-pass assumptions, not fitted
+to anything. Worth revisiting if a position's rankings look off once real
+draft season data starts rolling in.
 
 ## What's next
 
-1. **GitHub Action** — wire the seven pipeline scripts into a scheduled
-   workflow so data refreshes automatically.
+1. **GitHub Action** — wire the pipeline scripts into a scheduled workflow
+   so data refreshes automatically.
 2. **Deploy to Vercel/Netlify.**
-3. Pick from "Making the scores better" above.
+3. Item 8 above, if K/DST accuracy turns out to matter.
