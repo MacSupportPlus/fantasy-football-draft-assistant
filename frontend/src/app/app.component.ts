@@ -70,6 +70,22 @@ export class AppComponent {
     }
   }
 
+  // FantasyPros' positionRank is a string like "RB14" — pull the number out
+  // so it can be compared directly against our own position rank.
+  fpPositionRankNum(entry: LiveVbdEntry): number | null {
+    if (!entry.fpPositionRank) return null;
+    const match = entry.fpPositionRank.match(/(\d+)$/);
+    return match ? Number(match[1]) : null;
+  }
+
+  // Positive = we rate this player better than FantasyPros' consensus does
+  // (their rank number is bigger than ours); negative = we rate them worse.
+  rankDelta(entry: LiveVbdEntry): number | null {
+    const fpRank = this.fpPositionRankNum(entry);
+    if (fpRank === null) return null;
+    return fpRank - entry.livePositionRank;
+  }
+
   async openPlayer(entry: LiveVbdEntry): Promise<void> {
     const detail = await this.playerDetail.getDetail(entry, this.board.scoring());
     this.selectedDetail.set(detail);

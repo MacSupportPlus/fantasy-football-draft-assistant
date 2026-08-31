@@ -57,6 +57,9 @@ function aggregateSeasons(rows: Record<string, string>[]): SeasonStats[] {
         fantasyPointsStdPerGame: 0,
         fantasyPointsHalfPprPerGame: 0,
         fantasyPointsPprPerGame: 0,
+        targetShare: 0,
+        airYardsShare: 0,
+        wopr: 0,
       };
       bySeasonPlayer.set(key, agg);
     }
@@ -78,6 +81,12 @@ function aggregateSeasons(rows: Record<string, string>[]): SeasonStats[] {
     agg.receivingTds += num(r.receiving_tds);
     agg.fantasyPointsStd += num(r.fantasy_points);
     agg.fantasyPointsPpr += num(r.fantasy_points_ppr);
+    // Accumulated here as sums, divided into season averages below - these
+    // are per-week rate stats (e.g. 0.25 = 25% of team targets that week),
+    // not counting stats, so they don't mean anything summed raw.
+    agg.targetShare += num(r.target_share);
+    agg.airYardsShare += num(r.air_yards_share);
+    agg.wopr += num(r.wopr);
   }
 
   const seasons = [...bySeasonPlayer.values()];
@@ -86,6 +95,9 @@ function aggregateSeasons(rows: Record<string, string>[]): SeasonStats[] {
     s.fantasyPointsStdPerGame = s.fantasyPointsStd / s.gamesPlayed;
     s.fantasyPointsHalfPprPerGame = s.fantasyPointsHalfPpr / s.gamesPlayed;
     s.fantasyPointsPprPerGame = s.fantasyPointsPpr / s.gamesPlayed;
+    s.targetShare = s.targetShare / s.gamesPlayed;
+    s.airYardsShare = s.airYardsShare / s.gamesPlayed;
+    s.wopr = s.wopr / s.gamesPlayed;
   }
 
   return seasons;

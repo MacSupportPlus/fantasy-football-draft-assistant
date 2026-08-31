@@ -46,4 +46,8 @@ export interface VbdEntry {
   vbdScore: number;
   positionRank: number;
   overallRank: number;
+  // FantasyPros' own rank, for comparing our VBD-based order against the
+  // consensus we sourced (null if this player has no FantasyPros match).
+  fpPositionRank: string | null; // e.g. "RB14"
+  fpOverallRank: number | null; // ECR
 }

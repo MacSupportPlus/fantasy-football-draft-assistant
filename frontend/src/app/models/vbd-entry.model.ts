@@ -15,6 +15,8 @@ export interface VbdEntry {
   vbdScore: number;
   positionRank: number;
   overallRank: number;
+  fpPositionRank: string | null;
+  fpOverallRank: number | null;
 }
 
 // The precomputed entry plus live, draft-state-aware numbers recalculated

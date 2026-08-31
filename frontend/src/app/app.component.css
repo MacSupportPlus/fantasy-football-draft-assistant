@@ -149,7 +149,7 @@
 .board-wrap {
   border: 1px solid #22262e;
   border-radius: 12px;
-  overflow: hidden;
+  overflow-x: auto;
   background: #12151a;
 }
 
@@ -209,6 +209,21 @@
 .vbd.positive {
   color: #6fe0a0;
   font-weight: 700;
+}
+
+.fp-rank {
+  color: #9aa2ad;
+  font-size: 0.82rem;
+}
+
+.delta.positive {
+  color: #6fe0a0;
+  font-weight: 600;
+}
+
+.delta.negative {
+  color: #ff8f8f;
+  font-weight: 600;
 }
 
 .player-link {

@@ -26,4 +26,12 @@ export interface SeasonStats {
   fantasyPointsStdPerGame: number;
   fantasyPointsHalfPprPerGame: number;
   fantasyPointsPprPerGame: number;
+
+  // Opportunity/efficiency metrics (season averages of nflverse's weekly
+  // values) — more forward-looking than raw fantasy points, since a rising
+  // target share can show up before it's reflected in scoring. 0 for
+  // players with no receiving/passing volume that season.
+  targetShare: number;
+  airYardsShare: number;
+  wopr: number; // "weighted opportunity rating" - nflverse's blend of target share + air yards share
 }

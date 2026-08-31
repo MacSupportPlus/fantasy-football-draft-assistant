@@ -4,11 +4,18 @@ import { fileURLToPath } from "node:url";
 import type { CrosswalkEntry } from "./types/crosswalk.js";
 import type { DefenseSeasonStats } from "./types/defense.js";
 import type { KickerSeasonStats } from "./types/kicker.js";
+import type { Player } from "./types/player.js";
 import type { ConsensusRanking, ScoringFormat } from "./types/ranking.js";
 import type { SeasonStats } from "./types/stats.js";
 import type { VbdEntry } from "./types/vbd.js";
-import { projectDefensePlayers, projectKickerPlayers, projectPlayers } from "./vbd/project-points.js";
+import {
+  projectDefensePlayers,
+  projectKickerPlayers,
+  projectPlayers,
+  type PlayerInfo,
+} from "./vbd/project-points.js";
 import { computeReplacementValues, DEFAULT_LEAGUE_SETTINGS } from "./vbd/replacement.js";
+import { computeStrengthOfScheduleByTeam } from "./vbd/strength-of-schedule.js";
 import { normalizeTeam } from "./util/normalize.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -25,10 +32,16 @@ const RANKINGS_FILES: Record<ScoringFormat, string> = {
   HALF_PPR: "rankings-half-ppr.json",
   PPR: "rankings-ppr.json",
 };
+const SOS_ELIGIBLE_POSITIONS = new Set(["QB", "RB", "WR", "TE"]);
 
 async function main() {
   const crosswalk = await readJson<CrosswalkEntry[]>("player-crosswalk.json");
   const seasonStats = await readJson<SeasonStats[]>("stats-by-season.json");
+  const sleeperPlayers = await readJson<Player[]>("players.json");
+
+  const playerInfoBySleeperId = new Map<string, PlayerInfo>(
+    sleeperPlayers.map((p) => [p.id, { age: p.age, injuryStatus: p.injuryStatus }])
+  );
 
   const seasonsByGsisId = new Map<string, SeasonStats[]>();
   for (const s of seasonStats) {
@@ -58,20 +71,40 @@ async function main() {
     kickerSeasonsByTeam.set(team, list);
   }
 
+  console.log("Computing strength-of-schedule multipliers...");
+  const sosByTeam = await computeStrengthOfScheduleByTeam(defenseSeasonsByTeam);
+
   // D/ST and K scoring don't vary by scoring format, so both are computed
   // once and reused for all three outputs below.
   const defenseProjected = projectDefensePlayers(crosswalk, defenseSeasonsByTeam);
-  const kickerProjected = projectKickerPlayers(crosswalk, kickerSeasonsByTeam);
+  const kickerProjected = projectKickerPlayers(crosswalk, kickerSeasonsByTeam, playerInfoBySleeperId);
+
+  // sleeperId -> crosswalk entry, used below to attach each player's
+  // FantasyPros rank for comparison against our own VBD-based rank.
+  const crosswalkBySleeperId = new Map(crosswalk.map((c) => [c.sleeperId, c]));
 
   for (const scoring of SCORING_FORMATS) {
     const rankings = await readJson<ConsensusRanking[]>(RANKINGS_FILES[scoring]);
     const fpById = new Map(rankings.map((r) => [r.fantasyProsId, r]));
 
-    const projected = [
-      ...projectPlayers(crosswalk, seasonsByGsisId, fpById, scoring),
-      ...defenseProjected,
-      ...kickerProjected,
-    ];
+    const offenseProjected = projectPlayers(
+      crosswalk,
+      seasonsByGsisId,
+      fpById,
+      scoring,
+      playerInfoBySleeperId
+    );
+
+    // Strength-of-schedule only applies to offense (QB/RB/WR/TE), using
+    // each player's own team.
+    for (const p of offenseProjected) {
+      if (!SOS_ELIGIBLE_POSITIONS.has(p.position)) continue;
+      const team = normalizeTeam(p.team);
+      const sosMult = (team && sosByTeam.get(team)) ?? 1;
+      p.projectedPoints *= sosMult;
+    }
+
+    const projected = [...offenseProjected, ...defenseProjected, ...kickerProjected];
 
     const byPosition = new Map<string, typeof projected>();
     for (const p of projected) {
@@ -89,6 +122,9 @@ async function main() {
         (a, b) => b.projectedPoints - a.projectedPoints
       );
       sorted.forEach((p, i) => {
+        const cw = crosswalkBySleeperId.get(p.sleeperId);
+        const fp = cw?.fantasyProsId ? fpById.get(cw.fantasyProsId) : undefined;
+
         entries.push({
           sleeperId: p.sleeperId,
           name: p.name,
@@ -101,6 +137,8 @@ async function main() {
           vbdScore: Math.round((p.projectedPoints - replacementValue) * 10) / 10,
           positionRank: i + 1,
           overallRank: 0, // filled in below
+          fpPositionRank: fp?.positionRank ?? null,
+          fpOverallRank: fp?.rankEcr ?? null,
         });
       });
     }

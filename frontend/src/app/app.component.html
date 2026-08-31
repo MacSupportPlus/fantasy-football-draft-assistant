@@ -62,12 +62,15 @@
       <table class="board">
         <thead>
           <tr>
-            <th class="col-rank">Rank</th>
+            <th class="col-rank" title="Overall rank by our VBD score">Rank</th>
             <th class="col-name">Player</th>
             <th>Pos</th>
+            <th class="col-rank" title="Rank within position by our VBD score">Pos#</th>
             <th>Team</th>
             <th class="col-num">Proj Pts</th>
             <th class="col-num">VBD</th>
+            <th class="col-rank" title="FantasyPros consensus rank within position — the data we started from, before VBD">FP Rank</th>
+            <th class="col-num" title="Positive = we rate them better than FantasyPros consensus; negative = worse">&Delta;</th>
             <th></th>
           </tr>
         </thead>
@@ -82,9 +85,18 @@
                 }
               </td>
               <td><span class="pos-badge" [attr.data-pos]="e.position">{{ e.position }}</span></td>
+              <td class="col-rank">{{ e.drafted ? '—' : e.livePositionRank }}</td>
               <td class="team-cell">{{ e.team ?? '—' }}</td>
               <td class="col-num">{{ e.projectedPoints }}</td>
               <td class="col-num vbd" [class.positive]="e.liveVbdScore > 0">{{ e.liveVbdScore }}</td>
+              <td class="col-rank fp-rank">{{ e.fpPositionRank ?? '—' }}</td>
+              <td class="col-num delta" [class.positive]="(rankDelta(e) ?? 0) > 0" [class.negative]="(rankDelta(e) ?? 0) < 0">
+                @if (rankDelta(e); as delta) {
+                  {{ delta > 0 ? '+' : '' }}{{ delta }}
+                } @else {
+                  —
+                }
+              </td>
               <td class="col-action">
                 <button type="button" class="draft-btn" [class.undo]="e.drafted" (click)="toggleDraft(e.sleeperId)">
                   {{ e.drafted ? 'Undo' : 'Draft' }}
@@ -92,7 +104,7 @@
               </td>
             </tr>
           } @empty {
-            <tr><td colspan="7" class="state-message">No players match this filter.</td></tr>
+            <tr><td colspan="10" class="state-message">No players match this filter.</td></tr>
           }
         </tbody>
       </table>
