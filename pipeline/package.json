@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "fetch:sleeper": "tsx src/fetch-players.ts",
-    "fetch:rankings": "tsx src/fetch-rankings.ts"
+    "fetch:rankings": "tsx src/fetch-rankings.ts",
+    "fetch:stats": "tsx src/fetch-stats.ts"
   },
   "dependencies": {},
   "devDependencies": {

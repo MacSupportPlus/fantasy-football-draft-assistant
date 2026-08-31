@@ -51,3 +51,15 @@ rankings API — these are scraped from the `ecrData` blob that their
 "cheatsheet" rankings pages embed server-side (see
 `pipeline/src/sources/fantasypros.ts`). If FantasyPros changes that page's
 markup, this is the first thing to check.
+
+`fetch:stats` downloads nflverse's weekly `player_stats.csv` (all seasons,
+~30MB), aggregates to per-player-season totals for the last 3 regular
+seasons, and writes `data/processed/stats-by-season.json`. Includes both
+standard and PPR fantasy points (half-PPR is derived as their average) plus
+core volume stats (targets, carries, receptions, etc). Note: as of this
+writing nflverse's file tops out at the 2024 season — it may lag the most
+recently completed season.
+
+None of these sources share a common player ID yet (Sleeper IDs, FantasyPros
+IDs, and nflverse's gsis_id are all different) — that join is the next
+pipeline step.
