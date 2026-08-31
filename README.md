@@ -37,8 +37,17 @@ frontend/            Angular app (not yet scaffolded)
 ```bash
 cd pipeline
 npm install
-npm run fetch:sleeper
+npm run fetch:sleeper    # player metadata
+npm run fetch:rankings   # FantasyPros consensus rankings (STD/HALF_PPR/PPR)
 ```
 
-Writes the raw Sleeper response to `data/raw/sleeper-players.json` and a
-filtered, fantasy-relevant subset to `data/processed/players.json`.
+`fetch:sleeper` writes the raw Sleeper response to
+`data/raw/sleeper-players.json` and a filtered, fantasy-relevant subset to
+`data/processed/players.json`.
+
+`fetch:rankings` writes one file per scoring format to
+`data/processed/rankings-{std,half-ppr,ppr}.json`. FantasyPros has no public
+rankings API — these are scraped from the `ecrData` blob that their
+"cheatsheet" rankings pages embed server-side (see
+`pipeline/src/sources/fantasypros.ts`). If FantasyPros changes that page's
+markup, this is the first thing to check.
