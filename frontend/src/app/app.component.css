@@ -38,6 +38,62 @@
   font-size: 0.85rem;
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.glossary-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid #262b34;
+  background: #171a20;
+  color: #cfd4db;
+  padding: 8px 13px;
+  border-radius: 9px;
+  cursor: pointer;
+  font-size: 0.82rem;
+}
+
+.glossary-btn:hover {
+  border-color: #6fe0a0;
+  color: #6fe0a0;
+}
+
+.mini-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #262b34;
+  color: #9aa2ad;
+  font-size: 0.62rem;
+  font-weight: 700;
+  font-style: italic;
+  font-family: Georgia, serif;
+}
+
+.charts-toggle-row {
+  margin-bottom: 12px;
+}
+
+.charts-toggle {
+  border: none;
+  background: none;
+  color: #9aa2ad;
+  font-size: 0.78rem;
+  cursor: pointer;
+  padding: 0;
+}
+
+.charts-toggle:hover {
+  color: #6fe0a0;
+}
+
 .scoring-toggle {
   display: flex;
   gap: 4px;

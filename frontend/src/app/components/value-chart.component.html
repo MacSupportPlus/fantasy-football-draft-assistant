@@ -1,0 +1,56 @@
+<div class="charts-grid">
+  @for (chart of charts(); track chart.position) {
+    <div class="chart-card">
+      <div class="chart-title">
+        <span class="pos-dot" [style.background]="chart.color"></span>
+        {{ chart.position }}
+        <span class="chart-subtitle">value over replacement, top {{ chart.bars.length }}</span>
+      </div>
+
+      <svg
+        [attr.viewBox]="'0 0 ' + chart.width + ' ' + plotHeight"
+        [attr.width]="chart.width"
+        [attr.height]="plotHeight"
+        class="chart-svg"
+      >
+        <line
+          class="zero-line"
+          x1="0"
+          [attr.y1]="chart.zeroY"
+          [attr.x2]="chart.width"
+          [attr.y2]="chart.zeroY"
+        />
+
+        @for (bar of chart.bars; track bar.sleeperId) {
+          <rect
+            class="bar"
+            [class.drafted]="bar.drafted"
+            [class.hovered]="isHovered(chart.position, bar)"
+            [attr.x]="bar.x"
+            [attr.y]="bar.barY"
+            [attr.width]="barWidth"
+            [attr.height]="bar.barHeight"
+            [attr.rx]="2"
+            [attr.fill]="chart.color"
+            (pointerenter)="onBarHover(chart.position, bar)"
+            (pointerleave)="onBarHover(chart.position, null)"
+          >
+            <title>{{ bar.name }}: {{ bar.vbdScore }} VBD ({{ bar.projectedPoints }} pts)</title>
+          </rect>
+        }
+      </svg>
+
+      @if (hoveredBar(); as h) {
+        @if (h.chartPos === chart.position) {
+          <div class="tooltip">
+            <strong>{{ h.bar.name }}</strong>
+            <span>{{ h.bar.vbdScore }} VBD &middot; {{ h.bar.projectedPoints }} pts</span>
+          </div>
+        }
+      }
+    </div>
+  }
+</div>
+<p class="chart-caption">
+  Each bar is one player, ranked left-to-right by our position rank. The line is replacement level (VBD = 0) — bars dropping toward or below it show where a position's startable talent runs out.
+</p>

@@ -13,29 +13,29 @@
     <div class="stat-row">
       <div class="stat">
         <span class="stat-value">{{ detail.entry.projectedPoints }}</span>
-        <span class="stat-label">Projected Pts</span>
+        <span class="stat-label">Projected Pts <app-info-icon metricKey="projectedPoints" /></span>
       </div>
       <div class="stat">
         <span class="stat-value" [class.positive]="detail.entry.liveVbdScore > 0">{{ detail.entry.liveVbdScore }}</span>
-        <span class="stat-label">VBD Score</span>
+        <span class="stat-label">VBD Score <app-info-icon metricKey="vbdScore" /></span>
       </div>
       <div class="stat">
         <span class="stat-value">{{ detail.entry.liveReplacementValue }}</span>
-        <span class="stat-label">Replacement</span>
+        <span class="stat-label">Replacement <app-info-icon metricKey="replacementValue" /></span>
       </div>
       <div class="stat">
         <span class="stat-value">#{{ detail.entry.drafted ? '—' : detail.entry.liveOverallRank }}</span>
-        <span class="stat-label">Overall Rank</span>
+        <span class="stat-label">Overall Rank <app-info-icon metricKey="overallRank" /></span>
       </div>
     </div>
 
     @if (detail.fpRanking) {
       <div class="fp-block">
-        <span class="fp-item"><strong>ECR:</strong> {{ detail.fpRanking.positionRank }} (overall #{{ detail.fpRanking.rankEcr }})</span>
-        <span class="fp-item"><strong>Tier:</strong> {{ detail.fpRanking.tier }}</span>
-        <span class="fp-item"><strong>Expert range:</strong> {{ detail.fpRanking.rankMin }}–{{ detail.fpRanking.rankMax }}</span>
+        <span class="fp-item"><strong>ECR:</strong> {{ detail.fpRanking.positionRank }} (overall #{{ detail.fpRanking.rankEcr }}) <app-info-icon metricKey="ecr" /></span>
+        <span class="fp-item"><strong>Tier:</strong> {{ detail.fpRanking.tier }} <app-info-icon metricKey="tier" /></span>
+        <span class="fp-item"><strong>Expert range:</strong> {{ detail.fpRanking.rankMin }}–{{ detail.fpRanking.rankMax }} <app-info-icon metricKey="rankSpread" /></span>
         @if (detail.fpRanking.ownedPct !== null) {
-          <span class="fp-item"><strong>Rostered:</strong> {{ detail.fpRanking.ownedPct }}%</span>
+          <span class="fp-item"><strong>Rostered:</strong> {{ detail.fpRanking.ownedPct }}% <app-info-icon metricKey="rosteredPct" /></span>
         }
       </div>
     }
@@ -55,7 +55,7 @@
               <th>GP</th>
               <th>Stat line</th>
               <th class="col-num">Pts/G</th>
-              <th class="col-num">Weight</th>
+              <th class="col-num">Weight <app-info-icon metricKey="seasonWeight" /></th>
             </tr>
           </thead>
           <tbody>

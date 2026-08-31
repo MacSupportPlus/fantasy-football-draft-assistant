@@ -5,6 +5,9 @@ import { DraftBoardService } from './services/draft-board.service';
 import { PlayerDetail, PlayerDetailService } from './services/player-detail.service';
 import { LiveVbdEntry, ScoringFormat } from './models/vbd-entry.model';
 import { PlayerCardComponent } from './components/player-card.component';
+import { ValueChartComponent } from './components/value-chart.component';
+import { InfoIconComponent } from './components/info-icon.component';
+import { GlossaryComponent } from './components/glossary.component';
 
 const POSITIONS = ['ALL', 'QB', 'RB', 'WR', 'TE', 'DST', 'K'] as const;
 const SCORING_OPTIONS: [ScoringFormat, string][] = [
@@ -16,7 +19,7 @@ const SCORING_OPTIONS: [ScoringFormat, string][] = [
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, FormsModule, PlayerCardComponent],
+  imports: [CommonModule, FormsModule, PlayerCardComponent, ValueChartComponent, InfoIconComponent, GlossaryComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
@@ -27,6 +30,8 @@ export class AppComponent {
   readonly search = signal('');
   readonly hideDrafted = signal(false);
   readonly selectedDetail = signal<PlayerDetail | null>(null);
+  readonly showCharts = signal(true);
+  readonly showGlossary = signal(false);
 
   readonly filtered = computed(() => {
     const pos = this.positionFilter();

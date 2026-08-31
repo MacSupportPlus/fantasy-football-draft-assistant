@@ -1,0 +1,24 @@
+<div class="backdrop" (click)="onBackdropClick($event)">
+  <div class="card">
+    <button type="button" class="close-btn" (click)="close()" aria-label="Close">×</button>
+
+    <h2>How to read this board</h2>
+    <p class="intro">
+      Every column and stat in this app, explained in full — what it measures, where it
+      comes from, and how it's computed. The short version is also available inline: hover
+      or focus the small <span class="mini-icon">i</span> icon next to any column header or player-card stat.
+    </p>
+
+    @for (section of sections; track section.title) {
+      <section class="glossary-section">
+        <h3>{{ section.title }}</h3>
+        @for (item of section.items; track item.label) {
+          <div class="glossary-item">
+            <h4>{{ item.label }}</h4>
+            <p>{{ item.long }}</p>
+          </div>
+        }
+      </section>
+    }
+  </div>
+</div>

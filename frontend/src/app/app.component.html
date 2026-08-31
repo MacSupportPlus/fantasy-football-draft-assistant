@@ -6,19 +6,34 @@
       <span class="subtitle">Live-updated as you pick &middot; 14-team league</span>
     </div>
 
-    <div class="scoring-toggle">
-      @for (fmt of scoringOptions; track fmt[0]) {
-        <button
-          type="button"
-          class="scoring-btn"
-          [class.active]="board.scoring() === fmt[0]"
-          (click)="setScoring(fmt[0])"
-        >
-          {{ fmt[1] }}
-        </button>
-      }
+    <div class="header-actions">
+      <button type="button" class="glossary-btn" (click)="showGlossary.set(true)">
+        <span class="mini-icon">i</span> How to read this
+      </button>
+      <div class="scoring-toggle">
+        @for (fmt of scoringOptions; track fmt[0]) {
+          <button
+            type="button"
+            class="scoring-btn"
+            [class.active]="board.scoring() === fmt[0]"
+            (click)="setScoring(fmt[0])"
+          >
+            {{ fmt[1] }}
+          </button>
+        }
+      </div>
     </div>
   </header>
+
+  <div class="charts-toggle-row">
+    <button type="button" class="charts-toggle" (click)="showCharts.set(!showCharts())">
+      {{ showCharts() ? 'Hide' : 'Show' }} value curves {{ showCharts() ? '▲' : '▼' }}
+    </button>
+  </div>
+
+  @if (showCharts()) {
+    <app-value-chart />
+  }
 
   <div class="toolbar">
     <div class="position-tabs">
@@ -62,15 +77,15 @@
       <table class="board">
         <thead>
           <tr>
-            <th class="col-rank" title="Overall rank by our VBD score">Rank</th>
+            <th class="col-rank">Rank <app-info-icon metricKey="overallRank" /></th>
             <th class="col-name">Player</th>
-            <th>Pos</th>
-            <th class="col-rank" title="Rank within position by our VBD score">Pos#</th>
-            <th>Team</th>
-            <th class="col-num">Proj Pts</th>
-            <th class="col-num">VBD</th>
-            <th class="col-rank" title="FantasyPros consensus rank within position — the data we started from, before VBD">FP Rank</th>
-            <th class="col-num" title="Positive = we rate them better than FantasyPros consensus; negative = worse">&Delta;</th>
+            <th>Pos <app-info-icon metricKey="position" /></th>
+            <th class="col-rank">Pos# <app-info-icon metricKey="positionRank" /></th>
+            <th>Team <app-info-icon metricKey="team" /></th>
+            <th class="col-num">Proj Pts <app-info-icon metricKey="projectedPoints" /></th>
+            <th class="col-num">VBD <app-info-icon metricKey="vbdScore" /></th>
+            <th class="col-rank">FP Rank <app-info-icon metricKey="fpPositionRank" /></th>
+            <th class="col-num">&Delta; <app-info-icon metricKey="rankDelta" /></th>
             <th></th>
           </tr>
         </thead>
@@ -114,4 +129,8 @@
 
 @if (selectedDetail(); as detail) {
   <app-player-card [detail]="detail" (closed)="closePlayer()" />
+}
+
+@if (showGlossary()) {
+  <app-glossary (closed)="showGlossary.set(false)" />
 }
