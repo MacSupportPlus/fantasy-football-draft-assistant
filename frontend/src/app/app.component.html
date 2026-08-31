@@ -1,8 +1,9 @@
 <div class="page">
   <header class="header">
     <div class="header-title">
-      <h1>Draft Board</h1>
-      <span class="subtitle">Value-based draft rankings, live-updated as you pick</span>
+      <span class="eyebrow">Draft Board</span>
+      <h1>Value-Based Rankings</h1>
+      <span class="subtitle">Live-updated as you pick &middot; 14-team league</span>
     </div>
 
     <div class="scoring-toggle">
@@ -57,42 +58,48 @@
   } @else if (board.error()) {
     <p class="state-message error">{{ board.error() }}</p>
   } @else {
-    <table class="board">
-      <thead>
-        <tr>
-          <th class="col-rank">Rank</th>
-          <th class="col-name">Player</th>
-          <th>Pos</th>
-          <th>Team</th>
-          <th class="col-num">Proj Pts</th>
-          <th class="col-num">VBD</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        @for (e of filtered(); track e.sleeperId) {
-          <tr [class.drafted]="e.drafted">
-            <td class="col-rank">{{ e.drafted ? '—' : e.liveOverallRank }}</td>
-            <td class="col-name">
-              {{ e.name }}
-              @if (e.source === 'interpolated') {
-                <span class="badge-interpolated" title="No usable historical stats — projection interpolated from FantasyPros rank">est.</span>
-              }
-            </td>
-            <td><span class="pos-badge" [attr.data-pos]="e.position">{{ e.position }}</span></td>
-            <td>{{ e.team ?? '—' }}</td>
-            <td class="col-num">{{ e.projectedPoints }}</td>
-            <td class="col-num vbd" [class.positive]="e.liveVbdScore > 0">{{ e.liveVbdScore }}</td>
-            <td class="col-action">
-              <button type="button" class="draft-btn" [class.undo]="e.drafted" (click)="toggleDraft(e.sleeperId)">
-                {{ e.drafted ? 'Undo' : 'Draft' }}
-              </button>
-            </td>
+    <div class="board-wrap">
+      <table class="board">
+        <thead>
+          <tr>
+            <th class="col-rank">Rank</th>
+            <th class="col-name">Player</th>
+            <th>Pos</th>
+            <th>Team</th>
+            <th class="col-num">Proj Pts</th>
+            <th class="col-num">VBD</th>
+            <th></th>
           </tr>
-        } @empty {
-          <tr><td colspan="7" class="state-message">No players match this filter.</td></tr>
-        }
-      </tbody>
-    </table>
+        </thead>
+        <tbody>
+          @for (e of filtered(); track e.sleeperId) {
+            <tr [class.drafted]="e.drafted">
+              <td class="col-rank">{{ e.drafted ? '—' : e.liveOverallRank }}</td>
+              <td class="col-name">
+                <button type="button" class="player-link" (click)="openPlayer(e)">{{ e.name }}</button>
+                @if (e.source === 'interpolated') {
+                  <span class="badge-interpolated" title="No usable historical stats — projection interpolated from FantasyPros rank">est.</span>
+                }
+              </td>
+              <td><span class="pos-badge" [attr.data-pos]="e.position">{{ e.position }}</span></td>
+              <td class="team-cell">{{ e.team ?? '—' }}</td>
+              <td class="col-num">{{ e.projectedPoints }}</td>
+              <td class="col-num vbd" [class.positive]="e.liveVbdScore > 0">{{ e.liveVbdScore }}</td>
+              <td class="col-action">
+                <button type="button" class="draft-btn" [class.undo]="e.drafted" (click)="toggleDraft(e.sleeperId)">
+                  {{ e.drafted ? 'Undo' : 'Draft' }}
+                </button>
+              </td>
+            </tr>
+          } @empty {
+            <tr><td colspan="7" class="state-message">No players match this filter.</td></tr>
+          }
+        </tbody>
+      </table>
+    </div>
   }
 </div>
+
+@if (selectedDetail(); as detail) {
+  <app-player-card [detail]="detail" (closed)="closePlayer()" />
+}

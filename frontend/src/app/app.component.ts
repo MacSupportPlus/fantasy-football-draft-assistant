@@ -2,9 +2,11 @@ import { Component, computed, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { DraftBoardService } from './services/draft-board.service';
-import { ScoringFormat } from './models/vbd-entry.model';
+import { PlayerDetail, PlayerDetailService } from './services/player-detail.service';
+import { LiveVbdEntry, ScoringFormat } from './models/vbd-entry.model';
+import { PlayerCardComponent } from './components/player-card.component';
 
-const POSITIONS = ['ALL', 'QB', 'RB', 'WR', 'TE', 'DST'] as const;
+const POSITIONS = ['ALL', 'QB', 'RB', 'WR', 'TE', 'DST', 'K'] as const;
 const SCORING_OPTIONS: [ScoringFormat, string][] = [
   ['STD', 'Standard'],
   ['HALF_PPR', 'Half PPR'],
@@ -14,7 +16,7 @@ const SCORING_OPTIONS: [ScoringFormat, string][] = [
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, PlayerCardComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
@@ -24,6 +26,7 @@ export class AppComponent {
   readonly positionFilter = signal<(typeof POSITIONS)[number]>('ALL');
   readonly search = signal('');
   readonly hideDrafted = signal(false);
+  readonly selectedDetail = signal<PlayerDetail | null>(null);
 
   readonly filtered = computed(() => {
     const pos = this.positionFilter();
@@ -40,7 +43,10 @@ export class AppComponent {
 
   readonly draftedCount = computed(() => this.board.draftedIds().size);
 
-  constructor(public readonly board: DraftBoardService) {}
+  constructor(
+    public readonly board: DraftBoardService,
+    private readonly playerDetail: PlayerDetailService
+  ) {}
 
   setScoring(format: ScoringFormat): void {
     void this.board.setScoring(format);
@@ -62,5 +68,14 @@ export class AppComponent {
     if (confirm('Clear all drafted players and start over?')) {
       this.board.resetDraft();
     }
+  }
+
+  async openPlayer(entry: LiveVbdEntry): Promise<void> {
+    const detail = await this.playerDetail.getDetail(entry, this.board.scoring());
+    this.selectedDetail.set(detail);
+  }
+
+  closePlayer(): void {
+    this.selectedDetail.set(null);
   }
 }

@@ -21,6 +21,6 @@ describe('AppComponent', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('h1')?.textContent).toContain('Draft Board');
+    expect(compiled.querySelector('.eyebrow')?.textContent).toContain('Draft Board');
   });
 });

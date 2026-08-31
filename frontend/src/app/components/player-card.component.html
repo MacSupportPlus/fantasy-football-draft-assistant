@@ -1,0 +1,76 @@
+<div class="backdrop" (click)="onBackdropClick($event)">
+  <div class="card">
+    <button type="button" class="close-btn" (click)="close()" aria-label="Close">×</button>
+
+    <div class="card-header">
+      <span class="pos-badge" [attr.data-pos]="detail.entry.position">{{ detail.entry.position }}</span>
+      <div class="header-text">
+        <h2>{{ detail.entry.name }}</h2>
+        <span class="subtitle">{{ detail.entry.team ?? 'Free agent' }}</span>
+      </div>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat">
+        <span class="stat-value">{{ detail.entry.projectedPoints }}</span>
+        <span class="stat-label">Projected Pts</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" [class.positive]="detail.entry.liveVbdScore > 0">{{ detail.entry.liveVbdScore }}</span>
+        <span class="stat-label">VBD Score</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value">{{ detail.entry.liveReplacementValue }}</span>
+        <span class="stat-label">Replacement</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value">#{{ detail.entry.drafted ? '—' : detail.entry.liveOverallRank }}</span>
+        <span class="stat-label">Overall Rank</span>
+      </div>
+    </div>
+
+    @if (detail.fpRanking) {
+      <div class="fp-block">
+        <span class="fp-item"><strong>ECR:</strong> {{ detail.fpRanking.positionRank }} (overall #{{ detail.fpRanking.rankEcr }})</span>
+        <span class="fp-item"><strong>Tier:</strong> {{ detail.fpRanking.tier }}</span>
+        <span class="fp-item"><strong>Expert range:</strong> {{ detail.fpRanking.rankMin }}–{{ detail.fpRanking.rankMax }}</span>
+        @if (detail.fpRanking.ownedPct !== null) {
+          <span class="fp-item"><strong>Rostered:</strong> {{ detail.fpRanking.ownedPct }}%</span>
+        }
+      </div>
+    }
+
+    <div class="explanation">
+      <h3>Why this projection</h3>
+      <p>{{ detail.explanation }}</p>
+    </div>
+
+    @if (detail.seasons.length > 0) {
+      <div class="seasons">
+        <h3>Season history</h3>
+        <table>
+          <thead>
+            <tr>
+              <th>Season</th>
+              <th>GP</th>
+              <th>Stat line</th>
+              <th class="col-num">Pts/G</th>
+              <th class="col-num">Weight</th>
+            </tr>
+          </thead>
+          <tbody>
+            @for (s of detail.seasons; track s.season) {
+              <tr>
+                <td>{{ s.season }}</td>
+                <td>{{ s.gamesPlayed }}</td>
+                <td class="stat-line">{{ s.statLine }}</td>
+                <td class="col-num">{{ s.fantasyPointsPerGame }}</td>
+                <td class="col-num">{{ (s.weight * 100).toFixed(0) }}%</td>
+              </tr>
+            }
+          </tbody>
+        </table>
+      </div>
+    }
+  </div>
+</div>

@@ -2,8 +2,8 @@
   display: block;
   max-width: 1100px;
   margin: 0 auto;
-  padding: 24px 16px 64px;
-  color: #1a1d21;
+  padding: 28px 20px 64px;
+  color: #e8eaed;
 }
 
 .header {
@@ -12,40 +12,56 @@
   align-items: flex-end;
   flex-wrap: wrap;
   gap: 16px;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #22262e;
+}
+
+.eyebrow {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #6fe0a0;
+  margin-bottom: 4px;
 }
 
 .header-title h1 {
   margin: 0;
-  font-size: 1.6rem;
+  font-size: 1.7rem;
+  letter-spacing: -0.01em;
 }
 
 .subtitle {
-  color: #666;
-  font-size: 0.9rem;
+  color: #9aa2ad;
+  font-size: 0.85rem;
 }
 
 .scoring-toggle {
   display: flex;
   gap: 4px;
-  background: #eee;
-  border-radius: 8px;
+  background: #171a20;
+  border: 1px solid #262b34;
+  border-radius: 10px;
   padding: 4px;
 }
 
 .scoring-btn {
   border: none;
   background: transparent;
-  padding: 8px 14px;
-  border-radius: 6px;
+  padding: 8px 16px;
+  border-radius: 7px;
   cursor: pointer;
-  font-size: 0.9rem;
-  color: #444;
+  font-size: 0.85rem;
+  color: #9aa2ad;
+  font-weight: 500;
 }
 
 .scoring-btn.active {
-  background: #1a1d21;
-  color: #fff;
+  background: #6fe0a0;
+  color: #0d1310;
+  font-weight: 700;
 }
 
 .toolbar {
@@ -59,95 +75,118 @@
 .position-tabs {
   display: flex;
   gap: 4px;
+  flex-wrap: wrap;
 }
 
 .tab {
-  border: 1px solid #ddd;
-  background: #fff;
-  padding: 6px 12px;
-  border-radius: 6px;
+  border: 1px solid #262b34;
+  background: #171a20;
+  color: #cfd4db;
+  padding: 6px 13px;
+  border-radius: 7px;
   cursor: pointer;
-  font-size: 0.85rem;
+  font-size: 0.82rem;
 }
 
 .tab.active {
-  background: #1a1d21;
-  color: #fff;
-  border-color: #1a1d21;
+  background: #e8eaed;
+  color: #0d0f13;
+  border-color: #e8eaed;
+  font-weight: 700;
 }
 
 .search {
-  padding: 7px 10px;
-  border: 1px solid #ddd;
-  border-radius: 6px;
+  padding: 8px 12px;
+  border: 1px solid #262b34;
+  background: #171a20;
+  color: #e8eaed;
+  border-radius: 7px;
   font-size: 0.85rem;
   min-width: 180px;
+}
+
+.search::placeholder {
+  color: #6b7280;
 }
 
 .hide-drafted {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 0.85rem;
-  color: #444;
+  font-size: 0.82rem;
+  color: #9aa2ad;
 }
 
 .draft-status {
   margin-left: auto;
   display: flex;
   align-items: center;
-  gap: 12px;
-  font-size: 0.85rem;
-  color: #444;
+  gap: 14px;
+  font-size: 0.82rem;
+  color: #9aa2ad;
 }
 
 .reset-btn {
-  border: 1px solid #ddd;
-  background: #fff;
-  padding: 6px 10px;
-  border-radius: 6px;
+  border: 1px solid #3a2226;
+  background: #221518;
+  color: #ff8f8f;
+  padding: 6px 11px;
+  border-radius: 7px;
   cursor: pointer;
-  font-size: 0.8rem;
-  color: #a33;
+  font-size: 0.78rem;
 }
 
 .state-message {
   text-align: center;
-  color: #666;
-  padding: 40px 0;
+  color: #9aa2ad;
+  padding: 48px 0;
 }
 
 .state-message.error {
-  color: #a33;
+  color: #ff8f8f;
+}
+
+.board-wrap {
+  border: 1px solid #22262e;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #12151a;
 }
 
 .board {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
 }
 
-.board th {
+.board thead th {
+  position: sticky;
+  top: 0;
+  background: #171a20;
   text-align: left;
-  padding: 8px 10px;
-  border-bottom: 2px solid #ddd;
-  color: #666;
+  padding: 10px 12px;
+  border-bottom: 1px solid #262b34;
+  color: #9aa2ad;
   font-weight: 600;
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   text-transform: uppercase;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.04em;
 }
 
 .board td {
-  padding: 8px 10px;
-  border-bottom: 1px solid #eee;
+  padding: 10px 12px;
+  border-bottom: 1px solid #1c2027;
+}
+
+.board tbody tr:hover {
+  background: #171a20;
 }
 
 .board tr.drafted {
-  opacity: 0.4;
+  opacity: 0.35;
 }
 
-.board tr.drafted .col-name {
+.board tr.drafted .player-link {
   text-decoration: line-through;
 }
 
@@ -157,51 +196,77 @@
 }
 
 .col-rank {
-  color: #888;
+  color: #6b7280;
   width: 48px;
+  font-variant-numeric: tabular-nums;
+}
+
+.team-cell {
+  color: #9aa2ad;
+  font-size: 0.82rem;
 }
 
 .vbd.positive {
-  color: #1c7c3e;
-  font-weight: 600;
+  color: #6fe0a0;
+  font-weight: 700;
+}
+
+.player-link {
+  background: none;
+  border: none;
+  padding: 0;
+  color: #e8eaed;
+  font-size: inherit;
+  font-weight: 500;
+  cursor: pointer;
+  text-align: left;
+}
+
+.player-link:hover {
+  color: #6fe0a0;
+  text-decoration: underline;
 }
 
 .pos-badge {
   display: inline-block;
-  padding: 2px 8px;
+  padding: 2px 9px;
   border-radius: 999px;
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   font-weight: 700;
-  background: #eee;
-  color: #444;
+  background: #232830;
+  color: #cfd4db;
 }
 
-.pos-badge[data-pos='QB'] { background: #fde2e2; color: #a33; }
-.pos-badge[data-pos='RB'] { background: #dcf3e1; color: #1c7c3e; }
-.pos-badge[data-pos='WR'] { background: #dbe8fd; color: #1a56c4; }
-.pos-badge[data-pos='TE'] { background: #fdeccb; color: #a5680b; }
-.pos-badge[data-pos='DST'] { background: #e6e0f8; color: #5b3fa0; }
+.pos-badge[data-pos='QB'] { background: #3a1c20; color: #ff8f8f; }
+.pos-badge[data-pos='RB'] { background: #163523; color: #6fe0a0; }
+.pos-badge[data-pos='WR'] { background: #17233d; color: #7fa8ff; }
+.pos-badge[data-pos='TE'] { background: #3d2d13; color: #ffbf6b; }
+.pos-badge[data-pos='DST'] { background: #2b1e3d; color: #c39bff; }
+.pos-badge[data-pos='K'] { background: #1c2f32; color: #7fd4de; }
 
 .badge-interpolated {
   margin-left: 6px;
-  font-size: 0.68rem;
-  color: #a5680b;
-  border: 1px solid #e8c98a;
+  font-size: 0.66rem;
+  color: #ffbf6b;
+  border: 1px solid #4a3618;
   border-radius: 4px;
   padding: 0 4px;
 }
 
 .draft-btn {
-  border: 1px solid #1a1d21;
-  background: #1a1d21;
-  color: #fff;
-  padding: 5px 12px;
-  border-radius: 6px;
+  border: 1px solid #6fe0a0;
+  background: #6fe0a0;
+  color: #0d1310;
+  padding: 5px 13px;
+  border-radius: 7px;
   cursor: pointer;
   font-size: 0.8rem;
+  font-weight: 700;
 }
 
 .draft-btn.undo {
-  background: #fff;
-  color: #1a1d21;
+  background: transparent;
+  color: #9aa2ad;
+  border-color: #262b34;
+  font-weight: 500;
 }
