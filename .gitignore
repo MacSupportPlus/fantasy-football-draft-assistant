@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Angular (added once frontend is scaffolded)
+frontend/.angular/
+frontend/dist/
+
+# local scratch
+*.sqlite-journal
