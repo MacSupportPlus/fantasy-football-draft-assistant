@@ -119,3 +119,32 @@ not a bug.
 **Still not rankable: kickers.** nflverse has no per-kicker stats anywhere.
 (There's team-level field-goal/PAT data in `stats_team` that could proxy a
 team's current kicker, but that hasn't been built.)
+
+League settings default to a 14-team league (`pipeline/src/vbd/replacement.ts`
+and, duplicated for the browser, `frontend/src/app/league-settings.ts`) —
+matches the real ESPN league this was built for. Edit both files if your
+league differs; they need to stay in sync manually.
+
+## Frontend
+
+```bash
+cd frontend
+npm install
+npm start   # or: npx ng serve
+```
+
+Then open http://localhost:4200. It's a standalone Angular 19 app —
+`angular.json` maps `../data/processed` to `/data` as a build asset, so it
+reads the pipeline's JSON output directly with no copying or duplication.
+
+- **Scoring format toggle** (Standard/Half-PPR/PPR), **position filter**,
+  **search**.
+- **Draft/Undo buttons** mark a player drafted. Drafted players grey out and
+  sink to the bottom of the list; draft state persists in the browser's
+  localStorage (per-browser, not shared across devices) so a page refresh
+  mid-draft doesn't lose progress. "Reset draft" clears it.
+- **Live re-ranking**: `DraftBoardService` recomputes replacement value and
+  VBD score for every remaining player against whoever's still available
+  each time someone gets drafted — not just filtering the precomputed list.
+  This is the actual "re-rank live during my draft" requirement from the
+  original plan, not a static leaderboard.
