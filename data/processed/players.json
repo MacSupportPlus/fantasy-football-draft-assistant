@@ -19,7 +19,7 @@
     "injuryStatus": null,
     "yearsExp": 21,
     "age": 42,
-    "searchRank": 185
+    "searchRank": 186
   },
   {
     "id": "138",
@@ -41,7 +41,7 @@
     "injuryStatus": null,
     "yearsExp": 18,
     "age": 40,
-    "searchRank": 544
+    "searchRank": 464
   },
   {
     "id": "421",
@@ -52,7 +52,7 @@
     "injuryStatus": null,
     "yearsExp": 17,
     "age": 38,
-    "searchRank": 68
+    "searchRank": 67
   },
   {
     "id": "650",
@@ -107,7 +107,7 @@
     "injuryStatus": null,
     "yearsExp": 14,
     "age": 38,
-    "searchRank": 281
+    "searchRank": 279
   },
   {
     "id": "1373",
@@ -118,7 +118,7 @@
     "injuryStatus": null,
     "yearsExp": 13,
     "age": 35,
-    "searchRank": 212
+    "searchRank": 208
   },
   {
     "id": "1466",
@@ -129,7 +129,7 @@
     "injuryStatus": null,
     "yearsExp": 13,
     "age": 36,
-    "searchRank": 90
+    "searchRank": 89
   },
   {
     "id": "1479",
@@ -140,7 +140,7 @@
     "injuryStatus": null,
     "yearsExp": 13,
     "age": 34,
-    "searchRank": 178
+    "searchRank": 177
   },
   {
     "id": "1592",
@@ -206,7 +206,7 @@
     "injuryStatus": null,
     "yearsExp": 12,
     "age": 35,
-    "searchRank": 146
+    "searchRank": 145
   },
   {
     "id": "1979",
@@ -250,7 +250,7 @@
     "injuryStatus": null,
     "yearsExp": 12,
     "age": 33,
-    "searchRank": 460
+    "searchRank": 459
   },
   {
     "id": "2118",
@@ -294,7 +294,7 @@
     "injuryStatus": null,
     "yearsExp": 11,
     "age": 32,
-    "searchRank": 515
+    "searchRank": 511
   },
   {
     "id": "2307",
@@ -338,7 +338,7 @@
     "injuryStatus": null,
     "yearsExp": 11,
     "age": 33,
-    "searchRank": 362
+    "searchRank": 360
   },
   {
     "id": "2747",
@@ -393,7 +393,7 @@
     "injuryStatus": null,
     "yearsExp": 10,
     "age": 31,
-    "searchRank": 544
+    "searchRank": 604
   },
   {
     "id": "3161",
@@ -415,7 +415,7 @@
     "injuryStatus": null,
     "yearsExp": 10,
     "age": 31,
-    "searchRank": 62
+    "searchRank": 64
   },
   {
     "id": "3198",
@@ -470,7 +470,7 @@
     "injuryStatus": null,
     "yearsExp": 10,
     "age": 33,
-    "searchRank": 180
+    "searchRank": 179
   },
   {
     "id": "3258",
@@ -525,7 +525,7 @@
     "injuryStatus": null,
     "yearsExp": 10,
     "age": 33,
-    "searchRank": 41
+    "searchRank": 40
   },
   {
     "id": "3309",
@@ -635,7 +635,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 30,
-    "searchRank": 295
+    "searchRank": 296
   },
   {
     "id": "4033",
@@ -657,7 +657,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 9,
     "age": 30,
-    "searchRank": 5
+    "searchRank": 4
   },
   {
     "id": "4035",
@@ -690,7 +690,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 33,
-    "searchRank": 198
+    "searchRank": 199
   },
   {
     "id": "4046",
@@ -701,7 +701,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 9,
     "age": 30,
-    "searchRank": 38
+    "searchRank": 39
   },
   {
     "id": "4054",
@@ -723,7 +723,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 32,
-    "searchRank": 476
+    "searchRank": 475
   },
   {
     "id": "4137",
@@ -745,7 +745,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 31,
-    "searchRank": 661
+    "searchRank": 695
   },
   {
     "id": "4147",
@@ -756,7 +756,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 30,
-    "searchRank": 467
+    "searchRank": 466
   },
   {
     "id": "4177",
@@ -789,7 +789,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 32,
-    "searchRank": 539
+    "searchRank": 489
   },
   {
     "id": "4195",
@@ -833,7 +833,7 @@
     "injuryStatus": "IR",
     "yearsExp": 9,
     "age": 30,
-    "searchRank": 557
+    "searchRank": 608
   },
   {
     "id": "4227",
@@ -910,7 +910,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 32,
-    "searchRank": 432
+    "searchRank": 427
   },
   {
     "id": "4451",
@@ -976,7 +976,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 32,
-    "searchRank": 517
+    "searchRank": 563
   },
   {
     "id": "4683",
@@ -1020,7 +1020,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 29,
-    "searchRank": 10
+    "searchRank": 11
   },
   {
     "id": "4881",
@@ -1174,7 +1174,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 29,
-    "searchRank": 53
+    "searchRank": 52
   },
   {
     "id": "4984",
@@ -1196,7 +1196,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 30,
-    "searchRank": 410
+    "searchRank": 407
   },
   {
     "id": "4995",
@@ -1207,7 +1207,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 30,
-    "searchRank": 378
+    "searchRank": 370
   },
   {
     "id": "5001",
@@ -1240,7 +1240,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 31,
-    "searchRank": 663
+    "searchRank": 647
   },
   {
     "id": "5012",
@@ -1284,7 +1284,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 31,
-    "searchRank": 621
+    "searchRank": 648
   },
   {
     "id": "5096",
@@ -1361,7 +1361,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 30,
-    "searchRank": 176
+    "searchRank": 174
   },
   {
     "id": "5223",
@@ -1405,7 +1405,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 31,
-    "searchRank": 632
+    "searchRank": 684
   },
   {
     "id": "5638",
@@ -1570,7 +1570,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 29,
-    "searchRank": 44
+    "searchRank": 45
   },
   {
     "id": "5906",
@@ -1955,7 +1955,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 30,
-    "searchRank": 370
+    "searchRank": 392
   },
   {
     "id": "6540",
@@ -2032,7 +2032,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 28,
-    "searchRank": 232
+    "searchRank": 233
   },
   {
     "id": "6770",
@@ -2043,7 +2043,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 29,
-    "searchRank": 15
+    "searchRank": 14
   },
   {
     "id": "6783",
@@ -2065,7 +2065,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 27,
-    "searchRank": 11
+    "searchRank": 10
   },
   {
     "id": "6790",
@@ -2073,7 +2073,7 @@
     "position": "RB",
     "team": "CHI",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 6,
     "age": 27,
     "searchRank": 47
@@ -2087,7 +2087,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 27,
-    "searchRank": 12
+    "searchRank": 11
   },
   {
     "id": "6797",
@@ -2098,7 +2098,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 28,
-    "searchRank": 30
+    "searchRank": 32
   },
   {
     "id": "6801",
@@ -2131,7 +2131,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 27,
-    "searchRank": 64
+    "searchRank": 65
   },
   {
     "id": "6806",
@@ -2175,7 +2175,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 27,
-    "searchRank": 488
+    "searchRank": 489
   },
   {
     "id": "6828",
@@ -2197,7 +2197,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 28,
-    "searchRank": 639
+    "searchRank": 697
   },
   {
     "id": "6847",
@@ -2252,7 +2252,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 28,
-    "searchRank": 27
+    "searchRank": 28
   },
   {
     "id": "6918",
@@ -2285,7 +2285,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 6,
     "age": 28,
-    "searchRank": 524
+    "searchRank": 580
   },
   {
     "id": "6992",
@@ -2373,7 +2373,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 29,
-    "searchRank": 270
+    "searchRank": 259
   },
   {
     "id": "7075",
@@ -2406,7 +2406,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 28,
-    "searchRank": 543
+    "searchRank": 585
   },
   {
     "id": "7090",
@@ -2494,7 +2494,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 28,
-    "searchRank": 594
+    "searchRank": 581
   },
   {
     "id": "7523",
@@ -2505,7 +2505,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 26,
-    "searchRank": 39
+    "searchRank": 41
   },
   {
     "id": "7525",
@@ -2538,7 +2538,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
-    "searchRank": 402
+    "searchRank": 401
   },
   {
     "id": "7528",
@@ -2560,7 +2560,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 28,
-    "searchRank": 396
+    "searchRank": 425
   },
   {
     "id": "7535",
@@ -2571,7 +2571,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 28,
-    "searchRank": 567
+    "searchRank": 576
   },
   {
     "id": "7536",
@@ -2582,7 +2582,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
-    "searchRank": 485
+    "searchRank": 534
   },
   {
     "id": "7538",
@@ -2637,7 +2637,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
-    "searchRank": 358
+    "searchRank": 389
   },
   {
     "id": "7562",
@@ -2659,7 +2659,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 5,
     "age": 26,
-    "searchRank": 4
+    "searchRank": 3
   },
   {
     "id": "7567",
@@ -2681,7 +2681,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 5,
     "age": 26,
-    "searchRank": 651
+    "searchRank": 239
   },
   {
     "id": "7569",
@@ -2736,7 +2736,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 26,
-    "searchRank": 515
+    "searchRank": 561
   },
   {
     "id": "7588",
@@ -2802,7 +2802,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 26,
-    "searchRank": 467
+    "searchRank": 506
   },
   {
     "id": "7599",
@@ -2978,7 +2978,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
-    "searchRank": 152
+    "searchRank": 151
   },
   {
     "id": "7842",
@@ -3099,7 +3099,7 @@
     "injuryStatus": "IR",
     "yearsExp": 4,
     "age": 29,
-    "searchRank": 557
+    "searchRank": 615
   },
   {
     "id": "8110",
@@ -3165,7 +3165,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 500
+    "searchRank": 501
   },
   {
     "id": "8121",
@@ -3264,7 +3264,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 107
+    "searchRank": 108
   },
   {
     "id": "8132",
@@ -3308,7 +3308,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 123
+    "searchRank": 124
   },
   {
     "id": "8137",
@@ -3319,7 +3319,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 25,
-    "searchRank": 22
+    "searchRank": 23
   },
   {
     "id": "8138",
@@ -3349,7 +3349,7 @@
     "position": "WR",
     "team": "IND",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
     "searchRank": 94
@@ -3374,7 +3374,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 30
+    "searchRank": 29
   },
   {
     "id": "8145",
@@ -3385,7 +3385,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 576
+    "searchRank": 628
   },
   {
     "id": "8146",
@@ -3473,7 +3473,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 600
+    "searchRank": 659
   },
   {
     "id": "8160",
@@ -3495,7 +3495,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 118
+    "searchRank": 119
   },
   {
     "id": "8162",
@@ -3529,6 +3529,17 @@
     "yearsExp": 4,
     "age": 25,
     "searchRank": 608
+  },
+  {
+    "id": "8170",
+    "name": "James Mitchell",
+    "position": "TE",
+    "team": "DAL",
+    "status": "Active",
+    "injuryStatus": null,
+    "yearsExp": 4,
+    "age": 27,
+    "searchRank": 999
   },
   {
     "id": "8172",
@@ -3572,7 +3583,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 167
+    "searchRank": 168
   },
   {
     "id": "8181",
@@ -3594,7 +3605,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 53
+    "searchRank": 54
   },
   {
     "id": "8188",
@@ -3605,7 +3616,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 524
+    "searchRank": 521
   },
   {
     "id": "8195",
@@ -3616,7 +3627,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 495
+    "searchRank": 539
   },
   {
     "id": "8200",
@@ -3638,7 +3649,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 524
+    "searchRank": 432
   },
   {
     "id": "8204",
@@ -3693,7 +3704,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 475
+    "searchRank": 516
   },
   {
     "id": "8210",
@@ -3847,7 +3858,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 118
+    "searchRank": 119
   },
   {
     "id": "8408",
@@ -3858,7 +3869,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 95
+    "searchRank": 96
   },
   {
     "id": "8413",
@@ -3869,7 +3880,7 @@
     "injuryStatus": "IR",
     "yearsExp": 4,
     "age": 29,
-    "searchRank": 701
+    "searchRank": 578
   },
   {
     "id": "8414",
@@ -3880,7 +3891,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 29,
-    "searchRank": 355
+    "searchRank": 377
   },
   {
     "id": "8423",
@@ -3891,7 +3902,7 @@
     "injuryStatus": "IR",
     "yearsExp": 4,
     "age": 28,
-    "searchRank": 366
+    "searchRank": 289
   },
   {
     "id": "8484",
@@ -3913,7 +3924,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 28,
-    "searchRank": 494
+    "searchRank": 537
   },
   {
     "id": "8523",
@@ -3946,7 +3957,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 9999999
+    "searchRank": 258
   },
   {
     "id": "8676",
@@ -3957,7 +3968,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 28,
-    "searchRank": 149
+    "searchRank": 150
   },
   {
     "id": "8698",
@@ -4012,7 +4023,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 462
+    "searchRank": 460
   },
   {
     "id": "8801",
@@ -4045,7 +4056,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 30,
-    "searchRank": 466
+    "searchRank": 465
   },
   {
     "id": "9220",
@@ -4122,7 +4133,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 129
+    "searchRank": 128
   },
   {
     "id": "9229",
@@ -4133,7 +4144,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 24,
-    "searchRank": 447
+    "searchRank": 444
   },
   {
     "id": "9230",
@@ -4155,7 +4166,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 489
+    "searchRank": 484
   },
   {
     "id": "9480",
@@ -4188,7 +4199,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 443
+    "searchRank": 441
   },
   {
     "id": "9484",
@@ -4199,7 +4210,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 63
+    "searchRank": 65
   },
   {
     "id": "9486",
@@ -4210,7 +4221,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 203
+    "searchRank": 202
   },
   {
     "id": "9487",
@@ -4221,7 +4232,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 24,
-    "searchRank": 70
+    "searchRank": 71
   },
   {
     "id": "9488",
@@ -4232,7 +4243,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 24,
-    "searchRank": 6
+    "searchRank": 5
   },
   {
     "id": "9489",
@@ -4265,7 +4276,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 4
+    "searchRank": 5
   },
   {
     "id": "9494",
@@ -4309,7 +4320,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 502
+    "searchRank": 496
   },
   {
     "id": "9502",
@@ -4408,7 +4419,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 24,
-    "searchRank": 103
+    "searchRank": 102
   },
   {
     "id": "9756",
@@ -4452,7 +4463,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 42
+    "searchRank": 41
   },
   {
     "id": "9998",
@@ -4540,7 +4551,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 126
+    "searchRank": 125
   },
   {
     "id": "10220",
@@ -4554,6 +4565,17 @@
     "searchRank": 681
   },
   {
+    "id": "10221",
+    "name": "Ronnie Bell",
+    "position": "WR",
+    "team": "LV",
+    "status": "Active",
+    "injuryStatus": null,
+    "yearsExp": 3,
+    "age": 26,
+    "searchRank": 683
+  },
+  {
     "id": "10222",
     "name": "Jayden Reed",
     "position": "WR",
@@ -4562,7 +4584,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 101
+    "searchRank": 102
   },
   {
     "id": "10224",
@@ -4727,7 +4749,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 28,
-    "searchRank": 565
+    "searchRank": 556
   },
   {
     "id": "10867",
@@ -4848,7 +4870,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 408
+    "searchRank": 423
   },
   {
     "id": "11157",
@@ -4881,7 +4903,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 27,
-    "searchRank": 503
+    "searchRank": 497
   },
   {
     "id": "11201",
@@ -4914,7 +4936,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 493
+    "searchRank": 497
   },
   {
     "id": "11256",
@@ -4980,7 +5002,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 27,
-    "searchRank": 359
+    "searchRank": 425
   },
   {
     "id": "11320",
@@ -5002,7 +5024,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 467
+    "searchRank": 463
   },
   {
     "id": "11371",
@@ -5024,7 +5046,7 @@
     "injuryStatus": "PUP",
     "yearsExp": 3,
     "age": 27,
-    "searchRank": 421
+    "searchRank": 453
   },
   {
     "id": "11381",
@@ -5046,7 +5068,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 399
+    "searchRank": 428
   },
   {
     "id": "11433",
@@ -5112,7 +5134,7 @@
     "injuryStatus": "IR",
     "yearsExp": 3,
     "age": 27,
-    "searchRank": 256
+    "searchRank": 303
   },
   {
     "id": "11520",
@@ -5134,7 +5156,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 31,
-    "searchRank": 91
+    "searchRank": 92
   },
   {
     "id": "11539",
@@ -5145,7 +5167,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 27,
-    "searchRank": 140
+    "searchRank": 141
   },
   {
     "id": "11557",
@@ -5222,7 +5244,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 24,
-    "searchRank": 7
+    "searchRank": 8
   },
   {
     "id": "11565",
@@ -5244,7 +5266,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 17
+    "searchRank": 18
   },
   {
     "id": "11570",
@@ -5266,7 +5288,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 24,
-    "searchRank": 516
+    "searchRank": 515
   },
   {
     "id": "11573",
@@ -5343,7 +5365,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 136
+    "searchRank": 137
   },
   {
     "id": "11582",
@@ -5354,7 +5376,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 23,
-    "searchRank": 625
+    "searchRank": 630
   },
   {
     "id": "11583",
@@ -5431,7 +5453,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 674
+    "searchRank": 666
   },
   {
     "id": "11595",
@@ -5475,7 +5497,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 593
+    "searchRank": 651
   },
   {
     "id": "11600",
@@ -5530,7 +5552,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 176
+    "searchRank": 177
   },
   {
     "id": "11616",
@@ -5571,10 +5593,10 @@
     "position": "WR",
     "team": "CHI",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 24,
-    "searchRank": 63
+    "searchRank": 64
   },
   {
     "id": "11623",
@@ -5640,7 +5662,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 24,
-    "searchRank": 74
+    "searchRank": 73
   },
   {
     "id": "11629",
@@ -5673,7 +5695,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 23,
-    "searchRank": 75
+    "searchRank": 74
   },
   {
     "id": "11632",
@@ -5860,7 +5882,7 @@
     "injuryStatus": "PUP",
     "yearsExp": 2,
     "age": 24,
-    "searchRank": 9999999
+    "searchRank": 417
   },
   {
     "id": "11729",
@@ -5882,7 +5904,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 369
+    "searchRank": 302
   },
   {
     "id": "11783",
@@ -5915,7 +5937,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 166
+    "searchRank": 165
   },
   {
     "id": "11806",
@@ -5926,7 +5948,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 243
+    "searchRank": 256
   },
   {
     "id": "11820",
@@ -5970,7 +5992,7 @@
     "injuryStatus": "PUP",
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 473
+    "searchRank": 490
   },
   {
     "id": "11911",
@@ -6047,7 +6069,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 27,
-    "searchRank": 263
+    "searchRank": 307
   },
   {
     "id": "12048",
@@ -6058,7 +6080,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 479
+    "searchRank": 477
   },
   {
     "id": "12062",
@@ -6124,7 +6146,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 390
+    "searchRank": 432
   },
   {
     "id": "12185",
@@ -6171,17 +6193,6 @@
     "searchRank": 549
   },
   {
-    "id": "12356",
-    "name": "Jabari Small",
-    "position": "RB",
-    "team": "DET",
-    "status": "Active",
-    "injuryStatus": null,
-    "yearsExp": 2,
-    "age": 25,
-    "searchRank": 491
-  },
-  {
     "id": "12357",
     "name": "David Martin-Robinson",
     "position": "TE",
@@ -6201,7 +6212,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 466
+    "searchRank": 517
   },
   {
     "id": "12455",
@@ -6300,7 +6311,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 626
+    "searchRank": 681
   },
   {
     "id": "12474",
@@ -6330,7 +6341,7 @@
     "position": "RB",
     "team": "NO",
     "status": "Inactive",
-    "injuryStatus": "IR",
+    "injuryStatus": "Questionable",
     "yearsExp": 1,
     "age": 23,
     "searchRank": 169
@@ -6345,17 +6356,6 @@
     "yearsExp": 1,
     "age": 25,
     "searchRank": 616
-  },
-  {
-    "id": "12479",
-    "name": "Ja'Quinden Jackson",
-    "position": "RB",
-    "team": "PHI",
-    "status": "Inactive",
-    "injuryStatus": "Questionable",
-    "yearsExp": 1,
-    "age": 24,
-    "searchRank": 367
   },
   {
     "id": "12480",
@@ -6377,7 +6377,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 38
+    "searchRank": 37
   },
   {
     "id": "12482",
@@ -6432,7 +6432,7 @@
     "injuryStatus": "IR",
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 522
+    "searchRank": 568
   },
   {
     "id": "12487",
@@ -6509,7 +6509,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 589
+    "searchRank": 608
   },
   {
     "id": "12495",
@@ -6520,7 +6520,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 1,
     "age": 22,
-    "searchRank": 421
+    "searchRank": 469
   },
   {
     "id": "12496",
@@ -6575,7 +6575,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 531
+    "searchRank": 524
   },
   {
     "id": "12501",
@@ -6586,7 +6586,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 120
+    "searchRank": 119
   },
   {
     "id": "12502",
@@ -6663,7 +6663,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 37
+    "searchRank": 38
   },
   {
     "id": "12509",
@@ -6685,7 +6685,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 503
+    "searchRank": 504
   },
   {
     "id": "12511",
@@ -6693,10 +6693,10 @@
     "position": "QB",
     "team": "PIT",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 513
+    "searchRank": 514
   },
   {
     "id": "12512",
@@ -6784,7 +6784,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 415
+    "searchRank": 413
   },
   {
     "id": "12522",
@@ -6795,7 +6795,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 103
+    "searchRank": 104
   },
   {
     "id": "12523",
@@ -6828,7 +6828,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 36
+    "searchRank": 35
   },
   {
     "id": "12527",
@@ -6915,8 +6915,19 @@
     "status": "Active",
     "injuryStatus": "Questionable",
     "yearsExp": 1,
-    "age": 23,
+    "age": 24,
     "searchRank": 190
+  },
+  {
+    "id": "12538",
+    "name": "Brady Cook",
+    "position": "QB",
+    "team": "MIA",
+    "status": "Active",
+    "injuryStatus": null,
+    "yearsExp": 1,
+    "age": 24,
+    "searchRank": 673
   },
   {
     "id": "12539",
@@ -6927,7 +6938,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 438
+    "searchRank": 401
   },
   {
     "id": "12540",
@@ -6982,7 +6993,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 1,
     "age": 22,
-    "searchRank": 497
+    "searchRank": 496
   },
   {
     "id": "12545",
@@ -7092,7 +7103,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 667
+    "searchRank": 248
   },
   {
     "id": "12705",
@@ -7169,7 +7180,7 @@
     "injuryStatus": "IR",
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 999
+    "searchRank": 439
   },
   {
     "id": "12746",
@@ -7191,7 +7202,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 387
+    "searchRank": 413
   },
   {
     "id": "12761",
@@ -7213,7 +7224,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 676
+    "searchRank": 687
   },
   {
     "id": "12773",
@@ -7235,7 +7246,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 560
+    "searchRank": 611
   },
   {
     "id": "12787",
@@ -7268,7 +7279,18 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 369
+    "searchRank": 387
+  },
+  {
+    "id": "12797",
+    "name": "Ahmani Marshall",
+    "position": "RB",
+    "team": "CAR",
+    "status": "Active",
+    "injuryStatus": null,
+    "yearsExp": 1,
+    "age": 24,
+    "searchRank": 690
   },
   {
     "id": "12817",
@@ -7279,7 +7301,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 537
+    "searchRank": 576
   },
   {
     "id": "12829",
@@ -7301,7 +7323,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 537
+    "searchRank": 588
   },
   {
     "id": "12860",
@@ -7334,7 +7356,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 489
+    "searchRank": 533
   },
   {
     "id": "12883",
@@ -7389,7 +7411,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 531
+    "searchRank": 507
   },
   {
     "id": "12925",
@@ -7422,7 +7444,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 602
+    "searchRank": 662
   },
   {
     "id": "12939",
@@ -7452,7 +7474,7 @@
     "position": "WR",
     "team": "MIN",
     "status": "Inactive",
-    "injuryStatus": "IR",
+    "injuryStatus": "Questionable",
     "yearsExp": 1,
     "age": 24,
     "searchRank": 535
@@ -7532,7 +7554,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 323
+    "searchRank": 362
   },
   {
     "id": "13032",
@@ -7565,7 +7587,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 659
+    "searchRank": 665
   },
   {
     "id": "13074",
@@ -7631,7 +7653,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 999
+    "searchRank": 444
   },
   {
     "id": "13122",
@@ -7642,7 +7664,7 @@
     "injuryStatus": "IR",
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 363
+    "searchRank": 447
   },
   {
     "id": "13124",
@@ -7675,7 +7697,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 414
+    "searchRank": 459
   },
   {
     "id": "13173",
@@ -7785,7 +7807,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 98
+    "searchRank": 97
   },
   {
     "id": "13270",
@@ -7862,7 +7884,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 403
+    "searchRank": 399
   },
   {
     "id": "13278",
@@ -7917,7 +7939,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 199
+    "searchRank": 198
   },
   {
     "id": "13286",
@@ -7928,7 +7950,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 57
+    "searchRank": 58
   },
   {
     "id": "13287",
@@ -7961,7 +7983,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 324
+    "searchRank": 325
   },
   {
     "id": "13292",
@@ -7972,7 +7994,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": null,
-    "searchRank": 470
+    "searchRank": 306
   },
   {
     "id": "13293",
@@ -8038,7 +8060,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 21,
-    "searchRank": 112
+    "searchRank": 111
   },
   {
     "id": "13299",
@@ -8048,7 +8070,7 @@
     "status": "Active",
     "injuryStatus": null,
     "yearsExp": 0,
-    "age": 24,
+    "age": 25,
     "searchRank": 674
   },
   {
@@ -8071,7 +8093,7 @@
     "injuryStatus": "IR",
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 387
+    "searchRank": 389
   },
   {
     "id": "13303",
@@ -8082,7 +8104,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 399
+    "searchRank": 398
   },
   {
     "id": "13305",
@@ -8093,7 +8115,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 137
+    "searchRank": 138
   },
   {
     "id": "13306",
@@ -8159,7 +8181,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 686
+    "searchRank": 239
   },
   {
     "id": "13315",
@@ -8214,7 +8236,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 410
+    "searchRank": 412
   },
   {
     "id": "13320",
@@ -8236,7 +8258,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 533
+    "searchRank": 583
   },
   {
     "id": "13322",
@@ -8280,7 +8302,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 490
+    "searchRank": 492
   },
   {
     "id": "13330",
@@ -8357,7 +8379,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 353
+    "searchRank": 415
   },
   {
     "id": "13342",
@@ -8379,7 +8401,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": null,
-    "searchRank": 999
+    "searchRank": 368
   },
   {
     "id": "13345",
@@ -8489,7 +8511,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 504
+    "searchRank": 503
   },
   {
     "id": "13392",
@@ -8514,6 +8536,17 @@
     "searchRank": 656
   },
   {
+    "id": "13400",
+    "name": "Justin Joly",
+    "position": "TE",
+    "team": "MIA",
+    "status": "Active",
+    "injuryStatus": null,
+    "yearsExp": 0,
+    "age": 22,
+    "searchRank": 434
+  },
+  {
     "id": "13401",
     "name": "Michael Trigg",
     "position": "TE",
@@ -8533,7 +8566,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 386
+    "searchRank": 387
   },
   {
     "id": "13404",
@@ -8544,7 +8577,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 521
+    "searchRank": 519
   },
   {
     "id": "13405",
@@ -8566,7 +8599,7 @@
     "injuryStatus": "IR",
     "yearsExp": 0,
     "age": 25,
-    "searchRank": 477
+    "searchRank": 518
   },
   {
     "id": "13408",
@@ -8599,7 +8632,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 384
+    "searchRank": 379
   },
   {
     "id": "13412",
@@ -8621,7 +8654,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 177
+    "searchRank": 178
   },
   {
     "id": "13414",
@@ -8698,7 +8731,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 433
+    "searchRank": 432
   },
   {
     "id": "13421",
@@ -8720,7 +8753,7 @@
     "injuryStatus": "IR",
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 530
+    "searchRank": 455
   },
   {
     "id": "13423",
@@ -8731,7 +8764,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 511
+    "searchRank": 510
   },
   {
     "id": "13424",
@@ -8742,7 +8775,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 398
+    "searchRank": 390
   },
   {
     "id": "13425",
@@ -8797,7 +8830,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": null,
-    "searchRank": 460
+    "searchRank": 498
   },
   {
     "id": "13433",
@@ -8808,7 +8841,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 640
+    "searchRank": 643
   },
   {
     "id": "13434",
@@ -8819,7 +8852,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 513
+    "searchRank": 510
   },
   {
     "id": "13435",
@@ -8863,7 +8896,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 449
+    "searchRank": 494
   },
   {
     "id": "13477",
@@ -8896,7 +8929,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 452
+    "searchRank": 487
   },
   {
     "id": "13533",
@@ -8907,7 +8940,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 469
+    "searchRank": 468
   },
   {
     "id": "13541",
@@ -8940,7 +8973,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 285
+    "searchRank": 310
   },
   {
     "id": "13557",
@@ -8962,7 +8995,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 25,
-    "searchRank": 299
+    "searchRank": 408
   },
   {
     "id": "13580",
@@ -8973,7 +9006,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 540
+    "searchRank": 567
   },
   {
     "id": "13582",
@@ -9006,7 +9039,7 @@
     "injuryStatus": "IR",
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 671
+    "searchRank": 360
   },
   {
     "id": "13600",
@@ -9047,7 +9080,7 @@
     "position": "WR",
     "team": "LAC",
     "status": "Inactive",
-    "injuryStatus": "IR",
+    "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": null,
     "searchRank": 612
@@ -9073,17 +9106,6 @@
     "yearsExp": 0,
     "age": 23,
     "searchRank": 493
-  },
-  {
-    "id": "13632",
-    "name": "Devonte Ross",
-    "position": "WR",
-    "team": "LAC",
-    "status": "Active",
-    "injuryStatus": null,
-    "yearsExp": 0,
-    "age": 23,
-    "searchRank": 664
   },
   {
     "id": "13645",
@@ -9179,7 +9201,7 @@
     "position": "RB",
     "team": "NYJ",
     "status": "Inactive",
-    "injuryStatus": "IR",
+    "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 25,
     "searchRank": 417
@@ -9204,7 +9226,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 486
+    "searchRank": 530
   },
   {
     "id": "13760",
@@ -9215,7 +9237,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": null,
-    "searchRank": 273
+    "searchRank": 433
   },
   {
     "id": "13770",
@@ -9281,7 +9303,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 594
+    "searchRank": 646
   },
   {
     "id": "13830",
@@ -9292,7 +9314,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 25,
-    "searchRank": 515
+    "searchRank": 569
   },
   {
     "id": "13833",
@@ -9304,17 +9326,6 @@
     "yearsExp": 0,
     "age": 22,
     "searchRank": 330
-  },
-  {
-    "id": "13839",
-    "name": "Chase Curtis",
-    "position": "TE",
-    "team": "NYJ",
-    "status": "Inactive",
-    "injuryStatus": "Questionable",
-    "yearsExp": 0,
-    "age": null,
-    "searchRank": 9999999
   },
   {
     "id": "13846",
@@ -9336,7 +9347,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 467
+    "searchRank": 510
   },
   {
     "id": "13870",
@@ -9380,7 +9391,7 @@
     "injuryStatus": "IR",
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 563
+    "searchRank": 613
   },
   {
     "id": "13905",
@@ -9403,17 +9414,6 @@
     "yearsExp": 0,
     "age": null,
     "searchRank": 697
-  },
-  {
-    "id": "13967",
-    "name": "Jimmy Kibble",
-    "position": "WR",
-    "team": "NE",
-    "status": "Inactive",
-    "injuryStatus": "Questionable",
-    "yearsExp": 0,
-    "age": null,
-    "searchRank": 701
   },
   {
     "id": "13968",
@@ -9469,17 +9469,6 @@
     "yearsExp": 0,
     "age": null,
     "searchRank": 624
-  },
-  {
-    "id": "14069",
-    "name": "Connor Hulstein",
-    "position": "TE",
-    "team": "NYJ",
-    "status": "Inactive",
-    "injuryStatus": "Questionable",
-    "yearsExp": 0,
-    "age": null,
-    "searchRank": 662
   },
   {
     "id": "HOU",
