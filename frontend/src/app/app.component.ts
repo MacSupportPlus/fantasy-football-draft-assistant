@@ -75,6 +75,11 @@ export class AppComponent {
     this.positionFilter.set(pos);
   }
 
+  onDraftSlotInput(value: string): void {
+    const n = Number(value);
+    this.board.setDraftSlot(value.trim() === '' || !Number.isFinite(n) || n < 1 ? null : n);
+  }
+
   onSearchInput(value: string): void {
     this.search.set(value);
   }

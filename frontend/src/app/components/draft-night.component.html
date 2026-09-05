@@ -2,6 +2,9 @@
   <div class="pick-counter">
     <span class="pick-label">On the clock</span>
     <span class="pick-number">Pick #{{ pickNumber() }}</span>
+    @if (board.picksUntilMyTurn(); as gap) {
+      <span class="pick-gap-badge">{{ gap === 0 ? "you're up" : gap + ' picks to your turn' }}</span>
+    }
   </div>
 
   @if (hero().length > 0) {
@@ -21,6 +24,9 @@
             {{ e.team ?? '—' }}
           </span>
           <span class="hero-vbd">{{ e.liveVbdScore }} <small>VBD</small></span>
+          @if (e.survivalPct !== null) {
+            <span class="hero-survival" [class.low]="e.survivalPct < 0.3">{{ (e.survivalPct * 100).toFixed(0) }}% survival</span>
+          }
         </button>
       }
     </div>
@@ -33,7 +39,12 @@
         @for (e of col.players; track e.sleeperId; let i = $index) {
           <button type="button" class="board-row" [class.top-tier]="i < 3" (click)="draft(e)">
             <span class="row-rank">{{ i + 1 }}</span>
-            <span class="row-name">{{ e.name }}</span>
+            <span class="row-name">
+              {{ e.name }}
+              @if (e.survivalPct !== null && e.survivalPct < 0.3) {
+                <span class="row-flag" title="Unlikely to survive to your next pick">⚠</span>
+              }
+            </span>
             <span class="row-team">{{ e.team ?? '—' }}</span>
             <span class="row-vbd">{{ e.liveVbdScore }}</span>
           </button>

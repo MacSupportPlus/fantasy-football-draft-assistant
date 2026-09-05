@@ -139,6 +139,8 @@ async function main() {
           overallRank: 0, // filled in below
           fpPositionRank: fp?.positionRank ?? null,
           fpOverallRank: fp?.rankEcr ?? null,
+          fpRankAve: fp?.rankAve ?? null,
+          fpRankStd: fp?.rankStd ?? null,
         });
       });
     }

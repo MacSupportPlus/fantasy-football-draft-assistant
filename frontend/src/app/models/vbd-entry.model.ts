@@ -17,6 +17,8 @@ export interface VbdEntry {
   overallRank: number;
   fpPositionRank: string | null;
   fpOverallRank: number | null;
+  fpRankAve: number | null;
+  fpRankStd: number | null;
 }
 
 // The precomputed entry plus live, draft-state-aware numbers recalculated
@@ -27,4 +29,7 @@ export interface LiveVbdEntry extends VbdEntry {
   liveVbdScore: number;
   livePositionRank: number;
   liveOverallRank: number;
+  // Odds (0-1) this player is still on the board next time it's your turn,
+  // given your draft slot — null if no draft slot is set or no FP rank data.
+  survivalPct: number | null;
 }

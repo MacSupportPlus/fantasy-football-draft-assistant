@@ -22,6 +22,31 @@
   font-weight: 700;
 }
 
+.pick-gap-badge {
+  font-size: 0.78rem;
+  color: #ffbf6b;
+  font-weight: 600;
+  background: rgba(255, 191, 107, 0.1);
+  border: 1px solid rgba(255, 191, 107, 0.25);
+  border-radius: 999px;
+  padding: 3px 10px;
+}
+
+.hero-survival {
+  font-size: 0.68rem;
+  color: #6fe0a0;
+  font-weight: 600;
+}
+
+.hero-survival.low {
+  color: #ff8f8f;
+}
+
+.row-flag {
+  color: #ff8f8f;
+  font-size: 0.7rem;
+}
+
 .hero-row {
   display: grid;
   grid-template-columns: 1.6fr repeat(4, 1fr);

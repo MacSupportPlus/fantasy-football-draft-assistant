@@ -12,7 +12,9 @@
     "positionRank": 1,
     "overallRank": 1,
     "fpPositionRank": "RB2",
-    "fpOverallRank": 2
+    "fpOverallRank": 2,
+    "fpRankAve": 2.29,
+    "fpRankStd": 0.76
   },
   {
     "sleeperId": "9221",
@@ -27,7 +29,9 @@
     "positionRank": 2,
     "overallRank": 2,
     "fpPositionRank": "RB1",
-    "fpOverallRank": 1
+    "fpOverallRank": 1,
+    "fpRankAve": 1.51,
+    "fpRankStd": 0.67
   },
   {
     "sleeperId": "4866",
@@ -42,7 +46,9 @@
     "positionRank": 3,
     "overallRank": 3,
     "fpPositionRank": "RB7",
-    "fpOverallRank": 13
+    "fpOverallRank": 13,
+    "fpRankAve": 15.86,
+    "fpRankStd": 4.82
   },
   {
     "sleeperId": "4881",
@@ -57,7 +63,9 @@
     "positionRank": 1,
     "overallRank": 4,
     "fpPositionRank": "QB2",
-    "fpOverallRank": 35
+    "fpOverallRank": 35,
+    "fpRankAve": 37.88,
+    "fpRankStd": 12.78
   },
   {
     "sleeperId": "11584",
@@ -72,7 +80,9 @@
     "positionRank": 4,
     "overallRank": 5,
     "fpPositionRank": "RB19",
-    "fpOverallRank": 51
+    "fpOverallRank": 51,
+    "fpRankAve": 52.44,
+    "fpRankStd": 7.99
   },
   {
     "sleeperId": "4984",
@@ -87,7 +97,9 @@
     "positionRank": 2,
     "overallRank": 6,
     "fpPositionRank": "QB1",
-    "fpOverallRank": 28
+    "fpOverallRank": 28,
+    "fpRankAve": 28.67,
+    "fpRankStd": 6.18
   },
   {
     "sleeperId": "9226",
@@ -102,7 +114,9 @@
     "positionRank": 5,
     "overallRank": 7,
     "fpPositionRank": "RB8",
-    "fpOverallRank": 16
+    "fpOverallRank": 16,
+    "fpRankAve": 18.2,
+    "fpRankStd": 6.45
   },
   {
     "sleeperId": "7564",
@@ -117,7 +131,9 @@
     "positionRank": 1,
     "overallRank": 8,
     "fpPositionRank": "WR1",
-    "fpOverallRank": 3
+    "fpOverallRank": 3,
+    "fpRankAve": 2.58,
+    "fpRankStd": 1.15
   },
   {
     "sleeperId": "6904",
@@ -132,7 +148,9 @@
     "positionRank": 3,
     "overallRank": 9,
     "fpPositionRank": "QB5",
-    "fpOverallRank": 60
+    "fpOverallRank": 60,
+    "fpRankAve": 59.85,
+    "fpRankStd": 13.09
   },
   {
     "sleeperId": "11566",
@@ -147,7 +165,9 @@
     "positionRank": 4,
     "overallRank": 10,
     "fpPositionRank": "QB6",
-    "fpOverallRank": 63
+    "fpOverallRank": 63,
+    "fpRankAve": 62.17,
+    "fpRankStd": 14.51
   },
   {
     "sleeperId": "11604",
@@ -162,7 +182,9 @@
     "positionRank": 1,
     "overallRank": 11,
     "fpPositionRank": "TE1",
-    "fpOverallRank": 18
+    "fpOverallRank": 18,
+    "fpRankAve": 19.15,
+    "fpRankStd": 7.48
   },
   {
     "sleeperId": "12507",
@@ -177,7 +199,9 @@
     "positionRank": 6,
     "overallRank": 12,
     "fpPositionRank": "RB10",
-    "fpOverallRank": 20
+    "fpOverallRank": 20,
+    "fpRankAve": 19.24,
+    "fpRankStd": 6.04
   },
   {
     "sleeperId": "12527",
@@ -192,7 +216,9 @@
     "positionRank": 7,
     "overallRank": 13,
     "fpPositionRank": "RB12",
-    "fpOverallRank": 25
+    "fpOverallRank": 25,
+    "fpRankAve": 23.78,
+    "fpRankStd": 7.77
   },
   {
     "sleeperId": "11563",
@@ -207,7 +233,9 @@
     "positionRank": 5,
     "overallRank": 14,
     "fpPositionRank": "QB12",
-    "fpOverallRank": 95
+    "fpOverallRank": 95,
+    "fpRankAve": 98.82,
+    "fpRankStd": 14.01
   },
   {
     "sleeperId": "6794",
@@ -222,7 +250,9 @@
     "positionRank": 2,
     "overallRank": 15,
     "fpPositionRank": "WR6",
-    "fpOverallRank": 11
+    "fpOverallRank": 11,
+    "fpRankAve": 11.69,
+    "fpRankStd": 4.93
   },
   {
     "sleeperId": "7547",
@@ -237,7 +267,9 @@
     "positionRank": 3,
     "overallRank": 16,
     "fpPositionRank": "WR4",
-    "fpOverallRank": 6
+    "fpOverallRank": 6,
+    "fpRankAve": 6.54,
+    "fpRankStd": 1.22
   },
   {
     "sleeperId": "12481",
@@ -252,7 +284,9 @@
     "positionRank": 8,
     "overallRank": 17,
     "fpPositionRank": "RB20",
-    "fpOverallRank": 52
+    "fpOverallRank": 52,
+    "fpRankAve": 53.08,
+    "fpRankStd": 7.61
   },
   {
     "sleeperId": "6786",
@@ -267,7 +301,9 @@
     "positionRank": 4,
     "overallRank": 18,
     "fpPositionRank": "WR5",
-    "fpOverallRank": 10
+    "fpOverallRank": 10,
+    "fpRankAve": 10.31,
+    "fpRankStd": 2.8
   },
   {
     "sleeperId": "3198",
@@ -282,7 +318,9 @@
     "positionRank": 9,
     "overallRank": 19,
     "fpPositionRank": "RB11",
-    "fpOverallRank": 21
+    "fpOverallRank": 21,
+    "fpRankAve": 20.63,
+    "fpRankStd": 5.39
   },
   {
     "sleeperId": "11631",
@@ -297,7 +335,9 @@
     "positionRank": 5,
     "overallRank": 20,
     "fpPositionRank": "WR34",
-    "fpOverallRank": 78
+    "fpOverallRank": 78,
+    "fpRankAve": 81.45,
+    "fpRankStd": 13.27
   },
   {
     "sleeperId": "12512",
@@ -312,7 +352,9 @@
     "positionRank": 10,
     "overallRank": 21,
     "fpPositionRank": "RB22",
-    "fpOverallRank": 56
+    "fpOverallRank": 56,
+    "fpRankAve": 54.64,
+    "fpRankStd": 8.06
   },
   {
     "sleeperId": "12508",
@@ -327,7 +369,9 @@
     "positionRank": 6,
     "overallRank": 22,
     "fpPositionRank": "QB13",
-    "fpOverallRank": 99
+    "fpOverallRank": 99,
+    "fpRankAve": 100.05,
+    "fpRankStd": 16.26
   },
   {
     "sleeperId": "7528",
@@ -342,7 +386,9 @@
     "positionRank": 11,
     "overallRank": 23,
     "fpPositionRank": "RB67",
-    "fpOverallRank": 221
+    "fpOverallRank": 221,
+    "fpRankAve": 222.13,
+    "fpRankStd": 46.65
   },
   {
     "sleeperId": "3163",
@@ -357,7 +403,9 @@
     "positionRank": 7,
     "overallRank": 24,
     "fpPositionRank": "QB15",
-    "fpOverallRank": 108
+    "fpOverallRank": 108,
+    "fpRankAve": 106.8,
+    "fpRankStd": 15.32
   },
   {
     "sleeperId": "5892",
@@ -372,7 +420,9 @@
     "positionRank": 12,
     "overallRank": 25,
     "fpPositionRank": "RB21",
-    "fpOverallRank": 55
+    "fpOverallRank": 55,
+    "fpRankAve": 54.52,
+    "fpRankStd": 7.51
   },
   {
     "sleeperId": "8112",
@@ -387,7 +437,9 @@
     "positionRank": 6,
     "overallRank": 26,
     "fpPositionRank": "WR8",
-    "fpOverallRank": 15
+    "fpOverallRank": 15,
+    "fpRankAve": 16.7,
+    "fpRankStd": 4.81
   },
   {
     "sleeperId": "8138",
@@ -402,7 +454,9 @@
     "positionRank": 13,
     "overallRank": 27,
     "fpPositionRank": "RB5",
-    "fpOverallRank": 9
+    "fpOverallRank": 9,
+    "fpRankAve": 9.96,
+    "fpRankStd": 2.95
   },
   {
     "sleeperId": "11533",
@@ -417,7 +471,9 @@
     "positionRank": 1,
     "overallRank": 28,
     "fpPositionRank": "K1",
-    "fpOverallRank": 213
+    "fpOverallRank": 213,
+    "fpRankAve": 183.62,
+    "fpRankStd": 21.46
   },
   {
     "sleeperId": "8155",
@@ -432,7 +488,9 @@
     "positionRank": 14,
     "overallRank": 29,
     "fpPositionRank": "RB15",
-    "fpOverallRank": 34
+    "fpOverallRank": 34,
+    "fpRankAve": 36.75,
+    "fpRankStd": 6.53
   },
   {
     "sleeperId": "13286",
@@ -447,7 +505,9 @@
     "positionRank": 15,
     "overallRank": 30,
     "fpPositionRank": "RB24",
-    "fpOverallRank": 61
+    "fpOverallRank": 61,
+    "fpRankAve": 60.39,
+    "fpRankStd": 8.38
   },
   {
     "sleeperId": "8151",
@@ -462,7 +522,9 @@
     "positionRank": 16,
     "overallRank": 31,
     "fpPositionRank": "RB9",
-    "fpOverallRank": 19
+    "fpOverallRank": 19,
+    "fpRankAve": 19.18,
+    "fpRankStd": 7.48
   },
   {
     "sleeperId": "5967",
@@ -477,7 +539,9 @@
     "positionRank": 17,
     "overallRank": 32,
     "fpPositionRank": "RB28",
-    "fpOverallRank": 74
+    "fpOverallRank": 74,
+    "fpRankAve": 78.44,
+    "fpRankStd": 10.05
   },
   {
     "sleeperId": "6770",
@@ -492,7 +556,9 @@
     "positionRank": 8,
     "overallRank": 33,
     "fpPositionRank": "QB4",
-    "fpOverallRank": 46
+    "fpOverallRank": 46,
+    "fpRankAve": 49.65,
+    "fpRankStd": 14.76
   },
   {
     "sleeperId": "5859",
@@ -507,7 +573,9 @@
     "positionRank": 7,
     "overallRank": 34,
     "fpPositionRank": "WR7",
-    "fpOverallRank": 14
+    "fpOverallRank": 14,
+    "fpRankAve": 15.95,
+    "fpRankStd": 5.87
   },
   {
     "sleeperId": "11632",
@@ -522,7 +590,9 @@
     "positionRank": 8,
     "overallRank": 35,
     "fpPositionRank": "WR13",
-    "fpOverallRank": 27
+    "fpOverallRank": 27,
+    "fpRankAve": 28.67,
+    "fpRankStd": 8.19
   },
   {
     "sleeperId": "4892",
@@ -537,7 +607,9 @@
     "positionRank": 9,
     "overallRank": 36,
     "fpPositionRank": "QB19",
-    "fpOverallRank": 122
+    "fpOverallRank": 122,
+    "fpRankAve": 123.98,
+    "fpRankStd": 16.4
   },
   {
     "sleeperId": "7543",
@@ -552,7 +624,9 @@
     "positionRank": 18,
     "overallRank": 37,
     "fpPositionRank": "RB17",
-    "fpOverallRank": 43
+    "fpOverallRank": 43,
+    "fpRankAve": 42.54,
+    "fpRankStd": 7.21
   },
   {
     "sleeperId": "6790",
@@ -567,7 +641,9 @@
     "positionRank": 19,
     "overallRank": 38,
     "fpPositionRank": "RB18",
-    "fpOverallRank": 45
+    "fpOverallRank": 45,
+    "fpRankAve": 46.76,
+    "fpRankStd": 7.88
   },
   {
     "sleeperId": "9756",
@@ -582,7 +658,9 @@
     "positionRank": 9,
     "overallRank": 39,
     "fpPositionRank": "WR45",
-    "fpOverallRank": 107
+    "fpOverallRank": 107,
+    "fpRankAve": 106.03,
+    "fpRankStd": 16.2
   },
   {
     "sleeperId": "13287",
@@ -597,7 +675,9 @@
     "positionRank": 20,
     "overallRank": 40,
     "fpPositionRank": "RB16",
-    "fpOverallRank": 41
+    "fpOverallRank": 41,
+    "fpRankAve": 39.25,
+    "fpRankStd": 8.3
   },
   {
     "sleeperId": "10859",
@@ -612,7 +692,9 @@
     "positionRank": 2,
     "overallRank": 41,
     "fpPositionRank": "TE7",
-    "fpOverallRank": 82
+    "fpOverallRank": 82,
+    "fpRankAve": 83.46,
+    "fpRankStd": 13.45
   },
   {
     "sleeperId": "BUF",
@@ -627,7 +709,9 @@
     "positionRank": 1,
     "overallRank": 42,
     "fpPositionRank": "DST15",
-    "fpOverallRank": 242
+    "fpOverallRank": 242,
+    "fpRankAve": 228.95,
+    "fpRankStd": 28.73
   },
   {
     "sleeperId": "5927",
@@ -642,7 +726,9 @@
     "positionRank": 10,
     "overallRank": 43,
     "fpPositionRank": "WR23",
-    "fpOverallRank": 48
+    "fpOverallRank": 48,
+    "fpRankAve": 50.11,
+    "fpRankStd": 7.33
   },
   {
     "sleeperId": "8130",
@@ -657,7 +743,9 @@
     "positionRank": 3,
     "overallRank": 44,
     "fpPositionRank": "TE2",
-    "fpOverallRank": 24
+    "fpOverallRank": 24,
+    "fpRankAve": 23.61,
+    "fpRankStd": 6.16
   },
   {
     "sleeperId": "6813",
@@ -672,7 +760,9 @@
     "positionRank": 21,
     "overallRank": 45,
     "fpPositionRank": "RB4",
-    "fpOverallRank": 8
+    "fpOverallRank": 8,
+    "fpRankAve": 8.48,
+    "fpRankStd": 3.03
   },
   {
     "sleeperId": "4035",
@@ -687,7 +777,9 @@
     "positionRank": 22,
     "overallRank": 46,
     "fpPositionRank": "RB54",
-    "fpOverallRank": 160
+    "fpOverallRank": 160,
+    "fpRankAve": 170.89,
+    "fpRankStd": 34.96
   },
   {
     "sleeperId": "9488",
@@ -702,7 +794,9 @@
     "positionRank": 11,
     "overallRank": 47,
     "fpPositionRank": "WR3",
-    "fpOverallRank": 5
+    "fpOverallRank": 5,
+    "fpRankAve": 5.82,
+    "fpRankStd": 1.5
   },
   {
     "sleeperId": "DEN",
@@ -717,7 +811,9 @@
     "positionRank": 2,
     "overallRank": 48,
     "fpPositionRank": "DST3",
-    "fpOverallRank": 188
+    "fpOverallRank": 188,
+    "fpRankAve": 166.05,
+    "fpRankStd": 21.05
   },
   {
     "sleeperId": "12506",
@@ -732,7 +828,9 @@
     "positionRank": 4,
     "overallRank": 49,
     "fpPositionRank": "TE6",
-    "fpOverallRank": 79
+    "fpOverallRank": 79,
+    "fpRankAve": 81.45,
+    "fpRankStd": 11.39
   },
   {
     "sleeperId": "DAL",
@@ -747,7 +845,9 @@
     "positionRank": 3,
     "overallRank": 50,
     "fpPositionRank": "DST22",
-    "fpOverallRank": 340
+    "fpOverallRank": 340,
+    "fpRankAve": 268.77,
+    "fpRankStd": 70.23
   },
   {
     "sleeperId": "BAL",
@@ -762,7 +862,9 @@
     "positionRank": 4,
     "overallRank": 51,
     "fpPositionRank": "DST11",
-    "fpOverallRank": 214
+    "fpOverallRank": 214,
+    "fpRankAve": 198.62,
+    "fpRankStd": 25.11
   },
   {
     "sleeperId": "5045",
@@ -777,7 +879,9 @@
     "positionRank": 12,
     "overallRank": 52,
     "fpPositionRank": "WR36",
-    "fpOverallRank": 84
+    "fpOverallRank": 84,
+    "fpRankAve": 87.16,
+    "fpRankStd": 14.53
   },
   {
     "sleeperId": "9224",
@@ -792,7 +896,9 @@
     "positionRank": 23,
     "overallRank": 53,
     "fpPositionRank": "RB6",
-    "fpOverallRank": 12
+    "fpOverallRank": 12,
+    "fpRankAve": 15.25,
+    "fpRankStd": 5.15
   },
   {
     "sleeperId": "4217",
@@ -807,7 +913,9 @@
     "positionRank": 5,
     "overallRank": 54,
     "fpPositionRank": "TE9",
-    "fpOverallRank": 92
+    "fpOverallRank": 92,
+    "fpRankAve": 95.25,
+    "fpRankStd": 14.83
   },
   {
     "sleeperId": "11655",
@@ -822,7 +930,9 @@
     "positionRank": 24,
     "overallRank": 55,
     "fpPositionRank": "RB55",
-    "fpOverallRank": 163
+    "fpOverallRank": 163,
+    "fpRankAve": 172.52,
+    "fpRankStd": 39.3
   },
   {
     "sleeperId": "12490",
@@ -837,7 +947,9 @@
     "positionRank": 25,
     "overallRank": 56,
     "fpPositionRank": "RB23",
-    "fpOverallRank": 59
+    "fpOverallRank": 59,
+    "fpRankAve": 59.73,
+    "fpRankStd": 8.92
   },
   {
     "sleeperId": "7525",
@@ -852,7 +964,9 @@
     "positionRank": 13,
     "overallRank": 57,
     "fpPositionRank": "WR12",
-    "fpOverallRank": 26
+    "fpOverallRank": 26,
+    "fpRankAve": 28.59,
+    "fpRankStd": 5.95
   },
   {
     "sleeperId": "12514",
@@ -867,7 +981,9 @@
     "positionRank": 14,
     "overallRank": 58,
     "fpPositionRank": "WR21",
-    "fpOverallRank": 42
+    "fpOverallRank": 42,
+    "fpRankAve": 41.28,
+    "fpRankStd": 7.68
   },
   {
     "sleeperId": "7594",
@@ -882,7 +998,9 @@
     "positionRank": 26,
     "overallRank": 59,
     "fpPositionRank": "RB34",
-    "fpOverallRank": 93
+    "fpOverallRank": 93,
+    "fpRankAve": 96.62,
+    "fpRankStd": 16.47
   },
   {
     "sleeperId": "1945",
@@ -897,7 +1015,9 @@
     "positionRank": 2,
     "overallRank": 60,
     "fpPositionRank": "K15",
-    "fpOverallRank": 272
+    "fpOverallRank": 272,
+    "fpRankAve": 244.75,
+    "fpRankStd": 21.56
   },
   {
     "sleeperId": "11635",
@@ -912,7 +1032,9 @@
     "positionRank": 15,
     "overallRank": 61,
     "fpPositionRank": "WR18",
-    "fpOverallRank": 37
+    "fpOverallRank": 37,
+    "fpRankAve": 38.38,
+    "fpRankStd": 7.54
   },
   {
     "sleeperId": "PIT",
@@ -927,7 +1049,9 @@
     "positionRank": 5,
     "overallRank": 62,
     "fpPositionRank": "DST8",
-    "fpOverallRank": 203
+    "fpOverallRank": 203,
+    "fpRankAve": 188.53,
+    "fpRankStd": 19.3
   },
   {
     "sleeperId": "13294",
@@ -942,7 +1066,9 @@
     "positionRank": 16,
     "overallRank": 63,
     "fpPositionRank": "WR46",
-    "fpOverallRank": 112
+    "fpOverallRank": 112,
+    "fpRankAve": 112.8,
+    "fpRankStd": 21.87
   },
   {
     "sleeperId": "5012",
@@ -957,7 +1083,9 @@
     "positionRank": 6,
     "overallRank": 64,
     "fpPositionRank": "TE15",
-    "fpOverallRank": 127
+    "fpOverallRank": 127,
+    "fpRankAve": 128.58,
+    "fpRankStd": 21.64
   },
   {
     "sleeperId": "PHI",
@@ -972,7 +1100,9 @@
     "positionRank": 6,
     "overallRank": 65,
     "fpPositionRank": "DST5",
-    "fpOverallRank": 196
+    "fpOverallRank": 196,
+    "fpRankAve": 175.95,
+    "fpRankStd": 21.12
   },
   {
     "sleeperId": "13337",
@@ -987,7 +1117,9 @@
     "positionRank": 27,
     "overallRank": 66,
     "fpPositionRank": "RB56",
-    "fpOverallRank": 164
+    "fpOverallRank": 164,
+    "fpRankAve": 173.37,
+    "fpRankStd": 34.18
   },
   {
     "sleeperId": "7021",
@@ -1002,7 +1134,9 @@
     "positionRank": 28,
     "overallRank": 67,
     "fpPositionRank": "RB29",
-    "fpOverallRank": 77
+    "fpOverallRank": 77,
+    "fpRankAve": 80.79,
+    "fpRankStd": 11.3
   },
   {
     "sleeperId": "8150",
@@ -1017,7 +1151,9 @@
     "positionRank": 29,
     "overallRank": 68,
     "fpPositionRank": "RB13",
-    "fpOverallRank": 31
+    "fpOverallRank": 31,
+    "fpRankAve": 33.46,
+    "fpRankStd": 8.12
   },
   {
     "sleeperId": "12519",
@@ -1032,7 +1168,9 @@
     "positionRank": 17,
     "overallRank": 69,
     "fpPositionRank": "WR22",
-    "fpOverallRank": 47
+    "fpOverallRank": 47,
+    "fpRankAve": 49.7,
+    "fpRankStd": 10.14
   },
   {
     "sleeperId": "1466",
@@ -1047,7 +1185,9 @@
     "positionRank": 7,
     "overallRank": 70,
     "fpPositionRank": "TE10",
-    "fpOverallRank": 104
+    "fpOverallRank": 104,
+    "fpRankAve": 104.76,
+    "fpRankStd": 14.59
   },
   {
     "sleeperId": "4046",
@@ -1062,7 +1202,9 @@
     "positionRank": 10,
     "overallRank": 71,
     "fpPositionRank": "QB14",
-    "fpOverallRank": 103
+    "fpOverallRank": 103,
+    "fpRankAve": 104.55,
+    "fpRankStd": 15.56
   },
   {
     "sleeperId": "4199",
@@ -1077,7 +1219,9 @@
     "positionRank": 30,
     "overallRank": 72,
     "fpPositionRank": "RB41",
-    "fpOverallRank": 120
+    "fpOverallRank": 120,
+    "fpRankAve": 118.84,
+    "fpRankStd": 12.45
   },
   {
     "sleeperId": "GB",
@@ -1092,7 +1236,9 @@
     "positionRank": 7,
     "overallRank": 73,
     "fpPositionRank": "DST13",
-    "fpOverallRank": 230
+    "fpOverallRank": 230,
+    "fpRankAve": 209.13,
+    "fpRankStd": 32.53
   },
   {
     "sleeperId": "HOU",
@@ -1107,7 +1253,9 @@
     "positionRank": 8,
     "overallRank": 74,
     "fpPositionRank": "DST1",
-    "fpOverallRank": 184
+    "fpOverallRank": 184,
+    "fpRankAve": 156.19,
+    "fpRankStd": 21.62
   },
   {
     "sleeperId": "4981",
@@ -1122,7 +1270,9 @@
     "positionRank": 18,
     "overallRank": 75,
     "fpPositionRank": "WR73",
-    "fpOverallRank": 180
+    "fpOverallRank": 180,
+    "fpRankAve": 209.37,
+    "fpRankStd": 31.06
   },
   {
     "sleeperId": "6783",
@@ -1137,7 +1287,9 @@
     "positionRank": 19,
     "overallRank": 76,
     "fpPositionRank": "WR64",
-    "fpOverallRank": 166
+    "fpOverallRank": 166,
+    "fpRankAve": 178.16,
+    "fpRankStd": 25.93
   },
   {
     "sleeperId": "MIN",
@@ -1152,7 +1304,9 @@
     "positionRank": 9,
     "overallRank": 77,
     "fpPositionRank": "DST7",
-    "fpOverallRank": 202
+    "fpOverallRank": 202,
+    "fpRankAve": 187.91,
+    "fpRankStd": 21.74
   },
   {
     "sleeperId": "12526",
@@ -1167,7 +1321,9 @@
     "positionRank": 20,
     "overallRank": 78,
     "fpPositionRank": "WR20",
-    "fpOverallRank": 40
+    "fpOverallRank": 40,
+    "fpRankAve": 39.17,
+    "fpRankStd": 6.53
   },
   {
     "sleeperId": "4983",
@@ -1182,7 +1338,9 @@
     "positionRank": 21,
     "overallRank": 79,
     "fpPositionRank": "WR26",
-    "fpOverallRank": 53
+    "fpOverallRank": 53,
+    "fpRankAve": 53.63,
+    "fpRankStd": 11.88
   },
   {
     "sleeperId": "8136",
@@ -1197,7 +1355,9 @@
     "positionRank": 31,
     "overallRank": 80,
     "fpPositionRank": "RB40",
-    "fpOverallRank": 113
+    "fpOverallRank": 113,
+    "fpRankAve": 113.46,
+    "fpRankStd": 15.18
   },
   {
     "sleeperId": "9997",
@@ -1212,7 +1372,9 @@
     "positionRank": 22,
     "overallRank": 81,
     "fpPositionRank": "WR15",
-    "fpOverallRank": 30
+    "fpOverallRank": 30,
+    "fpRankAve": 32.63,
+    "fpRankStd": 6.39
   },
   {
     "sleeperId": "12517",
@@ -1227,7 +1389,9 @@
     "positionRank": 8,
     "overallRank": 82,
     "fpPositionRank": "TE3",
-    "fpOverallRank": 39
+    "fpOverallRank": 39,
+    "fpRankAve": 39.12,
+    "fpRankStd": 11.2
   },
   {
     "sleeperId": "4144",
@@ -1242,7 +1406,9 @@
     "positionRank": 9,
     "overallRank": 83,
     "fpPositionRank": "TE57",
-    "fpOverallRank": 397
+    "fpOverallRank": 397,
+    "fpRankAve": 340.73,
+    "fpRankStd": 57.4
   },
   {
     "sleeperId": "SF",
@@ -1257,7 +1423,9 @@
     "positionRank": 10,
     "overallRank": 84,
     "fpPositionRank": "DST17",
-    "fpOverallRank": 289
+    "fpOverallRank": 289,
+    "fpRankAve": 266.2,
+    "fpRankStd": 33.55
   },
   {
     "sleeperId": "8259",
@@ -1272,7 +1440,9 @@
     "positionRank": 3,
     "overallRank": 85,
     "fpPositionRank": "K2",
-    "fpOverallRank": 217
+    "fpOverallRank": 217,
+    "fpRankAve": 193.86,
+    "fpRankStd": 22.28
   },
   {
     "sleeperId": "12529",
@@ -1287,7 +1457,9 @@
     "positionRank": 32,
     "overallRank": 86,
     "fpPositionRank": "RB25",
-    "fpOverallRank": 65
+    "fpOverallRank": 65,
+    "fpRankAve": 66.66,
+    "fpRankStd": 9.7
   },
   {
     "sleeperId": "NYJ",
@@ -1302,7 +1474,9 @@
     "positionRank": 11,
     "overallRank": 87,
     "fpPositionRank": "DST31",
-    "fpOverallRank": 465
+    "fpOverallRank": 465,
+    "fpRankAve": 320,
+    "fpRankStd": 123.04
   },
   {
     "sleeperId": "3451",
@@ -1317,7 +1491,9 @@
     "positionRank": 4,
     "overallRank": 88,
     "fpPositionRank": "K3",
-    "fpOverallRank": 218
+    "fpOverallRank": 218,
+    "fpRankAve": 191.53,
+    "fpRankStd": 20.02
   },
   {
     "sleeperId": "7922",
@@ -1332,7 +1508,9 @@
     "positionRank": 5,
     "overallRank": 89,
     "fpPositionRank": "K38",
-    "fpOverallRank": 758
+    "fpOverallRank": 758,
+    "fpRankAve": 423.5,
+    "fpRankStd": 43.5
   },
   {
     "sleeperId": "KC",
@@ -1347,7 +1525,9 @@
     "positionRank": 12,
     "overallRank": 90,
     "fpPositionRank": "DST12",
-    "fpOverallRank": 219
+    "fpOverallRank": 219,
+    "fpRankAve": 211.4,
+    "fpRankStd": 25.18
   },
   {
     "sleeperId": "8146",
@@ -1362,7 +1542,9 @@
     "positionRank": 23,
     "overallRank": 91,
     "fpPositionRank": "WR19",
-    "fpOverallRank": 38
+    "fpOverallRank": 38,
+    "fpRankAve": 38.79,
+    "fpRankStd": 6.79
   },
   {
     "sleeperId": "7600",
@@ -1377,7 +1559,9 @@
     "positionRank": 10,
     "overallRank": 92,
     "fpPositionRank": "TE27",
-    "fpOverallRank": 199
+    "fpOverallRank": 199,
+    "fpRankAve": 223.38,
+    "fpRankStd": 30.06
   },
   {
     "sleeperId": "5850",
@@ -1392,7 +1576,9 @@
     "positionRank": 33,
     "overallRank": 93,
     "fpPositionRank": "RB53",
-    "fpOverallRank": 158
+    "fpOverallRank": 158,
+    "fpRankAve": 137.07,
+    "fpRankStd": 51.3
   },
   {
     "sleeperId": "5846",
@@ -1407,7 +1593,9 @@
     "positionRank": 24,
     "overallRank": 94,
     "fpPositionRank": "WR33",
-    "fpOverallRank": 76
+    "fpOverallRank": 76,
+    "fpRankAve": 80.78,
+    "fpRankStd": 10.95
   },
   {
     "sleeperId": "2133",
@@ -1422,7 +1610,9 @@
     "positionRank": 25,
     "overallRank": 95,
     "fpPositionRank": "WR24",
-    "fpOverallRank": 49
+    "fpOverallRank": 49,
+    "fpRankAve": 50.15,
+    "fpRankStd": 7.68
   },
   {
     "sleeperId": "6650",
@@ -1437,7 +1627,9 @@
     "positionRank": 6,
     "overallRank": 96,
     "fpPositionRank": "K12",
-    "fpOverallRank": 253
+    "fpOverallRank": 253,
+    "fpRankAve": 230.33,
+    "fpRankStd": 21.72
   },
   {
     "sleeperId": "10222",
@@ -1452,7 +1644,9 @@
     "positionRank": 26,
     "overallRank": 97,
     "fpPositionRank": "WR44",
-    "fpOverallRank": 105
+    "fpOverallRank": 105,
+    "fpRankAve": 105.11,
+    "fpRankStd": 17.75
   },
   {
     "sleeperId": "5947",
@@ -1467,7 +1661,9 @@
     "positionRank": 27,
     "overallRank": 98,
     "fpPositionRank": "WR47",
-    "fpOverallRank": 114
+    "fpOverallRank": 114,
+    "fpRankAve": 115.12,
+    "fpRankStd": 19.07
   },
   {
     "sleeperId": "4033",
@@ -1482,7 +1678,9 @@
     "positionRank": 11,
     "overallRank": 99,
     "fpPositionRank": "TE30",
-    "fpOverallRank": 250
+    "fpOverallRank": 250,
+    "fpRankAve": 244.62,
+    "fpRankStd": 28.94
   },
   {
     "sleeperId": "9493",
@@ -1497,7 +1695,9 @@
     "positionRank": 28,
     "overallRank": 100,
     "fpPositionRank": "WR2",
-    "fpOverallRank": 4
+    "fpOverallRank": 4,
+    "fpRankAve": 4.49,
+    "fpRankStd": 1.45
   },
   {
     "sleeperId": "10937",
@@ -1512,7 +1712,9 @@
     "positionRank": 7,
     "overallRank": 101,
     "fpPositionRank": "K34",
-    "fpOverallRank": 585
+    "fpOverallRank": 585,
+    "fpRankAve": 318.33,
+    "fpRankStd": 73.15
   },
   {
     "sleeperId": "12711",
@@ -1527,7 +1729,9 @@
     "positionRank": 8,
     "overallRank": 102,
     "fpPositionRank": "K8",
-    "fpOverallRank": 235
+    "fpOverallRank": 235,
+    "fpRankAve": 213.21,
+    "fpRankStd": 22.62
   },
   {
     "sleeperId": "8154",
@@ -1542,7 +1746,9 @@
     "positionRank": 34,
     "overallRank": 103,
     "fpPositionRank": "RB57",
-    "fpOverallRank": 165
+    "fpOverallRank": 165,
+    "fpRankAve": 163.15,
+    "fpRankStd": 19.34
   },
   {
     "sleeperId": "8111",
@@ -1557,7 +1763,9 @@
     "positionRank": 12,
     "overallRank": 104,
     "fpPositionRank": "TE28",
-    "fpOverallRank": 204
+    "fpOverallRank": 204,
+    "fpRankAve": 233.09,
+    "fpRankStd": 25.21
   },
   {
     "sleeperId": "2747",
@@ -1572,7 +1780,9 @@
     "positionRank": 9,
     "overallRank": 105,
     "fpPositionRank": "K5",
-    "fpOverallRank": 228
+    "fpOverallRank": 228,
+    "fpRankAve": 200.12,
+    "fpRankStd": 19.15
   },
   {
     "sleeperId": "11792",
@@ -1587,7 +1797,9 @@
     "positionRank": 10,
     "overallRank": 106,
     "fpPositionRank": "K17",
-    "fpOverallRank": 282
+    "fpOverallRank": 282,
+    "fpRankAve": 251.46,
+    "fpRankStd": 27.27
   },
   {
     "sleeperId": "13279",
@@ -1602,7 +1814,9 @@
     "positionRank": 29,
     "overallRank": 107,
     "fpPositionRank": "WR32",
-    "fpOverallRank": 72
+    "fpOverallRank": 72,
+    "fpRankAve": 75.22,
+    "fpRankStd": 15.83
   },
   {
     "sleeperId": "13298",
@@ -1617,7 +1831,9 @@
     "positionRank": 30,
     "overallRank": 108,
     "fpPositionRank": "WR48",
-    "fpOverallRank": 116
+    "fpOverallRank": 116,
+    "fpRankAve": 115.98,
+    "fpRankStd": 19.98
   },
   {
     "sleeperId": "7569",
@@ -1632,7 +1848,9 @@
     "positionRank": 31,
     "overallRank": 109,
     "fpPositionRank": "WR9",
-    "fpOverallRank": 17
+    "fpOverallRank": 17,
+    "fpRankAve": 19.03,
+    "fpRankStd": 4.56
   },
   {
     "sleeperId": "11628",
@@ -1647,7 +1865,9 @@
     "positionRank": 32,
     "overallRank": 110,
     "fpPositionRank": "WR31",
-    "fpOverallRank": 70
+    "fpOverallRank": 70,
+    "fpRankAve": 72.98,
+    "fpRankStd": 12.38
   },
   {
     "sleeperId": "6801",
@@ -1662,7 +1882,9 @@
     "positionRank": 33,
     "overallRank": 111,
     "fpPositionRank": "WR16",
-    "fpOverallRank": 33
+    "fpOverallRank": 33,
+    "fpRankAve": 36.52,
+    "fpRankStd": 6.22
   },
   {
     "sleeperId": "3678",
@@ -1677,7 +1899,9 @@
     "positionRank": 11,
     "overallRank": 112,
     "fpPositionRank": "K16",
-    "fpOverallRank": 273
+    "fpOverallRank": 273,
+    "fpRankAve": 266.07,
+    "fpRankStd": 29.95
   },
   {
     "sleeperId": "1373",
@@ -1692,7 +1916,9 @@
     "positionRank": 11,
     "overallRank": 113,
     "fpPositionRank": "QB29",
-    "fpOverallRank": 216
+    "fpOverallRank": 216,
+    "fpRankAve": 241.88,
+    "fpRankStd": 46.64
   },
   {
     "sleeperId": "12502",
@@ -1707,7 +1933,9 @@
     "positionRank": 13,
     "overallRank": 114,
     "fpPositionRank": "TE25",
-    "fpOverallRank": 190
+    "fpOverallRank": 190,
+    "fpRankAve": 223.77,
+    "fpRankStd": 24.7
   },
   {
     "sleeperId": "9758",
@@ -1722,7 +1950,9 @@
     "positionRank": 12,
     "overallRank": 115,
     "fpPositionRank": "QB23",
-    "fpOverallRank": 149
+    "fpOverallRank": 149,
+    "fpRankAve": 154.69,
+    "fpRankStd": 24.27
   },
   {
     "sleeperId": "4227",
@@ -1737,7 +1967,9 @@
     "positionRank": 12,
     "overallRank": 116,
     "fpPositionRank": "K14",
-    "fpOverallRank": 265
+    "fpOverallRank": 265,
+    "fpRankAve": 247.35,
+    "fpRankStd": 23.82
   },
   {
     "sleeperId": "11560",
@@ -1752,7 +1984,9 @@
     "positionRank": 13,
     "overallRank": 117,
     "fpPositionRank": "QB7",
-    "fpOverallRank": 66
+    "fpOverallRank": 66,
+    "fpRankAve": 67.14,
+    "fpRankStd": 13.52
   },
   {
     "sleeperId": "12518",
@@ -1767,7 +2001,9 @@
     "positionRank": 14,
     "overallRank": 118,
     "fpPositionRank": "TE4",
-    "fpOverallRank": 54
+    "fpOverallRank": 54,
+    "fpRankAve": 53.68,
+    "fpRankStd": 10.53
   },
   {
     "sleeperId": "12185",
@@ -1782,7 +2018,9 @@
     "positionRank": 13,
     "overallRank": 119,
     "fpPositionRank": "K22",
-    "fpOverallRank": 406
+    "fpOverallRank": 406,
+    "fpRankAve": 271.55,
+    "fpRankStd": 45.97
   },
   {
     "sleeperId": "SEA",
@@ -1797,7 +2035,9 @@
     "positionRank": 13,
     "overallRank": 120,
     "fpPositionRank": "DST4",
-    "fpOverallRank": 192
+    "fpOverallRank": 192,
+    "fpRankAve": 168.99,
+    "fpRankStd": 20.26
   },
   {
     "sleeperId": "6797",
@@ -1812,7 +2052,9 @@
     "positionRank": 14,
     "overallRank": 121,
     "fpPositionRank": "QB8",
-    "fpOverallRank": 71
+    "fpOverallRank": 71,
+    "fpRankAve": 73.36,
+    "fpRankStd": 14.53
   },
   {
     "sleeperId": "9484",
@@ -1827,7 +2069,9 @@
     "positionRank": 15,
     "overallRank": 122,
     "fpPositionRank": "TE5",
-    "fpOverallRank": 68
+    "fpOverallRank": 68,
+    "fpRankAve": 71.25,
+    "fpRankStd": 12.79
   },
   {
     "sleeperId": "2216",
@@ -1842,7 +2086,9 @@
     "positionRank": 34,
     "overallRank": 123,
     "fpPositionRank": "WR29",
-    "fpOverallRank": 62
+    "fpOverallRank": 62,
+    "fpRankAve": 62.06,
+    "fpRankStd": 12.23
   },
   {
     "sleeperId": "12474",
@@ -1857,7 +2103,9 @@
     "positionRank": 35,
     "overallRank": 124,
     "fpPositionRank": "RB44",
-    "fpOverallRank": 132
+    "fpOverallRank": 132,
+    "fpRankAve": 131.27,
+    "fpRankStd": 13.56
   },
   {
     "sleeperId": "CLE",
@@ -1872,7 +2120,9 @@
     "positionRank": 14,
     "overallRank": 125,
     "fpPositionRank": "DST16",
-    "fpOverallRank": 255
+    "fpOverallRank": 255,
+    "fpRankAve": 225.48,
+    "fpRankStd": 43.55
   },
   {
     "sleeperId": "5189",
@@ -1887,7 +2137,9 @@
     "positionRank": 14,
     "overallRank": 126,
     "fpPositionRank": "K7",
-    "fpOverallRank": 233
+    "fpOverallRank": 233,
+    "fpRankAve": 211.21,
+    "fpRankStd": 19.71
   },
   {
     "sleeperId": "10955",
@@ -1902,7 +2154,9 @@
     "positionRank": 15,
     "overallRank": 127,
     "fpPositionRank": "K26",
-    "fpOverallRank": 450
+    "fpOverallRank": 450,
+    "fpRankAve": 268.4,
+    "fpRankStd": 71.04
   },
   {
     "sleeperId": "12489",
@@ -1917,7 +2171,9 @@
     "positionRank": 36,
     "overallRank": 128,
     "fpPositionRank": "RB35",
-    "fpOverallRank": 97
+    "fpOverallRank": 97,
+    "fpRankAve": 99.74,
+    "fpRankStd": 16.86
   },
   {
     "sleeperId": "5001",
@@ -1932,7 +2188,9 @@
     "positionRank": 16,
     "overallRank": 129,
     "fpPositionRank": "TE19",
-    "fpOverallRank": 153
+    "fpOverallRank": 153,
+    "fpRankAve": 167.46,
+    "fpRankStd": 24.23
   },
   {
     "sleeperId": "4195",
@@ -1947,7 +2205,9 @@
     "positionRank": 16,
     "overallRank": 130,
     "fpPositionRank": "K19",
-    "fpOverallRank": 346
+    "fpOverallRank": 346,
+    "fpRankAve": 306.68,
+    "fpRankStd": 28.78
   },
   {
     "sleeperId": "8137",
@@ -1962,7 +2222,9 @@
     "positionRank": 35,
     "overallRank": 131,
     "fpPositionRank": "WR10",
-    "fpOverallRank": 22
+    "fpOverallRank": 22,
+    "fpRankAve": 22.67,
+    "fpRankStd": 5.78
   },
   {
     "sleeperId": "13345",
@@ -1977,7 +2239,9 @@
     "positionRank": 37,
     "overallRank": 132,
     "fpPositionRank": "RB45",
-    "fpOverallRank": 137
+    "fpOverallRank": 137,
+    "fpRankAve": 141.48,
+    "fpRankStd": 20.13
   },
   {
     "sleeperId": "MIA",
@@ -1992,7 +2256,9 @@
     "positionRank": 15,
     "overallRank": 133,
     "fpPositionRank": "DST29",
-    "fpOverallRank": 442
+    "fpOverallRank": 442,
+    "fpRankAve": 305.33,
+    "fpRankStd": 53.98
   },
   {
     "sleeperId": "7042",
@@ -2007,7 +2273,9 @@
     "positionRank": 17,
     "overallRank": 134,
     "fpPositionRank": "K20",
-    "fpOverallRank": 365
+    "fpOverallRank": 365,
+    "fpRankAve": 283.6,
+    "fpRankStd": 39.95
   },
   {
     "sleeperId": "LAC",
@@ -2022,7 +2290,9 @@
     "positionRank": 16,
     "overallRank": 135,
     "fpPositionRank": "DST10",
-    "fpOverallRank": 210
+    "fpOverallRank": 210,
+    "fpRankAve": 193.14,
+    "fpRankStd": 21.84
   },
   {
     "sleeperId": "650",
@@ -2037,7 +2307,9 @@
     "positionRank": 18,
     "overallRank": 136,
     "fpPositionRank": "K29",
-    "fpOverallRank": 459
+    "fpOverallRank": 459,
+    "fpRankAve": 298.4,
+    "fpRankStd": 57.18
   },
   {
     "sleeperId": "11539",
@@ -2052,7 +2324,9 @@
     "positionRank": 19,
     "overallRank": 137,
     "fpPositionRank": "K6",
-    "fpOverallRank": 232
+    "fpOverallRank": 232,
+    "fpRankAve": 224.14,
+    "fpRankStd": 19.95
   },
   {
     "sleeperId": "6083",
@@ -2067,7 +2341,9 @@
     "positionRank": 20,
     "overallRank": 138,
     "fpPositionRank": "K37",
-    "fpOverallRank": 732
+    "fpOverallRank": 732,
+    "fpRankAve": 400.5,
+    "fpRankStd": 22.5
   },
   {
     "sleeperId": "13804",
@@ -2082,7 +2358,9 @@
     "positionRank": 21,
     "overallRank": 139,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "6826",
@@ -2097,7 +2375,9 @@
     "positionRank": 17,
     "overallRank": 140,
     "fpPositionRank": "TE47",
-    "fpOverallRank": 339
+    "fpOverallRank": 339,
+    "fpRankAve": 311.63,
+    "fpRankStd": 27.25
   },
   {
     "sleeperId": "8131",
@@ -2112,7 +2392,9 @@
     "positionRank": 18,
     "overallRank": 141,
     "fpPositionRank": "TE12",
-    "fpOverallRank": 115
+    "fpOverallRank": 115,
+    "fpRankAve": 115.95,
+    "fpRankStd": 24.83
   },
   {
     "sleeperId": "4993",
@@ -2127,7 +2409,9 @@
     "positionRank": 19,
     "overallRank": 142,
     "fpPositionRank": "TE36",
-    "fpOverallRank": 305
+    "fpOverallRank": 305,
+    "fpRankAve": 268.01,
+    "fpRankStd": 26.51
   },
   {
     "sleeperId": "11624",
@@ -2142,7 +2426,9 @@
     "positionRank": 36,
     "overallRank": 143,
     "fpPositionRank": "WR52",
-    "fpOverallRank": 129
+    "fpOverallRank": 129,
+    "fpRankAve": 129.67,
+    "fpRankStd": 16.43
   },
   {
     "sleeperId": "TB",
@@ -2157,7 +2443,9 @@
     "positionRank": 17,
     "overallRank": 144,
     "fpPositionRank": "DST25",
-    "fpOverallRank": 384
+    "fpOverallRank": 384,
+    "fpRankAve": 302.74,
+    "fpRankStd": 66.99
   },
   {
     "sleeperId": "4066",
@@ -2172,7 +2460,9 @@
     "positionRank": 20,
     "overallRank": 145,
     "fpPositionRank": "TE29",
-    "fpOverallRank": 239
+    "fpOverallRank": 239,
+    "fpRankAve": 251.73,
+    "fpRankStd": 22.79
   },
   {
     "sleeperId": "12493",
@@ -2187,7 +2477,9 @@
     "positionRank": 21,
     "overallRank": 146,
     "fpPositionRank": "TE26",
-    "fpOverallRank": 194
+    "fpOverallRank": 194,
+    "fpRankAve": 210.87,
+    "fpRankStd": 39.64
   },
   {
     "sleeperId": "7002",
@@ -2202,7 +2494,9 @@
     "positionRank": 22,
     "overallRank": 147,
     "fpPositionRank": "TE16",
-    "fpOverallRank": 128
+    "fpOverallRank": 128,
+    "fpRankAve": 128.98,
+    "fpRankStd": 17.96
   },
   {
     "sleeperId": "7588",
@@ -2217,7 +2511,9 @@
     "positionRank": 38,
     "overallRank": 148,
     "fpPositionRank": "RB14",
-    "fpOverallRank": 32
+    "fpOverallRank": 32,
+    "fpRankAve": 34.62,
+    "fpRankStd": 7.36
   },
   {
     "sleeperId": "5844",
@@ -2232,7 +2528,9 @@
     "positionRank": 23,
     "overallRank": 149,
     "fpPositionRank": "TE23",
-    "fpOverallRank": 177
+    "fpOverallRank": 177,
+    "fpRankAve": 195.02,
+    "fpRankStd": 28.93
   },
   {
     "sleeperId": "12469",
@@ -2247,7 +2545,9 @@
     "positionRank": 39,
     "overallRank": 150,
     "fpPositionRank": "RB50",
-    "fpOverallRank": 145
+    "fpOverallRank": 145,
+    "fpRankAve": 155.62,
+    "fpRankStd": 23.34
   },
   {
     "sleeperId": "12548",
@@ -2262,7 +2562,9 @@
     "positionRank": 22,
     "overallRank": 151,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "13545",
@@ -2277,7 +2579,9 @@
     "positionRank": 23,
     "overallRank": 152,
     "fpPositionRank": "K21",
-    "fpOverallRank": 377
+    "fpOverallRank": 377,
+    "fpRankAve": 282.45,
+    "fpRankStd": 51.07
   },
   {
     "sleeperId": "12534",
@@ -2292,7 +2596,9 @@
     "positionRank": 40,
     "overallRank": 153,
     "fpPositionRank": "RB39",
-    "fpOverallRank": 111
+    "fpOverallRank": 111,
+    "fpRankAve": 112.05,
+    "fpRankStd": 15.65
   },
   {
     "sleeperId": "3214",
@@ -2307,7 +2613,9 @@
     "positionRank": 24,
     "overallRank": 154,
     "fpPositionRank": "TE17",
-    "fpOverallRank": 146
+    "fpOverallRank": 146,
+    "fpRankAve": 158.59,
+    "fpRankStd": 20.64
   },
   {
     "sleeperId": "7611",
@@ -2322,7 +2630,9 @@
     "positionRank": 41,
     "overallRank": 155,
     "fpPositionRank": "RB26",
-    "fpOverallRank": 67
+    "fpOverallRank": 67,
+    "fpRankAve": 68.86,
+    "fpRankStd": 9.57
   },
   {
     "sleeperId": "13330",
@@ -2337,7 +2647,9 @@
     "positionRank": 25,
     "overallRank": 156,
     "fpPositionRank": "TE24",
-    "fpOverallRank": 182
+    "fpOverallRank": 182,
+    "fpRankAve": 212.4,
+    "fpRankStd": 31.59
   },
   {
     "sleeperId": "7553",
@@ -2352,7 +2664,9 @@
     "positionRank": 26,
     "overallRank": 157,
     "fpPositionRank": "TE8",
-    "fpOverallRank": 83
+    "fpOverallRank": 83,
+    "fpRankAve": 83.87,
+    "fpRankStd": 9.9
   },
   {
     "sleeperId": "12015",
@@ -2367,7 +2681,9 @@
     "positionRank": 24,
     "overallRank": 158,
     "fpPositionRank": "K9",
-    "fpOverallRank": 246
+    "fpOverallRank": 246,
+    "fpRankAve": 233.82,
+    "fpRankStd": 24.79
   },
   {
     "sleeperId": "NE",
@@ -2382,7 +2698,9 @@
     "positionRank": 18,
     "overallRank": 159,
     "fpPositionRank": "DST6",
-    "fpOverallRank": 200
+    "fpOverallRank": 200,
+    "fpRankAve": 187.34,
+    "fpRankStd": 21.98
   },
   {
     "sleeperId": "4037",
@@ -2397,7 +2715,9 @@
     "positionRank": 37,
     "overallRank": 160,
     "fpPositionRank": "WR35",
-    "fpOverallRank": 80
+    "fpOverallRank": 80,
+    "fpRankAve": 81.85,
+    "fpRankStd": 14.74
   },
   {
     "sleeperId": "8228",
@@ -2412,7 +2732,9 @@
     "positionRank": 42,
     "overallRank": 161,
     "fpPositionRank": "RB27",
-    "fpOverallRank": 69
+    "fpOverallRank": 69,
+    "fpRankAve": 72.75,
+    "fpRankStd": 9.72
   },
   {
     "sleeperId": "IND",
@@ -2427,7 +2749,9 @@
     "positionRank": 19,
     "overallRank": 162,
     "fpPositionRank": "DST20",
-    "fpOverallRank": 306
+    "fpOverallRank": 306,
+    "fpRankAve": 278.53,
+    "fpRankStd": 39.84
   },
   {
     "sleeperId": "6819",
@@ -2442,7 +2766,9 @@
     "positionRank": 38,
     "overallRank": 163,
     "fpPositionRank": "WR38",
-    "fpOverallRank": 87
+    "fpOverallRank": 87,
+    "fpRankAve": 92.58,
+    "fpRankStd": 12.87
   },
   {
     "sleeperId": "11786",
@@ -2457,7 +2783,9 @@
     "positionRank": 25,
     "overallRank": 164,
     "fpPositionRank": "K4",
-    "fpOverallRank": 225
+    "fpOverallRank": 225,
+    "fpRankAve": 197.99,
+    "fpRankStd": 18.86
   },
   {
     "sleeperId": "7839",
@@ -2472,7 +2800,9 @@
     "positionRank": 26,
     "overallRank": 165,
     "fpPositionRank": "K13",
-    "fpOverallRank": 254
+    "fpOverallRank": 254,
+    "fpRankAve": 216.93,
+    "fpRankStd": 23.76
   },
   {
     "sleeperId": "13400",
@@ -2487,7 +2817,9 @@
     "positionRank": 27,
     "overallRank": 166,
     "fpPositionRank": "TE58",
-    "fpOverallRank": 400
+    "fpOverallRank": 400,
+    "fpRankAve": 362,
+    "fpRankStd": 51.76
   },
   {
     "sleeperId": "10236",
@@ -2502,7 +2834,9 @@
     "positionRank": 28,
     "overallRank": 167,
     "fpPositionRank": "TE11",
-    "fpOverallRank": 110
+    "fpOverallRank": 110,
+    "fpRankAve": 109.64,
+    "fpRankStd": 13.87
   },
   {
     "sleeperId": "13968",
@@ -2517,7 +2851,9 @@
     "positionRank": 27,
     "overallRank": 168,
     "fpPositionRank": "K32",
-    "fpOverallRank": 521
+    "fpOverallRank": 521,
+    "fpRankAve": 359.75,
+    "fpRankStd": 80.08
   },
   {
     "sleeperId": "CIN",
@@ -2532,7 +2868,9 @@
     "positionRank": 20,
     "overallRank": 169,
     "fpPositionRank": "DST26",
-    "fpOverallRank": 415
+    "fpOverallRank": 415,
+    "fpRankAve": 255.44,
+    "fpRankStd": 61.73
   },
   {
     "sleeperId": "7526",
@@ -2547,7 +2885,9 @@
     "positionRank": 39,
     "overallRank": 170,
     "fpPositionRank": "WR17",
-    "fpOverallRank": 36
+    "fpOverallRank": 36,
+    "fpRankAve": 38.24,
+    "fpRankStd": 7.71
   },
   {
     "sleeperId": "4137",
@@ -2562,7 +2902,9 @@
     "positionRank": 43,
     "overallRank": 171,
     "fpPositionRank": "RB70",
-    "fpOverallRank": 226
+    "fpOverallRank": 226,
+    "fpRankAve": 224.38,
+    "fpRankStd": 39.8
   },
   {
     "sleeperId": "5095",
@@ -2577,7 +2919,9 @@
     "positionRank": 28,
     "overallRank": 172,
     "fpPositionRank": "K23",
-    "fpOverallRank": 411
+    "fpOverallRank": 411,
+    "fpRankAve": 277,
+    "fpRankStd": 50.26
   },
   {
     "sleeperId": "11653",
@@ -2592,7 +2936,9 @@
     "positionRank": 29,
     "overallRank": 173,
     "fpPositionRank": "K18",
-    "fpOverallRank": 327
+    "fpOverallRank": 327,
+    "fpRankAve": 283.75,
+    "fpRankStd": 37.07
   },
   {
     "sleeperId": "5857",
@@ -2607,7 +2953,9 @@
     "positionRank": 29,
     "overallRank": 174,
     "fpPositionRank": "TE52",
-    "fpOverallRank": 378
+    "fpOverallRank": 378,
+    "fpRankAve": 350,
+    "fpRankStd": 33.27
   },
   {
     "sleeperId": "9500",
@@ -2622,7 +2970,9 @@
     "positionRank": 40,
     "overallRank": 175,
     "fpPositionRank": "WR41",
-    "fpOverallRank": 96
+    "fpOverallRank": 96,
+    "fpRankAve": 99.55,
+    "fpRankStd": 16.27
   },
   {
     "sleeperId": "NO",
@@ -2637,7 +2987,9 @@
     "positionRank": 21,
     "overallRank": 176,
     "fpPositionRank": "DST19",
-    "fpOverallRank": 296
+    "fpOverallRank": 296,
+    "fpRankAve": 264.12,
+    "fpRankStd": 31.86
   },
   {
     "sleeperId": "8132",
@@ -2652,7 +3004,9 @@
     "positionRank": 44,
     "overallRank": 177,
     "fpPositionRank": "RB43",
-    "fpOverallRank": 130
+    "fpOverallRank": 130,
+    "fpRankAve": 130.35,
+    "fpRankStd": 13.32
   },
   {
     "sleeperId": "5022",
@@ -2667,7 +3021,9 @@
     "positionRank": 30,
     "overallRank": 178,
     "fpPositionRank": "TE13",
-    "fpOverallRank": 119
+    "fpOverallRank": 119,
+    "fpRankAve": 118.18,
+    "fpRankStd": 15.81
   },
   {
     "sleeperId": "DET",
@@ -2682,7 +3038,9 @@
     "positionRank": 22,
     "overallRank": 179,
     "fpPositionRank": "DST14",
-    "fpOverallRank": 240
+    "fpOverallRank": 240,
+    "fpRankAve": 221.88,
+    "fpRankStd": 31.02
   },
   {
     "sleeperId": "11575",
@@ -2697,7 +3055,9 @@
     "positionRank": 45,
     "overallRank": 180,
     "fpPositionRank": "RB58",
-    "fpOverallRank": 169
+    "fpOverallRank": 169,
+    "fpRankAve": 184.22,
+    "fpRankStd": 29.4
   },
   {
     "sleeperId": "CHI",
@@ -2712,7 +3072,9 @@
     "positionRank": 23,
     "overallRank": 181,
     "fpPositionRank": "DST21",
-    "fpOverallRank": 319
+    "fpOverallRank": 319,
+    "fpRankAve": 286.41,
+    "fpRankStd": 52
   },
   {
     "sleeperId": "LAR",
@@ -2727,7 +3089,9 @@
     "positionRank": 24,
     "overallRank": 182,
     "fpPositionRank": "DST2",
-    "fpOverallRank": 186
+    "fpOverallRank": 186,
+    "fpRankAve": 165.72,
+    "fpRankStd": 21.11
   },
   {
     "sleeperId": "9753",
@@ -2742,7 +3106,9 @@
     "positionRank": 46,
     "overallRank": 183,
     "fpPositionRank": "RB51",
-    "fpOverallRank": 148
+    "fpOverallRank": 148,
+    "fpRankAve": 147.34,
+    "fpRankStd": 23.56
   },
   {
     "sleeperId": "12457",
@@ -2757,7 +3123,9 @@
     "positionRank": 47,
     "overallRank": 184,
     "fpPositionRank": "RB88",
-    "fpOverallRank": 299
+    "fpOverallRank": 299,
+    "fpRankAve": 258.88,
+    "fpRankStd": 45.26
   },
   {
     "sleeperId": "NYG",
@@ -2772,7 +3140,9 @@
     "positionRank": 25,
     "overallRank": 185,
     "fpPositionRank": "DST23",
-    "fpOverallRank": 370
+    "fpOverallRank": 370,
+    "fpRankAve": 283,
+    "fpRankStd": 62.47
   },
   {
     "sleeperId": "2020",
@@ -2787,7 +3157,9 @@
     "positionRank": 30,
     "overallRank": 186,
     "fpPositionRank": "K10",
-    "fpOverallRank": 248
+    "fpOverallRank": 248,
+    "fpRankAve": 222.51,
+    "fpRankStd": 24.14
   },
   {
     "sleeperId": "5133",
@@ -2802,7 +3174,9 @@
     "positionRank": 31,
     "overallRank": 187,
     "fpPositionRank": "TE100",
-    "fpOverallRank": 532
+    "fpOverallRank": 532,
+    "fpRankAve": 494.8,
+    "fpRankStd": 43.46
   },
   {
     "sleeperId": "ATL",
@@ -2817,7 +3191,9 @@
     "positionRank": 26,
     "overallRank": 188,
     "fpPositionRank": "DST18",
-    "fpOverallRank": 290
+    "fpOverallRank": 290,
+    "fpRankAve": 277.2,
+    "fpRankStd": 42.66
   },
   {
     "sleeperId": "8210",
@@ -2832,7 +3208,9 @@
     "positionRank": 32,
     "overallRank": 189,
     "fpPositionRank": "TE18",
-    "fpOverallRank": 152
+    "fpOverallRank": 152,
+    "fpRankAve": 164.19,
+    "fpRankStd": 23.67
   },
   {
     "sleeperId": "12536",
@@ -2847,7 +3225,9 @@
     "positionRank": 41,
     "overallRank": 190,
     "fpPositionRank": "WR74",
-    "fpOverallRank": 181
+    "fpOverallRank": 181,
+    "fpRankAve": 204.27,
+    "fpRankStd": 25.54
   },
   {
     "sleeperId": "8110",
@@ -2862,7 +3242,9 @@
     "positionRank": 33,
     "overallRank": 191,
     "fpPositionRank": "TE14",
-    "fpOverallRank": 125
+    "fpOverallRank": 125,
+    "fpRankAve": 126.96,
+    "fpRankStd": 17.05
   },
   {
     "sleeperId": "9225",
@@ -2877,7 +3259,9 @@
     "positionRank": 48,
     "overallRank": 192,
     "fpPositionRank": "RB49",
-    "fpOverallRank": 144
+    "fpOverallRank": 144,
+    "fpRankAve": 154.27,
+    "fpRankStd": 20.49
   },
   {
     "sleeperId": "9508",
@@ -2892,7 +3276,9 @@
     "positionRank": 49,
     "overallRank": 193,
     "fpPositionRank": "RB46",
-    "fpOverallRank": 138
+    "fpOverallRank": 138,
+    "fpRankAve": 141.74,
+    "fpRankStd": 18.36
   },
   {
     "sleeperId": "7828",
@@ -2907,7 +3293,9 @@
     "positionRank": 34,
     "overallRank": 194,
     "fpPositionRank": "TE49",
-    "fpOverallRank": 344
+    "fpOverallRank": 344,
+    "fpRankAve": 326.58,
+    "fpRankStd": 33.58
   },
   {
     "sleeperId": "5872",
@@ -2922,7 +3310,9 @@
     "positionRank": 42,
     "overallRank": 195,
     "fpPositionRank": "WR55",
-    "fpOverallRank": 136
+    "fpOverallRank": 136,
+    "fpRankAve": 141.34,
+    "fpRankStd": 32.41
   },
   {
     "sleeperId": "LV",
@@ -2937,7 +3327,9 @@
     "positionRank": 27,
     "overallRank": 196,
     "fpPositionRank": "DST28",
-    "fpOverallRank": 436
+    "fpOverallRank": 436,
+    "fpRankAve": 273.17,
+    "fpRankStd": 68.09
   },
   {
     "sleeperId": "3202",
@@ -2952,7 +3344,9 @@
     "positionRank": 35,
     "overallRank": 197,
     "fpPositionRank": "TE59",
-    "fpOverallRank": 405
+    "fpOverallRank": 405,
+    "fpRankAve": 368.15,
+    "fpRankStd": 41.03
   },
   {
     "sleeperId": "5849",
@@ -2967,7 +3361,9 @@
     "positionRank": 15,
     "overallRank": 198,
     "fpPositionRank": "QB17",
-    "fpOverallRank": 118
+    "fpOverallRank": 118,
+    "fpRankAve": 118.1,
+    "fpRankStd": 18.97
   },
   {
     "sleeperId": "ARI",
@@ -2982,7 +3378,9 @@
     "positionRank": 28,
     "overallRank": 199,
     "fpPositionRank": "DST32",
-    "fpOverallRank": 483
+    "fpOverallRank": 483,
+    "fpRankAve": 279.5,
+    "fpRankStd": 87.76
   },
   {
     "sleeperId": "8142",
@@ -2997,7 +3395,9 @@
     "positionRank": 43,
     "overallRank": 200,
     "fpPositionRank": "WR40",
-    "fpOverallRank": 91
+    "fpOverallRank": 91,
+    "fpRankAve": 95.18,
+    "fpRankStd": 17.6
   },
   {
     "sleeperId": "6528",
@@ -3012,7 +3412,9 @@
     "positionRank": 31,
     "overallRank": 201,
     "fpPositionRank": "K28",
-    "fpOverallRank": 458
+    "fpOverallRank": 458,
+    "fpRankAve": 298,
+    "fpRankStd": 55.67
   },
   {
     "sleeperId": "13269",
@@ -3027,7 +3429,9 @@
     "positionRank": 16,
     "overallRank": 202,
     "fpPositionRank": "QB30",
-    "fpOverallRank": 243
+    "fpOverallRank": 243,
+    "fpRankAve": 273.02,
+    "fpRankStd": 48.21
   },
   {
     "sleeperId": "5995",
@@ -3042,7 +3446,9 @@
     "positionRank": 50,
     "overallRank": 203,
     "fpPositionRank": "RB69",
-    "fpOverallRank": 224
+    "fpOverallRank": 224,
+    "fpRankAve": 229.69,
+    "fpRankStd": 40.14
   },
   {
     "sleeperId": "5985",
@@ -3057,7 +3463,9 @@
     "positionRank": 36,
     "overallRank": 204,
     "fpPositionRank": "TE85",
-    "fpOverallRank": 504
+    "fpOverallRank": 504,
+    "fpRankAve": 452.6,
+    "fpRankStd": 54.2
   },
   {
     "sleeperId": "13320",
@@ -3072,7 +3480,9 @@
     "positionRank": 44,
     "overallRank": 205,
     "fpPositionRank": "WR80",
-    "fpOverallRank": 208
+    "fpOverallRank": 208,
+    "fpRankAve": 229.83,
+    "fpRankStd": 34.59
   },
   {
     "sleeperId": "TEN",
@@ -3087,7 +3497,9 @@
     "positionRank": 29,
     "overallRank": 206,
     "fpPositionRank": "DST27",
-    "fpOverallRank": 419
+    "fpOverallRank": 419,
+    "fpRankAve": 298.22,
+    "fpRankStd": 97.07
   },
   {
     "sleeperId": "9754",
@@ -3102,7 +3514,9 @@
     "positionRank": 45,
     "overallRank": 207,
     "fpPositionRank": "WR37",
-    "fpOverallRank": 85
+    "fpOverallRank": 85,
+    "fpRankAve": 90.38,
+    "fpRankStd": 13.59
   },
   {
     "sleeperId": "6828",
@@ -3117,7 +3531,9 @@
     "positionRank": 51,
     "overallRank": 208,
     "fpPositionRank": "RB121",
-    "fpOverallRank": 429
+    "fpOverallRank": 429,
+    "fpRankAve": 408.33,
+    "fpRankStd": 111.86
   },
   {
     "sleeperId": "12535",
@@ -3132,7 +3548,9 @@
     "positionRank": 46,
     "overallRank": 209,
     "fpPositionRank": "WR81",
-    "fpOverallRank": 209
+    "fpOverallRank": 209,
+    "fpRankAve": 218.34,
+    "fpRankStd": 24.49
   },
   {
     "sleeperId": "6130",
@@ -3147,7 +3565,9 @@
     "positionRank": 52,
     "overallRank": 210,
     "fpPositionRank": "RB86",
-    "fpOverallRank": 292
+    "fpOverallRank": 292,
+    "fpRankAve": 287.12,
+    "fpRankStd": 24.64
   },
   {
     "sleeperId": "1479",
@@ -3162,7 +3582,9 @@
     "positionRank": 47,
     "overallRank": 211,
     "fpPositionRank": "WR71",
-    "fpOverallRank": 178
+    "fpOverallRank": 178,
+    "fpRankAve": 195.41,
+    "fpRankStd": 51.46
   },
   {
     "sleeperId": "WAS",
@@ -3177,7 +3599,9 @@
     "positionRank": 30,
     "overallRank": 212,
     "fpPositionRank": "DST30",
-    "fpOverallRank": 463
+    "fpOverallRank": 463,
+    "fpRankAve": 312,
+    "fpRankStd": 126.4
   },
   {
     "sleeperId": "12501",
@@ -3192,7 +3616,9 @@
     "positionRank": 48,
     "overallRank": 213,
     "fpPositionRank": "WR50",
-    "fpOverallRank": 124
+    "fpOverallRank": 124,
+    "fpRankAve": 125.88,
+    "fpRankStd": 21.72
   },
   {
     "sleeperId": "7090",
@@ -3207,7 +3633,9 @@
     "positionRank": 49,
     "overallRank": 214,
     "fpPositionRank": "WR83",
-    "fpOverallRank": 223
+    "fpOverallRank": 223,
+    "fpRankAve": 229.41,
+    "fpRankStd": 26.28
   },
   {
     "sleeperId": "5119",
@@ -3222,7 +3650,9 @@
     "positionRank": 32,
     "overallRank": 215,
     "fpPositionRank": "K36",
-    "fpOverallRank": 707
+    "fpOverallRank": 707,
+    "fpRankAve": 355.5,
+    "fpRankStd": 23.5
   },
   {
     "sleeperId": "11058",
@@ -3237,7 +3667,9 @@
     "positionRank": 33,
     "overallRank": 216,
     "fpPositionRank": "K25",
-    "fpOverallRank": 432
+    "fpOverallRank": 432,
+    "fpRankAve": 320.71,
+    "fpRankStd": 55.46
   },
   {
     "sleeperId": "6768",
@@ -3252,7 +3684,9 @@
     "positionRank": 17,
     "overallRank": 217,
     "fpPositionRank": "QB31",
-    "fpOverallRank": 268
+    "fpOverallRank": 268,
+    "fpRankAve": 288,
+    "fpRankStd": 48.02
   },
   {
     "sleeperId": "7049",
@@ -3267,7 +3701,9 @@
     "positionRank": 50,
     "overallRank": 218,
     "fpPositionRank": "WR65",
-    "fpOverallRank": 167
+    "fpOverallRank": 167,
+    "fpRankAve": 179.38,
+    "fpRankStd": 29.97
   },
   {
     "sleeperId": "4034",
@@ -3282,7 +3718,9 @@
     "positionRank": 53,
     "overallRank": 219,
     "fpPositionRank": "RB3",
-    "fpOverallRank": 7
+    "fpOverallRank": 7,
+    "fpRankAve": 8.47,
+    "fpRankStd": 4.01
   },
   {
     "sleeperId": "2449",
@@ -3297,7 +3735,9 @@
     "positionRank": 51,
     "overallRank": 220,
     "fpPositionRank": "WR42",
-    "fpOverallRank": 98
+    "fpOverallRank": 98,
+    "fpRankAve": 100.02,
+    "fpRankStd": 22.42
   },
   {
     "sleeperId": "11439",
@@ -3312,7 +3752,9 @@
     "positionRank": 54,
     "overallRank": 221,
     "fpPositionRank": "RB98",
-    "fpOverallRank": 317
+    "fpOverallRank": 317,
+    "fpRankAve": 308.31,
+    "fpRankStd": 37.96
   },
   {
     "sleeperId": "13417",
@@ -3327,7 +3769,9 @@
     "positionRank": 52,
     "overallRank": 222,
     "fpPositionRank": "WR49",
-    "fpOverallRank": 117
+    "fpOverallRank": 117,
+    "fpRankAve": 117.73,
+    "fpRankStd": 28.08
   },
   {
     "sleeperId": "7933",
@@ -3342,7 +3786,9 @@
     "positionRank": 34,
     "overallRank": 223,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "12961",
@@ -3357,7 +3803,9 @@
     "positionRank": 35,
     "overallRank": 224,
     "fpPositionRank": "K30",
-    "fpOverallRank": 460
+    "fpOverallRank": 460,
+    "fpRankAve": 301.4,
+    "fpRankStd": 58.97
   },
   {
     "sleeperId": "13347",
@@ -3372,7 +3820,9 @@
     "positionRank": 55,
     "overallRank": 225,
     "fpPositionRank": "RB74",
-    "fpOverallRank": 241
+    "fpOverallRank": 241,
+    "fpRankAve": 241.35,
+    "fpRankStd": 31.82
   },
   {
     "sleeperId": "13349",
@@ -3387,7 +3837,9 @@
     "positionRank": 37,
     "overallRank": 226,
     "fpPositionRank": "TE35",
-    "fpOverallRank": 297
+    "fpOverallRank": 297,
+    "fpRankAve": 277.9,
+    "fpRankStd": 35.52
   },
   {
     "sleeperId": "13293",
@@ -3402,7 +3854,9 @@
     "positionRank": 53,
     "overallRank": 227,
     "fpPositionRank": "WR78",
-    "fpOverallRank": 206
+    "fpOverallRank": 206,
+    "fpRankAve": 203.17,
+    "fpRankStd": 46.64
   },
   {
     "sleeperId": "11603",
@@ -3417,7 +3871,9 @@
     "positionRank": 38,
     "overallRank": 228,
     "fpPositionRank": "TE22",
-    "fpOverallRank": 176
+    "fpOverallRank": 176,
+    "fpRankAve": 196.83,
+    "fpRankStd": 23.79
   },
   {
     "sleeperId": "9486",
@@ -3432,7 +3888,9 @@
     "positionRank": 54,
     "overallRank": 229,
     "fpPositionRank": "WR63",
-    "fpOverallRank": 162
+    "fpOverallRank": 162,
+    "fpRankAve": 184.55,
+    "fpRankStd": 33.12
   },
   {
     "sleeperId": "13285",
@@ -3447,7 +3905,9 @@
     "positionRank": 55,
     "overallRank": 230,
     "fpPositionRank": "WR79",
-    "fpOverallRank": 207
+    "fpOverallRank": 207,
+    "fpRankAve": 222.14,
+    "fpRankStd": 36.96
   },
   {
     "sleeperId": "JAX",
@@ -3462,7 +3922,9 @@
     "positionRank": 31,
     "overallRank": 231,
     "fpPositionRank": "DST9",
-    "fpOverallRank": 205
+    "fpOverallRank": 205,
+    "fpRankAve": 189.8,
+    "fpRankStd": 23
   },
   {
     "sleeperId": "7571",
@@ -3477,7 +3939,9 @@
     "positionRank": 56,
     "overallRank": 232,
     "fpPositionRank": "WR75",
-    "fpOverallRank": 189
+    "fpOverallRank": 189,
+    "fpRankAve": 223.09,
+    "fpRankStd": 28.37
   },
   {
     "sleeperId": "13833",
@@ -3492,7 +3956,9 @@
     "positionRank": 36,
     "overallRank": 233,
     "fpPositionRank": "K31",
-    "fpOverallRank": 514
+    "fpOverallRank": 514,
+    "fpRankAve": 349,
+    "fpRankStd": 83.18
   },
   {
     "sleeperId": "11261",
@@ -3507,7 +3973,9 @@
     "positionRank": 37,
     "overallRank": 234,
     "fpPositionRank": "K35",
-    "fpOverallRank": 692
+    "fpOverallRank": 692,
+    "fpRankAve": 320,
+    "fpRankStd": 56
   },
   {
     "sleeperId": "13278",
@@ -3522,7 +3990,9 @@
     "positionRank": 39,
     "overallRank": 235,
     "fpPositionRank": "TE50",
-    "fpOverallRank": 354
+    "fpOverallRank": 354,
+    "fpRankAve": 328.66,
+    "fpRankStd": 45.89
   },
   {
     "sleeperId": "12713",
@@ -3537,7 +4007,9 @@
     "positionRank": 38,
     "overallRank": 236,
     "fpPositionRank": "K11",
-    "fpOverallRank": 252
+    "fpOverallRank": 252,
+    "fpRankAve": 227.17,
+    "fpRankStd": 22.72
   },
   {
     "sleeperId": "8183",
@@ -3552,7 +4024,9 @@
     "positionRank": 18,
     "overallRank": 237,
     "fpPositionRank": "QB11",
-    "fpOverallRank": 94
+    "fpOverallRank": 94,
+    "fpRankAve": 97.35,
+    "fpRankStd": 12.6
   },
   {
     "sleeperId": "11576",
@@ -3567,7 +4041,9 @@
     "positionRank": 56,
     "overallRank": 238,
     "fpPositionRank": "RB52",
-    "fpOverallRank": 157
+    "fpOverallRank": 157,
+    "fpRankAve": 167.54,
+    "fpRankStd": 27.89
   },
   {
     "sleeperId": "4039",
@@ -3582,7 +4058,9 @@
     "positionRank": 57,
     "overallRank": 239,
     "fpPositionRank": "WR82",
-    "fpOverallRank": 211
+    "fpOverallRank": 211,
+    "fpRankAve": 231.39,
+    "fpRankStd": 28.96
   },
   {
     "sleeperId": "2505",
@@ -3597,7 +4075,9 @@
     "positionRank": 40,
     "overallRank": 240,
     "fpPositionRank": "TE37",
-    "fpOverallRank": 311
+    "fpOverallRank": 311,
+    "fpRankAve": 255.77,
+    "fpRankStd": 36.2
   },
   {
     "sleeperId": "11620",
@@ -3612,7 +4092,9 @@
     "positionRank": 58,
     "overallRank": 241,
     "fpPositionRank": "WR28",
-    "fpOverallRank": 58
+    "fpOverallRank": 58,
+    "fpRankAve": 58.22,
+    "fpRankStd": 9
   },
   {
     "sleeperId": "8121",
@@ -3627,7 +4109,9 @@
     "positionRank": 59,
     "overallRank": 242,
     "fpPositionRank": "WR51",
-    "fpOverallRank": 126
+    "fpOverallRank": 126,
+    "fpRankAve": 128.12,
+    "fpRankStd": 16.78
   },
   {
     "sleeperId": "8126",
@@ -3642,7 +4126,9 @@
     "positionRank": 60,
     "overallRank": 243,
     "fpPositionRank": "WR43",
-    "fpOverallRank": 102
+    "fpOverallRank": 102,
+    "fpRankAve": 101.98,
+    "fpRankStd": 14.55
   },
   {
     "sleeperId": "13302",
@@ -3657,7 +4143,9 @@
     "positionRank": 57,
     "overallRank": 244,
     "fpPositionRank": "RB87",
-    "fpOverallRank": 294
+    "fpOverallRank": 294,
+    "fpRankAve": 284.86,
+    "fpRankStd": 31.03
   },
   {
     "sleeperId": "8219",
@@ -3672,7 +4160,9 @@
     "positionRank": 41,
     "overallRank": 245,
     "fpPositionRank": "TE76",
-    "fpOverallRank": 476
+    "fpOverallRank": 476,
+    "fpRankAve": 483.83,
+    "fpRankStd": 79.24
   },
   {
     "sleeperId": "11618",
@@ -3687,7 +4177,9 @@
     "positionRank": 61,
     "overallRank": 246,
     "fpPositionRank": "WR62",
-    "fpOverallRank": 161
+    "fpOverallRank": 161,
+    "fpRankAve": 177.71,
+    "fpRankStd": 26.97
   },
   {
     "sleeperId": "13423",
@@ -3702,7 +4194,9 @@
     "positionRank": 58,
     "overallRank": 247,
     "fpPositionRank": "RB104",
-    "fpOverallRank": 364
+    "fpOverallRank": 364,
+    "fpRankAve": 329.67,
+    "fpRankStd": 65.2
   },
   {
     "sleeperId": "6865",
@@ -3717,7 +4211,9 @@
     "positionRank": 42,
     "overallRank": 248,
     "fpPositionRank": "TE31",
-    "fpOverallRank": 259
+    "fpOverallRank": 259,
+    "fpRankAve": 254.88,
+    "fpRankStd": 21.77
   },
   {
     "sleeperId": "11600",
@@ -3732,7 +4228,9 @@
     "positionRank": 43,
     "overallRank": 249,
     "fpPositionRank": "TE51",
-    "fpOverallRank": 355
+    "fpOverallRank": 355,
+    "fpRankAve": 330.19,
+    "fpRankStd": 39.45
   },
   {
     "sleeperId": "8143",
@@ -3747,7 +4245,9 @@
     "positionRank": 59,
     "overallRank": 250,
     "fpPositionRank": "RB94",
-    "fpOverallRank": 309
+    "fpOverallRank": 309,
+    "fpRankAve": 305.07,
+    "fpRankStd": 48.39
   },
   {
     "sleeperId": "8148",
@@ -3762,7 +4262,9 @@
     "positionRank": 62,
     "overallRank": 251,
     "fpPositionRank": "WR25",
-    "fpOverallRank": 50
+    "fpOverallRank": 50,
+    "fpRankAve": 51.25,
+    "fpRankStd": 9.92
   },
   {
     "sleeperId": "5973",
@@ -3777,7 +4279,9 @@
     "positionRank": 44,
     "overallRank": 252,
     "fpPositionRank": "TE65",
-    "fpOverallRank": 431
+    "fpOverallRank": 431,
+    "fpRankAve": 372.38,
+    "fpRankStd": 53.77
   },
   {
     "sleeperId": "5906",
@@ -3792,7 +4296,9 @@
     "positionRank": 45,
     "overallRank": 253,
     "fpPositionRank": "TE45",
-    "fpOverallRank": 334
+    "fpOverallRank": 334,
+    "fpRankAve": 314.34,
+    "fpRankStd": 35.48
   },
   {
     "sleeperId": "12504",
@@ -3807,7 +4313,9 @@
     "positionRank": 60,
     "overallRank": 254,
     "fpPositionRank": "RB75",
-    "fpOverallRank": 244
+    "fpOverallRank": 244,
+    "fpRankAve": 233.25,
+    "fpRankStd": 49.13
   },
   {
     "sleeperId": "13274",
@@ -3822,7 +4330,9 @@
     "positionRank": 63,
     "overallRank": 255,
     "fpPositionRank": "WR84",
-    "fpOverallRank": 229
+    "fpOverallRank": 229,
+    "fpRankAve": 234.88,
+    "fpRankStd": 28.91
   },
   {
     "sleeperId": "7496",
@@ -3837,7 +4347,9 @@
     "positionRank": 64,
     "overallRank": 256,
     "fpPositionRank": "WR149",
-    "fpOverallRank": 430
+    "fpOverallRank": 430,
+    "fpRankAve": 422.44,
+    "fpRankStd": 108.69
   },
   {
     "sleeperId": "13311",
@@ -3852,7 +4364,9 @@
     "positionRank": 65,
     "overallRank": 257,
     "fpPositionRank": "WR77",
-    "fpOverallRank": 201
+    "fpOverallRank": 201,
+    "fpRankAve": 225.37,
+    "fpRankStd": 39.76
   },
   {
     "sleeperId": "4147",
@@ -3867,7 +4381,9 @@
     "positionRank": 61,
     "overallRank": 258,
     "fpPositionRank": "RB73",
-    "fpOverallRank": 238
+    "fpOverallRank": 238,
+    "fpRankAve": 250.05,
+    "fpRankStd": 39.64
   },
   {
     "sleeperId": "8408",
@@ -3882,7 +4398,9 @@
     "positionRank": 62,
     "overallRank": 259,
     "fpPositionRank": "RB36",
-    "fpOverallRank": 100
+    "fpOverallRank": 100,
+    "fpRankAve": 100.62,
+    "fpRankStd": 17.79
   },
   {
     "sleeperId": "12521",
@@ -3897,7 +4415,9 @@
     "positionRank": 46,
     "overallRank": 260,
     "fpPositionRank": "TE43",
-    "fpOverallRank": 331
+    "fpOverallRank": 331,
+    "fpRankAve": 300.37,
+    "fpRankStd": 39.63
   },
   {
     "sleeperId": "6149",
@@ -3912,7 +4432,9 @@
     "positionRank": 66,
     "overallRank": 261,
     "fpPositionRank": "WR97",
-    "fpOverallRank": 276
+    "fpOverallRank": 276,
+    "fpRankAve": 272.18,
+    "fpRankStd": 26.22
   },
   {
     "sleeperId": "6806",
@@ -3927,7 +4449,9 @@
     "positionRank": 63,
     "overallRank": 262,
     "fpPositionRank": "RB31",
-    "fpOverallRank": 86
+    "fpOverallRank": 86,
+    "fpRankAve": 91.58,
+    "fpRankStd": 13.85
   },
   {
     "sleeperId": "13268",
@@ -3942,7 +4466,9 @@
     "positionRank": 67,
     "overallRank": 263,
     "fpPositionRank": "WR99",
-    "fpOverallRank": 280
+    "fpOverallRank": 280,
+    "fpRankAve": 269.15,
+    "fpRankStd": 25.23
   },
   {
     "sleeperId": "12472",
@@ -3957,7 +4483,9 @@
     "positionRank": 64,
     "overallRank": 264,
     "fpPositionRank": "RB105",
-    "fpOverallRank": 369
+    "fpOverallRank": 369,
+    "fpRankAve": 333.58,
+    "fpRankStd": 54.7
   },
   {
     "sleeperId": "13421",
@@ -3972,7 +4500,9 @@
     "positionRank": 47,
     "overallRank": 265,
     "fpPositionRank": "TE44",
-    "fpOverallRank": 333
+    "fpOverallRank": 333,
+    "fpRankAve": 303.95,
+    "fpRankStd": 47.28
   },
   {
     "sleeperId": "13477",
@@ -3987,7 +4517,9 @@
     "positionRank": 68,
     "overallRank": 266,
     "fpPositionRank": "WR133",
-    "fpOverallRank": 375
+    "fpOverallRank": 375,
+    "fpRankAve": 336.41,
+    "fpRankStd": 72.34
   },
   {
     "sleeperId": "8134",
@@ -4002,7 +4534,9 @@
     "positionRank": 69,
     "overallRank": 267,
     "fpPositionRank": "WR54",
-    "fpOverallRank": 134
+    "fpOverallRank": 134,
+    "fpRankAve": 134.27,
+    "fpRankStd": 16.04
   },
   {
     "sleeperId": "7567",
@@ -4017,7 +4551,9 @@
     "positionRank": 65,
     "overallRank": 268,
     "fpPositionRank": "RB38",
-    "fpOverallRank": 106
+    "fpOverallRank": 106,
+    "fpRankAve": 105.27,
+    "fpRankStd": 13.75
   },
   {
     "sleeperId": "10235",
@@ -4032,7 +4568,9 @@
     "positionRank": 66,
     "overallRank": 269,
     "fpPositionRank": "RB103",
-    "fpOverallRank": 363
+    "fpOverallRank": 363,
+    "fpRankAve": 324.04,
+    "fpRankStd": 77.96
   },
   {
     "sleeperId": "10229",
@@ -4047,7 +4585,9 @@
     "positionRank": 70,
     "overallRank": 270,
     "fpPositionRank": "WR14",
-    "fpOverallRank": 29
+    "fpOverallRank": 29,
+    "fpRankAve": 32.41,
+    "fpRankStd": 8.99
   },
   {
     "sleeperId": "7694",
@@ -4062,7 +4602,9 @@
     "positionRank": 48,
     "overallRank": 271,
     "fpPositionRank": "TE54",
-    "fpOverallRank": 387
+    "fpOverallRank": 387,
+    "fpRankAve": 350.35,
+    "fpRankStd": 30.72
   },
   {
     "sleeperId": "10232",
@@ -4077,7 +4619,9 @@
     "positionRank": 71,
     "overallRank": 272,
     "fpPositionRank": "WR39",
-    "fpOverallRank": 89
+    "fpOverallRank": 89,
+    "fpRankAve": 93.55,
+    "fpRankStd": 15.71
   },
   {
     "sleeperId": "12543",
@@ -4092,7 +4636,9 @@
     "positionRank": 67,
     "overallRank": 273,
     "fpPositionRank": "RB91",
-    "fpOverallRank": 304
+    "fpOverallRank": 304,
+    "fpRankAve": 307.94,
+    "fpRankStd": 40.89
   },
   {
     "sleeperId": "13324",
@@ -4107,7 +4653,9 @@
     "positionRank": 49,
     "overallRank": 274,
     "fpPositionRank": "TE62",
-    "fpOverallRank": 413
+    "fpOverallRank": 413,
+    "fpRankAve": 354.73,
+    "fpRankStd": 59.4
   },
   {
     "sleeperId": "8144",
@@ -4122,7 +4670,9 @@
     "positionRank": 72,
     "overallRank": 275,
     "fpPositionRank": "WR11",
-    "fpOverallRank": 23
+    "fpOverallRank": 23,
+    "fpRankAve": 23.51,
+    "fpRankStd": 5.8
   },
   {
     "sleeperId": "13434",
@@ -4137,7 +4687,9 @@
     "positionRank": 50,
     "overallRank": 276,
     "fpPositionRank": "TE75",
-    "fpOverallRank": 475
+    "fpOverallRank": 475,
+    "fpRankAve": 388,
+    "fpRankStd": 47.75
   },
   {
     "sleeperId": "11597",
@@ -4152,7 +4704,9 @@
     "positionRank": 51,
     "overallRank": 277,
     "fpPositionRank": "TE34",
-    "fpOverallRank": 293
+    "fpOverallRank": 293,
+    "fpRankAve": 274.62,
+    "fpRankStd": 31.08
   },
   {
     "sleeperId": "10213",
@@ -4167,7 +4721,9 @@
     "positionRank": 73,
     "overallRank": 278,
     "fpPositionRank": "WR59",
-    "fpOverallRank": 150
+    "fpOverallRank": 150,
+    "fpRankAve": 161.87,
+    "fpRankStd": 25.21
   },
   {
     "sleeperId": "9494",
@@ -4182,7 +4738,9 @@
     "positionRank": 74,
     "overallRank": 279,
     "fpPositionRank": "WR101",
-    "fpOverallRank": 284
+    "fpOverallRank": 284,
+    "fpRankAve": 274.82,
+    "fpRankStd": 25.59
   },
   {
     "sleeperId": "12487",
@@ -4197,7 +4755,9 @@
     "positionRank": 52,
     "overallRank": 280,
     "fpPositionRank": "TE21",
-    "fpOverallRank": 174
+    "fpOverallRank": 174,
+    "fpRankAve": 183.81,
+    "fpRankStd": 40.54
   },
   {
     "sleeperId": "8129",
@@ -4212,7 +4772,9 @@
     "positionRank": 68,
     "overallRank": 281,
     "fpPositionRank": "RB120",
-    "fpOverallRank": 428
+    "fpOverallRank": 428,
+    "fpRankAve": 396.33,
+    "fpRankStd": 75.49
   },
   {
     "sleeperId": "12533",
@@ -4227,7 +4789,9 @@
     "positionRank": 69,
     "overallRank": 282,
     "fpPositionRank": "RB37",
-    "fpOverallRank": 101
+    "fpOverallRank": 101,
+    "fpRankAve": 101.57,
+    "fpRankStd": 14.43
   },
   {
     "sleeperId": "13317",
@@ -4242,7 +4806,9 @@
     "positionRank": 75,
     "overallRank": 283,
     "fpPositionRank": "WR87",
-    "fpOverallRank": 236
+    "fpOverallRank": 236,
+    "fpRankAve": 239.77,
+    "fpRankStd": 37.38
   },
   {
     "sleeperId": "8676",
@@ -4257,7 +4823,9 @@
     "positionRank": 76,
     "overallRank": 284,
     "fpPositionRank": "WR57",
-    "fpOverallRank": 140
+    "fpOverallRank": 140,
+    "fpRankAve": 145.48,
+    "fpRankStd": 17.41
   },
   {
     "sleeperId": "13319",
@@ -4272,7 +4840,9 @@
     "positionRank": 53,
     "overallRank": 285,
     "fpPositionRank": "TE42",
-    "fpOverallRank": 324
+    "fpOverallRank": 324,
+    "fpRankAve": 300.56,
+    "fpRankStd": 44.3
   },
   {
     "sleeperId": "7607",
@@ -4287,7 +4857,9 @@
     "positionRank": 70,
     "overallRank": 286,
     "fpPositionRank": "RB106",
-    "fpOverallRank": 372
+    "fpOverallRank": 372,
+    "fpRankAve": 349.96,
+    "fpRankStd": 70.84
   },
   {
     "sleeperId": "9480",
@@ -4302,7 +4874,9 @@
     "positionRank": 54,
     "overallRank": 287,
     "fpPositionRank": "TE20",
-    "fpOverallRank": 154
+    "fpOverallRank": 154,
+    "fpRankAve": 156.47,
+    "fpRankStd": 20.42
   },
   {
     "sleeperId": "7596",
@@ -4317,7 +4891,9 @@
     "positionRank": 77,
     "overallRank": 288,
     "fpPositionRank": "WR154",
-    "fpOverallRank": 454
+    "fpOverallRank": 454,
+    "fpRankAve": 403.33,
+    "fpRankStd": 102.63
   },
   {
     "sleeperId": "6869",
@@ -4332,7 +4908,9 @@
     "positionRank": 55,
     "overallRank": 289,
     "fpPositionRank": "TE63",
-    "fpOverallRank": 420
+    "fpOverallRank": 420,
+    "fpRankAve": 371.8,
+    "fpRankStd": 37.04
   },
   {
     "sleeperId": "7523",
@@ -4347,7 +4925,9 @@
     "positionRank": 19,
     "overallRank": 290,
     "fpPositionRank": "QB9",
-    "fpOverallRank": 73
+    "fpOverallRank": 73,
+    "fpRankAve": 76.82,
+    "fpRankStd": 13.54
   },
   {
     "sleeperId": "13307",
@@ -4362,7 +4942,9 @@
     "positionRank": 56,
     "overallRank": 291,
     "fpPositionRank": "TE61",
-    "fpOverallRank": 410
+    "fpOverallRank": 410,
+    "fpRankAve": 378.17,
+    "fpRankStd": 45.31
   },
   {
     "sleeperId": "13292",
@@ -4377,7 +4959,9 @@
     "positionRank": 57,
     "overallRank": 292,
     "fpPositionRank": "TE169",
-    "fpOverallRank": 801
+    "fpOverallRank": 801,
+    "fpRankAve": 666.67,
+    "fpRankStd": 91.51
   },
   {
     "sleeperId": "13346",
@@ -4392,7 +4976,9 @@
     "positionRank": 78,
     "overallRank": 293,
     "fpPositionRank": "WR58",
-    "fpOverallRank": 147
+    "fpOverallRank": 147,
+    "fpRankAve": 159.61,
+    "fpRankStd": 28.1
   },
   {
     "sleeperId": "8167",
@@ -4407,7 +4993,9 @@
     "positionRank": 79,
     "overallRank": 294,
     "fpPositionRank": "WR27",
-    "fpOverallRank": 57
+    "fpOverallRank": 57,
+    "fpRankAve": 55.81,
+    "fpRankStd": 10.02
   },
   {
     "sleeperId": "10226",
@@ -4422,7 +5010,9 @@
     "positionRank": 80,
     "overallRank": 295,
     "fpPositionRank": "WR108",
-    "fpOverallRank": 313
+    "fpOverallRank": 313,
+    "fpRankAve": 277.73,
+    "fpRankStd": 31.6
   },
   {
     "sleeperId": "10212",
@@ -4437,7 +5027,9 @@
     "positionRank": 58,
     "overallRank": 296,
     "fpPositionRank": "TE98",
-    "fpOverallRank": 529
+    "fpOverallRank": 529,
+    "fpRankAve": 491.6,
+    "fpRankStd": 53.05
   },
   {
     "sleeperId": "7602",
@@ -4452,7 +5044,9 @@
     "positionRank": 59,
     "overallRank": 297,
     "fpPositionRank": "TE109",
-    "fpOverallRank": 551
+    "fpOverallRank": 551,
+    "fpRankAve": 522,
+    "fpRankStd": 34.37
   },
   {
     "sleeperId": "9501",
@@ -4467,7 +5061,9 @@
     "positionRank": 81,
     "overallRank": 298,
     "fpPositionRank": "WR109",
-    "fpOverallRank": 314
+    "fpOverallRank": 314,
+    "fpRankAve": 261.39,
+    "fpRankStd": 42.54
   },
   {
     "sleeperId": "13273",
@@ -4482,7 +5078,9 @@
     "positionRank": 60,
     "overallRank": 299,
     "fpPositionRank": "TE80",
-    "fpOverallRank": 488
+    "fpOverallRank": 488,
+    "fpRankAve": 429.8,
+    "fpRankStd": 48.92
   },
   {
     "sleeperId": "10871",
@@ -4497,7 +5095,9 @@
     "positionRank": 61,
     "overallRank": 300,
     "fpPositionRank": "TE73",
-    "fpOverallRank": 461
+    "fpOverallRank": 461,
+    "fpRankAve": 414,
+    "fpRankStd": 32.39
   },
   {
     "sleeperId": "11834",
@@ -4512,7 +5112,9 @@
     "positionRank": 82,
     "overallRank": 301,
     "fpPositionRank": "WR85",
-    "fpOverallRank": 231
+    "fpOverallRank": 231,
+    "fpRankAve": 241.12,
+    "fpRankStd": 40.62
   },
   {
     "sleeperId": "3271",
@@ -4527,7 +5129,9 @@
     "positionRank": 62,
     "overallRank": 302,
     "fpPositionRank": "TE48",
-    "fpOverallRank": 343
+    "fpOverallRank": 343,
+    "fpRankAve": 315.03,
+    "fpRankStd": 32.84
   },
   {
     "sleeperId": "4314",
@@ -4542,7 +5146,9 @@
     "positionRank": 63,
     "overallRank": 303,
     "fpPositionRank": "TE97",
-    "fpOverallRank": 528
+    "fpOverallRank": 528,
+    "fpRankAve": 491,
+    "fpRankStd": 42.8
   },
   {
     "sleeperId": "6803",
@@ -4557,7 +5163,9 @@
     "positionRank": 83,
     "overallRank": 304,
     "fpPositionRank": "WR110",
-    "fpOverallRank": 316
+    "fpOverallRank": 316,
+    "fpRankAve": 274.54,
+    "fpRankStd": 57.83
   },
   {
     "sleeperId": "7670",
@@ -4572,7 +5180,9 @@
     "positionRank": 84,
     "overallRank": 305,
     "fpPositionRank": "WR119",
-    "fpOverallRank": 347
+    "fpOverallRank": 347,
+    "fpRankAve": 312.82,
+    "fpRankStd": 36.27
   },
   {
     "sleeperId": "6271",
@@ -4587,7 +5197,9 @@
     "positionRank": 85,
     "overallRank": 306,
     "fpPositionRank": "WR124",
-    "fpOverallRank": 356
+    "fpOverallRank": 356,
+    "fpRankAve": 312.67,
+    "fpRankStd": 31.31
   },
   {
     "sleeperId": "11626",
@@ -4602,7 +5214,9 @@
     "positionRank": 86,
     "overallRank": 307,
     "fpPositionRank": "WR98",
-    "fpOverallRank": 278
+    "fpOverallRank": 278,
+    "fpRankAve": 269.87,
+    "fpRankStd": 28.97
   },
   {
     "sleeperId": "11579",
@@ -4617,7 +5231,9 @@
     "positionRank": 71,
     "overallRank": 308,
     "fpPositionRank": "RB95",
-    "fpOverallRank": 310
+    "fpOverallRank": 310,
+    "fpRankAve": 312.05,
+    "fpRankStd": 40.3
   },
   {
     "sleeperId": "12658",
@@ -4632,7 +5248,9 @@
     "positionRank": 64,
     "overallRank": 309,
     "fpPositionRank": "TE66",
-    "fpOverallRank": 437
+    "fpOverallRank": 437,
+    "fpRankAve": 381.71,
+    "fpRankStd": 40.77
   },
   {
     "sleeperId": "4602",
@@ -4647,7 +5265,9 @@
     "positionRank": 65,
     "overallRank": 310,
     "fpPositionRank": "TE168",
-    "fpOverallRank": 798
+    "fpOverallRank": 798,
+    "fpRankAve": 517.5,
+    "fpRankStd": 167.5
   },
   {
     "sleeperId": "12473",
@@ -4662,7 +5282,9 @@
     "positionRank": 66,
     "overallRank": 311,
     "fpPositionRank": "TE55",
-    "fpOverallRank": 395
+    "fpOverallRank": 395,
+    "fpRankAve": 361.94,
+    "fpRankStd": 42.29
   },
   {
     "sleeperId": "7891",
@@ -4677,7 +5299,9 @@
     "positionRank": 67,
     "overallRank": 312,
     "fpPositionRank": "TE72",
-    "fpOverallRank": 455
+    "fpOverallRank": 455,
+    "fpRankAve": 404.17,
+    "fpRankStd": 43.3
   },
   {
     "sleeperId": "13305",
@@ -4692,7 +5316,9 @@
     "positionRank": 72,
     "overallRank": 313,
     "fpPositionRank": "RB47",
-    "fpOverallRank": 142
+    "fpOverallRank": 142,
+    "fpRankAve": 142.89,
+    "fpRankStd": 22.91
   },
   {
     "sleeperId": "13433",
@@ -4707,7 +5333,9 @@
     "positionRank": 68,
     "overallRank": 314,
     "fpPositionRank": "TE110",
-    "fpOverallRank": 566
+    "fpOverallRank": 566,
+    "fpRankAve": 441,
+    "fpRankStd": 106.62
   },
   {
     "sleeperId": "13413",
@@ -4722,7 +5350,9 @@
     "positionRank": 87,
     "overallRank": 315,
     "fpPositionRank": "WR102",
-    "fpOverallRank": 287
+    "fpOverallRank": 287,
+    "fpRankAve": 211.27,
+    "fpRankStd": 50.55
   },
   {
     "sleeperId": "CAR",
@@ -4737,7 +5367,9 @@
     "positionRank": 32,
     "overallRank": 316,
     "fpPositionRank": "DST24",
-    "fpOverallRank": 373
+    "fpOverallRank": 373,
+    "fpRankAve": 304.77,
+    "fpRankStd": 62.73
   },
   {
     "sleeperId": "13429",
@@ -4752,7 +5384,9 @@
     "positionRank": 69,
     "overallRank": 317,
     "fpPositionRank": "TE81",
-    "fpOverallRank": 489
+    "fpOverallRank": 489,
+    "fpRankAve": 430.6,
+    "fpRankStd": 61.56
   },
   {
     "sleeperId": "13401",
@@ -4767,7 +5401,9 @@
     "positionRank": 70,
     "overallRank": 318,
     "fpPositionRank": "TE82",
-    "fpOverallRank": 493
+    "fpOverallRank": 493,
+    "fpRankAve": 438,
+    "fpRankStd": 47.21
   },
   {
     "sleeperId": "10231",
@@ -4782,7 +5418,9 @@
     "positionRank": 71,
     "overallRank": 319,
     "fpPositionRank": "TE60",
-    "fpOverallRank": 407
+    "fpOverallRank": 407,
+    "fpRankAve": 376.77,
+    "fpRankStd": 35.57
   },
   {
     "sleeperId": "12495",
@@ -4797,7 +5435,9 @@
     "positionRank": 73,
     "overallRank": 320,
     "fpPositionRank": "RB76",
-    "fpOverallRank": 257
+    "fpOverallRank": 257,
+    "fpRankAve": 245.25,
+    "fpRankStd": 33.44
   },
   {
     "sleeperId": "11599",
@@ -4812,7 +5452,9 @@
     "positionRank": 72,
     "overallRank": 321,
     "fpPositionRank": "TE84",
-    "fpOverallRank": 502
+    "fpOverallRank": 502,
+    "fpRankAve": 450.4,
+    "fpRankStd": 53.33
   },
   {
     "sleeperId": "6804",
@@ -4827,7 +5469,9 @@
     "positionRank": 20,
     "overallRank": 322,
     "fpPositionRank": "QB18",
-    "fpOverallRank": 121
+    "fpOverallRank": 121,
+    "fpRankAve": 121.98,
+    "fpRankStd": 15.49
   },
   {
     "sleeperId": "13338",
@@ -4842,7 +5486,9 @@
     "positionRank": 88,
     "overallRank": 323,
     "fpPositionRank": "WR134",
-    "fpOverallRank": 376
+    "fpOverallRank": 376,
+    "fpRankAve": 338.27,
+    "fpRankStd": 75.44
   },
   {
     "sleeperId": "9482",
@@ -4857,7 +5503,9 @@
     "positionRank": 73,
     "overallRank": 324,
     "fpPositionRank": "TE41",
-    "fpOverallRank": 323
+    "fpOverallRank": 323,
+    "fpRankAve": 287.09,
+    "fpRankStd": 37.85
   },
   {
     "sleeperId": "9479",
@@ -4872,7 +5520,9 @@
     "positionRank": 74,
     "overallRank": 325,
     "fpPositionRank": "TE39",
-    "fpOverallRank": 320
+    "fpOverallRank": 320,
+    "fpRankAve": 285.33,
+    "fpRankStd": 34.54
   },
   {
     "sleeperId": "4054",
@@ -4887,7 +5537,9 @@
     "positionRank": 75,
     "overallRank": 326,
     "fpPositionRank": "TE79",
-    "fpOverallRank": 487
+    "fpOverallRank": 487,
+    "fpRankAve": 427.2,
+    "fpRankStd": 42.12
   },
   {
     "sleeperId": "11651",
@@ -4902,7 +5554,9 @@
     "positionRank": 74,
     "overallRank": 327,
     "fpPositionRank": "RB93",
-    "fpOverallRank": 308
+    "fpOverallRank": 308,
+    "fpRankAve": 309.99,
+    "fpRankStd": 48.14
   },
   {
     "sleeperId": "11237",
@@ -4917,7 +5571,9 @@
     "positionRank": 75,
     "overallRank": 328,
     "fpPositionRank": "RB102",
-    "fpOverallRank": 342
+    "fpOverallRank": 342,
+    "fpRankAve": 283,
+    "fpRankStd": 92.17
   },
   {
     "sleeperId": "13281",
@@ -4932,7 +5588,9 @@
     "positionRank": 89,
     "overallRank": 329,
     "fpPositionRank": "WR56",
-    "fpOverallRank": 139
+    "fpOverallRank": 139,
+    "fpRankAve": 142.52,
+    "fpRankStd": 30.55
   },
   {
     "sleeperId": "11637",
@@ -4947,7 +5605,9 @@
     "positionRank": 90,
     "overallRank": 330,
     "fpPositionRank": "WR89",
-    "fpOverallRank": 247
+    "fpOverallRank": 247,
+    "fpRankAve": 249.29,
+    "fpRankStd": 29.41
   },
   {
     "sleeperId": "8205",
@@ -4962,7 +5622,9 @@
     "positionRank": 76,
     "overallRank": 331,
     "fpPositionRank": "RB60",
-    "fpOverallRank": 187
+    "fpOverallRank": 187,
+    "fpRankAve": 192.23,
+    "fpRankStd": 46.1
   },
   {
     "sleeperId": "2359",
@@ -4977,7 +5639,9 @@
     "positionRank": 77,
     "overallRank": 332,
     "fpPositionRank": "RB122",
-    "fpOverallRank": 434
+    "fpOverallRank": 434,
+    "fpRankAve": 420.25,
+    "fpRankStd": 86.74
   },
   {
     "sleeperId": "6039",
@@ -4992,7 +5656,9 @@
     "positionRank": 78,
     "overallRank": 333,
     "fpPositionRank": "RB79",
-    "fpOverallRank": 263
+    "fpOverallRank": 263,
+    "fpRankAve": 261.41,
+    "fpRankStd": 26.67
   },
   {
     "sleeperId": "13322",
@@ -5007,7 +5673,9 @@
     "positionRank": 76,
     "overallRank": 334,
     "fpPositionRank": "TE78",
-    "fpOverallRank": 485
+    "fpOverallRank": 485,
+    "fpRankAve": 422,
+    "fpRankStd": 66.74
   },
   {
     "sleeperId": "3286",
@@ -5022,7 +5690,9 @@
     "positionRank": 91,
     "overallRank": 335,
     "fpPositionRank": "WR132",
-    "fpOverallRank": 371
+    "fpOverallRank": 371,
+    "fpRankAve": 344.92,
+    "fpRankStd": 74.74
   },
   {
     "sleeperId": "12485",
@@ -5037,7 +5707,9 @@
     "positionRank": 92,
     "overallRank": 336,
     "fpPositionRank": "WR117",
-    "fpOverallRank": 338
+    "fpOverallRank": 338,
+    "fpRankAve": 301.76,
+    "fpRankStd": 47.38
   },
   {
     "sleeperId": "13299",
@@ -5052,7 +5724,9 @@
     "positionRank": 77,
     "overallRank": 337,
     "fpPositionRank": "TE71",
-    "fpOverallRank": 453
+    "fpOverallRank": 453,
+    "fpRankAve": 403.17,
+    "fpRankStd": 28.46
   },
   {
     "sleeperId": "9502",
@@ -5067,7 +5741,9 @@
     "positionRank": 93,
     "overallRank": 338,
     "fpPositionRank": "WR88",
-    "fpOverallRank": 245
+    "fpOverallRank": 245,
+    "fpRankAve": 227.32,
+    "fpRankStd": 32.46
   },
   {
     "sleeperId": "8225",
@@ -5082,7 +5758,9 @@
     "positionRank": 78,
     "overallRank": 339,
     "fpPositionRank": "TE56",
-    "fpOverallRank": 396
+    "fpOverallRank": 396,
+    "fpRankAve": 367.29,
+    "fpRankStd": 28.06
   },
   {
     "sleeperId": "13408",
@@ -5097,7 +5775,9 @@
     "positionRank": 79,
     "overallRank": 340,
     "fpPositionRank": "TE67",
-    "fpOverallRank": 438
+    "fpOverallRank": 438,
+    "fpRankAve": 382.14,
+    "fpRankStd": 46.17
   },
   {
     "sleeperId": "13116",
@@ -5112,7 +5792,9 @@
     "positionRank": 80,
     "overallRank": 341,
     "fpPositionRank": "TE171",
-    "fpOverallRank": 807
+    "fpOverallRank": 807,
+    "fpRankAve": 673.67,
+    "fpRankStd": 100.87
   },
   {
     "sleeperId": "5008",
@@ -5127,7 +5809,9 @@
     "positionRank": 81,
     "overallRank": 342,
     "fpPositionRank": "TE89",
-    "fpOverallRank": 513
+    "fpOverallRank": 513,
+    "fpRankAve": 469.2,
+    "fpRankStd": 47.87
   },
   {
     "sleeperId": "5409",
@@ -5142,7 +5826,9 @@
     "positionRank": 82,
     "overallRank": 343,
     "fpPositionRank": "TE69",
-    "fpOverallRank": 445
+    "fpOverallRank": 445,
+    "fpRankAve": 413.43,
+    "fpRankStd": 50.78
   },
   {
     "sleeperId": "421",
@@ -5157,7 +5843,9 @@
     "positionRank": 21,
     "overallRank": 344,
     "fpPositionRank": "QB16",
-    "fpOverallRank": 109
+    "fpOverallRank": 109,
+    "fpRankAve": 108.8,
+    "fpRankStd": 15.77
   },
   {
     "sleeperId": "11199",
@@ -5172,7 +5860,9 @@
     "positionRank": 79,
     "overallRank": 345,
     "fpPositionRank": "RB85",
-    "fpOverallRank": 291
+    "fpOverallRank": 291,
+    "fpRankAve": 286.15,
+    "fpRankStd": 31.2
   },
   {
     "sleeperId": "12483",
@@ -5187,7 +5877,9 @@
     "positionRank": 94,
     "overallRank": 346,
     "fpPositionRank": "WR90",
-    "fpOverallRank": 249
+    "fpOverallRank": 249,
+    "fpRankAve": 250.22,
+    "fpRankStd": 27.67
   },
   {
     "sleeperId": "12467",
@@ -5202,7 +5894,9 @@
     "positionRank": 80,
     "overallRank": 347,
     "fpPositionRank": "RB77",
-    "fpOverallRank": 258
+    "fpOverallRank": 258,
+    "fpRankAve": 254.31,
+    "fpRankStd": 38.37
   },
   {
     "sleeperId": "11435",
@@ -5217,7 +5911,9 @@
     "positionRank": 81,
     "overallRank": 348,
     "fpPositionRank": "RB71",
-    "fpOverallRank": 227
+    "fpOverallRank": 227,
+    "fpRankAve": 225.64,
+    "fpRankStd": 39.87
   },
   {
     "sleeperId": "11433",
@@ -5232,7 +5928,9 @@
     "positionRank": 83,
     "overallRank": 349,
     "fpPositionRank": "TE87",
-    "fpOverallRank": 508
+    "fpOverallRank": 508,
+    "fpRankAve": 457.2,
+    "fpRankStd": 62.59
   },
   {
     "sleeperId": "11592",
@@ -5247,7 +5945,9 @@
     "positionRank": 84,
     "overallRank": 350,
     "fpPositionRank": "TE46",
-    "fpOverallRank": 336
+    "fpOverallRank": 336,
+    "fpRankAve": 308.28,
+    "fpRankStd": 51.31
   },
   {
     "sleeperId": "13380",
@@ -5262,7 +5962,9 @@
     "positionRank": 95,
     "overallRank": 351,
     "fpPositionRank": "WR118",
-    "fpOverallRank": 345
+    "fpOverallRank": 345,
+    "fpRankAve": 313.29,
+    "fpRankStd": 57.74
   },
   {
     "sleeperId": "6001",
@@ -5277,7 +5979,9 @@
     "positionRank": 85,
     "overallRank": 352,
     "fpPositionRank": "TE77",
-    "fpOverallRank": 484
+    "fpOverallRank": 484,
+    "fpRankAve": 418.6,
+    "fpRankStd": 34.76
   },
   {
     "sleeperId": "7865",
@@ -5292,7 +5996,9 @@
     "positionRank": 96,
     "overallRank": 353,
     "fpPositionRank": "WR277",
-    "fpOverallRank": 857
+    "fpOverallRank": 857,
+    "fpRankAve": 728.33,
+    "fpRankStd": 215.94
   },
   {
     "sleeperId": "8249",
@@ -5307,7 +6013,9 @@
     "positionRank": 86,
     "overallRank": 354,
     "fpPositionRank": "TE149",
-    "fpOverallRank": 710
+    "fpOverallRank": 710,
+    "fpRankAve": 560.33,
+    "fpRankStd": 28.67
   },
   {
     "sleeperId": "8583",
@@ -5322,7 +6030,9 @@
     "positionRank": 87,
     "overallRank": 355,
     "fpPositionRank": "TE121",
-    "fpOverallRank": 607
+    "fpOverallRank": 607,
+    "fpRankAve": 530.75,
+    "fpRankStd": 42.59
   },
   {
     "sleeperId": "12498",
@@ -5337,7 +6047,9 @@
     "positionRank": 88,
     "overallRank": 356,
     "fpPositionRank": "TE33",
-    "fpOverallRank": 285
+    "fpOverallRank": 285,
+    "fpRankAve": 271.97,
+    "fpRankStd": 24.96
   },
   {
     "sleeperId": "12547",
@@ -5352,7 +6064,9 @@
     "positionRank": 97,
     "overallRank": 357,
     "fpPositionRank": "WR103",
-    "fpOverallRank": 288
+    "fpOverallRank": 288,
+    "fpRankAve": 270.84,
+    "fpRankStd": 32.83
   },
   {
     "sleeperId": "8489",
@@ -5367,7 +6081,9 @@
     "positionRank": 89,
     "overallRank": 358,
     "fpPositionRank": "TE93",
-    "fpOverallRank": 522
+    "fpOverallRank": 522,
+    "fpRankAve": 482,
+    "fpRankStd": 42.77
   },
   {
     "sleeperId": "12455",
@@ -5382,7 +6098,9 @@
     "positionRank": 82,
     "overallRank": 359,
     "fpPositionRank": "RB84",
-    "fpOverallRank": 286
+    "fpOverallRank": 286,
+    "fpRankAve": 285.11,
+    "fpRankStd": 33.94
   },
   {
     "sleeperId": "7562",
@@ -5397,7 +6115,9 @@
     "positionRank": 98,
     "overallRank": 360,
     "fpPositionRank": "WR136",
-    "fpOverallRank": 381
+    "fpOverallRank": 381,
+    "fpRankAve": 354.1,
+    "fpRankStd": 72.62
   },
   {
     "sleeperId": "13249",
@@ -5412,7 +6132,9 @@
     "positionRank": 90,
     "overallRank": 361,
     "fpPositionRank": "TE173",
-    "fpOverallRank": 809
+    "fpOverallRank": 809,
+    "fpRankAve": 677,
+    "fpRankStd": 97.28
   },
   {
     "sleeperId": "1166",
@@ -5427,7 +6149,9 @@
     "positionRank": 22,
     "overallRank": 362,
     "fpPositionRank": "QB33",
-    "fpOverallRank": 270
+    "fpOverallRank": 270,
+    "fpRankAve": 296.04,
+    "fpRankStd": 48.94
   },
   {
     "sleeperId": "13435",
@@ -5442,7 +6166,9 @@
     "positionRank": 91,
     "overallRank": 363,
     "fpPositionRank": "TE83",
-    "fpOverallRank": 498
+    "fpOverallRank": 498,
+    "fpRankAve": 445.4,
+    "fpRankStd": 60.78
   },
   {
     "sleeperId": "12531",
@@ -5457,7 +6183,9 @@
     "positionRank": 83,
     "overallRank": 364,
     "fpPositionRank": "RB90",
-    "fpOverallRank": 303
+    "fpOverallRank": 303,
+    "fpRankAve": 306.11,
+    "fpRankStd": 41.31
   },
   {
     "sleeperId": "3294",
@@ -5472,7 +6200,9 @@
     "positionRank": 23,
     "overallRank": 365,
     "fpPositionRank": "QB10",
-    "fpOverallRank": 75
+    "fpOverallRank": 75,
+    "fpRankAve": 78.67,
+    "fpRankStd": 13.9
   },
   {
     "sleeperId": "9228",
@@ -5487,7 +6217,9 @@
     "positionRank": 24,
     "overallRank": 366,
     "fpPositionRank": "QB26",
-    "fpOverallRank": 175
+    "fpOverallRank": 175,
+    "fpRankAve": 188.38,
+    "fpRankStd": 39.35
   },
   {
     "sleeperId": "12544",
@@ -5502,7 +6234,9 @@
     "positionRank": 84,
     "overallRank": 367,
     "fpPositionRank": "RB80",
-    "fpOverallRank": 267
+    "fpOverallRank": 267,
+    "fpRankAve": 272.92,
+    "fpRankStd": 35.7
   },
   {
     "sleeperId": "11508",
@@ -5517,7 +6251,9 @@
     "positionRank": 92,
     "overallRank": 368,
     "fpPositionRank": "TE170",
-    "fpOverallRank": 804
+    "fpOverallRank": 804,
+    "fpRankAve": 668,
+    "fpRankStd": 87.05
   },
   {
     "sleeperId": "8117",
@@ -5532,7 +6268,9 @@
     "positionRank": 99,
     "overallRank": 369,
     "fpPositionRank": "WR115",
-    "fpOverallRank": 332
+    "fpOverallRank": 332,
+    "fpRankAve": 285.47,
+    "fpRankStd": 42.63
   },
   {
     "sleeperId": "13308",
@@ -5547,7 +6285,9 @@
     "positionRank": 93,
     "overallRank": 370,
     "fpPositionRank": "TE90",
-    "fpOverallRank": 516
+    "fpOverallRank": 516,
+    "fpRankAve": 471.8,
+    "fpRankStd": 26.75
   },
   {
     "sleeperId": "8116",
@@ -5562,7 +6302,9 @@
     "positionRank": 85,
     "overallRank": 371,
     "fpPositionRank": "RB169",
-    "fpOverallRank": 663
+    "fpOverallRank": 663,
+    "fpRankAve": 606,
+    "fpRankStd": 83.92
   },
   {
     "sleeperId": "8119",
@@ -5577,7 +6319,9 @@
     "positionRank": 100,
     "overallRank": 372,
     "fpPositionRank": "WR112",
-    "fpOverallRank": 326
+    "fpOverallRank": 326,
+    "fpRankAve": 282.77,
+    "fpRankStd": 56.12
   },
   {
     "sleeperId": "12817",
@@ -5592,7 +6336,9 @@
     "positionRank": 94,
     "overallRank": 373,
     "fpPositionRank": "TE111",
-    "fpOverallRank": 567
+    "fpOverallRank": 567,
+    "fpRankAve": 545.2,
+    "fpRankStd": 31.31
   },
   {
     "sleeperId": "5096",
@@ -5607,7 +6353,9 @@
     "positionRank": 101,
     "overallRank": 374,
     "fpPositionRank": "WR213",
-    "fpOverallRank": 622
+    "fpOverallRank": 622,
+    "fpRankAve": 559.75,
+    "fpRankStd": 246.67
   },
   {
     "sleeperId": "4351",
@@ -5622,7 +6370,9 @@
     "positionRank": 102,
     "overallRank": 375,
     "fpPositionRank": "WR156",
-    "fpOverallRank": 469
+    "fpOverallRank": 469,
+    "fpRankAve": 454.33,
+    "fpRankStd": 125.16
   },
   {
     "sleeperId": "10227",
@@ -5637,7 +6387,9 @@
     "positionRank": 95,
     "overallRank": 376,
     "fpPositionRank": "TE103",
-    "fpOverallRank": 535
+    "fpOverallRank": 535,
+    "fpRankAve": 497.4,
+    "fpRankStd": 32.6
   },
   {
     "sleeperId": "11586",
@@ -5652,7 +6404,9 @@
     "positionRank": 86,
     "overallRank": 377,
     "fpPositionRank": "RB32",
-    "fpOverallRank": 88
+    "fpOverallRank": 88,
+    "fpRankAve": 93.41,
+    "fpRankStd": 13.19
   },
   {
     "sleeperId": "8145",
@@ -5667,7 +6421,9 @@
     "positionRank": 96,
     "overallRank": 378,
     "fpPositionRank": "TE88",
-    "fpOverallRank": 512
+    "fpOverallRank": 512,
+    "fpRankAve": 468,
+    "fpRankStd": 42.54
   },
   {
     "sleeperId": "8177",
@@ -5682,7 +6438,9 @@
     "positionRank": 97,
     "overallRank": 379,
     "fpPositionRank": "TE92",
-    "fpOverallRank": 520
+    "fpOverallRank": 520,
+    "fpRankAve": 477.6,
+    "fpRankStd": 79.91
   },
   {
     "sleeperId": "7716",
@@ -5697,7 +6455,9 @@
     "positionRank": 98,
     "overallRank": 380,
     "fpPositionRank": "TE68",
-    "fpOverallRank": 441
+    "fpOverallRank": 441,
+    "fpRankAve": 392.71,
+    "fpRankStd": 45.57
   },
   {
     "sleeperId": "11627",
@@ -5712,7 +6472,9 @@
     "positionRank": 103,
     "overallRank": 381,
     "fpPositionRank": "WR86",
-    "fpOverallRank": 234
+    "fpOverallRank": 234,
+    "fpRankAve": 224.75,
+    "fpRankStd": 35.88
   },
   {
     "sleeperId": "12863",
@@ -5727,7 +6489,9 @@
     "positionRank": 104,
     "overallRank": 382,
     "fpPositionRank": "WR278",
-    "fpOverallRank": 858
+    "fpOverallRank": 858,
+    "fpRankAve": 728.33,
+    "fpRankStd": 204.54
   },
   {
     "sleeperId": "13301",
@@ -5742,7 +6506,9 @@
     "positionRank": 105,
     "overallRank": 383,
     "fpPositionRank": "WR91",
-    "fpOverallRank": 251
+    "fpOverallRank": 251,
+    "fpRankAve": 232.22,
+    "fpRankStd": 36.36
   },
   {
     "sleeperId": "7842",
@@ -5757,7 +6523,9 @@
     "positionRank": 99,
     "overallRank": 384,
     "fpPositionRank": "TE86",
-    "fpOverallRank": 507
+    "fpOverallRank": 507,
+    "fpRankAve": 455.4,
+    "fpRankStd": 33.35
   },
   {
     "sleeperId": "3258",
@@ -5772,7 +6540,9 @@
     "positionRank": 100,
     "overallRank": 385,
     "fpPositionRank": "TE135",
-    "fpOverallRank": 651
+    "fpOverallRank": 651,
+    "fpRankAve": 478,
+    "fpRankStd": 145.94
   },
   {
     "sleeperId": "13424",
@@ -5787,7 +6557,9 @@
     "positionRank": 87,
     "overallRank": 386,
     "fpPositionRank": "RB81",
-    "fpOverallRank": 274
+    "fpOverallRank": 274,
+    "fpRankAve": 249.58,
+    "fpRankStd": 40.55
   },
   {
     "sleeperId": "11201",
@@ -5802,7 +6574,9 @@
     "positionRank": 101,
     "overallRank": 387,
     "fpPositionRank": "TE108",
-    "fpOverallRank": 547
+    "fpOverallRank": 547,
+    "fpRankAve": 516.6,
+    "fpRankStd": 27.95
   },
   {
     "sleeperId": "13210",
@@ -5817,7 +6591,9 @@
     "positionRank": 102,
     "overallRank": 388,
     "fpPositionRank": "TE152",
-    "fpOverallRank": 726
+    "fpOverallRank": 726,
+    "fpRankAve": 391,
+    "fpRankStd": 162
   },
   {
     "sleeperId": "12471",
@@ -5832,7 +6608,9 @@
     "positionRank": 88,
     "overallRank": 389,
     "fpPositionRank": "RB83",
-    "fpOverallRank": 277
+    "fpOverallRank": 277,
+    "fpRankAve": 274.25,
+    "fpRankStd": 33.86
   },
   {
     "sleeperId": "4189",
@@ -5847,7 +6625,9 @@
     "positionRank": 103,
     "overallRank": 390,
     "fpPositionRank": "TE102",
-    "fpOverallRank": 534
+    "fpOverallRank": 534,
+    "fpRankAve": 496.4,
+    "fpRankStd": 29.61
   },
   {
     "sleeperId": "12700",
@@ -5862,7 +6642,9 @@
     "positionRank": 104,
     "overallRank": 391,
     "fpPositionRank": "TE122",
-    "fpOverallRank": 608
+    "fpOverallRank": 608,
+    "fpRankAve": 531.25,
+    "fpRankStd": 29.28
   },
   {
     "sleeperId": "7591",
@@ -5877,7 +6659,9 @@
     "positionRank": 25,
     "overallRank": 392,
     "fpPositionRank": "QB39",
-    "fpOverallRank": 357
+    "fpOverallRank": 357,
+    "fpRankAve": 354.16,
+    "fpRankStd": 73.93
   },
   {
     "sleeperId": "11646",
@@ -5892,7 +6676,9 @@
     "positionRank": 106,
     "overallRank": 393,
     "fpPositionRank": "WR53",
-    "fpOverallRank": 133
+    "fpOverallRank": 133,
+    "fpRankAve": 131.82,
+    "fpRankStd": 17
   },
   {
     "sleeperId": "11571",
@@ -5907,7 +6693,9 @@
     "positionRank": 89,
     "overallRank": 394,
     "fpPositionRank": "RB78",
-    "fpOverallRank": 261
+    "fpOverallRank": 261,
+    "fpRankAve": 258.43,
+    "fpRankStd": 24.69
   },
   {
     "sleeperId": "8139",
@@ -5922,7 +6710,9 @@
     "positionRank": 90,
     "overallRank": 395,
     "fpPositionRank": "RB141",
-    "fpOverallRank": 505
+    "fpOverallRank": 505,
+    "fpRankAve": 453.6,
+    "fpRankStd": 131.27
   },
   {
     "sleeperId": "11643",
@@ -5937,7 +6727,9 @@
     "positionRank": 91,
     "overallRank": 396,
     "fpPositionRank": "RB68",
-    "fpOverallRank": 222
+    "fpOverallRank": 222,
+    "fpRankAve": 228.31,
+    "fpRankStd": 28.45
   },
   {
     "sleeperId": "11582",
@@ -5952,7 +6744,9 @@
     "positionRank": 92,
     "overallRank": 397,
     "fpPositionRank": "RB157",
-    "fpOverallRank": 606
+    "fpOverallRank": 606,
+    "fpRankAve": 615.4,
+    "fpRankStd": 132.7
   },
   {
     "sleeperId": "7535",
@@ -5967,7 +6761,9 @@
     "positionRank": 105,
     "overallRank": 398,
     "fpPositionRank": "TE107",
-    "fpOverallRank": 544
+    "fpOverallRank": 544,
+    "fpRankAve": 514,
+    "fpRankStd": 52.82
   },
   {
     "sleeperId": "13577",
@@ -5982,7 +6778,9 @@
     "positionRank": 106,
     "overallRank": 399,
     "fpPositionRank": "TE120",
-    "fpOverallRank": 603
+    "fpOverallRank": 603,
+    "fpRankAve": 523,
+    "fpRankStd": 48.81
   },
   {
     "sleeperId": "4943",
@@ -5997,7 +6795,9 @@
     "positionRank": 26,
     "overallRank": 400,
     "fpPositionRank": "QB22",
-    "fpOverallRank": 141
+    "fpOverallRank": 141,
+    "fpRankAve": 148.18,
+    "fpRankStd": 22.45
   },
   {
     "sleeperId": "12540",
@@ -6012,7 +6812,9 @@
     "positionRank": 107,
     "overallRank": 401,
     "fpPositionRank": "WR96",
-    "fpOverallRank": 271
+    "fpOverallRank": 271,
+    "fpRankAve": 255.61,
+    "fpRankStd": 33.7
   },
   {
     "sleeperId": "6529",
@@ -6027,7 +6829,9 @@
     "positionRank": 107,
     "overallRank": 402,
     "fpPositionRank": "TE175",
-    "fpOverallRank": 816
+    "fpOverallRank": 816,
+    "fpRankAve": 683.67,
+    "fpRankStd": 109.53
   },
   {
     "sleeperId": "9506",
@@ -6042,7 +6846,9 @@
     "positionRank": 93,
     "overallRank": 403,
     "fpPositionRank": "RB61",
-    "fpOverallRank": 193
+    "fpOverallRank": 193,
+    "fpRankAve": 204.12,
+    "fpRankStd": 34.26
   },
   {
     "sleeperId": "12045",
@@ -6057,7 +6863,9 @@
     "positionRank": 108,
     "overallRank": 404,
     "fpPositionRank": "TE136",
-    "fpOverallRank": 652
+    "fpOverallRank": 652,
+    "fpRankAve": 598.75,
+    "fpRankStd": 39.4
   },
   {
     "sleeperId": "8125",
@@ -6072,7 +6880,9 @@
     "positionRank": 108,
     "overallRank": 405,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "5970",
@@ -6087,7 +6897,9 @@
     "positionRank": 109,
     "overallRank": 406,
     "fpPositionRank": "WR161",
-    "fpOverallRank": 479
+    "fpOverallRank": 479,
+    "fpRankAve": 494.33,
+    "fpRankStd": 99.83
   },
   {
     "sleeperId": "12735",
@@ -6102,7 +6914,9 @@
     "positionRank": 109,
     "overallRank": 407,
     "fpPositionRank": "TE150",
-    "fpOverallRank": 711
+    "fpOverallRank": 711,
+    "fpRankAve": 659.75,
+    "fpRankStd": 105.66
   },
   {
     "sleeperId": "13402",
@@ -6117,7 +6931,9 @@
     "positionRank": 110,
     "overallRank": 408,
     "fpPositionRank": "WR107",
-    "fpOverallRank": 302
+    "fpOverallRank": 302,
+    "fpRankAve": 286.64,
+    "fpRankStd": 43.33
   },
   {
     "sleeperId": "4443",
@@ -6132,7 +6948,9 @@
     "positionRank": 110,
     "overallRank": 409,
     "fpPositionRank": "TE148",
-    "fpOverallRank": 703
+    "fpOverallRank": 703,
+    "fpRankAve": 551.33,
+    "fpRankStd": 56.54
   },
   {
     "sleeperId": "3269",
@@ -6147,7 +6965,9 @@
     "positionRank": 111,
     "overallRank": 410,
     "fpPositionRank": "WR275",
-    "fpOverallRank": 850
+    "fpOverallRank": 850,
+    "fpRankAve": 721.33,
+    "fpRankStd": 184.41
   },
   {
     "sleeperId": "11593",
@@ -6162,7 +6982,9 @@
     "positionRank": 111,
     "overallRank": 411,
     "fpPositionRank": "TE94",
-    "fpOverallRank": 523
+    "fpOverallRank": 523,
+    "fpRankAve": 484.8,
+    "fpRankStd": 50.82
   },
   {
     "sleeperId": "8127",
@@ -6177,7 +6999,9 @@
     "positionRank": 112,
     "overallRank": 412,
     "fpPositionRank": "TE40",
-    "fpOverallRank": 322
+    "fpOverallRank": 322,
+    "fpRankAve": 272.75,
+    "fpRankStd": 49.79
   },
   {
     "sleeperId": "9481",
@@ -6192,7 +7016,9 @@
     "positionRank": 113,
     "overallRank": 413,
     "fpPositionRank": "TE64",
-    "fpOverallRank": 422
+    "fpOverallRank": 422,
+    "fpRankAve": 385.8,
+    "fpRankStd": 33.14
   },
   {
     "sleeperId": "11564",
@@ -6207,7 +7033,9 @@
     "positionRank": 27,
     "overallRank": 414,
     "fpPositionRank": "QB3",
-    "fpOverallRank": 44
+    "fpOverallRank": 44,
+    "fpRankAve": 42.58,
+    "fpRankStd": 13.9
   },
   {
     "sleeperId": "8484",
@@ -6222,7 +7050,9 @@
     "positionRank": 114,
     "overallRank": 415,
     "fpPositionRank": "TE123",
-    "fpOverallRank": 609
+    "fpOverallRank": 609,
+    "fpRankAve": 616.4,
+    "fpRankStd": 71.24
   },
   {
     "sleeperId": "12984",
@@ -6237,7 +7067,9 @@
     "positionRank": 115,
     "overallRank": 416,
     "fpPositionRank": "TE134",
-    "fpOverallRank": 645
+    "fpOverallRank": 645,
+    "fpRankAve": 589.25,
+    "fpRankStd": 38.13
   },
   {
     "sleeperId": "4219",
@@ -6252,7 +7084,9 @@
     "positionRank": 94,
     "overallRank": 417,
     "fpPositionRank": "RB114",
-    "fpOverallRank": 412
+    "fpOverallRank": 412,
+    "fpRankAve": 394.92,
+    "fpRankStd": 73.41
   },
   {
     "sleeperId": "13407",
@@ -6267,7 +7101,9 @@
     "positionRank": 116,
     "overallRank": 418,
     "fpPositionRank": "TE174",
-    "fpOverallRank": 813
+    "fpOverallRank": 813,
+    "fpRankAve": 680.33,
+    "fpRankStd": 98.1
   },
   {
     "sleeperId": "12901",
@@ -6282,7 +7118,9 @@
     "positionRank": 117,
     "overallRank": 419,
     "fpPositionRank": "TE178",
-    "fpOverallRank": 822
+    "fpOverallRank": 822,
+    "fpRankAve": 690.33,
+    "fpRankStd": 93.57
   },
   {
     "sleeperId": "4177",
@@ -6297,7 +7135,9 @@
     "positionRank": 112,
     "overallRank": 420,
     "fpPositionRank": "WR104",
-    "fpOverallRank": 295
+    "fpOverallRank": 295,
+    "fpRankAve": 286.47,
+    "fpRankStd": 28.59
   },
   {
     "sleeperId": "13422",
@@ -6312,7 +7152,9 @@
     "positionRank": 118,
     "overallRank": 421,
     "fpPositionRank": "TE151",
-    "fpOverallRank": 712
+    "fpOverallRank": 712,
+    "fpRankAve": 562,
+    "fpRankStd": 8.29
   },
   {
     "sleeperId": "9487",
@@ -6327,7 +7169,9 @@
     "positionRank": 113,
     "overallRank": 422,
     "fpPositionRank": "WR30",
-    "fpOverallRank": 64
+    "fpOverallRank": 64,
+    "fpRankAve": 62.27,
+    "fpRankStd": 13.01
   },
   {
     "sleeperId": "11647",
@@ -6342,7 +7186,9 @@
     "positionRank": 95,
     "overallRank": 423,
     "fpPositionRank": "RB59",
-    "fpOverallRank": 183
+    "fpOverallRank": 183,
+    "fpRankAve": 195.11,
+    "fpRankStd": 36.16
   },
   {
     "sleeperId": "8207",
@@ -6357,7 +7203,9 @@
     "positionRank": 96,
     "overallRank": 424,
     "fpPositionRank": "RB132",
-    "fpOverallRank": 466
+    "fpOverallRank": 466,
+    "fpRankAve": 435,
+    "fpRankStd": 115.28
   },
   {
     "sleeperId": "12718",
@@ -6372,7 +7220,9 @@
     "positionRank": 114,
     "overallRank": 425,
     "fpPositionRank": "WR123",
-    "fpOverallRank": 352
+    "fpOverallRank": 352,
+    "fpRankAve": 332.45,
+    "fpRankStd": 73.51
   },
   {
     "sleeperId": "8917",
@@ -6387,7 +7237,9 @@
     "positionRank": 115,
     "overallRank": 426,
     "fpPositionRank": "WR129",
-    "fpOverallRank": 366
+    "fpOverallRank": 366,
+    "fpRankAve": 300.5,
+    "fpRankStd": 50.22
   },
   {
     "sleeperId": "12522",
@@ -6402,7 +7254,9 @@
     "positionRank": 28,
     "overallRank": 427,
     "fpPositionRank": "QB25",
-    "fpOverallRank": 156
+    "fpOverallRank": 156,
+    "fpRankAve": 175.35,
+    "fpRankStd": 40.55
   },
   {
     "sleeperId": "3634",
@@ -6417,7 +7271,9 @@
     "positionRank": 116,
     "overallRank": 428,
     "fpPositionRank": "WR128",
-    "fpOverallRank": 362
+    "fpOverallRank": 362,
+    "fpRankAve": 318.33,
+    "fpRankStd": 66
   },
   {
     "sleeperId": "10444",
@@ -6432,7 +7288,9 @@
     "positionRank": 117,
     "overallRank": 429,
     "fpPositionRank": "WR130",
-    "fpOverallRank": 367
+    "fpOverallRank": 367,
+    "fpRankAve": 338.24,
+    "fpRankStd": 68.81
   },
   {
     "sleeperId": "11589",
@@ -6447,7 +7305,9 @@
     "positionRank": 97,
     "overallRank": 430,
     "fpPositionRank": "RB92",
-    "fpOverallRank": 307
+    "fpOverallRank": 307,
+    "fpRankAve": 289.25,
+    "fpRankStd": 42.32
   },
   {
     "sleeperId": "7075",
@@ -6462,7 +7322,9 @@
     "positionRank": 119,
     "overallRank": 431,
     "fpPositionRank": "TE91",
-    "fpOverallRank": 518
+    "fpOverallRank": 518,
+    "fpRankAve": 477,
+    "fpRankStd": 32.51
   },
   {
     "sleeperId": "13151",
@@ -6477,7 +7339,9 @@
     "positionRank": 120,
     "overallRank": 432,
     "fpPositionRank": "TE125",
-    "fpOverallRank": 613
+    "fpOverallRank": 613,
+    "fpRankAve": 541.75,
+    "fpRankStd": 56.88
   },
   {
     "sleeperId": "13121",
@@ -6492,7 +7356,9 @@
     "positionRank": 121,
     "overallRank": 433,
     "fpPositionRank": "TE127",
-    "fpOverallRank": 615
+    "fpOverallRank": 615,
+    "fpRankAve": 543,
+    "fpRankStd": 38.52
   },
   {
     "sleeperId": "11371",
@@ -6507,7 +7373,9 @@
     "positionRank": 122,
     "overallRank": 434,
     "fpPositionRank": "TE99",
-    "fpOverallRank": 530
+    "fpOverallRank": 530,
+    "fpRankAve": 493.2,
+    "fpRankStd": 108.62
   },
   {
     "sleeperId": "4995",
@@ -6522,7 +7390,9 @@
     "positionRank": 123,
     "overallRank": 435,
     "fpPositionRank": "TE104",
-    "fpOverallRank": 537
+    "fpOverallRank": 537,
+    "fpRankAve": 498.8,
+    "fpRankStd": 62.46
   },
   {
     "sleeperId": "13621",
@@ -6537,7 +7407,9 @@
     "positionRank": 118,
     "overallRank": 436,
     "fpPositionRank": "WR284",
-    "fpOverallRank": 871
+    "fpOverallRank": 871,
+    "fpRankAve": 742.33,
+    "fpRankStd": 208.58
   },
   {
     "sleeperId": "13013",
@@ -6552,7 +7424,9 @@
     "positionRank": 124,
     "overallRank": 437,
     "fpPositionRank": "TE138",
-    "fpOverallRank": 659
+    "fpOverallRank": 659,
+    "fpRankAve": 603,
+    "fpRankStd": 138.89
   },
   {
     "sleeperId": "7568",
@@ -6567,7 +7441,9 @@
     "positionRank": 125,
     "overallRank": 438,
     "fpPositionRank": "TE112",
-    "fpOverallRank": 568
+    "fpOverallRank": 568,
+    "fpRankAve": 546.4,
+    "fpRankStd": 46.59
   },
   {
     "sleeperId": "12545",
@@ -6582,7 +7458,9 @@
     "positionRank": 29,
     "overallRank": 439,
     "fpPositionRank": "QB20",
-    "fpOverallRank": 131
+    "fpOverallRank": 131,
+    "fpRankAve": 130.87,
+    "fpRankStd": 20.21
   },
   {
     "sleeperId": "11942",
@@ -6597,7 +7475,9 @@
     "positionRank": 126,
     "overallRank": 440,
     "fpPositionRank": "TE129",
-    "fpOverallRank": 627
+    "fpOverallRank": 627,
+    "fpRankAve": 568.75,
+    "fpRankStd": 29.95
   },
   {
     "sleeperId": "12765",
@@ -6612,7 +7492,9 @@
     "positionRank": 127,
     "overallRank": 441,
     "fpPositionRank": "TE124",
-    "fpOverallRank": 611
+    "fpOverallRank": 611,
+    "fpRankAve": 535.25,
+    "fpRankStd": 92.63
   },
   {
     "sleeperId": "13419",
@@ -6627,7 +7509,9 @@
     "positionRank": 98,
     "overallRank": 442,
     "fpPositionRank": "RB143",
-    "fpOverallRank": 511
+    "fpOverallRank": 511,
+    "fpRankAve": 464.8,
+    "fpRankStd": 142.96
   },
   {
     "sleeperId": "8172",
@@ -6642,7 +7526,9 @@
     "positionRank": 128,
     "overallRank": 443,
     "fpPositionRank": "TE32",
-    "fpOverallRank": 264
+    "fpOverallRank": 264,
+    "fpRankAve": 210.27,
+    "fpRankStd": 43.1
   },
   {
     "sleeperId": "12482",
@@ -6657,7 +7543,9 @@
     "positionRank": 119,
     "overallRank": 444,
     "fpPositionRank": "WR135",
-    "fpOverallRank": 379
+    "fpOverallRank": 379,
+    "fpRankAve": 361.14,
+    "fpRankStd": 56.91
   },
   {
     "sleeperId": "11370",
@@ -6672,7 +7560,9 @@
     "positionRank": 99,
     "overallRank": 445,
     "fpPositionRank": "RB72",
-    "fpOverallRank": 237
+    "fpOverallRank": 237,
+    "fpRankAve": 241.32,
+    "fpRankStd": 47.59
   },
   {
     "sleeperId": "7536",
@@ -6687,7 +7577,9 @@
     "positionRank": 129,
     "overallRank": 446,
     "fpPositionRank": "TE130",
-    "fpOverallRank": 629
+    "fpOverallRank": 629,
+    "fpRankAve": 575,
+    "fpRankStd": 36.41
   },
   {
     "sleeperId": "13705",
@@ -6702,7 +7594,9 @@
     "positionRank": 130,
     "overallRank": 447,
     "fpPositionRank": "TE164",
-    "fpOverallRank": 775
+    "fpOverallRank": 775,
+    "fpRankAve": 616.67,
+    "fpRankStd": 94.52
   },
   {
     "sleeperId": "10219",
@@ -6717,7 +7611,9 @@
     "positionRank": 100,
     "overallRank": 448,
     "fpPositionRank": "RB42",
-    "fpOverallRank": 123
+    "fpOverallRank": 123,
+    "fpRankAve": 125.82,
+    "fpRankStd": 18.61
   },
   {
     "sleeperId": "12480",
@@ -6732,7 +7628,9 @@
     "positionRank": 131,
     "overallRank": 449,
     "fpPositionRank": "TE105",
-    "fpOverallRank": 541
+    "fpOverallRank": 541,
+    "fpRankAve": 507.6,
+    "fpRankStd": 66.9
   },
   {
     "sleeperId": "11113",
@@ -6747,7 +7645,9 @@
     "positionRank": 132,
     "overallRank": 450,
     "fpPositionRank": "TE157",
-    "fpOverallRank": 750
+    "fpOverallRank": 750,
+    "fpRankAve": 597.33,
+    "fpRankStd": 100.34
   },
   {
     "sleeperId": "10220",
@@ -6762,7 +7662,9 @@
     "positionRank": 133,
     "overallRank": 451,
     "fpPositionRank": "TE106",
-    "fpOverallRank": 542
+    "fpOverallRank": 542,
+    "fpRankAve": 510.4,
+    "fpRankStd": 42.99
   },
   {
     "sleeperId": "12154",
@@ -6777,7 +7679,9 @@
     "positionRank": 134,
     "overallRank": 452,
     "fpPositionRank": "TE183",
-    "fpOverallRank": 832
+    "fpOverallRank": 832,
+    "fpRankAve": 702,
+    "fpRankStd": 94.98
   },
   {
     "sleeperId": "13879",
@@ -6792,7 +7696,9 @@
     "positionRank": 135,
     "overallRank": 453,
     "fpPositionRank": "TE176",
-    "fpOverallRank": 817
+    "fpOverallRank": 817,
+    "fpRankAve": 688,
+    "fpRankStd": 99.75
   },
   {
     "sleeperId": "11911",
@@ -6807,7 +7713,9 @@
     "positionRank": 120,
     "overallRank": 454,
     "fpPositionRank": "WR212",
-    "fpOverallRank": 621
+    "fpOverallRank": 621,
+    "fpRankAve": 425.33,
+    "fpRankStd": 111.46
   },
   {
     "sleeperId": "13315",
@@ -6822,7 +7730,9 @@
     "positionRank": 101,
     "overallRank": 455,
     "fpPositionRank": "RB168",
-    "fpOverallRank": 657
+    "fpOverallRank": 657,
+    "fpRankAve": 602.25,
+    "fpRankStd": 188.58
   },
   {
     "sleeperId": "12503",
@@ -6837,7 +7747,9 @@
     "positionRank": 121,
     "overallRank": 456,
     "fpPositionRank": "WR106",
-    "fpOverallRank": 300
+    "fpOverallRank": 300,
+    "fpRankAve": 292.62,
+    "fpRankStd": 27.43
   },
   {
     "sleeperId": "13420",
@@ -6852,7 +7764,9 @@
     "positionRank": 122,
     "overallRank": 457,
     "fpPositionRank": "WR113",
-    "fpOverallRank": 328
+    "fpOverallRank": 328,
+    "fpRankAve": 283.69,
+    "fpRankStd": 58.01
   },
   {
     "sleeperId": "10214",
@@ -6867,7 +7781,9 @@
     "positionRank": 136,
     "overallRank": 458,
     "fpPositionRank": "TE95",
-    "fpOverallRank": 525
+    "fpOverallRank": 525,
+    "fpRankAve": 487.2,
+    "fpRankStd": 44.28
   },
   {
     "sleeperId": "12491",
@@ -6882,7 +7798,9 @@
     "positionRank": 102,
     "overallRank": 459,
     "fpPositionRank": "RB116",
-    "fpOverallRank": 416
+    "fpOverallRank": 416,
+    "fpRankAve": 409.27,
+    "fpRankStd": 97.15
   },
   {
     "sleeperId": "13630",
@@ -6897,7 +7815,9 @@
     "positionRank": 137,
     "overallRank": 460,
     "fpPositionRank": "TE182",
-    "fpOverallRank": 828
+    "fpOverallRank": 828,
+    "fpRankAve": 697,
+    "fpRankStd": 96.9
   },
   {
     "sleeperId": "12883",
@@ -6912,7 +7832,9 @@
     "positionRank": 138,
     "overallRank": 461,
     "fpPositionRank": "TE163",
-    "fpOverallRank": 773
+    "fpOverallRank": 773,
+    "fpRankAve": 613.33,
+    "fpRankStd": 96.47
   },
   {
     "sleeperId": "12516",
@@ -6927,7 +7849,9 @@
     "positionRank": 103,
     "overallRank": 462,
     "fpPositionRank": "RB144",
-    "fpOverallRank": 517
+    "fpOverallRank": 517,
+    "fpRankAve": 473.2,
+    "fpRankStd": 91.17
   },
   {
     "sleeperId": "12787",
@@ -6942,7 +7866,9 @@
     "positionRank": 104,
     "overallRank": 463,
     "fpPositionRank": "RB131",
-    "fpOverallRank": 464
+    "fpOverallRank": 464,
+    "fpRankAve": 422.33,
+    "fpRankStd": 102.52
   },
   {
     "sleeperId": "12941",
@@ -6957,7 +7883,9 @@
     "positionRank": 139,
     "overallRank": 464,
     "fpPositionRank": "TE165",
-    "fpOverallRank": 782
+    "fpOverallRank": 782,
+    "fpRankAve": 635,
+    "fpRankStd": 91.22
   },
   {
     "sleeperId": "12079",
@@ -6972,7 +7900,9 @@
     "positionRank": 140,
     "overallRank": 465,
     "fpPositionRank": "TE184",
-    "fpOverallRank": 833
+    "fpOverallRank": 833,
+    "fpRankAve": 704.67,
+    "fpRankStd": 96.31
   },
   {
     "sleeperId": "8227",
@@ -6987,7 +7917,9 @@
     "positionRank": 141,
     "overallRank": 466,
     "fpPositionRank": "TE114",
-    "fpOverallRank": 577
+    "fpOverallRank": 577,
+    "fpRankAve": 559.6,
+    "fpRankStd": 20.42
   },
   {
     "sleeperId": "4454",
@@ -7002,7 +7934,9 @@
     "positionRank": 123,
     "overallRank": 467,
     "fpPositionRank": "WR116",
-    "fpOverallRank": 337
+    "fpOverallRank": 337,
+    "fpRankAve": 286.29,
+    "fpRankStd": 39.09
   },
   {
     "sleeperId": "4718",
@@ -7017,7 +7951,9 @@
     "positionRank": 105,
     "overallRank": 468,
     "fpPositionRank": "RB195",
-    "fpOverallRank": 762
+    "fpOverallRank": 762,
+    "fpRankAve": 603,
+    "fpRankStd": 121.25
   },
   {
     "sleeperId": "8170",
@@ -7032,7 +7968,9 @@
     "positionRank": 142,
     "overallRank": 469,
     "fpPositionRank": "TE156",
-    "fpOverallRank": 743
+    "fpOverallRank": 743,
+    "fpRankAve": 593.67,
+    "fpRankStd": 31.09
   },
   {
     "sleeperId": "4950",
@@ -7047,7 +7985,9 @@
     "positionRank": 124,
     "overallRank": 470,
     "fpPositionRank": "WR100",
-    "fpOverallRank": 283
+    "fpOverallRank": 283,
+    "fpRankAve": 274.58,
+    "fpRankStd": 33.53
   },
   {
     "sleeperId": "13827",
@@ -7062,7 +8002,9 @@
     "positionRank": 143,
     "overallRank": 471,
     "fpPositionRank": "TE139",
-    "fpOverallRank": 660
+    "fpOverallRank": 660,
+    "fpRankAve": 603.25,
+    "fpRankStd": 98.26
   },
   {
     "sleeperId": "11596",
@@ -7077,7 +8019,9 @@
     "positionRank": 144,
     "overallRank": 472,
     "fpPositionRank": "TE53",
-    "fpOverallRank": 382
+    "fpOverallRank": 382,
+    "fpRankAve": 357.71,
+    "fpRankStd": 36.69
   },
   {
     "sleeperId": "7587",
@@ -7092,7 +8036,9 @@
     "positionRank": 125,
     "overallRank": 473,
     "fpPositionRank": "WR148",
-    "fpOverallRank": 426
+    "fpOverallRank": 426,
+    "fpRankAve": 379.67,
+    "fpRankStd": 103.15
   },
   {
     "sleeperId": "12715",
@@ -7107,7 +8053,9 @@
     "positionRank": 145,
     "overallRank": 474,
     "fpPositionRank": "TE133",
-    "fpOverallRank": 640
+    "fpOverallRank": 640,
+    "fpRankAve": 584.75,
+    "fpRankStd": 17.88
   },
   {
     "sleeperId": "11625",
@@ -7122,7 +8070,9 @@
     "positionRank": 126,
     "overallRank": 475,
     "fpPositionRank": "WR60",
-    "fpOverallRank": 155
+    "fpOverallRank": 155,
+    "fpRankAve": 172.06,
+    "fpRankStd": 23.65
   },
   {
     "sleeperId": "8123",
@@ -7137,7 +8087,9 @@
     "positionRank": 106,
     "overallRank": 476,
     "fpPositionRank": "RB198",
-    "fpOverallRank": 766
+    "fpOverallRank": 766,
+    "fpRankAve": 609.67,
+    "fpRankStd": 122.65
   },
   {
     "sleeperId": "8214",
@@ -7152,7 +8104,9 @@
     "positionRank": 146,
     "overallRank": 477,
     "fpPositionRank": "TE137",
-    "fpOverallRank": 658
+    "fpOverallRank": 658,
+    "fpRankAve": 602.25,
+    "fpRankStd": 82.11
   },
   {
     "sleeperId": "9504",
@@ -7167,7 +8121,9 @@
     "positionRank": 127,
     "overallRank": 478,
     "fpPositionRank": "WR61",
-    "fpOverallRank": 159
+    "fpOverallRank": 159,
+    "fpRankAve": 170.09,
+    "fpRankStd": 24.95
   },
   {
     "sleeperId": "12969",
@@ -7182,7 +8138,9 @@
     "positionRank": 107,
     "overallRank": 479,
     "fpPositionRank": "RB156",
-    "fpOverallRank": 599
+    "fpOverallRank": 599,
+    "fpRankAve": 515.25,
+    "fpRankStd": 122.93
   },
   {
     "sleeperId": "12062",
@@ -7197,7 +8155,9 @@
     "positionRank": 147,
     "overallRank": 480,
     "fpPositionRank": "TE185",
-    "fpOverallRank": 838
+    "fpOverallRank": 838,
+    "fpRankAve": 709,
+    "fpRankStd": 95.67
   },
   {
     "sleeperId": "13296",
@@ -7212,7 +8172,9 @@
     "positionRank": 128,
     "overallRank": 481,
     "fpPositionRank": "WR92",
-    "fpOverallRank": 256
+    "fpOverallRank": 256,
+    "fpRankAve": 205.74,
+    "fpRankStd": 46.07
   },
   {
     "sleeperId": "3048",
@@ -7227,7 +8189,9 @@
     "positionRank": 148,
     "overallRank": 482,
     "fpPositionRank": "TE119",
-    "fpOverallRank": 601
+    "fpOverallRank": 601,
+    "fpRankAve": 518.75,
+    "fpRankStd": 62.21
   },
   {
     "sleeperId": "13870",
@@ -7242,7 +8206,9 @@
     "positionRank": 149,
     "overallRank": 483,
     "fpPositionRank": "TE180",
-    "fpOverallRank": 825
+    "fpOverallRank": 825,
+    "fpRankAve": 693,
+    "fpRankStd": 93.47
   },
   {
     "sleeperId": "13329",
@@ -7257,7 +8223,9 @@
     "positionRank": 129,
     "overallRank": 484,
     "fpPositionRank": "WR122",
-    "fpOverallRank": 351
+    "fpOverallRank": 351,
+    "fpRankAve": 312.44,
+    "fpRankStd": 62.04
   },
   {
     "sleeperId": "8041",
@@ -7272,7 +8240,9 @@
     "positionRank": 150,
     "overallRank": 485,
     "fpPositionRank": "TE167",
-    "fpOverallRank": 797
+    "fpOverallRank": 797,
+    "fpRankAve": 511,
+    "fpRankStd": 246
   },
   {
     "sleeperId": "13432",
@@ -7287,7 +8257,9 @@
     "positionRank": 151,
     "overallRank": 486,
     "fpPositionRank": "TE146",
-    "fpOverallRank": 691
+    "fpOverallRank": 691,
+    "fpRankAve": 530,
+    "fpRankStd": 44.9
   },
   {
     "sleeperId": "9757",
@@ -7302,7 +8274,9 @@
     "positionRank": 108,
     "overallRank": 487,
     "fpPositionRank": "RB82",
-    "fpOverallRank": 275
+    "fpOverallRank": 275,
+    "fpRankAve": 263.3,
+    "fpRankStd": 33.12
   },
   {
     "sleeperId": "12523",
@@ -7317,7 +8291,9 @@
     "positionRank": 130,
     "overallRank": 488,
     "fpPositionRank": "WR150",
-    "fpOverallRank": 433
+    "fpOverallRank": 433,
+    "fpRankAve": 418.63,
+    "fpRankStd": 103.45
   },
   {
     "sleeperId": "13355",
@@ -7332,7 +8308,9 @@
     "positionRank": 152,
     "overallRank": 489,
     "fpPositionRank": "TE181",
-    "fpOverallRank": 826
+    "fpOverallRank": 826,
+    "fpRankAve": 693,
+    "fpRankStd": 92.96
   },
   {
     "sleeperId": "11082",
@@ -7347,7 +8325,9 @@
     "positionRank": 153,
     "overallRank": 490,
     "fpPositionRank": "TE96",
-    "fpOverallRank": 527
+    "fpOverallRank": 527,
+    "fpRankAve": 490.8,
+    "fpRankStd": 27.12
   },
   {
     "sleeperId": "8800",
@@ -7362,7 +8342,9 @@
     "positionRank": 109,
     "overallRank": 491,
     "fpPositionRank": "RB62",
-    "fpOverallRank": 195
+    "fpOverallRank": 195,
+    "fpRankAve": 212.58,
+    "fpRankStd": 46.34
   },
   {
     "sleeperId": "6931",
@@ -7377,7 +8359,9 @@
     "positionRank": 110,
     "overallRank": 492,
     "fpPositionRank": "RB151",
-    "fpOverallRank": 582
+    "fpOverallRank": 582,
+    "fpRankAve": 564.8,
+    "fpRankStd": 74.9
   },
   {
     "sleeperId": "7593",
@@ -7392,7 +8376,9 @@
     "positionRank": 111,
     "overallRank": 493,
     "fpPositionRank": "RB137",
-    "fpOverallRank": 495
+    "fpOverallRank": 495,
+    "fpRankAve": 440.6,
+    "fpRankStd": 193.4
   },
   {
     "sleeperId": "6918",
@@ -7407,7 +8393,9 @@
     "positionRank": 112,
     "overallRank": 494,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "11716",
@@ -7422,7 +8410,9 @@
     "positionRank": 154,
     "overallRank": 495,
     "fpPositionRank": "TE113",
-    "fpOverallRank": 573
+    "fpOverallRank": 573,
+    "fpRankAve": 550.4,
+    "fpRankStd": 41.92
   },
   {
     "sleeperId": "13122",
@@ -7437,7 +8427,9 @@
     "positionRank": 155,
     "overallRank": 496,
     "fpPositionRank": "TE158",
-    "fpOverallRank": 752
+    "fpOverallRank": 752,
+    "fpRankAve": 597.67,
+    "fpRankStd": 31.51
   },
   {
     "sleeperId": "13342",
@@ -7452,7 +8444,9 @@
     "positionRank": 156,
     "overallRank": 497,
     "fpPositionRank": "TE166",
-    "fpOverallRank": 783
+    "fpOverallRank": 783,
+    "fpRankAve": 636,
+    "fpRankStd": 116.97
   },
   {
     "sleeperId": "11565",
@@ -7467,7 +8461,9 @@
     "positionRank": 30,
     "overallRank": 498,
     "fpPositionRank": "QB38",
-    "fpOverallRank": 353
+    "fpOverallRank": 353,
+    "fpRankAve": 346.97,
+    "fpRankStd": 74.76
   },
   {
     "sleeperId": "9492",
@@ -7482,7 +8478,9 @@
     "positionRank": 131,
     "overallRank": 499,
     "fpPositionRank": "WR266",
-    "fpOverallRank": 814
+    "fpOverallRank": 814,
+    "fpRankAve": 749.5,
+    "fpRankStd": 155.67
   },
   {
     "sleeperId": "13580",
@@ -7497,7 +8495,9 @@
     "positionRank": 157,
     "overallRank": 500,
     "fpPositionRank": "TE117",
-    "fpOverallRank": 584
+    "fpOverallRank": 584,
+    "fpRankAve": 477.25,
+    "fpRankStd": 59.2
   },
   {
     "sleeperId": "13430",
@@ -7512,7 +8512,9 @@
     "positionRank": 158,
     "overallRank": 501,
     "fpPositionRank": "TE186",
-    "fpOverallRank": 847
+    "fpOverallRank": 847,
+    "fpRankAve": 716.67,
+    "fpRankStd": 102.29
   },
   {
     "sleeperId": "13411",
@@ -7527,7 +8529,9 @@
     "positionRank": 132,
     "overallRank": 502,
     "fpPositionRank": "WR125",
-    "fpOverallRank": 358
+    "fpOverallRank": 358,
+    "fpRankAve": 320.47,
+    "fpRankStd": 65.75
   },
   {
     "sleeperId": "11820",
@@ -7542,7 +8546,9 @@
     "positionRank": 159,
     "overallRank": 503,
     "fpPositionRank": "TE132",
-    "fpOverallRank": 637
+    "fpOverallRank": 637,
+    "fpRankAve": 579.75,
+    "fpRankStd": 33.22
   },
   {
     "sleeperId": "7066",
@@ -7557,7 +8563,9 @@
     "positionRank": 133,
     "overallRank": 504,
     "fpPositionRank": "WR226",
-    "fpOverallRank": 683
+    "fpOverallRank": 683,
+    "fpRankAve": 517.33,
+    "fpRankStd": 188.88
   },
   {
     "sleeperId": "13712",
@@ -7572,7 +8580,9 @@
     "positionRank": 160,
     "overallRank": 505,
     "fpPositionRank": "TE131",
-    "fpOverallRank": 633
+    "fpOverallRank": 633,
+    "fpRankAve": 577.25,
+    "fpRankStd": 35.27
   },
   {
     "sleeperId": "5938",
@@ -7587,7 +8597,9 @@
     "positionRank": 134,
     "overallRank": 506,
     "fpPositionRank": "WR183",
-    "fpOverallRank": 555
+    "fpOverallRank": 555,
+    "fpRankAve": 531.8,
+    "fpRankStd": 124.57
   },
   {
     "sleeperId": "13516",
@@ -7602,7 +8614,9 @@
     "positionRank": 113,
     "overallRank": 507,
     "fpPositionRank": "RB127",
-    "fpOverallRank": 449
+    "fpOverallRank": 449,
+    "fpRankAve": 459.71,
+    "fpRankStd": 105.78
   },
   {
     "sleeperId": "12389",
@@ -7617,7 +8631,9 @@
     "positionRank": 161,
     "overallRank": 508,
     "fpPositionRank": "TE142",
-    "fpOverallRank": 674
+    "fpOverallRank": 674,
+    "fpRankAve": 506.33,
+    "fpRankStd": 204.31
   },
   {
     "sleeperId": "11304",
@@ -7632,7 +8648,9 @@
     "positionRank": 162,
     "overallRank": 509,
     "fpPositionRank": "TE145",
-    "fpOverallRank": 688
+    "fpOverallRank": 688,
+    "fpRankAve": 634.75,
+    "fpRankStd": 93.97
   },
   {
     "sleeperId": "11610",
@@ -7647,7 +8665,9 @@
     "positionRank": 135,
     "overallRank": 510,
     "fpPositionRank": "WR72",
-    "fpOverallRank": 179
+    "fpOverallRank": 179,
+    "fpRankAve": 194.86,
+    "fpRankStd": 33.79
   },
   {
     "sleeperId": "13437",
@@ -7662,7 +8682,9 @@
     "positionRank": 114,
     "overallRank": 511,
     "fpPositionRank": "RB146",
-    "fpOverallRank": 531
+    "fpOverallRank": 531,
+    "fpRankAve": 494.2,
+    "fpRankStd": 129.5
   },
   {
     "sleeperId": "13288",
@@ -7677,7 +8699,9 @@
     "positionRank": 115,
     "overallRank": 512,
     "fpPositionRank": "RB63",
-    "fpOverallRank": 197
+    "fpOverallRank": 197,
+    "fpRankAve": 207.62,
+    "fpRankStd": 37.45
   },
   {
     "sleeperId": "13353",
@@ -7692,7 +8716,9 @@
     "positionRank": 136,
     "overallRank": 513,
     "fpPositionRank": "WR131",
-    "fpOverallRank": 368
+    "fpOverallRank": 368,
+    "fpRankAve": 319.79,
+    "fpRankStd": 99.49
   },
   {
     "sleeperId": "13418",
@@ -7707,7 +8733,9 @@
     "positionRank": 116,
     "overallRank": 514,
     "fpPositionRank": "RB133",
-    "fpOverallRank": 468
+    "fpOverallRank": 468,
+    "fpRankAve": 451.5,
+    "fpRankStd": 116.71
   },
   {
     "sleeperId": "8147",
@@ -7722,7 +8750,9 @@
     "positionRank": 137,
     "overallRank": 515,
     "fpPositionRank": "WR140",
-    "fpOverallRank": 391
+    "fpOverallRank": 391,
+    "fpRankAve": 345.89,
+    "fpRankStd": 73.2
   },
   {
     "sleeperId": "8181",
@@ -7737,7 +8767,9 @@
     "positionRank": 117,
     "overallRank": 516,
     "fpPositionRank": "TE126",
-    "fpOverallRank": 614
+    "fpOverallRank": 614,
+    "fpRankAve": 541.75,
+    "fpRankStd": 23.75
   },
   {
     "sleeperId": "4274",
@@ -7752,7 +8784,9 @@
     "positionRank": 138,
     "overallRank": 517,
     "fpPositionRank": "WR186",
-    "fpOverallRank": 559
+    "fpOverallRank": 559,
+    "fpRankAve": 535.8,
+    "fpRankStd": 153.86
   },
   {
     "sleeperId": "12865",
@@ -7767,7 +8801,9 @@
     "positionRank": 139,
     "overallRank": 518,
     "fpPositionRank": "WR288",
-    "fpOverallRank": 883
+    "fpOverallRank": 883,
+    "fpRankAve": 752.67,
+    "fpRankStd": 199.6
   },
   {
     "sleeperId": "8230",
@@ -7782,7 +8818,9 @@
     "positionRank": 118,
     "overallRank": 519,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "7531",
@@ -7797,7 +8835,9 @@
     "positionRank": 163,
     "overallRank": 520,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "12357",
@@ -7812,7 +8852,9 @@
     "positionRank": 164,
     "overallRank": 521,
     "fpPositionRank": "TE143",
-    "fpOverallRank": 680
+    "fpOverallRank": 680,
+    "fpRankAve": 625,
+    "fpRankStd": 86.03
   },
   {
     "sleeperId": "8799",
@@ -7827,7 +8869,9 @@
     "positionRank": 165,
     "overallRank": 522,
     "fpPositionRank": "TE203",
-    "fpOverallRank": 926
+    "fpOverallRank": 926,
+    "fpRankAve": 789,
+    "fpRankStd": 29
   },
   {
     "sleeperId": "10210",
@@ -7842,7 +8886,9 @@
     "positionRank": 166,
     "overallRank": 523,
     "fpPositionRank": "TE144",
-    "fpOverallRank": 681
+    "fpOverallRank": 681,
+    "fpRankAve": 625.25,
+    "fpRankStd": 92.32
   },
   {
     "sleeperId": "12938",
@@ -7857,7 +8903,9 @@
     "positionRank": 167,
     "overallRank": 524,
     "fpPositionRank": "WR261",
-    "fpOverallRank": 799
+    "fpOverallRank": 799,
+    "fpRankAve": 664.33,
+    "fpRankStd": 185.16
   },
   {
     "sleeperId": "6964",
@@ -7872,7 +8920,9 @@
     "positionRank": 168,
     "overallRank": 525,
     "fpPositionRank": "TE187",
-    "fpOverallRank": 848
+    "fpOverallRank": 848,
+    "fpRankAve": 717.67,
+    "fpRankStd": 102.62
   },
   {
     "sleeperId": "6451",
@@ -7887,7 +8937,9 @@
     "positionRank": 169,
     "overallRank": 526,
     "fpPositionRank": "TE204",
-    "fpOverallRank": 934
+    "fpOverallRank": 934,
+    "fpRankAve": 804.5,
+    "fpRankStd": 3.5
   },
   {
     "sleeperId": "13297",
@@ -7902,7 +8954,9 @@
     "positionRank": 140,
     "overallRank": 527,
     "fpPositionRank": "WR160",
-    "fpOverallRank": 477
+    "fpOverallRank": 477,
+    "fpRankAve": 488,
+    "fpRankStd": 108.21
   },
   {
     "sleeperId": "13282",
@@ -7917,7 +8971,9 @@
     "positionRank": 170,
     "overallRank": 528,
     "fpPositionRank": "TE116",
-    "fpOverallRank": 583
+    "fpOverallRank": 583,
+    "fpRankAve": 469.5,
+    "fpRankStd": 61.98
   },
   {
     "sleeperId": "9227",
@@ -7932,7 +8988,9 @@
     "positionRank": 119,
     "overallRank": 529,
     "fpPositionRank": "RB158",
-    "fpOverallRank": 612
+    "fpOverallRank": 612,
+    "fpRankAve": 622.8,
+    "fpRankStd": 131.87
   },
   {
     "sleeperId": "13321",
@@ -7947,7 +9005,9 @@
     "positionRank": 171,
     "overallRank": 530,
     "fpPositionRank": "TE205",
-    "fpOverallRank": 936
+    "fpOverallRank": 936,
+    "fpRankAve": 806.5,
+    "fpRankStd": 1.5
   },
   {
     "sleeperId": "12505",
@@ -7962,7 +9022,9 @@
     "positionRank": 141,
     "overallRank": 531,
     "fpPositionRank": "WR121",
-    "fpOverallRank": 350
+    "fpOverallRank": 350,
+    "fpRankAve": 331.56,
+    "fpRankStd": 61.88
   },
   {
     "sleeperId": "6659",
@@ -7977,7 +9039,9 @@
     "positionRank": 120,
     "overallRank": 532,
     "fpPositionRank": "RB155",
-    "fpOverallRank": 596
+    "fpOverallRank": 596,
+    "fpRankAve": 499.75,
+    "fpRankStd": 139.9
   },
   {
     "sleeperId": "10234",
@@ -7992,7 +9056,9 @@
     "positionRank": 142,
     "overallRank": 533,
     "fpPositionRank": "WR193",
-    "fpOverallRank": 575
+    "fpOverallRank": 575,
+    "fpRankAve": 555,
+    "fpRankStd": 110.8
   },
   {
     "sleeperId": "5848",
@@ -8007,7 +9073,9 @@
     "positionRank": 143,
     "overallRank": 534,
     "fpPositionRank": "WR105",
-    "fpOverallRank": 298
+    "fpOverallRank": 298,
+    "fpRankAve": 288.07,
+    "fpRankStd": 23.95
   },
   {
     "sleeperId": "13264",
@@ -8022,7 +9090,9 @@
     "positionRank": 144,
     "overallRank": 535,
     "fpPositionRank": "WR153",
-    "fpOverallRank": 452
+    "fpOverallRank": 452,
+    "fpRankAve": 385.33,
+    "fpRankStd": 140.47
   },
   {
     "sleeperId": "10225",
@@ -8037,7 +9107,9 @@
     "positionRank": 145,
     "overallRank": 536,
     "fpPositionRank": "WR165",
-    "fpOverallRank": 492
+    "fpOverallRank": 492,
+    "fpRankAve": 437.2,
+    "fpRankStd": 81.26
   },
   {
     "sleeperId": "8180",
@@ -8052,7 +9124,9 @@
     "positionRank": 146,
     "overallRank": 537,
     "fpPositionRank": "WR70",
-    "fpOverallRank": 173
+    "fpOverallRank": 173,
+    "fpRankAve": 194.13,
+    "fpRankStd": 30.79
   },
   {
     "sleeperId": "12897",
@@ -8067,7 +9141,9 @@
     "positionRank": 121,
     "overallRank": 538,
     "fpPositionRank": "RB150",
-    "fpOverallRank": 574
+    "fpOverallRank": 574,
+    "fpRankAve": 452,
+    "fpRankStd": 110.43
   },
   {
     "sleeperId": "11638",
@@ -8082,7 +9158,9 @@
     "positionRank": 147,
     "overallRank": 539,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "12497",
@@ -8097,7 +9175,9 @@
     "positionRank": 148,
     "overallRank": 540,
     "fpPositionRank": "WR93",
-    "fpOverallRank": 260
+    "fpOverallRank": 260,
+    "fpRankAve": 263.17,
+    "fpRankStd": 28.69
   },
   {
     "sleeperId": "11577",
@@ -8112,7 +9192,9 @@
     "positionRank": 122,
     "overallRank": 541,
     "fpPositionRank": "RB96",
-    "fpOverallRank": 312
+    "fpOverallRank": 312,
+    "fpRankAve": 318.72,
+    "fpRankStd": 42.36
   },
   {
     "sleeperId": "8107",
@@ -8127,7 +9209,9 @@
     "positionRank": 172,
     "overallRank": 542,
     "fpPositionRank": "TE188",
-    "fpOverallRank": 849
+    "fpOverallRank": 849,
+    "fpRankAve": 718.33,
+    "fpRankStd": 102.77
   },
   {
     "sleeperId": "11299",
@@ -8142,7 +9226,9 @@
     "positionRank": 123,
     "overallRank": 543,
     "fpPositionRank": "RB136",
-    "fpOverallRank": 490
+    "fpOverallRank": 490,
+    "fpRankAve": 432.6,
+    "fpRankStd": 94.66
   },
   {
     "sleeperId": "12699",
@@ -8157,7 +9243,9 @@
     "positionRank": 149,
     "overallRank": 544,
     "fpPositionRank": "WR211",
-    "fpOverallRank": 620
+    "fpOverallRank": 620,
+    "fpRankAve": 637,
+    "fpRankStd": 139.33
   },
   {
     "sleeperId": "12641",
@@ -8172,7 +9260,9 @@
     "positionRank": 150,
     "overallRank": 545,
     "fpPositionRank": "WR139",
-    "fpOverallRank": 390
+    "fpOverallRank": 390,
+    "fpRankAve": 363.05,
+    "fpRankStd": 68.36
   },
   {
     "sleeperId": "8523",
@@ -8187,7 +9277,9 @@
     "positionRank": 173,
     "overallRank": 546,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "8195",
@@ -8202,7 +9294,9 @@
     "positionRank": 124,
     "overallRank": 547,
     "fpPositionRank": "RB117",
-    "fpOverallRank": 424
+    "fpOverallRank": 424,
+    "fpRankAve": 402.9,
+    "fpRankStd": 95.25
   },
   {
     "sleeperId": "11595",
@@ -8217,7 +9311,9 @@
     "positionRank": 174,
     "overallRank": 548,
     "fpPositionRank": "TE101",
-    "fpOverallRank": 533
+    "fpOverallRank": 533,
+    "fpRankAve": 495.8,
+    "fpRankStd": 43.33
   },
   {
     "sleeperId": "8698",
@@ -8232,7 +9328,9 @@
     "positionRank": 175,
     "overallRank": 549,
     "fpPositionRank": "TE38",
-    "fpOverallRank": 318
+    "fpOverallRank": 318,
+    "fpRankAve": 281.78,
+    "fpRankStd": 36.99
   },
   {
     "sleeperId": "11573",
@@ -8247,7 +9345,9 @@
     "positionRank": 125,
     "overallRank": 550,
     "fpPositionRank": "RB147",
-    "fpOverallRank": 539
+    "fpOverallRank": 539,
+    "fpRankAve": 505,
+    "fpRankStd": 111.59
   },
   {
     "sleeperId": "10224",
@@ -8262,7 +9362,9 @@
     "positionRank": 176,
     "overallRank": 551,
     "fpPositionRank": "TE115",
-    "fpOverallRank": 580
+    "fpOverallRank": 580,
+    "fpRankAve": 563,
+    "fpRankStd": 21.01
   },
   {
     "sleeperId": "8220",
@@ -8277,7 +9379,9 @@
     "positionRank": 126,
     "overallRank": 552,
     "fpPositionRank": "RB166",
-    "fpOverallRank": 655
+    "fpOverallRank": 655,
+    "fpRankAve": 600.5,
+    "fpRankStd": 91.66
   },
   {
     "sleeperId": "9510",
@@ -8292,7 +9396,9 @@
     "positionRank": 127,
     "overallRank": 553,
     "fpPositionRank": "RB148",
-    "fpOverallRank": 553
+    "fpOverallRank": 553,
+    "fpRankAve": 524.8,
+    "fpRankStd": 78.41
   },
   {
     "sleeperId": "8254",
@@ -8307,7 +9413,9 @@
     "positionRank": 128,
     "overallRank": 554,
     "fpPositionRank": "RB128",
-    "fpOverallRank": 451
+    "fpOverallRank": 451,
+    "fpRankAve": 466.43,
+    "fpRankStd": 101.82
   },
   {
     "sleeperId": "11210",
@@ -8322,7 +9430,9 @@
     "positionRank": 151,
     "overallRank": 555,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "13533",
@@ -8337,7 +9447,9 @@
     "positionRank": 152,
     "overallRank": 556,
     "fpPositionRank": "WR142",
-    "fpOverallRank": 402
+    "fpOverallRank": 402,
+    "fpRankAve": 349.69,
+    "fpRankStd": 124.51
   },
   {
     "sleeperId": "12541",
@@ -8352,7 +9464,9 @@
     "positionRank": 153,
     "overallRank": 557,
     "fpPositionRank": "WR137",
-    "fpOverallRank": 385
+    "fpOverallRank": 385,
+    "fpRankAve": 366.9,
+    "fpRankStd": 88.04
   },
   {
     "sleeperId": "13405",
@@ -8367,7 +9481,9 @@
     "positionRank": 129,
     "overallRank": 558,
     "fpPositionRank": "RB64",
-    "fpOverallRank": 212
+    "fpOverallRank": 212,
+    "fpRankAve": 219.95,
+    "fpRankStd": 30.85
   },
   {
     "sleeperId": "13270",
@@ -8382,7 +9498,9 @@
     "positionRank": 154,
     "overallRank": 559,
     "fpPositionRank": "WR141",
-    "fpOverallRank": 392
+    "fpOverallRank": 392,
+    "fpRankAve": 368,
+    "fpRankStd": 95.14
   },
   {
     "sleeperId": "3309",
@@ -8397,7 +9515,9 @@
     "positionRank": 130,
     "overallRank": 560,
     "fpPositionRank": "RB189",
-    "fpOverallRank": 742
+    "fpOverallRank": 742,
+    "fpRankAve": 592.67,
+    "fpRankStd": 189.88
   },
   {
     "sleeperId": "12524",
@@ -8412,7 +9532,9 @@
     "positionRank": 31,
     "overallRank": 561,
     "fpPositionRank": "QB34",
-    "fpOverallRank": 279
+    "fpOverallRank": 279,
+    "fpRankAve": 303.16,
+    "fpRankStd": 41.81
   },
   {
     "sleeperId": "13595",
@@ -8427,7 +9549,9 @@
     "positionRank": 131,
     "overallRank": 562,
     "fpPositionRank": "RB165",
-    "fpOverallRank": 650
+    "fpOverallRank": 650,
+    "fpRankAve": 596.5,
+    "fpRankStd": 83.82
   },
   {
     "sleeperId": "11650",
@@ -8442,7 +9566,9 @@
     "positionRank": 155,
     "overallRank": 563,
     "fpPositionRank": "WR120",
-    "fpOverallRank": 348
+    "fpOverallRank": 348,
+    "fpRankAve": 334.69,
+    "fpRankStd": 69.66
   },
   {
     "sleeperId": "13276",
@@ -8457,7 +9583,9 @@
     "positionRank": 156,
     "overallRank": 564,
     "fpPositionRank": "WR69",
-    "fpOverallRank": 172
+    "fpOverallRank": 172,
+    "fpRankAve": 187.22,
+    "fpRankStd": 31.28
   },
   {
     "sleeperId": "13416",
@@ -8472,7 +9600,9 @@
     "positionRank": 132,
     "overallRank": 565,
     "fpPositionRank": "RB188",
-    "fpOverallRank": 740
+    "fpOverallRank": 740,
+    "fpRankAve": 592,
+    "fpRankStd": 39.06
   },
   {
     "sleeperId": "6323",
@@ -8487,7 +9617,9 @@
     "positionRank": 133,
     "overallRank": 566,
     "fpPositionRank": "RB193",
-    "fpOverallRank": 751
+    "fpOverallRank": 751,
+    "fpRankAve": 597.67,
+    "fpRankStd": 118.49
   },
   {
     "sleeperId": "9511",
@@ -8502,7 +9634,9 @@
     "positionRank": 134,
     "overallRank": 567,
     "fpPositionRank": "RB48",
-    "fpOverallRank": 143
+    "fpOverallRank": 143,
+    "fpRankAve": 144.29,
+    "fpRankStd": 24.13
   },
   {
     "sleeperId": "12971",
@@ -8517,7 +9651,9 @@
     "positionRank": 157,
     "overallRank": 568,
     "fpPositionRank": "WR217",
-    "fpOverallRank": 631
+    "fpOverallRank": 631,
+    "fpRankAve": 577,
+    "fpRankStd": 172.35
   },
   {
     "sleeperId": "11056",
@@ -8532,7 +9668,9 @@
     "positionRank": 158,
     "overallRank": 569,
     "fpPositionRank": "WR174",
-    "fpOverallRank": 536
+    "fpOverallRank": 536,
+    "fpRankAve": 383.75,
+    "fpRankStd": 91.66
   },
   {
     "sleeperId": "8122",
@@ -8547,7 +9685,9 @@
     "positionRank": 135,
     "overallRank": 570,
     "fpPositionRank": "RB100",
-    "fpOverallRank": 335
+    "fpOverallRank": 335,
+    "fpRankAve": 318.98,
+    "fpRankStd": 49.41
   },
   {
     "sleeperId": "12499",
@@ -8562,7 +9702,9 @@
     "positionRank": 159,
     "overallRank": 571,
     "fpPositionRank": "WR94",
-    "fpOverallRank": 262
+    "fpOverallRank": 262,
+    "fpRankAve": 254.56,
+    "fpRankStd": 27.84
   },
   {
     "sleeperId": "10218",
@@ -8577,7 +9719,9 @@
     "positionRank": 160,
     "overallRank": 572,
     "fpPositionRank": "WR114",
-    "fpOverallRank": 329
+    "fpOverallRank": 329,
+    "fpRankAve": 285.4,
+    "fpRankStd": 55.76
   },
   {
     "sleeperId": "13394",
@@ -8592,7 +9736,9 @@
     "positionRank": 161,
     "overallRank": 573,
     "fpPositionRank": "WR157",
-    "fpOverallRank": 470
+    "fpOverallRank": 470,
+    "fpRankAve": 462.17,
+    "fpRankStd": 113.99
   },
   {
     "sleeperId": "11729",
@@ -8607,7 +9753,9 @@
     "positionRank": 136,
     "overallRank": 574,
     "fpPositionRank": "RB108",
-    "fpOverallRank": 383
+    "fpOverallRank": 383,
+    "fpRankAve": 333.95,
+    "fpRankStd": 59.29
   },
   {
     "sleeperId": "11570",
@@ -8622,7 +9770,9 @@
     "positionRank": 137,
     "overallRank": 575,
     "fpPositionRank": "RB107",
-    "fpOverallRank": 380
+    "fpOverallRank": 380,
+    "fpRankAve": 346.05,
+    "fpRankStd": 79.12
   },
   {
     "sleeperId": "8204",
@@ -8637,7 +9787,9 @@
     "positionRank": 162,
     "overallRank": 576,
     "fpPositionRank": "WR176",
-    "fpOverallRank": 540
+    "fpOverallRank": 540,
+    "fpRankAve": 507.6,
+    "fpRankStd": 133.2
   },
   {
     "sleeperId": "12860",
@@ -8652,7 +9804,9 @@
     "positionRank": 163,
     "overallRank": 577,
     "fpPositionRank": "WR175",
-    "fpOverallRank": 538
+    "fpOverallRank": 538,
+    "fpRankAve": 386.75,
+    "fpRankStd": 103
   },
   {
     "sleeperId": "13275",
@@ -8667,7 +9821,9 @@
     "positionRank": 32,
     "overallRank": 578,
     "fpPositionRank": "QB40",
-    "fpOverallRank": 361
+    "fpOverallRank": 361,
+    "fpRankAve": 373.63,
+    "fpRankStd": 76.96
   },
   {
     "sleeperId": "6012",
@@ -8682,7 +9838,9 @@
     "positionRank": 138,
     "overallRank": 579,
     "fpPositionRank": "RB149",
-    "fpOverallRank": 556
+    "fpOverallRank": 556,
+    "fpRankAve": 532.2,
+    "fpRankStd": 98.13
   },
   {
     "sleeperId": "13075",
@@ -8697,7 +9855,9 @@
     "positionRank": 164,
     "overallRank": 580,
     "fpPositionRank": "WR173",
-    "fpOverallRank": 526
+    "fpOverallRank": 526,
+    "fpRankAve": 488.4,
+    "fpRankStd": 117.89
   },
   {
     "sleeperId": "13047",
@@ -8712,7 +9872,9 @@
     "positionRank": 139,
     "overallRank": 581,
     "fpPositionRank": "RB182",
-    "fpOverallRank": 720
+    "fpOverallRank": 720,
+    "fpRankAve": 667,
+    "fpRankStd": 115.35
   },
   {
     "sleeperId": "13313",
@@ -8727,7 +9889,9 @@
     "positionRank": 165,
     "overallRank": 582,
     "fpPositionRank": "WR214",
-    "fpOverallRank": 626
+    "fpOverallRank": 626,
+    "fpRankAve": 568.25,
+    "fpRankStd": 137.27
   },
   {
     "sleeperId": "11034",
@@ -8742,7 +9906,9 @@
     "positionRank": 166,
     "overallRank": 583,
     "fpPositionRank": "WR172",
-    "fpOverallRank": 515
+    "fpOverallRank": 515,
+    "fpRankAve": 471.4,
+    "fpRankStd": 130.13
   },
   {
     "sleeperId": "2078",
@@ -8757,7 +9923,9 @@
     "positionRank": 167,
     "overallRank": 584,
     "fpPositionRank": "WR138",
-    "fpOverallRank": 386
+    "fpOverallRank": 386,
+    "fpRankAve": 305.63,
+    "fpRankStd": 46.98
   },
   {
     "sleeperId": "11421",
@@ -8772,7 +9940,9 @@
     "positionRank": 168,
     "overallRank": 585,
     "fpPositionRank": "WR222",
-    "fpOverallRank": 664
+    "fpOverallRank": 664,
+    "fpRankAve": 606.5,
+    "fpRankStd": 188.01
   },
   {
     "sleeperId": "9497",
@@ -8787,7 +9957,9 @@
     "positionRank": 169,
     "overallRank": 586,
     "fpPositionRank": "WR216",
-    "fpOverallRank": 630
+    "fpOverallRank": 630,
+    "fpRankAve": 651,
+    "fpRankStd": 139.37
   },
   {
     "sleeperId": "13414",
@@ -8802,7 +9974,9 @@
     "positionRank": 140,
     "overallRank": 587,
     "fpPositionRank": "RB65",
-    "fpOverallRank": 215
+    "fpOverallRank": 215,
+    "fpRankAve": 205.14,
+    "fpRankStd": 49.45
   },
   {
     "sleeperId": "11623",
@@ -8817,7 +9991,9 @@
     "positionRank": 170,
     "overallRank": 588,
     "fpPositionRank": "WR143",
-    "fpOverallRank": 408
+    "fpOverallRank": 408,
+    "fpRankAve": 377.85,
+    "fpRankStd": 82.56
   },
   {
     "sleeperId": "13348",
@@ -8832,7 +10008,9 @@
     "positionRank": 141,
     "overallRank": 589,
     "fpPositionRank": "RB109",
-    "fpOverallRank": 389
+    "fpOverallRank": 389,
+    "fpRankAve": 353.42,
+    "fpRankStd": 86.33
   },
   {
     "sleeperId": "8200",
@@ -8847,7 +10025,9 @@
     "positionRank": 171,
     "overallRank": 590,
     "fpPositionRank": "WR163",
-    "fpOverallRank": 486
+    "fpOverallRank": 486,
+    "fpRankAve": 426,
+    "fpRankStd": 125.52
   },
   {
     "sleeperId": "13491",
@@ -8862,7 +10042,9 @@
     "positionRank": 172,
     "overallRank": 591,
     "fpPositionRank": "WR166",
-    "fpOverallRank": 494
+    "fpOverallRank": 494,
+    "fpRankAve": 439.6,
+    "fpRankStd": 141.67
   },
   {
     "sleeperId": "5773",
@@ -8877,7 +10059,9 @@
     "positionRank": 173,
     "overallRank": 592,
     "fpPositionRank": "WR224",
-    "fpOverallRank": 678
+    "fpOverallRank": 678,
+    "fpRankAve": 623.25,
+    "fpRankStd": 161.27
   },
   {
     "sleeperId": "6847",
@@ -8892,7 +10076,9 @@
     "positionRank": 174,
     "overallRank": 593,
     "fpPositionRank": "WR218",
-    "fpOverallRank": 641
+    "fpOverallRank": 641,
+    "fpRankAve": 585.25,
+    "fpRankStd": 167.48
   },
   {
     "sleeperId": "8423",
@@ -8907,7 +10093,9 @@
     "positionRank": 142,
     "overallRank": 594,
     "fpPositionRank": "RB134",
-    "fpOverallRank": 472
+    "fpOverallRank": 472,
+    "fpRankAve": 470.5,
+    "fpRankStd": 113.6
   },
   {
     "sleeperId": "11649",
@@ -8922,7 +10110,9 @@
     "positionRank": 143,
     "overallRank": 595,
     "fpPositionRank": "RB177",
-    "fpOverallRank": 694
+    "fpOverallRank": 694,
+    "fpRankAve": 640.5,
+    "fpRankStd": 162.52
   },
   {
     "sleeperId": "13392",
@@ -8937,7 +10127,9 @@
     "positionRank": 175,
     "overallRank": 596,
     "fpPositionRank": "WR225",
-    "fpOverallRank": 679
+    "fpOverallRank": 679,
+    "fpRankAve": 625,
+    "fpRankStd": 221.75
   },
   {
     "sleeperId": "12492",
@@ -8952,7 +10144,9 @@
     "positionRank": 176,
     "overallRank": 597,
     "fpPositionRank": "WR67",
-    "fpOverallRank": 170
+    "fpOverallRank": 170,
+    "fpRankAve": 190.63,
+    "fpRankStd": 28.29
   },
   {
     "sleeperId": "8208",
@@ -8967,7 +10161,9 @@
     "positionRank": 144,
     "overallRank": 598,
     "fpPositionRank": "RB123",
-    "fpOverallRank": 439
+    "fpOverallRank": 439,
+    "fpRankAve": 454.25,
+    "fpRankStd": 89.21
   },
   {
     "sleeperId": "11583",
@@ -8982,7 +10178,9 @@
     "positionRank": 145,
     "overallRank": 599,
     "fpPositionRank": "RB30",
-    "fpOverallRank": 81
+    "fpOverallRank": 81,
+    "fpRankAve": 83.18,
+    "fpRankStd": 21.56
   },
   {
     "sleeperId": "12509",
@@ -8997,7 +10195,9 @@
     "positionRank": 177,
     "overallRank": 600,
     "fpPositionRank": "WR68",
-    "fpOverallRank": 171
+    "fpOverallRank": 171,
+    "fpRankAve": 185.06,
+    "fpRankStd": 28.13
   },
   {
     "sleeperId": "7757",
@@ -9012,7 +10212,9 @@
     "positionRank": 178,
     "overallRank": 601,
     "fpPositionRank": "WR210",
-    "fpOverallRank": 618
+    "fpOverallRank": 618,
+    "fpRankAve": 555,
+    "fpRankStd": 140.31
   },
   {
     "sleeperId": "5154",
@@ -9027,7 +10229,9 @@
     "positionRank": 179,
     "overallRank": 602,
     "fpPositionRank": "WR227",
-    "fpOverallRank": 687
+    "fpOverallRank": 687,
+    "fpRankAve": 633.25,
+    "fpRankStd": 172.34
   },
   {
     "sleeperId": "6427",
@@ -9042,7 +10246,9 @@
     "positionRank": 180,
     "overallRank": 603,
     "fpPositionRank": "WR144",
-    "fpOverallRank": 409
+    "fpOverallRank": 409,
+    "fpRankAve": 389.08,
+    "fpRankStd": 89.46
   },
   {
     "sleeperId": "5870",
@@ -9057,7 +10263,9 @@
     "positionRank": 33,
     "overallRank": 604,
     "fpPositionRank": "QB24",
-    "fpOverallRank": 151
+    "fpOverallRank": 151,
+    "fpRankAve": 157.97,
+    "fpRankStd": 28.47
   },
   {
     "sleeperId": "10867",
@@ -9072,7 +10280,9 @@
     "positionRank": 181,
     "overallRank": 605,
     "fpPositionRank": "WR195",
-    "fpOverallRank": 578
+    "fpOverallRank": 578,
+    "fpRankAve": 560.2,
+    "fpRankStd": 114.37
   },
   {
     "sleeperId": "6290",
@@ -9087,7 +10297,9 @@
     "positionRank": 182,
     "overallRank": 606,
     "fpPositionRank": "WR188",
-    "fpOverallRank": 562
+    "fpOverallRank": 562,
+    "fpRankAve": 541,
+    "fpRankStd": 127.72
   },
   {
     "sleeperId": "11588",
@@ -9102,7 +10314,9 @@
     "positionRank": 146,
     "overallRank": 607,
     "fpPositionRank": "RB110",
-    "fpOverallRank": 393
+    "fpOverallRank": 393,
+    "fpRankAve": 352.12,
+    "fpRankStd": 61.17
   },
   {
     "sleeperId": "12670",
@@ -9117,7 +10331,9 @@
     "positionRank": 183,
     "overallRank": 608,
     "fpPositionRank": "WR177",
-    "fpOverallRank": 543
+    "fpOverallRank": 543,
+    "fpRankAve": 512.2,
+    "fpRankStd": 121.77
   },
   {
     "sleeperId": "12520",
@@ -9132,7 +10348,9 @@
     "positionRank": 184,
     "overallRank": 609,
     "fpPositionRank": "WR171",
-    "fpOverallRank": 509
+    "fpOverallRank": 509,
+    "fpRankAve": 459,
+    "fpRankStd": 119.08
   },
   {
     "sleeperId": "13333",
@@ -9147,7 +10365,9 @@
     "positionRank": 185,
     "overallRank": 610,
     "fpPositionRank": "WR147",
-    "fpOverallRank": 423
+    "fpOverallRank": 423,
+    "fpRankAve": 401.9,
+    "fpRankStd": 114.96
   },
   {
     "sleeperId": "13600",
@@ -9162,7 +10382,9 @@
     "positionRank": 186,
     "overallRank": 611,
     "fpPositionRank": "WR300",
-    "fpOverallRank": 906
+    "fpOverallRank": 906,
+    "fpRankAve": 788.67,
+    "fpRankStd": 152.41
   },
   {
     "sleeperId": "13079",
@@ -9177,7 +10399,9 @@
     "positionRank": 187,
     "overallRank": 612,
     "fpPositionRank": "WR151",
-    "fpOverallRank": 435
+    "fpOverallRank": 435,
+    "fpRankAve": 435,
+    "fpRankStd": 116.88
   },
   {
     "sleeperId": "8188",
@@ -9192,7 +10416,9 @@
     "positionRank": 188,
     "overallRank": 613,
     "fpPositionRank": "WR95",
-    "fpOverallRank": 266
+    "fpOverallRank": 266,
+    "fpRankAve": 260.51,
+    "fpRankStd": 30.5
   },
   {
     "sleeperId": "12797",
@@ -9207,7 +10433,9 @@
     "positionRank": 147,
     "overallRank": 614,
     "fpPositionRank": "RB174",
-    "fpOverallRank": 686
+    "fpOverallRank": 686,
+    "fpRankAve": 524.33,
+    "fpRankStd": 165.09
   },
   {
     "sleeperId": "11474",
@@ -9222,7 +10450,9 @@
     "positionRank": 189,
     "overallRank": 615,
     "fpPositionRank": "WR245",
-    "fpOverallRank": 744
+    "fpOverallRank": 744,
+    "fpRankAve": 684.25,
+    "fpRankStd": 162.36
   },
   {
     "sleeperId": "12048",
@@ -9237,7 +10467,9 @@
     "positionRank": 148,
     "overallRank": 616,
     "fpPositionRank": "RB66",
-    "fpOverallRank": 220
+    "fpOverallRank": 220,
+    "fpRankAve": 228.25,
+    "fpRankStd": 44.92
   },
   {
     "sleeperId": "13277",
@@ -9252,7 +10484,9 @@
     "positionRank": 149,
     "overallRank": 617,
     "fpPositionRank": "RB163",
-    "fpOverallRank": 636
+    "fpOverallRank": 636,
+    "fpRankAve": 578.5,
+    "fpRankStd": 71.94
   },
   {
     "sleeperId": "7538",
@@ -9267,7 +10501,9 @@
     "positionRank": 34,
     "overallRank": 618,
     "fpPositionRank": "QB71",
-    "fpOverallRank": 670
+    "fpOverallRank": 670,
+    "fpRankAve": 613,
+    "fpRankStd": 85.14
   },
   {
     "sleeperId": "13541",
@@ -9282,7 +10518,9 @@
     "positionRank": 190,
     "overallRank": 619,
     "fpPositionRank": "WR264",
-    "fpOverallRank": 803
+    "fpOverallRank": 803,
+    "fpRankAve": 667.67,
+    "fpRankStd": 161.27
   },
   {
     "sleeperId": "7720",
@@ -9297,7 +10535,9 @@
     "positionRank": 150,
     "overallRank": 620,
     "fpPositionRank": "RB135",
-    "fpOverallRank": 478
+    "fpOverallRank": 478,
+    "fpRankAve": 488.83,
+    "fpRankStd": 98.93
   },
   {
     "sleeperId": "12460",
@@ -9312,7 +10552,9 @@
     "positionRank": 191,
     "overallRank": 621,
     "fpPositionRank": "WR248",
-    "fpOverallRank": 754
+    "fpOverallRank": 754,
+    "fpRankAve": 599.33,
+    "fpRankStd": 270.63
   },
   {
     "sleeperId": "13412",
@@ -9327,7 +10569,9 @@
     "positionRank": 192,
     "overallRank": 622,
     "fpPositionRank": "WR187",
-    "fpOverallRank": 560
+    "fpOverallRank": 560,
+    "fpRankAve": 536,
+    "fpRankStd": 149.39
   },
   {
     "sleeperId": "13202",
@@ -9342,7 +10586,9 @@
     "positionRank": 193,
     "overallRank": 623,
     "fpPositionRank": "WR293",
-    "fpOverallRank": 897
+    "fpOverallRank": 897,
+    "fpRankAve": 765,
+    "fpRankStd": 135.55
   },
   {
     "sleeperId": "8076",
@@ -9357,7 +10603,9 @@
     "positionRank": 194,
     "overallRank": 624,
     "fpPositionRank": "WR246",
-    "fpOverallRank": 747
+    "fpOverallRank": 747,
+    "fpRankAve": 595.33,
+    "fpRankStd": 195.35
   },
   {
     "sleeperId": "13645",
@@ -9372,7 +10620,9 @@
     "positionRank": 195,
     "overallRank": 625,
     "fpPositionRank": "WR251",
-    "fpOverallRank": 767
+    "fpOverallRank": 767,
+    "fpRankAve": 610.33,
+    "fpRankStd": 217.96
   },
   {
     "sleeperId": "13890",
@@ -9387,7 +10637,9 @@
     "positionRank": 196,
     "overallRank": 626,
     "fpPositionRank": "WR247",
-    "fpOverallRank": 748
+    "fpOverallRank": 748,
+    "fpRankAve": 595.33,
+    "fpRankStd": 200.63
   },
   {
     "sleeperId": "8135",
@@ -9402,7 +10654,9 @@
     "positionRank": 197,
     "overallRank": 627,
     "fpPositionRank": "WR126",
-    "fpOverallRank": 359
+    "fpOverallRank": 359,
+    "fpRankAve": 311.76,
+    "fpRankStd": 50.13
   },
   {
     "sleeperId": "7087",
@@ -9417,7 +10671,9 @@
     "positionRank": 151,
     "overallRank": 628,
     "fpPositionRank": "RB204",
-    "fpOverallRank": 788
+    "fpOverallRank": 788,
+    "fpRankAve": 647.67,
+    "fpRankStd": 144.01
   },
   {
     "sleeperId": "13778",
@@ -9432,7 +10688,9 @@
     "positionRank": 152,
     "overallRank": 629,
     "fpPositionRank": "RB223",
-    "fpOverallRank": 880
+    "fpOverallRank": 880,
+    "fpRankAve": 751,
+    "fpRankStd": 96.76
   },
   {
     "sleeperId": "7204",
@@ -9447,7 +10705,9 @@
     "positionRank": 153,
     "overallRank": 630,
     "fpPositionRank": "RB124",
-    "fpOverallRank": 440
+    "fpOverallRank": 440,
+    "fpRankAve": 391.86,
+    "fpRankStd": 96.08
   },
   {
     "sleeperId": "13603",
@@ -9462,7 +10722,9 @@
     "positionRank": 154,
     "overallRank": 631,
     "fpPositionRank": "RB228",
-    "fpOverallRank": 895
+    "fpOverallRank": 895,
+    "fpRankAve": 762.67,
+    "fpRankStd": 100.87
   },
   {
     "sleeperId": "7599",
@@ -9477,7 +10739,9 @@
     "positionRank": 155,
     "overallRank": 632,
     "fpPositionRank": "RB173",
-    "fpOverallRank": 685
+    "fpOverallRank": 685,
+    "fpRankAve": 522,
+    "fpRankStd": 159.07
   },
   {
     "sleeperId": "13339",
@@ -9492,7 +10756,9 @@
     "positionRank": 156,
     "overallRank": 633,
     "fpPositionRank": "RB221",
-    "fpOverallRank": 874
+    "fpOverallRank": 874,
+    "fpRankAve": 745,
+    "fpRankStd": 95.91
   },
   {
     "sleeperId": "7595",
@@ -9507,7 +10773,9 @@
     "positionRank": 198,
     "overallRank": 634,
     "fpPositionRank": "WR204",
-    "fpOverallRank": 600
+    "fpOverallRank": 600,
+    "fpRankAve": 603.2,
+    "fpRankStd": 145.16
   },
   {
     "sleeperId": "5121",
@@ -9522,7 +10790,9 @@
     "positionRank": 199,
     "overallRank": 635,
     "fpPositionRank": "WR244",
-    "fpOverallRank": 738
+    "fpOverallRank": 738,
+    "fpRankAve": 680.25,
+    "fpRankStd": 141.49
   },
   {
     "sleeperId": "11783",
@@ -9537,7 +10807,9 @@
     "positionRank": 200,
     "overallRank": 636,
     "fpPositionRank": "WR66",
-    "fpOverallRank": 168
+    "fpOverallRank": 168,
+    "fpRankAve": 188.08,
+    "fpRankStd": 30.02
   },
   {
     "sleeperId": "11963",
@@ -9552,7 +10824,9 @@
     "positionRank": 157,
     "overallRank": 637,
     "fpPositionRank": "RB224",
-    "fpOverallRank": 882
+    "fpOverallRank": 882,
+    "fpRankAve": 752.33,
+    "fpRankStd": 101.91
   },
   {
     "sleeperId": "13199",
@@ -9567,7 +10841,9 @@
     "positionRank": 201,
     "overallRank": 638,
     "fpPositionRank": "WR207",
-    "fpOverallRank": 610
+    "fpOverallRank": 610,
+    "fpRankAve": 533,
+    "fpRankStd": 162.31
   },
   {
     "sleeperId": "13010",
@@ -9582,7 +10858,9 @@
     "positionRank": 158,
     "overallRank": 639,
     "fpPositionRank": "RB212",
-    "fpOverallRank": 831
+    "fpOverallRank": 831,
+    "fpRankAve": 701,
+    "fpRankStd": 125.35
   },
   {
     "sleeperId": "13554",
@@ -9597,7 +10875,9 @@
     "positionRank": 202,
     "overallRank": 640,
     "fpPositionRank": "WR221",
-    "fpOverallRank": 661
+    "fpOverallRank": 661,
+    "fpRankAve": 603.5,
+    "fpRankStd": 145.15
   },
   {
     "sleeperId": "13436",
@@ -9612,7 +10892,9 @@
     "positionRank": 159,
     "overallRank": 641,
     "fpPositionRank": "RB216",
-    "fpOverallRank": 852
+    "fpOverallRank": 852,
+    "fpRankAve": 723,
+    "fpRankStd": 94.21
   },
   {
     "sleeperId": "8168",
@@ -9627,7 +10909,9 @@
     "positionRank": 203,
     "overallRank": 642,
     "fpPositionRank": "WR197",
-    "fpOverallRank": 586
+    "fpOverallRank": 586,
+    "fpRankAve": 573.2,
+    "fpRankStd": 144.08
   },
   {
     "sleeperId": "11644",
@@ -9642,7 +10926,9 @@
     "positionRank": 160,
     "overallRank": 643,
     "fpPositionRank": "RB218",
-    "fpOverallRank": 856
+    "fpOverallRank": 856,
+    "fpRankAve": 727.67,
+    "fpRankStd": 98.72
   },
   {
     "sleeperId": "11068",
@@ -9657,7 +10943,9 @@
     "positionRank": 204,
     "overallRank": 644,
     "fpPositionRank": "WR178",
-    "fpOverallRank": 545
+    "fpOverallRank": 545,
+    "fpRankAve": 515.4,
+    "fpRankStd": 112.94
   },
   {
     "sleeperId": "11895",
@@ -9672,7 +10960,9 @@
     "positionRank": 205,
     "overallRank": 645,
     "fpPositionRank": "WR194",
-    "fpOverallRank": 576
+    "fpOverallRank": 576,
+    "fpRankAve": 555.2,
+    "fpRankStd": 125.37
   },
   {
     "sleeperId": "11581",
@@ -9687,7 +10977,9 @@
     "positionRank": 161,
     "overallRank": 646,
     "fpPositionRank": "RB33",
-    "fpOverallRank": 90
+    "fpOverallRank": 90,
+    "fpRankAve": 93.6,
+    "fpRankStd": 41.79
   },
   {
     "sleeperId": "9220",
@@ -9702,7 +10994,9 @@
     "positionRank": 162,
     "overallRank": 647,
     "fpPositionRank": "RB235",
-    "fpOverallRank": 939
+    "fpOverallRank": 939,
+    "fpRankAve": 827,
+    "fpRankStd": 31
   },
   {
     "sleeperId": "12171",
@@ -9717,7 +11011,9 @@
     "positionRank": 163,
     "overallRank": 648,
     "fpPositionRank": "RB162",
-    "fpOverallRank": 634
+    "fpOverallRank": 634,
+    "fpRankAve": 577.75,
+    "fpRankStd": 112.14
   },
   {
     "sleeperId": "12928",
@@ -9732,7 +11028,9 @@
     "positionRank": 164,
     "overallRank": 649,
     "fpPositionRank": "RB236",
-    "fpOverallRank": 940
+    "fpOverallRank": 940,
+    "fpRankAve": 836,
+    "fpRankStd": 24
   },
   {
     "sleeperId": "96",
@@ -9747,7 +11045,9 @@
     "positionRank": 35,
     "overallRank": 650,
     "fpPositionRank": "QB28",
-    "fpOverallRank": 198
+    "fpOverallRank": 198,
+    "fpRankAve": 229.09,
+    "fpRankStd": 44.03
   },
   {
     "sleeperId": "11574",
@@ -9762,7 +11062,9 @@
     "positionRank": 165,
     "overallRank": 651,
     "fpPositionRank": "RB112",
-    "fpOverallRank": 401
+    "fpOverallRank": 401,
+    "fpRankAve": 374.64,
+    "fpRankStd": 96.06
   },
   {
     "sleeperId": "12496",
@@ -9777,7 +11079,9 @@
     "positionRank": 206,
     "overallRank": 652,
     "fpPositionRank": "WR145",
-    "fpOverallRank": 417
+    "fpOverallRank": 417,
+    "fpRankAve": 410.55,
+    "fpRankStd": 94.87
   },
   {
     "sleeperId": "8202",
@@ -9792,7 +11096,9 @@
     "positionRank": 207,
     "overallRank": 653,
     "fpPositionRank": "WR241",
-    "fpOverallRank": 729
+    "fpOverallRank": 729,
+    "fpRankAve": 583.33,
+    "fpRankStd": 200.54
   },
   {
     "sleeperId": "11959",
@@ -9807,7 +11113,9 @@
     "positionRank": 208,
     "overallRank": 654,
     "fpPositionRank": "WR206",
-    "fpOverallRank": 605
+    "fpOverallRank": 605,
+    "fpRankAve": 529.5,
+    "fpRankStd": 169.45
   },
   {
     "sleeperId": "9229",
@@ -9822,7 +11130,9 @@
     "positionRank": 36,
     "overallRank": 655,
     "fpPositionRank": "QB41",
-    "fpOverallRank": 374
+    "fpOverallRank": 374,
+    "fpRankAve": 378.17,
+    "fpRankStd": 88.9
   },
   {
     "sleeperId": "11636",
@@ -9837,7 +11147,9 @@
     "positionRank": 209,
     "overallRank": 656,
     "fpPositionRank": "WR252",
-    "fpOverallRank": 770
+    "fpOverallRank": 770,
+    "fpRankAve": 697,
+    "fpRankStd": 134.83
   },
   {
     "sleeperId": "12539",
@@ -9852,7 +11164,9 @@
     "positionRank": 210,
     "overallRank": 657,
     "fpPositionRank": "WR191",
-    "fpOverallRank": 571
+    "fpOverallRank": 571,
+    "fpRankAve": 549.4,
+    "fpRankStd": 125.54
   },
   {
     "sleeperId": "12151",
@@ -9867,7 +11181,9 @@
     "positionRank": 211,
     "overallRank": 658,
     "fpPositionRank": "WR305",
-    "fpOverallRank": 912
+    "fpOverallRank": 912,
+    "fpRankAve": 734.5,
+    "fpRankStd": 133.5
   },
   {
     "sleeperId": "13726",
@@ -9882,7 +11198,9 @@
     "positionRank": 212,
     "overallRank": 659,
     "fpPositionRank": "WR255",
-    "fpOverallRank": 787
+    "fpOverallRank": 787,
+    "fpRankAve": 644.67,
+    "fpRankStd": 168.48
   },
   {
     "sleeperId": "8253",
@@ -9897,7 +11215,9 @@
     "positionRank": 213,
     "overallRank": 660,
     "fpPositionRank": "WR236",
-    "fpOverallRank": 706
+    "fpOverallRank": 706,
+    "fpRankAve": 654.5,
+    "fpRankStd": 194.72
   },
   {
     "sleeperId": "8223",
@@ -9912,7 +11232,9 @@
     "positionRank": 214,
     "overallRank": 661,
     "fpPositionRank": "WR198",
-    "fpOverallRank": 588
+    "fpOverallRank": 588,
+    "fpRankAve": 575.8,
+    "fpRankStd": 173.33
   },
   {
     "sleeperId": "6154",
@@ -9927,7 +11249,9 @@
     "positionRank": 215,
     "overallRank": 662,
     "fpPositionRank": "WR208",
-    "fpOverallRank": 616
+    "fpOverallRank": 616,
+    "fpRankAve": 545,
+    "fpRankStd": 150.3
   },
   {
     "sleeperId": "12732",
@@ -9942,7 +11266,9 @@
     "positionRank": 216,
     "overallRank": 663,
     "fpPositionRank": "WR200",
-    "fpOverallRank": 593
+    "fpOverallRank": 593,
+    "fpRankAve": 494.25,
+    "fpRankStd": 140.89
   },
   {
     "sleeperId": "11617",
@@ -9957,7 +11283,9 @@
     "positionRank": 217,
     "overallRank": 664,
     "fpPositionRank": "WR201",
-    "fpOverallRank": 595
+    "fpOverallRank": 595,
+    "fpRankAve": 589.4,
+    "fpRankStd": 154.71
   },
   {
     "sleeperId": "8013",
@@ -9972,7 +11300,9 @@
     "positionRank": 218,
     "overallRank": 665,
     "fpPositionRank": "WR238",
-    "fpOverallRank": 717
+    "fpOverallRank": 717,
+    "fpRankAve": 662.5,
+    "fpRankStd": 166.95
   },
   {
     "sleeperId": "12542",
@@ -9987,7 +11317,9 @@
     "positionRank": 219,
     "overallRank": 666,
     "fpPositionRank": "WR169",
-    "fpOverallRank": 500
+    "fpOverallRank": 500,
+    "fpRankAve": 447.8,
+    "fpRankStd": 135.49
   },
   {
     "sleeperId": "12475",
@@ -10002,7 +11334,9 @@
     "positionRank": 220,
     "overallRank": 667,
     "fpPositionRank": "WR230",
-    "fpOverallRank": 697
+    "fpOverallRank": 697,
+    "fpRankAve": 647.25,
+    "fpRankStd": 166.37
   },
   {
     "sleeperId": "10221",
@@ -10017,7 +11351,9 @@
     "positionRank": 221,
     "overallRank": 668,
     "fpPositionRank": "WR243",
-    "fpOverallRank": 736
+    "fpOverallRank": 736,
+    "fpRankAve": 678.5,
+    "fpRankStd": 109.2
   },
   {
     "sleeperId": "8756",
@@ -10032,7 +11368,9 @@
     "positionRank": 222,
     "overallRank": 669,
     "fpPositionRank": "WR233",
-    "fpOverallRank": 701
+    "fpOverallRank": 701,
+    "fpRankAve": 551,
+    "fpRankStd": 245.28
   },
   {
     "sleeperId": "7527",
@@ -10047,7 +11385,9 @@
     "positionRank": 37,
     "overallRank": 670,
     "fpPositionRank": "QB37",
-    "fpOverallRank": 349
+    "fpOverallRank": 349,
+    "fpRankAve": 357.5,
+    "fpRankStd": 83.75
   },
   {
     "sleeperId": "8176",
@@ -10062,7 +11402,9 @@
     "positionRank": 223,
     "overallRank": 671,
     "fpPositionRank": "WR307",
-    "fpOverallRank": 917
+    "fpOverallRank": 917,
+    "fpRankAve": 817,
+    "fpRankStd": 131.03
   },
   {
     "sleeperId": "6011",
@@ -10077,7 +11419,9 @@
     "positionRank": 38,
     "overallRank": 672,
     "fpPositionRank": "QB55",
-    "fpOverallRank": 570
+    "fpOverallRank": 570,
+    "fpRankAve": 548,
+    "fpRankStd": 134.78
   },
   {
     "sleeperId": "13343",
@@ -10092,7 +11436,9 @@
     "positionRank": 224,
     "overallRank": 673,
     "fpPositionRank": "WR318",
-    "fpOverallRank": 932
+    "fpOverallRank": 932,
+    "fpRankAve": 803,
+    "fpRankStd": 100
   },
   {
     "sleeperId": "12888",
@@ -10107,7 +11453,9 @@
     "positionRank": 225,
     "overallRank": 674,
     "fpPositionRank": "WR324",
-    "fpOverallRank": 943
+    "fpOverallRank": 943,
+    "fpRankAve": 858.5,
+    "fpRankStd": 81.5
   },
   {
     "sleeperId": "12889",
@@ -10122,7 +11470,9 @@
     "positionRank": 226,
     "overallRank": 675,
     "fpPositionRank": "WR235",
-    "fpOverallRank": 705
+    "fpOverallRank": 705,
+    "fpRankAve": 654.25,
+    "fpRankStd": 197.56
   },
   {
     "sleeperId": "7812",
@@ -10137,7 +11487,9 @@
     "positionRank": 227,
     "overallRank": 676,
     "fpPositionRank": "WR228",
-    "fpOverallRank": 693
+    "fpOverallRank": 693,
+    "fpRankAve": 638,
+    "fpRankStd": 154.69
   },
   {
     "sleeperId": "12634",
@@ -10152,7 +11504,9 @@
     "positionRank": 228,
     "overallRank": 677,
     "fpPositionRank": "WR168",
-    "fpOverallRank": 499
+    "fpOverallRank": 499,
+    "fpRankAve": 446.4,
+    "fpRankStd": 86.01
   },
   {
     "sleeperId": "11633",
@@ -10167,7 +11521,9 @@
     "positionRank": 229,
     "overallRank": 678,
     "fpPositionRank": "WR203",
-    "fpOverallRank": 598
+    "fpOverallRank": 598,
+    "fpRankAve": 600,
+    "fpRankStd": 144.67
   },
   {
     "sleeperId": "7559",
@@ -10182,7 +11538,9 @@
     "positionRank": 230,
     "overallRank": 679,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "10228",
@@ -10197,7 +11555,9 @@
     "positionRank": 231,
     "overallRank": 680,
     "fpPositionRank": "WR242",
-    "fpOverallRank": 735
+    "fpOverallRank": 735,
+    "fpRankAve": 678.25,
+    "fpRankStd": 109.92
   },
   {
     "sleeperId": "6699",
@@ -10212,7 +11572,9 @@
     "positionRank": 232,
     "overallRank": 681,
     "fpPositionRank": "WR231",
-    "fpOverallRank": 698
+    "fpOverallRank": 698,
+    "fpRankAve": 647.75,
+    "fpRankStd": 207.44
   },
   {
     "sleeperId": "12829",
@@ -10227,7 +11589,9 @@
     "positionRank": 233,
     "overallRank": 682,
     "fpPositionRank": "WR256",
-    "fpOverallRank": 789
+    "fpOverallRank": 789,
+    "fpRankAve": 649.67,
+    "fpRankStd": 190.39
   },
   {
     "sleeperId": "10866",
@@ -10242,7 +11606,9 @@
     "positionRank": 39,
     "overallRank": 683,
     "fpPositionRank": "QB76",
-    "fpOverallRank": 677
+    "fpOverallRank": 677,
+    "fpRankAve": 622.25,
+    "fpRankStd": 83.91
   },
   {
     "sleeperId": "13770",
@@ -10257,7 +11623,9 @@
     "positionRank": 234,
     "overallRank": 684,
     "fpPositionRank": "WR239",
-    "fpOverallRank": 725
+    "fpOverallRank": 725,
+    "fpRankAve": 578.67,
+    "fpRankStd": 155.96
   },
   {
     "sleeperId": "11616",
@@ -10272,7 +11640,9 @@
     "positionRank": 235,
     "overallRank": 685,
     "fpPositionRank": "WR179",
-    "fpOverallRank": 546
+    "fpOverallRank": 546,
+    "fpRankAve": 516.4,
+    "fpRankStd": 147.6
   },
   {
     "sleeperId": "11994",
@@ -10287,7 +11657,9 @@
     "positionRank": 236,
     "overallRank": 686,
     "fpPositionRank": "WR190",
-    "fpOverallRank": 569
+    "fpOverallRank": 569,
+    "fpRankAve": 547.2,
+    "fpRankStd": 125.06
   },
   {
     "sleeperId": "13173",
@@ -10302,7 +11674,9 @@
     "positionRank": 237,
     "overallRank": 687,
     "fpPositionRank": "WR271",
-    "fpOverallRank": 835
+    "fpOverallRank": 835,
+    "fpRankAve": 708,
+    "fpRankStd": 211.14
   },
   {
     "sleeperId": "11168",
@@ -10317,7 +11691,9 @@
     "positionRank": 238,
     "overallRank": 688,
     "fpPositionRank": "WR167",
-    "fpOverallRank": 497
+    "fpOverallRank": 497,
+    "fpRankAve": 444.2,
+    "fpRankStd": 140.05
   },
   {
     "sleeperId": "8414",
@@ -10332,7 +11708,9 @@
     "positionRank": 239,
     "overallRank": 689,
     "fpPositionRank": "WR274",
-    "fpOverallRank": 844
+    "fpOverallRank": 844,
+    "fpRankAve": 713.33,
+    "fpRankStd": 126.6
   },
   {
     "sleeperId": "9489",
@@ -10347,7 +11725,9 @@
     "positionRank": 240,
     "overallRank": 690,
     "fpPositionRank": "WR320",
-    "fpOverallRank": 935
+    "fpOverallRank": 935,
+    "fpRankAve": 856.67,
+    "fpRankStd": 139.09
   },
   {
     "sleeperId": "11629",
@@ -10362,7 +11742,9 @@
     "positionRank": 241,
     "overallRank": 691,
     "fpPositionRank": "WR146",
-    "fpOverallRank": 421
+    "fpOverallRank": 421,
+    "fpRankAve": 383.9,
+    "fpRankStd": 102.36
   },
   {
     "sleeperId": "6588",
@@ -10377,7 +11759,9 @@
     "positionRank": 242,
     "overallRank": 692,
     "fpPositionRank": "WR202",
-    "fpOverallRank": 597
+    "fpOverallRank": 597,
+    "fpRankAve": 508.75,
+    "fpRankStd": 154.22
   },
   {
     "sleeperId": "7521",
@@ -10392,7 +11776,9 @@
     "positionRank": 243,
     "overallRank": 693,
     "fpPositionRank": "WR155",
-    "fpOverallRank": 467
+    "fpOverallRank": 467,
+    "fpRankAve": 451,
+    "fpRankStd": 117.57
   },
   {
     "sleeperId": "13582",
@@ -10407,7 +11793,9 @@
     "positionRank": 244,
     "overallRank": 694,
     "fpPositionRank": "WR260",
-    "fpOverallRank": 795
+    "fpOverallRank": 795,
+    "fpRankAve": 655,
+    "fpRankStd": 160.63
   },
   {
     "sleeperId": "8801",
@@ -10422,7 +11810,9 @@
     "positionRank": 245,
     "overallRank": 695,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "3155",
@@ -10437,7 +11827,9 @@
     "positionRank": 246,
     "overallRank": 696,
     "fpPositionRank": "WR196",
-    "fpOverallRank": 579
+    "fpOverallRank": 579,
+    "fpRankAve": 560.6,
+    "fpRankStd": 128.59
   },
   {
     "sleeperId": "11806",
@@ -10452,7 +11844,9 @@
     "positionRank": 247,
     "overallRank": 697,
     "fpPositionRank": "WR180",
-    "fpOverallRank": 548
+    "fpOverallRank": 548,
+    "fpRankAve": 517.2,
+    "fpRankStd": 130.26
   },
   {
     "sleeperId": "6453",
@@ -10467,7 +11861,9 @@
     "positionRank": 248,
     "overallRank": 698,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "7746",
@@ -10482,7 +11878,9 @@
     "positionRank": 249,
     "overallRank": 699,
     "fpPositionRank": "WR240",
-    "fpOverallRank": 728
+    "fpOverallRank": 728,
+    "fpRankAve": 675,
+    "fpRankStd": 192.12
   },
   {
     "sleeperId": "13150",
@@ -10497,7 +11895,9 @@
     "positionRank": 250,
     "overallRank": 700,
     "fpPositionRank": "WR181",
-    "fpOverallRank": 549
+    "fpOverallRank": 549,
+    "fpRankAve": 518,
+    "fpRankStd": 137.1
   },
   {
     "sleeperId": "8250",
@@ -10512,7 +11912,9 @@
     "positionRank": 251,
     "overallRank": 701,
     "fpPositionRank": "WR158",
-    "fpOverallRank": 473
+    "fpOverallRank": 473,
+    "fpRankAve": 376.2,
+    "fpRankStd": 80.92
   },
   {
     "sleeperId": "13272",
@@ -10527,7 +11929,9 @@
     "positionRank": 40,
     "overallRank": 702,
     "fpPositionRank": "QB36",
-    "fpOverallRank": 330
+    "fpOverallRank": 330,
+    "fpRankAve": 333.64,
+    "fpRankStd": 62.81
   },
   {
     "sleeperId": "7039",
@@ -10542,7 +11946,9 @@
     "positionRank": 252,
     "overallRank": 703,
     "fpPositionRank": "WR273",
-    "fpOverallRank": 843
+    "fpOverallRank": 843,
+    "fpRankAve": 713.33,
+    "fpRankStd": 149.22
   },
   {
     "sleeperId": "11320",
@@ -10557,7 +11963,9 @@
     "positionRank": 253,
     "overallRank": 704,
     "fpPositionRank": "WR205",
-    "fpOverallRank": 604
+    "fpOverallRank": 604,
+    "fpRankAve": 611,
+    "fpRankStd": 131.33
   },
   {
     "sleeperId": "11762",
@@ -10572,7 +11980,9 @@
     "positionRank": 254,
     "overallRank": 705,
     "fpPositionRank": "WR219",
-    "fpOverallRank": 647
+    "fpOverallRank": 647,
+    "fpRankAve": 595,
+    "fpRankStd": 131.88
   },
   {
     "sleeperId": "11608",
@@ -10587,7 +11997,9 @@
     "positionRank": 255,
     "overallRank": 706,
     "fpPositionRank": "WR152",
-    "fpOverallRank": 447
+    "fpOverallRank": 447,
+    "fpRankAve": 367.5,
+    "fpRankStd": 137.22
   },
   {
     "sleeperId": "6386",
@@ -10602,7 +12014,9 @@
     "positionRank": 256,
     "overallRank": 707,
     "fpPositionRank": "WR262",
-    "fpOverallRank": 800
+    "fpOverallRank": 800,
+    "fpRankAve": 664.67,
+    "fpRankStd": 193.48
   },
   {
     "sleeperId": "8527",
@@ -10617,7 +12031,9 @@
     "positionRank": 257,
     "overallRank": 708,
     "fpPositionRank": "WR215",
-    "fpOverallRank": 628
+    "fpOverallRank": 628,
+    "fpRankAve": 569,
+    "fpRankStd": 174.8
   },
   {
     "sleeperId": "12500",
@@ -10632,7 +12048,9 @@
     "positionRank": 41,
     "overallRank": 709,
     "fpPositionRank": "QB56",
-    "fpOverallRank": 594
+    "fpOverallRank": 594,
+    "fpRankAve": 494.25,
+    "fpRankStd": 109.71
   },
   {
     "sleeperId": "11157",
@@ -10647,7 +12065,9 @@
     "positionRank": 258,
     "overallRank": 710,
     "fpPositionRank": "WR182",
-    "fpOverallRank": 550
+    "fpOverallRank": 550,
+    "fpRankAve": 518.4,
+    "fpRankStd": 114.34
   },
   {
     "sleeperId": "11377",
@@ -10662,7 +12082,9 @@
     "positionRank": 259,
     "overallRank": 711,
     "fpPositionRank": "WR189",
-    "fpOverallRank": 565
+    "fpOverallRank": 565,
+    "fpRankAve": 543.6,
+    "fpRankStd": 148.95
   },
   {
     "sleeperId": "8861",
@@ -10677,7 +12099,9 @@
     "positionRank": 260,
     "overallRank": 712,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "4574",
@@ -10692,7 +12116,9 @@
     "positionRank": 42,
     "overallRank": 713,
     "fpPositionRank": "QB74",
-    "fpOverallRank": 673
+    "fpOverallRank": 673,
+    "fpRankAve": 505.67,
+    "fpRankStd": 147.89
   },
   {
     "sleeperId": "2306",
@@ -10707,7 +12133,9 @@
     "positionRank": 43,
     "overallRank": 714,
     "fpPositionRank": "QB44",
-    "fpOverallRank": 399
+    "fpOverallRank": 399,
+    "fpRankAve": 405.94,
+    "fpRankStd": 111.49
   },
   {
     "sleeperId": "4017",
@@ -10722,7 +12150,9 @@
     "positionRank": 44,
     "overallRank": 715,
     "fpPositionRank": "QB35",
-    "fpOverallRank": 281
+    "fpOverallRank": 281,
+    "fpRankAve": 297.67,
+    "fpRankStd": 44.21
   },
   {
     "sleeperId": "13289",
@@ -10737,7 +12167,9 @@
     "positionRank": 45,
     "overallRank": 716,
     "fpPositionRank": "QB54",
-    "fpOverallRank": 564
+    "fpOverallRank": 564,
+    "fpRankAve": 542.2,
+    "fpRankStd": 140.71
   },
   {
     "sleeperId": "11562",
@@ -10752,7 +12184,9 @@
     "positionRank": 46,
     "overallRank": 717,
     "fpPositionRank": "QB60",
-    "fpOverallRank": 638
+    "fpOverallRank": 638,
+    "fpRankAve": 583.5,
+    "fpRankStd": 107.65
   },
   {
     "sleeperId": "4972",
@@ -10767,7 +12201,9 @@
     "positionRank": 47,
     "overallRank": 718,
     "fpPositionRank": "QB65",
-    "fpOverallRank": 648
+    "fpOverallRank": 648,
+    "fpRankAve": 595.5,
+    "fpRankStd": 104.59
   },
   {
     "sleeperId": "8160",
@@ -10782,7 +12218,9 @@
     "positionRank": 48,
     "overallRank": 719,
     "fpPositionRank": "QB79",
-    "fpOverallRank": 708
+    "fpOverallRank": 708,
+    "fpRankAve": 557.33,
+    "fpRankStd": 91.94
   },
   {
     "sleeperId": "829",
@@ -10797,7 +12235,9 @@
     "positionRank": 49,
     "overallRank": 720,
     "fpPositionRank": "QB63",
-    "fpOverallRank": 644
+    "fpOverallRank": 644,
+    "fpRankAve": 588.25,
+    "fpRankStd": 97.98
   },
   {
     "sleeperId": "19",
@@ -10812,7 +12252,9 @@
     "positionRank": 50,
     "overallRank": 721,
     "fpPositionRank": "QB42",
-    "fpOverallRank": 388
+    "fpOverallRank": 388,
+    "fpRankAve": 381.6,
+    "fpRankStd": 89.23
   },
   {
     "sleeperId": "13425",
@@ -10827,7 +12269,9 @@
     "positionRank": 51,
     "overallRank": 722,
     "fpPositionRank": "QB78",
-    "fpOverallRank": 700
+    "fpOverallRank": 700,
+    "fpRankAve": 548.33,
+    "fpRankStd": 82.47
   },
   {
     "sleeperId": "3257",
@@ -10842,7 +12286,9 @@
     "positionRank": 52,
     "overallRank": 723,
     "fpPositionRank": "QB27",
-    "fpOverallRank": 185
+    "fpOverallRank": 185,
+    "fpRankAve": 216.14,
+    "fpRankStd": 44.95
   },
   {
     "sleeperId": "4179",
@@ -10857,7 +12303,9 @@
     "positionRank": 53,
     "overallRank": 724,
     "fpPositionRank": "QB64",
-    "fpOverallRank": 646
+    "fpOverallRank": 646,
+    "fpRankAve": 593.25,
+    "fpRankStd": 99.33
   },
   {
     "sleeperId": "13404",
@@ -10872,7 +12320,9 @@
     "positionRank": 54,
     "overallRank": 725,
     "fpPositionRank": "QB72",
-    "fpOverallRank": 671
+    "fpOverallRank": 671,
+    "fpRankAve": 613.75,
+    "fpRankStd": 92.62
   },
   {
     "sleeperId": "6185",
@@ -10887,7 +12337,9 @@
     "positionRank": 55,
     "overallRank": 726,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "5854",
@@ -10902,7 +12354,9 @@
     "positionRank": 56,
     "overallRank": 727,
     "fpPositionRank": "QB80",
-    "fpOverallRank": 714
+    "fpOverallRank": 714,
+    "fpRankAve": 563.67,
+    "fpRankStd": 88.2
   },
   {
     "sleeperId": "3976",
@@ -10917,7 +12371,9 @@
     "positionRank": 57,
     "overallRank": 728,
     "fpPositionRank": "QB58",
-    "fpOverallRank": 625
+    "fpOverallRank": 625,
+    "fpRankAve": 568,
+    "fpRankStd": 113.07
   },
   {
     "sleeperId": "8162",
@@ -10932,7 +12388,9 @@
     "positionRank": 58,
     "overallRank": 729,
     "fpPositionRank": "QB61",
-    "fpOverallRank": 639
+    "fpOverallRank": 639,
+    "fpRankAve": 584.5,
+    "fpRankStd": 103.36
   },
   {
     "sleeperId": "7083",
@@ -10947,7 +12405,9 @@
     "positionRank": 59,
     "overallRank": 730,
     "fpPositionRank": "QB77",
-    "fpOverallRank": 695
+    "fpOverallRank": 695,
+    "fpRankAve": 537,
+    "fpRankStd": 88.73
   },
   {
     "sleeperId": "7585",
@@ -10962,7 +12422,9 @@
     "positionRank": 60,
     "overallRank": 731,
     "fpPositionRank": "QB51",
-    "fpOverallRank": 554
+    "fpOverallRank": 554,
+    "fpRankAve": 528,
+    "fpRankStd": 141.81
   },
   {
     "sleeperId": "12510",
@@ -10977,7 +12439,9 @@
     "positionRank": 61,
     "overallRank": 732,
     "fpPositionRank": "QB50",
-    "fpOverallRank": 552
+    "fpOverallRank": 552,
+    "fpRankAve": 522.8,
+    "fpRankStd": 161.98
   },
   {
     "sleeperId": "10215",
@@ -10992,7 +12456,9 @@
     "positionRank": 62,
     "overallRank": 733,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "11559",
@@ -11007,7 +12473,9 @@
     "positionRank": 63,
     "overallRank": 734,
     "fpPositionRank": "QB32",
-    "fpOverallRank": 269
+    "fpOverallRank": 269,
+    "fpRankAve": 289.28,
+    "fpRankStd": 40.52
   },
   {
     "sleeperId": "2307",
@@ -11022,7 +12490,9 @@
     "positionRank": 64,
     "overallRank": 735,
     "fpPositionRank": "QB43",
-    "fpOverallRank": 398
+    "fpOverallRank": 398,
+    "fpRankAve": 398.31,
+    "fpRankStd": 113.94
   },
   {
     "sleeperId": "12470",
@@ -11037,7 +12507,9 @@
     "positionRank": 65,
     "overallRank": 736,
     "fpPositionRank": "QB49",
-    "fpOverallRank": 519
+    "fpOverallRank": 519,
+    "fpRankAve": 477.2,
+    "fpRankStd": 122.24
   },
   {
     "sleeperId": "827",
@@ -11052,7 +12524,9 @@
     "positionRank": 66,
     "overallRank": 737,
     "fpPositionRank": "QB48",
-    "fpOverallRank": 481
+    "fpOverallRank": 481,
+    "fpRankAve": 500.67,
+    "fpRankStd": 131.79
   },
   {
     "sleeperId": "11292",
@@ -11067,7 +12541,9 @@
     "positionRank": 67,
     "overallRank": 738,
     "fpPositionRank": "QB62",
-    "fpOverallRank": 643
+    "fpOverallRank": 643,
+    "fpRankAve": 588,
+    "fpRankStd": 103.64
   },
   {
     "sleeperId": "12486",
@@ -11082,7 +12558,9 @@
     "positionRank": 68,
     "overallRank": 739,
     "fpPositionRank": "QB66",
-    "fpOverallRank": 653
+    "fpOverallRank": 653,
+    "fpRankAve": 600,
+    "fpRankStd": 97.04
   },
   {
     "sleeperId": "7583",
@@ -11097,7 +12575,9 @@
     "positionRank": 69,
     "overallRank": 740,
     "fpPositionRank": "QB85",
-    "fpOverallRank": 741
+    "fpOverallRank": 741,
+    "fpRankAve": 592.33,
+    "fpRankStd": 66.23
   },
   {
     "sleeperId": "13303",
@@ -11112,7 +12592,9 @@
     "positionRank": 70,
     "overallRank": 741,
     "fpPositionRank": "QB45",
-    "fpOverallRank": 404
+    "fpOverallRank": 404,
+    "fpRankAve": 403.43,
+    "fpRankStd": 122.81
   },
   {
     "sleeperId": "12494",
@@ -11127,7 +12609,9 @@
     "positionRank": 71,
     "overallRank": 742,
     "fpPositionRank": "QB67",
-    "fpOverallRank": 654
+    "fpOverallRank": 654,
+    "fpRankAve": 600.5,
+    "fpRankStd": 91.62
   },
   {
     "sleeperId": "13350",
@@ -11142,7 +12626,9 @@
     "positionRank": 72,
     "overallRank": 743,
     "fpPositionRank": "QB86",
-    "fpOverallRank": 753
+    "fpOverallRank": 753,
+    "fpRankAve": 598.33,
+    "fpRankStd": 63.7
   },
   {
     "sleeperId": "8161",
@@ -11157,7 +12643,9 @@
     "positionRank": 73,
     "overallRank": 744,
     "fpPositionRank": "QB21",
-    "fpOverallRank": 135
+    "fpOverallRank": 135,
+    "fpRankAve": 138.32,
+    "fpRankStd": 48.73
   },
   {
     "sleeperId": "13335",
@@ -11172,7 +12660,9 @@
     "positionRank": 74,
     "overallRank": 745,
     "fpPositionRank": "QB87",
-    "fpOverallRank": 756
+    "fpOverallRank": 756,
+    "fpRankAve": 600,
+    "fpRankStd": 82.66
   },
   {
     "sleeperId": "12775",
@@ -11187,7 +12677,9 @@
     "positionRank": 75,
     "overallRank": 746,
     "fpPositionRank": "QB90",
-    "fpOverallRank": 774
+    "fpOverallRank": 774,
+    "fpRankAve": 613.33,
+    "fpRankStd": 63.33
   },
   {
     "sleeperId": "8157",
@@ -11202,7 +12694,9 @@
     "positionRank": 76,
     "overallRank": 747,
     "fpPositionRank": "QB91",
-    "fpOverallRank": 776
+    "fpOverallRank": 776,
+    "fpRankAve": 619,
+    "fpRankStd": 58.94
   },
   {
     "sleeperId": "12511",
@@ -11217,7 +12711,9 @@
     "positionRank": 77,
     "overallRank": 748,
     "fpPositionRank": "QB84",
-    "fpOverallRank": 733
+    "fpOverallRank": 733,
+    "fpRankAve": 585.33,
+    "fpRankStd": 84.11
   },
   {
     "sleeperId": "13557",
@@ -11232,7 +12728,9 @@
     "positionRank": 78,
     "overallRank": 749,
     "fpPositionRank": "QB88",
-    "fpOverallRank": 757
+    "fpOverallRank": 757,
+    "fpRankAve": 600,
+    "fpRankStd": 68.98
   },
   {
     "sleeperId": "11256",
@@ -11247,7 +12745,9 @@
     "positionRank": 79,
     "overallRank": 750,
     "fpPositionRank": "QB53",
-    "fpOverallRank": 563
+    "fpOverallRank": 563,
+    "fpRankAve": 541.8,
+    "fpRankStd": 131.19
   },
   {
     "sleeperId": "4464",
@@ -11262,7 +12762,9 @@
     "positionRank": 80,
     "overallRank": 751,
     "fpPositionRank": "QB89",
-    "fpOverallRank": 760
+    "fpOverallRank": 760,
+    "fpRankAve": 601,
+    "fpRankStd": 88.59
   },
   {
     "sleeperId": "13602",
@@ -11277,7 +12779,9 @@
     "positionRank": 81,
     "overallRank": 752,
     "fpPositionRank": "QB83",
-    "fpOverallRank": 727
+    "fpOverallRank": 727,
+    "fpRankAve": 579.33,
+    "fpRankStd": 98.28
   },
   {
     "sleeperId": "3161",
@@ -11292,7 +12796,9 @@
     "positionRank": 82,
     "overallRank": 753,
     "fpPositionRank": "QB68",
-    "fpOverallRank": 666
+    "fpOverallRank": 666,
+    "fpRankAve": 607,
+    "fpRankStd": 108.05
   },
   {
     "sleeperId": "13306",
@@ -11307,7 +12813,9 @@
     "positionRank": 83,
     "overallRank": 754,
     "fpPositionRank": "QB47",
-    "fpOverallRank": 480
+    "fpOverallRank": 480,
+    "fpRankAve": 498.17,
+    "fpRankStd": 155.34
   },
   {
     "sleeperId": "7610",
@@ -11322,7 +12830,9 @@
     "positionRank": 84,
     "overallRank": 755,
     "fpPositionRank": "QB52",
-    "fpOverallRank": 561
+    "fpOverallRank": 561,
+    "fpRankAve": 540.2,
+    "fpRankStd": 134.1
   },
   {
     "sleeperId": "8206",
@@ -11337,7 +12847,9 @@
     "positionRank": 85,
     "overallRank": 756,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "9998",
@@ -11352,7 +12864,9 @@
     "positionRank": 86,
     "overallRank": 757,
     "fpPositionRank": "QB75",
-    "fpOverallRank": 676
+    "fpOverallRank": 676,
+    "fpRankAve": 621.75,
+    "fpRankStd": 84.82
   },
   {
     "sleeperId": "13415",
@@ -11367,7 +12881,9 @@
     "positionRank": 87,
     "overallRank": 758,
     "fpPositionRank": "QB82",
-    "fpOverallRank": 723
+    "fpOverallRank": 723,
+    "fpRankAve": 575.67,
+    "fpRankStd": 82.45
   },
   {
     "sleeperId": "9230",
@@ -11382,7 +12898,9 @@
     "positionRank": 88,
     "overallRank": 759,
     "fpPositionRank": "QB69",
-    "fpOverallRank": 668
+    "fpOverallRank": 668,
+    "fpRankAve": 608.5,
+    "fpRankStd": 93.22
   },
   {
     "sleeperId": "6136",
@@ -11397,7 +12915,9 @@
     "positionRank": 89,
     "overallRank": 760,
     "fpPositionRank": "QB59",
-    "fpOverallRank": 635
+    "fpOverallRank": 635,
+    "fpRankAve": 578.25,
+    "fpRankStd": 99.53
   },
   {
     "sleeperId": "11558",
@@ -11412,7 +12932,9 @@
     "positionRank": 90,
     "overallRank": 761,
     "fpPositionRank": "QB106",
-    "fpOverallRank": 862
+    "fpOverallRank": 862,
+    "fpRankAve": 622,
+    "fpRankStd": 68
   },
   {
     "sleeperId": "5127",
@@ -11427,7 +12949,9 @@
     "positionRank": 91,
     "overallRank": 762,
     "fpPositionRank": "QB81",
-    "fpOverallRank": 715
+    "fpOverallRank": 715,
+    "fpRankAve": 564,
+    "fpRankStd": 93.62
   },
   {
     "sleeperId": "12538",
@@ -11442,7 +12966,9 @@
     "positionRank": 92,
     "overallRank": 763,
     "fpPositionRank": "QB95",
-    "fpOverallRank": 812
+    "fpOverallRank": 812,
+    "fpRankAve": 543,
+    "fpRankStd": 72
   },
   {
     "sleeperId": "260",
@@ -11457,7 +12983,9 @@
     "positionRank": 93,
     "overallRank": 764,
     "fpPositionRank": "QB93",
-    "fpOverallRank": 780
+    "fpOverallRank": 780,
+    "fpRankAve": 623.33,
+    "fpRankStd": 57.25
   },
   {
     "sleeperId": "10857",
@@ -11472,7 +13000,9 @@
     "positionRank": 94,
     "overallRank": 765,
     "fpPositionRank": "QB96",
-    "fpOverallRank": 821
+    "fpOverallRank": 821,
+    "fpRankAve": 558,
+    "fpRankStd": 79
   },
   {
     "sleeperId": "13295",
@@ -11487,7 +13017,9 @@
     "positionRank": 95,
     "overallRank": 766,
     "fpPositionRank": "QB101",
-    "fpOverallRank": 842
+    "fpOverallRank": 842,
+    "fpRankAve": 591,
+    "fpRankStd": 72
   },
   {
     "sleeperId": "12477",
@@ -11502,7 +13034,9 @@
     "positionRank": 96,
     "overallRank": 767,
     "fpPositionRank": "QB99",
-    "fpOverallRank": 839
+    "fpOverallRank": 839,
+    "fpRankAve": 586.5,
+    "fpRankStd": 82.5
   },
   {
     "sleeperId": "1737",
@@ -11517,7 +13051,9 @@
     "positionRank": 97,
     "overallRank": 768,
     "fpPositionRank": "QB73",
-    "fpOverallRank": 672
+    "fpOverallRank": 672,
+    "fpRankAve": 616.5,
+    "fpRankStd": 83.56
   },
   {
     "sleeperId": "12705",
@@ -11532,7 +13068,9 @@
     "positionRank": 98,
     "overallRank": 769,
     "fpPositionRank": "QB98",
-    "fpOverallRank": 834
+    "fpOverallRank": 834,
+    "fpRankAve": 582,
+    "fpRankStd": 72
   },
   {
     "sleeperId": "10983",
@@ -11547,7 +13085,9 @@
     "positionRank": 99,
     "overallRank": 770,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   },
   {
     "sleeperId": "11557",
@@ -11562,7 +13102,9 @@
     "positionRank": 100,
     "overallRank": 771,
     "fpPositionRank": "QB46",
-    "fpOverallRank": 443
+    "fpOverallRank": 443,
+    "fpRankAve": 470.25,
+    "fpRankStd": 145.77
   },
   {
     "sleeperId": "8413",
@@ -11577,6 +13119,8 @@
     "positionRank": 101,
     "overallRank": 772,
     "fpPositionRank": null,
-    "fpOverallRank": null
+    "fpOverallRank": null,
+    "fpRankAve": null,
+    "fpRankStd": null
   }
 ]

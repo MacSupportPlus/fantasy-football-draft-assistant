@@ -50,4 +50,10 @@ export interface VbdEntry {
   // consensus we sourced (null if this player has no FantasyPros match).
   fpPositionRank: string | null; // e.g. "RB14"
   fpOverallRank: number | null; // ECR
+  // Average overall rank + std-dev across FantasyPros' expert panel - the
+  // frontend uses these two as a normal-distribution estimate of "what
+  // pick number does this player actually go" for the pick-survival odds
+  // feature. Same source as fpOverallRank, just the underlying spread too.
+  fpRankAve: number | null;
+  fpRankStd: number | null;
 }

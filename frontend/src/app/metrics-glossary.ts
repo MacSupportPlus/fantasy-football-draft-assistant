@@ -60,6 +60,11 @@ export const METRICS: Record<string, MetricDefinition> = {
     short: 'How much better or worse we rate this player vs. FantasyPros consensus, in rank spots.',
     long: "FantasyPros' position rank number minus our own position rank number. Positive means we rate the player better than consensus does (fewer spots = better in our ranking); negative means we rate them worse. A large delta is worth a second look at the player card to see why — it usually comes down to recent stats disagreeing with expert opinion, an injury/age adjustment, or a strength-of-schedule swing.",
   },
+  survivalPct: {
+    label: 'Survival %',
+    short: "Odds this player is still available next time it's your turn to pick.",
+    long: "Estimated probability this player is still on the board the next time you're on the clock, based on your draft slot. Models the player's actual draft position as a bell curve centered on FantasyPros' expert-panel average rank, with the panel's own disagreement (standard deviation) as the spread — a player experts agree on tightly is nearly certain to go right around their average slot; one with wide disagreement could go much earlier or later than average. Set \"Your pick\" in the header to see this column. A low percentage means: take them now if you want them, they likely won't survive to your next turn. A high percentage means it's safe to wait and grab a scarcer player instead.",
+  },
   source: {
     label: 'est. badge',
     short: 'No usable NFL stats — projection is estimated from FantasyPros rank instead.',

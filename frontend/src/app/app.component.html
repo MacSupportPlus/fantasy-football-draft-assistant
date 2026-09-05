@@ -31,6 +31,19 @@
           </button>
         }
       </div>
+      <div class="draft-slot-input">
+        <span class="teams-label">Your pick</span>
+        <input
+          type="number"
+          min="1"
+          [max]="board.leagueSettings().teams"
+          class="slot-input"
+          placeholder="#"
+          [value]="board.draftSlot() ?? ''"
+          (input)="onDraftSlotInput($any($event.target).value)"
+        />
+        <app-info-icon metricKey="survivalPct" />
+      </div>
       <div class="scoring-toggle">
         @for (fmt of scoringOptions; track fmt[0]) {
           <button
@@ -89,6 +102,9 @@
 
     <div class="draft-status">
       <span>{{ draftedCount() }} drafted</span>
+      @if (board.picksUntilMyTurn(); as gap) {
+        <span class="pick-gap">{{ gap === 0 ? "You're on the clock" : gap + ' picks until your turn' }}</span>
+      }
       <button type="button" class="reset-btn" (click)="resetDraft()">Reset draft</button>
     </div>
   </div>
@@ -111,6 +127,7 @@
             <th class="col-num"><span class="th-label">VBD<app-info-icon metricKey="vbdScore" /></span></th>
             <th class="col-rank"><span class="th-label">FP Rank<app-info-icon metricKey="fpPositionRank" /></span></th>
             <th class="col-num"><span class="th-label">&Delta;<app-info-icon metricKey="rankDelta" /></span></th>
+            <th class="col-num"><span class="th-label">Survival<app-info-icon metricKey="survivalPct" /></span></th>
             <th></th>
           </tr>
         </thead>
@@ -137,6 +154,9 @@
                   —
                 }
               </td>
+              <td class="col-num survival" [class.high]="(e.survivalPct ?? 1) > 0.7" [class.low]="e.survivalPct !== null && e.survivalPct < 0.3">
+                {{ e.survivalPct === null ? '—' : (e.survivalPct * 100).toFixed(0) + '%' }}
+              </td>
               <td class="col-action">
                 <button type="button" class="draft-btn" [class.undo]="e.drafted" (click)="toggleDraft(e.sleeperId)">
                   {{ e.drafted ? 'Undo' : 'Draft' }}
@@ -144,7 +164,7 @@
               </td>
             </tr>
           } @empty {
-            <tr><td colspan="10" class="state-message">No players match this filter.</td></tr>
+            <tr><td colspan="11" class="state-message">No players match this filter.</td></tr>
           }
         </tbody>
       </table>

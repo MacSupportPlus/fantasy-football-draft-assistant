@@ -3,9 +3,11 @@ import { HttpClient } from '@angular/common/http';
 import { firstValueFrom } from 'rxjs';
 import { LiveVbdEntry, ScoringFormat, VbdEntry } from '../models/vbd-entry.model';
 import { DEFAULT_LEAGUE_SETTINGS, LeagueSettings, replacementRank } from '../league-settings';
+import { picksUntilMyTurn as calcPicksUntilMyTurn, survivalProbability } from '../vona';
 
 const STORAGE_KEY = 'ff-draft-assistant:drafted-ids';
 const LEAGUE_STORAGE_KEY = 'ff-draft-assistant:league-settings';
+const DRAFT_SLOT_STORAGE_KEY = 'ff-draft-assistant:draft-slot';
 
 const RANKINGS_FILES: Record<ScoringFormat, string> = {
   STD: 'data/vbd-rankings-std.json',
@@ -26,14 +28,32 @@ export class DraftBoardService {
   // runtime — different leagues need different replacement-level math, and
   // this recomputes live with no pipeline rebuild required.
   readonly leagueSettings = signal<LeagueSettings>(this.loadLeagueSettings());
+  // Your slot in the snake draft (1-indexed), or null if not set - powers
+  // the "will this player survive to my next pick" estimate. Nothing below
+  // depends on this being set; it's an optional overlay.
+  readonly draftSlot = signal<number | null>(this.loadDraftSlot());
 
-  // Recomputed every time the drafted set, loaded format, or league settings
-  // change: replacement value at each position is the projected points of
-  // the player at the replacement rank among whoever's still on the board —
-  // so as a position thins out, its remaining players' VBD shifts live.
+  // Recomputed every time the drafted set, loaded format, league settings,
+  // or draft slot change: replacement value at each position is the
+  // projected points of the player at the replacement rank among whoever's
+  // still on the board — so as a position thins out, its remaining
+  // players' VBD shifts live.
   readonly liveEntries = computed<LiveVbdEntry[]>(() =>
-    this.computeLive(this.entries(), this.draftedIds(), this.leagueSettings())
+    this.computeLive(
+      this.entries(),
+      this.draftedIds(),
+      this.leagueSettings(),
+      this.draftSlot()
+    )
   );
+
+  // How many picks (by anyone) happen before your next turn - null if no
+  // draft slot is set.
+  readonly picksUntilMyTurn = computed<number | null>(() => {
+    const slot = this.draftSlot();
+    if (slot === null) return null;
+    return calcPicksUntilMyTurn(this.draftedIds().size, slot, this.leagueSettings().teams);
+  });
 
   constructor(private readonly http: HttpClient) {
     void this.setScoring('PPR');
@@ -85,11 +105,26 @@ export class DraftBoardService {
     this.saveLeagueSettings(next);
   }
 
+  setDraftSlot(slot: number | null): void {
+    this.draftSlot.set(slot);
+    try {
+      if (slot === null) localStorage.removeItem(DRAFT_SLOT_STORAGE_KEY);
+      else localStorage.setItem(DRAFT_SLOT_STORAGE_KEY, String(slot));
+    } catch {
+      // localStorage unavailable — setting just won't persist across a refresh.
+    }
+  }
+
   private computeLive(
     entries: VbdEntry[],
     drafted: Set<string>,
-    league: LeagueSettings
+    league: LeagueSettings,
+    draftSlot: number | null
   ): LiveVbdEntry[] {
+    const targetPick =
+      draftSlot === null
+        ? null
+        : drafted.size + 1 + calcPicksUntilMyTurn(drafted.size, draftSlot, league.teams);
     const available = entries.filter((e) => !drafted.has(e.sleeperId));
 
     const byPosition = new Map<string, VbdEntry[]>();
@@ -110,6 +145,10 @@ export class DraftBoardService {
     const live: LiveVbdEntry[] = entries.map((e) => {
       const isDrafted = drafted.has(e.sleeperId);
       const replacementValue = replacementValues.get(e.position) ?? e.replacementValue;
+      const survivalPct =
+        isDrafted || targetPick === null
+          ? null
+          : survivalProbability(e.fpRankAve, e.fpRankStd, targetPick);
       return {
         ...e,
         drafted: isDrafted,
@@ -119,6 +158,7 @@ export class DraftBoardService {
           : Math.round((e.projectedPoints - replacementValue) * 10) / 10,
         livePositionRank: 0,
         liveOverallRank: 0,
+        survivalPct,
       };
     });
 
@@ -157,6 +197,16 @@ export class DraftBoardService {
       localStorage.setItem(LEAGUE_STORAGE_KEY, JSON.stringify(settings));
     } catch {
       // localStorage unavailable — setting just won't persist across a refresh.
+    }
+  }
+
+  private loadDraftSlot(): number | null {
+    try {
+      const raw = localStorage.getItem(DRAFT_SLOT_STORAGE_KEY);
+      const n = raw ? Number(raw) : NaN;
+      return Number.isFinite(n) ? n : null;
+    } catch {
+      return null;
     }
   }
 
