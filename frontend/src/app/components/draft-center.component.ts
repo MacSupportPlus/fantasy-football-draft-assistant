@@ -1,8 +1,9 @@
-import { Component, EventEmitter, Output, computed } from '@angular/core';
+import { Component, EventEmitter, Output, computed, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { DraftBoardService } from '../services/draft-board.service';
 import { LiveVbdEntry } from '../models/vbd-entry.model';
 import { slotForPick } from '../vona';
+import { PlayerPickerComponent } from './player-picker.component';
 
 const TOP_PICKS_SIZE = 5;
 
@@ -15,14 +16,21 @@ interface DraftedRow {
 @Component({
   selector: 'app-draft-center',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, PlayerPickerComponent],
   templateUrl: './draft-center.component.html',
   styleUrl: './draft-center.component.css',
 })
 export class DraftCenterComponent {
   @Output() playerSelected = new EventEmitter<LiveVbdEntry>();
 
+  readonly showOpponentPicker = signal(false);
+
   constructor(public readonly board: DraftBoardService) {}
+
+  // Only meaningful once a draft slot is set - without one we don't know
+  // whose turn anything is, so there's nothing to gate.
+  readonly turnGateActive = computed(() => this.board.draftSlot() !== null);
+  readonly isMyTurn = computed(() => this.board.picksUntilMyTurn() === 0);
 
   private readonly unsatisfiedPositions = computed(
     () => new Set(this.board.positionalNeeds().filter((n) => !n.satisfied).map((n) => n.position))
@@ -57,8 +65,17 @@ export class DraftCenterComponent {
     return rows.reverse();
   });
 
+  // The "Draft" button on a recommended card is *your* pick - guarded by
+  // isMyTurn in the template so it can't be used to log someone else's.
   draft(entry: LiveVbdEntry): void {
     this.board.toggleDrafted(entry.sleeperId);
+  }
+
+  // Logging another team's pick is a distinct, explicitly-labeled action -
+  // never framed as "drafting" one of your own recommendations.
+  logOpponentPick(entry: LiveVbdEntry): void {
+    this.board.toggleDrafted(entry.sleeperId);
+    this.showOpponentPicker.set(false);
   }
 
   selectPlayer(entry: LiveVbdEntry): void {

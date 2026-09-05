@@ -1,36 +1,57 @@
 <div class="draft-center">
   <section class="recommend-panel">
-    <h2 class="panel-title">Best available for you</h2>
-
-    @if (topPicks().length === 0) {
-      <p class="empty-msg">All rankable players have been drafted.</p>
-    }
-
-    @for (pick of topPicks(); track pick.entry.sleeperId; let i = $index) {
-      <div class="pick-card" [class.top]="i === 0">
-        <span class="pick-rank">#{{ pick.entry.liveOverallRank }}</span>
-
-        <div class="pick-main">
-          <div class="pick-name-row">
-            <button type="button" class="pick-name" (click)="selectPlayer(pick.entry)">{{ pick.entry.name }}</button>
-            <span class="pos-chip" [attr.data-pos]="pick.entry.position">{{ pick.entry.position }}{{ pick.entry.livePositionRank }}</span>
-            @if (pick.fillsNeed) {
-              <span class="need-badge">fills need</span>
-            }
-          </div>
-          <div class="pick-meta">
-            {{ pick.entry.team ?? '—' }} &middot; {{ pick.entry.projectedPoints }} proj pts
-            @if (pick.entry.survivalPct !== null) {
-              &middot; <span [class.low-survival]="pick.entry.survivalPct < 0.3">{{ (pick.entry.survivalPct * 100).toFixed(0) }}% survival</span>
-            }
-          </div>
-        </div>
-
-        <span class="pick-vbd">{{ pick.entry.liveVbdScore }}<small>VBD</small></span>
-        <button type="button" class="draft-btn" (click)="draft(pick.entry)">Draft</button>
+    @if (turnGateActive() && !isMyTurn()) {
+      <h2 class="panel-title">Not your turn</h2>
+      <div class="not-your-turn">
+        <p>
+          {{ board.picksUntilMyTurn() }} pick{{ board.picksUntilMyTurn() === 1 ? '' : 's' }}
+          until you're up. These recommendations will show again when it's your turn.
+        </p>
+        <button type="button" class="log-opponent-btn" (click)="showOpponentPicker.set(true)">
+          Log what the other team picked
+        </button>
       </div>
+    } @else {
+      <h2 class="panel-title">Best available for you</h2>
+
+      @if (topPicks().length === 0) {
+        <p class="empty-msg">All rankable players have been drafted.</p>
+      }
+
+      @for (pick of topPicks(); track pick.entry.sleeperId; let i = $index) {
+        <div class="pick-card" [class.top]="i === 0">
+          <span class="pick-rank">#{{ pick.entry.liveOverallRank }}</span>
+
+          <div class="pick-main">
+            <div class="pick-name-row">
+              <button type="button" class="pick-name" (click)="selectPlayer(pick.entry)">{{ pick.entry.name }}</button>
+              <span class="pos-chip" [attr.data-pos]="pick.entry.position">{{ pick.entry.position }}{{ pick.entry.livePositionRank }}</span>
+              @if (pick.fillsNeed) {
+                <span class="need-badge">fills need</span>
+              }
+            </div>
+            <div class="pick-meta">
+              {{ pick.entry.team ?? '—' }} &middot; {{ pick.entry.projectedPoints }} proj pts
+              @if (pick.entry.survivalPct !== null) {
+                &middot; <span [class.low-survival]="pick.entry.survivalPct < 0.3">{{ (pick.entry.survivalPct * 100).toFixed(0) }}% survival</span>
+              }
+            </div>
+          </div>
+
+          <span class="pick-vbd">{{ pick.entry.liveVbdScore }}<small>VBD</small></span>
+          <button type="button" class="draft-btn" (click)="draft(pick.entry)">Draft</button>
+        </div>
+      }
     }
   </section>
+
+  @if (showOpponentPicker()) {
+    <app-player-picker
+      title="Who did the other team pick?"
+      (picked)="logOpponentPick($event)"
+      (cancelled)="showOpponentPicker.set(false)"
+    />
+  }
 
   <section class="log-panel">
     <h2 class="panel-title">Draft log <span class="log-count">({{ draftedRows().length }})</span></h2>

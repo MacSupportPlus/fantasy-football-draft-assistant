@@ -31,6 +31,35 @@
   gap: 10px;
 }
 
+.not-your-turn {
+  background: #12151a;
+  border: 1px solid #22262e;
+  border-radius: 12px;
+  padding: 24px;
+  text-align: center;
+}
+
+.not-your-turn p {
+  color: #9aa2ad;
+  font-size: 0.88rem;
+  margin: 0 0 16px;
+}
+
+.log-opponent-btn {
+  border: 1px solid #262b34;
+  background: #171a20;
+  color: #cfd4db;
+  padding: 9px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.84rem;
+}
+
+.log-opponent-btn:hover {
+  border-color: #ffbf6b;
+  color: #ffbf6b;
+}
+
 .pick-card {
   display: flex;
   align-items: center;
