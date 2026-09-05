@@ -2,9 +2,10 @@ import { Injectable, computed, signal } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { firstValueFrom } from 'rxjs';
 import { LiveVbdEntry, ScoringFormat, VbdEntry } from '../models/vbd-entry.model';
-import { DEFAULT_LEAGUE_SETTINGS, replacementRank } from '../league-settings';
+import { DEFAULT_LEAGUE_SETTINGS, LeagueSettings, replacementRank } from '../league-settings';
 
 const STORAGE_KEY = 'ff-draft-assistant:drafted-ids';
+const LEAGUE_STORAGE_KEY = 'ff-draft-assistant:league-settings';
 
 const RANKINGS_FILES: Record<ScoringFormat, string> = {
   STD: 'data/vbd-rankings-std.json',
@@ -21,13 +22,17 @@ export class DraftBoardService {
   readonly loading = signal(false);
   readonly error = signal<string | null>(null);
   readonly draftedIds = signal<Set<string>>(this.loadDraftedIds());
+  // Team count (and, if ever needed, starters/flex share) is adjustable at
+  // runtime — different leagues need different replacement-level math, and
+  // this recomputes live with no pipeline rebuild required.
+  readonly leagueSettings = signal<LeagueSettings>(this.loadLeagueSettings());
 
-  // Recomputed every time the drafted set or the loaded format changes:
-  // replacement value at each position is the projected points of the
-  // player at the replacement rank among whoever's still on the board —
+  // Recomputed every time the drafted set, loaded format, or league settings
+  // change: replacement value at each position is the projected points of
+  // the player at the replacement rank among whoever's still on the board —
   // so as a position thins out, its remaining players' VBD shifts live.
   readonly liveEntries = computed<LiveVbdEntry[]>(() =>
-    this.computeLive(this.entries(), this.draftedIds())
+    this.computeLive(this.entries(), this.draftedIds(), this.leagueSettings())
   );
 
   constructor(private readonly http: HttpClient) {
@@ -74,9 +79,16 @@ export class DraftBoardService {
     this.saveDraftedIds(new Set());
   }
 
+  setTeams(teams: number): void {
+    const next = { ...this.leagueSettings(), teams };
+    this.leagueSettings.set(next);
+    this.saveLeagueSettings(next);
+  }
+
   private computeLive(
     entries: VbdEntry[],
-    drafted: Set<string>
+    drafted: Set<string>,
+    league: LeagueSettings
   ): LiveVbdEntry[] {
     const available = entries.filter((e) => !drafted.has(e.sleeperId));
 
@@ -90,7 +102,7 @@ export class DraftBoardService {
     const replacementValues = new Map<string, number>();
     for (const [position, list] of byPosition) {
       const sorted = [...list].sort((a, b) => b.projectedPoints - a.projectedPoints);
-      const rank = replacementRank(position, DEFAULT_LEAGUE_SETTINGS);
+      const rank = replacementRank(position, league);
       const idx = Math.min(rank, sorted.length) - 1;
       replacementValues.set(position, sorted[Math.max(idx, 0)]?.projectedPoints ?? 0);
     }
@@ -129,6 +141,23 @@ export class DraftBoardService {
     }
 
     return [...stillAvailable, ...draftedList];
+  }
+
+  private loadLeagueSettings(): LeagueSettings {
+    try {
+      const raw = localStorage.getItem(LEAGUE_STORAGE_KEY);
+      return raw ? { ...DEFAULT_LEAGUE_SETTINGS, ...JSON.parse(raw) } : DEFAULT_LEAGUE_SETTINGS;
+    } catch {
+      return DEFAULT_LEAGUE_SETTINGS;
+    }
+  }
+
+  private saveLeagueSettings(settings: LeagueSettings): void {
+    try {
+      localStorage.setItem(LEAGUE_STORAGE_KEY, JSON.stringify(settings));
+    } catch {
+      // localStorage unavailable — setting just won't persist across a refresh.
+    }
   }
 
   private loadDraftedIds(): Set<string> {

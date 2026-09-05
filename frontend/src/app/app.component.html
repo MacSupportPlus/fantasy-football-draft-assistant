@@ -3,7 +3,7 @@
     <div class="header-title">
       <span class="eyebrow">Draft Board</span>
       <h1>Value-Based Rankings</h1>
-      <span class="subtitle">Live-updated as you pick &middot; 14-team league</span>
+      <span class="subtitle">Live-updated as you pick &middot; {{ board.leagueSettings().teams }}-team league</span>
     </div>
 
     <div class="header-actions">
@@ -18,6 +18,19 @@
       <button type="button" class="glossary-btn" (click)="showGlossary.set(true)">
         <span class="mini-icon">i</span> How to read this
       </button>
+      <div class="teams-toggle">
+        <span class="teams-label">Teams</span>
+        @for (n of teamOptions; track n) {
+          <button
+            type="button"
+            class="teams-btn"
+            [class.active]="board.leagueSettings().teams === n"
+            (click)="board.setTeams(n)"
+          >
+            {{ n }}
+          </button>
+        }
+      </div>
       <div class="scoring-toggle">
         @for (fmt of scoringOptions; track fmt[0]) {
           <button

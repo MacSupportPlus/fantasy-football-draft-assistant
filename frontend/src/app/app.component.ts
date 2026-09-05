@@ -18,6 +18,7 @@ const SCORING_OPTIONS: [ScoringFormat, string][] = [
   ['HALF_PPR', 'Half PPR'],
   ['PPR', 'PPR'],
 ];
+const TEAM_OPTIONS = [8, 10, 12, 14, 16];
 
 @Component({
   selector: 'app-root',
@@ -37,6 +38,7 @@ const SCORING_OPTIONS: [ScoringFormat, string][] = [
 export class AppComponent {
   readonly positions = POSITIONS;
   readonly scoringOptions = SCORING_OPTIONS;
+  readonly teamOptions = TEAM_OPTIONS;
   readonly positionFilter = signal<(typeof POSITIONS)[number]>('ALL');
   readonly search = signal('');
   readonly hideDrafted = signal(false);
