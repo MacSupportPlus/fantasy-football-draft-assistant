@@ -3,11 +3,13 @@ import { HttpClient } from '@angular/common/http';
 import { firstValueFrom } from 'rxjs';
 import { LiveVbdEntry, ScoringFormat, VbdEntry } from '../models/vbd-entry.model';
 import { DEFAULT_LEAGUE_SETTINGS, LeagueSettings, replacementRank } from '../league-settings';
-import { picksUntilMyTurn as calcPicksUntilMyTurn, survivalProbability } from '../vona';
+import { picksUntilMyTurn as calcPicksUntilMyTurn, slotForPick, survivalProbability } from '../vona';
+import { computePositionalNeeds, PositionNeed } from '../roster';
 
 const STORAGE_KEY = 'ff-draft-assistant:drafted-ids';
 const LEAGUE_STORAGE_KEY = 'ff-draft-assistant:league-settings';
 const DRAFT_SLOT_STORAGE_KEY = 'ff-draft-assistant:draft-slot';
+const DRAFT_ORDER_STORAGE_KEY = 'ff-draft-assistant:draft-order';
 
 const RANKINGS_FILES: Record<ScoringFormat, string> = {
   STD: 'data/vbd-rankings-std.json',
@@ -24,6 +26,10 @@ export class DraftBoardService {
   readonly loading = signal(false);
   readonly error = signal<string | null>(null);
   readonly draftedIds = signal<Set<string>>(this.loadDraftedIds());
+  // Same information as draftedIds, but *in the order picks happened* -
+  // needed to figure out which picks were actually yours (assumes every
+  // pick in the room gets clicked, not just your own, in order).
+  readonly draftOrder = signal<string[]>(this.loadDraftOrder());
   // Team count (and, if ever needed, starters/flex share) is adjustable at
   // runtime — different leagues need different replacement-level math, and
   // this recomputes live with no pipeline rebuild required.
@@ -55,6 +61,30 @@ export class DraftBoardService {
     return calcPicksUntilMyTurn(this.draftedIds().size, slot, this.leagueSettings().teams);
   });
 
+  // Which of the picks made so far were actually yours, worked out from
+  // pick order + your slot + snake order - no manual "this one's mine"
+  // tagging needed, as long as every pick gets clicked in order.
+  readonly myRoster = computed<LiveVbdEntry[]>(() => {
+    const slot = this.draftSlot();
+    if (slot === null) return [];
+    const teams = this.leagueSettings().teams;
+    const order = this.draftOrder();
+
+    const myIds = new Set<string>();
+    order.forEach((id, i) => {
+      if (slotForPick(i + 1, teams) === slot) myIds.add(id);
+    });
+
+    return this.liveEntries().filter((e) => myIds.has(e.sleeperId));
+  });
+
+  readonly positionalNeeds = computed<PositionNeed[]>(() =>
+    computePositionalNeeds(
+      this.myRoster().map((e) => e.position),
+      this.leagueSettings()
+    )
+  );
+
   constructor(private readonly http: HttpClient) {
     void this.setScoring('PPR');
   }
@@ -85,18 +115,26 @@ export class DraftBoardService {
 
   toggleDrafted(sleeperId: string): void {
     const next = new Set(this.draftedIds());
+    const nextOrder = [...this.draftOrder()];
     if (next.has(sleeperId)) {
       next.delete(sleeperId);
+      const idx = nextOrder.indexOf(sleeperId);
+      if (idx !== -1) nextOrder.splice(idx, 1);
     } else {
       next.add(sleeperId);
+      nextOrder.push(sleeperId);
     }
     this.draftedIds.set(next);
     this.saveDraftedIds(next);
+    this.draftOrder.set(nextOrder);
+    this.saveDraftOrder(nextOrder);
   }
 
   resetDraft(): void {
     this.draftedIds.set(new Set());
     this.saveDraftedIds(new Set());
+    this.draftOrder.set([]);
+    this.saveDraftOrder([]);
   }
 
   setTeams(teams: number): void {
@@ -207,6 +245,23 @@ export class DraftBoardService {
       return Number.isFinite(n) ? n : null;
     } catch {
       return null;
+    }
+  }
+
+  private loadDraftOrder(): string[] {
+    try {
+      const raw = localStorage.getItem(DRAFT_ORDER_STORAGE_KEY);
+      return raw ? JSON.parse(raw) : [];
+    } catch {
+      return [];
+    }
+  }
+
+  private saveDraftOrder(order: string[]): void {
+    try {
+      localStorage.setItem(DRAFT_ORDER_STORAGE_KEY, JSON.stringify(order));
+    } catch {
+      // localStorage unavailable — order just won't persist across a refresh.
     }
   }
 

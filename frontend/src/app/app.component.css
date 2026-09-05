@@ -103,6 +103,49 @@
   font-family: Georgia, serif;
 }
 
+.my-team {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+
+.my-team-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6b7280;
+  margin-right: 4px;
+}
+
+.need-pill {
+  border: 1px solid #262b34;
+  background: #171a20;
+  color: #9aa2ad;
+  padding: 5px 11px;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.need-pill:disabled {
+  cursor: default;
+}
+
+.need-pill.satisfied {
+  border-color: #2f5c3d;
+  background: rgba(111, 224, 160, 0.08);
+  color: #6fe0a0;
+}
+
+.need-pill.unsatisfied {
+  border-color: #4a3618;
+  background: rgba(255, 191, 107, 0.08);
+  color: #ffbf6b;
+}
+
 .charts-toggle-row {
   margin-bottom: 12px;
 }

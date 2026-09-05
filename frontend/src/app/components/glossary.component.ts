@@ -7,7 +7,7 @@ import { METRICS } from '../metrics-glossary';
 const SECTIONS: { title: string; keys: string[] }[] = [
   {
     title: 'Draft board columns',
-    keys: ['overallRank', 'positionRank', 'position', 'team', 'projectedPoints', 'vbdScore', 'fpPositionRank', 'rankDelta', 'survivalPct', 'source'],
+    keys: ['myTeam', 'overallRank', 'positionRank', 'position', 'team', 'projectedPoints', 'vbdScore', 'fpPositionRank', 'rankDelta', 'survivalPct', 'source'],
   },
   {
     title: 'Player card',

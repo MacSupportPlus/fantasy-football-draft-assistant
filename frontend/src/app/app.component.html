@@ -59,6 +59,24 @@
     </div>
   </header>
 
+  @if (board.draftSlot() !== null) {
+    <div class="my-team">
+      <span class="my-team-label">My Team<app-info-icon metricKey="myTeam" /></span>
+      @for (need of board.positionalNeeds(); track need.position) {
+        <button
+          type="button"
+          class="need-pill"
+          [class.satisfied]="need.satisfied"
+          [class.unsatisfied]="!need.satisfied && need.filled === 0"
+          [disabled]="need.position === 'FLEX'"
+          (click)="onNeedPillClick(need.position)"
+        >
+          {{ need.position }} {{ need.filled }}/{{ need.needed }}
+        </button>
+      }
+    </div>
+  }
+
   @if (viewMode() === 'draft-night') {
     <app-draft-night />
   } @else {

@@ -75,6 +75,12 @@ export class AppComponent {
     this.positionFilter.set(pos);
   }
 
+  onNeedPillClick(position: string): void {
+    if ((POSITIONS as readonly string[]).includes(position)) {
+      this.setPositionFilter(position as (typeof POSITIONS)[number]);
+    }
+  }
+
   onDraftSlotInput(value: string): void {
     const n = Number(value);
     this.board.setDraftSlot(value.trim() === '' || !Number.isFinite(n) || n < 1 ? null : n);

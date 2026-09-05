@@ -65,6 +65,11 @@ export const METRICS: Record<string, MetricDefinition> = {
     short: "Odds this player is still available next time it's your turn to pick.",
     long: "Estimated probability this player is still on the board the next time you're on the clock, based on your draft slot. Models the player's actual draft position as a bell curve centered on FantasyPros' expert-panel average rank, with the panel's own disagreement (standard deviation) as the spread — a player experts agree on tightly is nearly certain to go right around their average slot; one with wide disagreement could go much earlier or later than average. Set \"Your pick\" in the header to see this column. A low percentage means: take them now if you want them, they likely won't survive to your next turn. A high percentage means it's safe to wait and grab a scarcer player instead.",
   },
+  myTeam: {
+    label: 'My Team',
+    short: 'Your roster by position, filled vs. needed - worked out from pick order, not manual tagging.',
+    long: 'Shows what you\'ve drafted so far by position against your league\'s starting requirements. This is inferred automatically: with "Your pick" set in the header, every pick gets attributed to a slot using snake-draft order, and any pick landing on your slot counts toward your roster - no need to separately mark which picks were yours, as long as every pick in the room gets clicked (not just your own). RB/WR/TE drafted beyond their own starter slots count toward the shared FLEX slot. Click a pill to jump the table/filter to that position.',
+  },
   source: {
     label: 'est. badge',
     short: 'No usable NFL stats — projection is estimated from FantasyPros rank instead.',

@@ -29,6 +29,15 @@ export function picksUntilMyTurn(picksMade: number, mySlot: number, teams: numbe
   return Math.max(0, next - (picksMade + 1));
 }
 
+// Inverse of pickNumberForRound: which slot does a given overall pick
+// number belong to? Used to figure out, after the fact, which of the
+// picks made so far were actually yours.
+export function slotForPick(pickNumber: number, teams: number): number {
+  const round = Math.ceil(pickNumber / teams);
+  const roundIsOdd = round % 2 === 1;
+  return roundIsOdd ? pickNumber - (round - 1) * teams : round * teams - pickNumber + 1;
+}
+
 // Standard normal CDF via the Abramowitz & Stegun 7.1.26 approximation
 // (max error ~1.5e-7) — no stats library needed for this.
 function normalCdf(x: number): number {
