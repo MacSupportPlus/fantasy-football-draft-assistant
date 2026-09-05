@@ -9,8 +9,9 @@ import { ValueChartComponent } from './components/value-chart.component';
 import { InfoIconComponent } from './components/info-icon.component';
 import { GlossaryComponent } from './components/glossary.component';
 import { DraftNightComponent } from './components/draft-night.component';
+import { DraftCenterComponent } from './components/draft-center.component';
 
-type ViewMode = 'table' | 'draft-night';
+type ViewMode = 'draft-center' | 'table' | 'draft-night';
 
 const POSITIONS = ['ALL', 'QB', 'RB', 'WR', 'TE', 'DST', 'K'] as const;
 const SCORING_OPTIONS: [ScoringFormat, string][] = [
@@ -31,6 +32,7 @@ const TEAM_OPTIONS = [8, 10, 12, 14, 16];
     InfoIconComponent,
     GlossaryComponent,
     DraftNightComponent,
+    DraftCenterComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
@@ -45,7 +47,7 @@ export class AppComponent {
   readonly selectedDetail = signal<PlayerDetail | null>(null);
   readonly showCharts = signal(true);
   readonly showGlossary = signal(false);
-  readonly viewMode = signal<ViewMode>('table');
+  readonly viewMode = signal<ViewMode>('draft-center');
 
   readonly filtered = computed(() => {
     const pos = this.positionFilter();
