@@ -1592,14 +1592,6 @@
     "gsisId": "00-0036265"
   },
   {
-    "sleeperId": "6843",
-    "name": "Albert Okwuegbunam",
-    "position": "TE",
-    "team": "LV",
-    "fantasyProsId": 18246,
-    "gsisId": "00-0036423"
-  },
-  {
     "sleeperId": "6847",
     "name": "Devin Duvernay",
     "position": "WR",
@@ -2610,7 +2602,7 @@
   {
     "sleeperId": "8181",
     "name": "Connor Heyward",
-    "position": "TE",
+    "position": "RB",
     "team": "LV",
     "fantasyProsId": 24562,
     "gsisId": "00-0037304"
@@ -3772,7 +3764,7 @@
     "name": "Sam Hartman",
     "position": "QB",
     "team": "WAS",
-    "fantasyProsId": null,
+    "fantasyProsId": 24340,
     "gsisId": null
   },
   {
@@ -4608,14 +4600,6 @@
     "gsisId": "00-0040653"
   },
   {
-    "sleeperId": "12476",
-    "name": "Devin Neal",
-    "position": "RB",
-    "team": "NO",
-    "fantasyProsId": 23682,
-    "gsisId": "00-0040202"
-  },
-  {
     "sleeperId": "12477",
     "name": "Kurtis Rourke",
     "position": "QB",
@@ -4982,14 +4966,6 @@
     "team": "NE",
     "fantasyProsId": 23065,
     "gsisId": "00-0040734"
-  },
-  {
-    "sleeperId": "12530",
-    "name": "Travis Hunter",
-    "position": "WR",
-    "team": "JAX",
-    "fantasyProsId": 26034,
-    "gsisId": "00-0040718"
   },
   {
     "sleeperId": "12531",
@@ -5364,7 +5340,7 @@
     "name": "Dalen Cambre",
     "position": "WR",
     "team": "NYG",
-    "fantasyProsId": null,
+    "fantasyProsId": 27663,
     "gsisId": null
   },
   {
@@ -5429,14 +5405,6 @@
     "position": "TE",
     "team": "MIN",
     "fantasyProsId": 25998,
-    "gsisId": null
-  },
-  {
-    "sleeperId": "12946",
-    "name": "Dontae Fleming",
-    "position": "WR",
-    "team": "MIN",
-    "fantasyProsId": 27718,
     "gsisId": null
   },
   {
@@ -5637,14 +5605,6 @@
     "position": "TE",
     "team": "GB",
     "fantasyProsId": 27916,
-    "gsisId": null
-  },
-  {
-    "sleeperId": "13227",
-    "name": "Mitch Van Vooren",
-    "position": "WR",
-    "team": "DAL",
-    "fantasyProsId": null,
     "gsisId": null
   },
   {
@@ -6004,7 +5964,7 @@
     "name": "Dan Villari",
     "position": "TE",
     "team": "LAR",
-    "fantasyProsId": null,
+    "fantasyProsId": 28674,
     "gsisId": "00-0041422"
   },
   {
@@ -6600,14 +6560,6 @@
     "gsisId": null
   },
   {
-    "sleeperId": "13604",
-    "name": "Sincere Brown",
-    "position": "WR",
-    "team": "LAC",
-    "fantasyProsId": null,
-    "gsisId": null
-  },
-  {
     "sleeperId": "13621",
     "name": "Dillon Bell",
     "position": "WR",
@@ -6686,14 +6638,6 @@
     "team": "CHI",
     "fantasyProsId": 28597,
     "gsisId": null
-  },
-  {
-    "sleeperId": "13725",
-    "name": "Dominic Richardson",
-    "position": "RB",
-    "team": "NYJ",
-    "fantasyProsId": 28581,
-    "gsisId": "00-0040937"
   },
   {
     "sleeperId": "13726",
