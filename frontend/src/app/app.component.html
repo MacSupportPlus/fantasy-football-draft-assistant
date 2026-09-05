@@ -17,6 +17,9 @@
         <button type="button" class="view-btn" [class.active]="viewMode() === 'draft-night'" (click)="viewMode.set('draft-night')">
           🏈 Draft Night
         </button>
+        <button type="button" class="view-btn" [class.active]="viewMode() === 'draft-grid'" (click)="viewMode.set('draft-grid')">
+          📋 Draft Board
+        </button>
       </div>
       <button type="button" class="glossary-btn" (click)="showGlossary.set(true)">
         <span class="mini-icon">i</span> How to read this
@@ -84,6 +87,8 @@
     <app-draft-center (playerSelected)="openPlayer($event)" />
   } @else if (viewMode() === 'draft-night') {
     <app-draft-night />
+  } @else if (viewMode() === 'draft-grid') {
+    <app-draft-grid (playerSelected)="openPlayer($event)" />
   } @else {
 
   <div class="charts-toggle-row">

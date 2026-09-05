@@ -5,7 +5,7 @@
 
 // The overall pick number (1-indexed) that belongs to slot `mySlot` in a
 // given round of a snake draft with `teams` teams.
-function pickNumberForRound(round: number, mySlot: number, teams: number): number {
+export function pickNumberForRound(round: number, mySlot: number, teams: number): number {
   const roundIsOdd = round % 2 === 1;
   return roundIsOdd ? (round - 1) * teams + mySlot : round * teams - mySlot + 1;
 }

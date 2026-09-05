@@ -10,8 +10,9 @@ import { InfoIconComponent } from './components/info-icon.component';
 import { GlossaryComponent } from './components/glossary.component';
 import { DraftNightComponent } from './components/draft-night.component';
 import { DraftCenterComponent } from './components/draft-center.component';
+import { DraftGridComponent } from './components/draft-grid.component';
 
-type ViewMode = 'draft-center' | 'table' | 'draft-night';
+type ViewMode = 'draft-center' | 'table' | 'draft-night' | 'draft-grid';
 type SortColumn =
   | 'overallRank'
   | 'name'
@@ -57,6 +58,7 @@ const TEAM_OPTIONS = [8, 10, 12, 14, 16];
     GlossaryComponent,
     DraftNightComponent,
     DraftCenterComponent,
+    DraftGridComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',

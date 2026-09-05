@@ -114,27 +114,62 @@ export class DraftBoardService {
   }
 
   toggleDrafted(sleeperId: string): void {
-    const next = new Set(this.draftedIds());
-    const nextOrder = [...this.draftOrder()];
-    if (next.has(sleeperId)) {
-      next.delete(sleeperId);
-      const idx = nextOrder.indexOf(sleeperId);
-      if (idx !== -1) nextOrder.splice(idx, 1);
+    const order = [...this.draftOrder()];
+    const idx = order.indexOf(sleeperId);
+    if (idx !== -1) {
+      order.splice(idx, 1);
     } else {
-      next.add(sleeperId);
-      nextOrder.push(sleeperId);
+      order.push(sleeperId);
     }
-    this.draftedIds.set(next);
-    this.saveDraftedIds(next);
-    this.draftOrder.set(nextOrder);
-    this.saveDraftOrder(nextOrder);
+    this.commitOrder(order);
   }
 
   resetDraft(): void {
-    this.draftedIds.set(new Set());
-    this.saveDraftedIds(new Set());
-    this.draftOrder.set([]);
-    this.saveDraftOrder([]);
+    this.commitOrder([]);
+  }
+
+  // Fixing mistakes: these all operate on pick *position* (0-indexed into
+  // draftOrder), not on a player identity, since the whole point is
+  // correcting what got recorded at a given spot in the sequence. Callers
+  // (the draft grid / edit picker) are expected to only offer currently-
+  // undrafted players as candidates, so a player being placed here is never
+  // already elsewhere in the order.
+
+  // Adds a pick at an arbitrary position, shifting everything from that
+  // index onward down by one - for a pick that was missed in the moment
+  // and is being logged after the fact, in its correct historical spot.
+  insertPickAt(index: number, sleeperId: string): void {
+    const order = [...this.draftOrder()];
+    const clampedIndex = Math.max(0, Math.min(index, order.length));
+    order.splice(clampedIndex, 0, sleeperId);
+    this.commitOrder(order);
+  }
+
+  // Swaps out whichever player is currently recorded at `index` for a
+  // different one - for a misclick, without disturbing anything else's
+  // position in the sequence.
+  replacePickAt(index: number, sleeperId: string): void {
+    const order = [...this.draftOrder()];
+    if (index < 0 || index >= order.length) return;
+    order[index] = sleeperId;
+    this.commitOrder(order);
+  }
+
+  // Removes whatever's at `index` entirely, shifting everything after it
+  // up by one.
+  removePickAt(index: number): void {
+    const order = [...this.draftOrder()];
+    if (index < 0 || index >= order.length) return;
+    order.splice(index, 1);
+    this.commitOrder(order);
+  }
+
+  private commitOrder(order: string[]): void {
+    this.draftOrder.set(order);
+    this.saveDraftOrder(order);
+    const ids = new Set(order);
+    this.draftedIds.set(ids);
+    this.saveDraftedIds(ids);
   }
 
   setTeams(teams: number): void {

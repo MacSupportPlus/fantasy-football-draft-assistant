@@ -1,0 +1,72 @@
+<div class="grid-wrap">
+  <p class="grid-hint">
+    Click any completed pick to fix it (replace, insert a missed pick before it, or remove it). Click the highlighted "on the clock" cell to log the next pick.
+  </p>
+
+  <div class="grid-scroll">
+    <table class="draft-grid">
+      <thead>
+        <tr>
+          <th class="round-col"></th>
+          @for (slot of slots(); track slot) {
+            <th [class.mine-col]="board.draftSlot() === slot">
+              Slot {{ slot }}
+              @if (board.draftSlot() === slot) {
+                <span class="you-tag">(You)</span>
+              }
+            </th>
+          }
+        </tr>
+      </thead>
+      <tbody>
+        @for (row of rows(); track row.round) {
+          <tr>
+            <td class="round-col">R{{ row.round }}</td>
+            @for (cell of row.cells; track cell.pickNumber) {
+              <td>
+                <button
+                  type="button"
+                  class="grid-cell"
+                  [class.filled]="cell.entry"
+                  [class.mine]="cell.isMine"
+                  [class.next]="cell.isNext"
+                  [class.inert]="!cell.entry && !cell.isNext"
+                  [disabled]="!cell.entry && !cell.isNext"
+                  [attr.data-pos]="cell.entry?.position"
+                  (click)="cellClick(cell)"
+                >
+                  <span class="cell-pick-num">#{{ cell.pickNumber }}</span>
+                  @if (cell.entry) {
+                    <span class="cell-name">{{ cell.entry.name }}</span>
+                    <span class="cell-meta">{{ cell.entry.position }} &middot; {{ cell.entry.team ?? '—' }}</span>
+                  } @else if (cell.isNext) {
+                    <span class="cell-name">On the clock</span>
+                  } @else {
+                    <span class="cell-name">—</span>
+                  }
+                </button>
+              </td>
+            }
+          </tr>
+        }
+      </tbody>
+    </table>
+  </div>
+</div>
+
+@if (actionTarget(); as target) {
+  <div class="action-backdrop" (click)="cancelAction()">
+    <div class="action-modal" (click)="$event.stopPropagation()">
+      <h3>Pick #{{ target.index + 1 }}: {{ target.entry.name }}</h3>
+      <button type="button" class="action-btn" (click)="selectPlayer(target.entry); cancelAction()">View player stats</button>
+      <button type="button" class="action-btn" (click)="chooseReplace()">Replace with a different player</button>
+      <button type="button" class="action-btn" (click)="chooseInsertBefore()">Insert a missed pick before this one</button>
+      <button type="button" class="action-btn danger" (click)="chooseRemove()">Remove this pick</button>
+      <button type="button" class="action-btn cancel" (click)="cancelAction()">Cancel</button>
+    </div>
+  </div>
+}
+
+@if (pickerMode()) {
+  <app-player-picker [title]="pickerTitle()" (picked)="onPicked($event)" (cancelled)="cancelPicker()" />
+}

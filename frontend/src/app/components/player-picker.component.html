@@ -1,0 +1,30 @@
+<div class="backdrop" (click)="onBackdropClick($event)">
+  <div class="picker">
+    <div class="picker-header">
+      <h3>{{ title }}</h3>
+      <button type="button" class="close-btn" (click)="cancel()" aria-label="Cancel">×</button>
+    </div>
+
+    <input
+      class="picker-search"
+      type="text"
+      placeholder="Search players..."
+      autofocus
+      [value]="search()"
+      (input)="onSearchInput($any($event.target).value)"
+    />
+
+    <div class="picker-list">
+      @for (e of results(); track e.sleeperId) {
+        <button type="button" class="picker-row" (click)="select(e)">
+          <span class="pos-chip" [attr.data-pos]="e.position">{{ e.position }}</span>
+          <span class="picker-name">{{ e.name }}</span>
+          <span class="picker-team">{{ e.team ?? '—' }}</span>
+          <span class="picker-vbd">{{ e.liveVbdScore }}</span>
+        </button>
+      } @empty {
+        <p class="picker-empty">No available players match.</p>
+      }
+    </div>
+  </div>
+</div>
