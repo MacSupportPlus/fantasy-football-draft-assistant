@@ -372,6 +372,27 @@
   white-space: nowrap;
 }
 
+.sort-btn {
+  border: none;
+  background: none;
+  padding: 0;
+  color: inherit;
+  font: inherit;
+  text-transform: inherit;
+  letter-spacing: inherit;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.sort-btn:hover {
+  color: #e8eaed;
+}
+
+.sort-arrow {
+  color: #6fe0a0;
+  font-size: 0.65rem;
+}
+
 .board td {
   padding: 10px 12px;
   border-bottom: 1px solid #1c2027;

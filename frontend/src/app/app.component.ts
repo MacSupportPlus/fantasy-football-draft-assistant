@@ -12,6 +12,30 @@ import { DraftNightComponent } from './components/draft-night.component';
 import { DraftCenterComponent } from './components/draft-center.component';
 
 type ViewMode = 'draft-center' | 'table' | 'draft-night';
+type SortColumn =
+  | 'overallRank'
+  | 'name'
+  | 'position'
+  | 'positionRank'
+  | 'team'
+  | 'projectedPoints'
+  | 'vbdScore'
+  | 'fpPositionRank'
+  | 'delta'
+  | 'survivalPct';
+type SortDirection = 'asc' | 'desc';
+
+// Text columns read naturally A-Z first; every numeric/ranked column reads
+// naturally highest-value-first (rank 1 is "highest," so rank columns sort
+// ascending by default even though they're numeric).
+const ASCENDING_BY_DEFAULT: ReadonlySet<SortColumn> = new Set([
+  'name',
+  'position',
+  'team',
+  'overallRank',
+  'positionRank',
+  'fpPositionRank',
+]);
 
 const POSITIONS = ['ALL', 'QB', 'RB', 'WR', 'TE', 'DST', 'K'] as const;
 const SCORING_OPTIONS: [ScoringFormat, string][] = [
@@ -48,17 +72,33 @@ export class AppComponent {
   readonly showCharts = signal(true);
   readonly showGlossary = signal(false);
   readonly viewMode = signal<ViewMode>('draft-center');
+  readonly sortColumn = signal<SortColumn | null>(null);
+  readonly sortDirection = signal<SortDirection>('desc');
 
   readonly filtered = computed(() => {
     const pos = this.positionFilter();
     const term = this.search().trim().toLowerCase();
     const hide = this.hideDrafted();
+    const column = this.sortColumn();
+    const direction = this.sortDirection();
 
-    return this.board.liveEntries().filter((e) => {
+    const rows = this.board.liveEntries().filter((e) => {
       if (pos !== 'ALL' && e.position !== pos) return false;
       if (term && !e.name.toLowerCase().includes(term)) return false;
       if (hide && e.drafted) return false;
       return true;
+    });
+
+    if (column === null) return rows;
+
+    const sign = direction === 'asc' ? 1 : -1;
+    return [...rows].sort((a, b) => {
+      const av = this.sortValue(a, column);
+      const bv = this.sortValue(b, column);
+      if (typeof av === 'string' || typeof bv === 'string') {
+        return sign * String(av).localeCompare(String(bv));
+      }
+      return sign * (av - bv);
     });
   });
 
@@ -75,6 +115,42 @@ export class AppComponent {
 
   setPositionFilter(pos: (typeof POSITIONS)[number]): void {
     this.positionFilter.set(pos);
+  }
+
+  // Clicking the same column again flips direction; clicking a new column
+  // starts at that column's natural default direction.
+  setSort(column: SortColumn): void {
+    if (this.sortColumn() === column) {
+      this.sortDirection.set(this.sortDirection() === 'asc' ? 'desc' : 'asc');
+    } else {
+      this.sortColumn.set(column);
+      this.sortDirection.set(ASCENDING_BY_DEFAULT.has(column) ? 'asc' : 'desc');
+    }
+  }
+
+  private sortValue(e: LiveVbdEntry, column: SortColumn): number | string {
+    switch (column) {
+      case 'overallRank':
+        return e.drafted ? Number.POSITIVE_INFINITY : e.liveOverallRank;
+      case 'name':
+        return e.name.toLowerCase();
+      case 'position':
+        return e.position;
+      case 'positionRank':
+        return e.drafted ? Number.POSITIVE_INFINITY : e.livePositionRank;
+      case 'team':
+        return e.team ?? '';
+      case 'projectedPoints':
+        return e.projectedPoints;
+      case 'vbdScore':
+        return e.liveVbdScore;
+      case 'fpPositionRank':
+        return this.fpPositionRankNum(e) ?? Number.POSITIVE_INFINITY;
+      case 'delta':
+        return this.rankDelta(e) ?? Number.NEGATIVE_INFINITY;
+      case 'survivalPct':
+        return e.survivalPct ?? -1;
+    }
   }
 
   onNeedPillClick(position: string): void {

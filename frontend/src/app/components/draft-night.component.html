@@ -20,7 +20,7 @@
           <span class="hero-rank">#{{ e.liveOverallRank }}</span>
           <span class="hero-name">{{ e.name }}</span>
           <span class="hero-meta">
-            <span class="pos-chip" [attr.data-pos]="e.position">{{ e.position }}</span>
+            <span class="pos-chip" [attr.data-pos]="e.position">{{ e.position }}{{ e.livePositionRank }}</span>
             {{ e.team ?? '—' }}
           </span>
           <span class="hero-vbd">{{ e.liveVbdScore }} <small>VBD</small></span>

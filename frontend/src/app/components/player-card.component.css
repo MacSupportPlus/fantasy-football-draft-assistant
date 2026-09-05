@@ -166,6 +166,20 @@
   white-space: nowrap;
 }
 
+.seasons .sort-btn {
+  border: none;
+  background: none;
+  padding: 0;
+  color: inherit;
+  font: inherit;
+  text-transform: inherit;
+  cursor: pointer;
+}
+
+.seasons .sort-btn:hover {
+  color: #ffffff;
+}
+
 .seasons td {
   padding: 8px;
   border-bottom: 1px solid #20242c;

@@ -51,15 +51,15 @@
         <table>
           <thead>
             <tr>
-              <th>Season</th>
-              <th>GP</th>
+              <th><button type="button" class="sort-btn" (click)="setSeasonSort('season')">Season{{ seasonSortColumn() === 'season' ? (seasonSortDirection() === 'asc' ? ' ▲' : ' ▼') : '' }}</button></th>
+              <th><button type="button" class="sort-btn" (click)="setSeasonSort('gamesPlayed')">GP{{ seasonSortColumn() === 'gamesPlayed' ? (seasonSortDirection() === 'asc' ? ' ▲' : ' ▼') : '' }}</button></th>
               <th>Stat line</th>
-              <th class="col-num">Pts/G</th>
-              <th class="col-num">Weight <app-info-icon metricKey="seasonWeight" /></th>
+              <th class="col-num"><button type="button" class="sort-btn" (click)="setSeasonSort('fantasyPointsPerGame')">Pts/G{{ seasonSortColumn() === 'fantasyPointsPerGame' ? (seasonSortDirection() === 'asc' ? ' ▲' : ' ▼') : '' }}</button></th>
+              <th class="col-num"><button type="button" class="sort-btn" (click)="setSeasonSort('weight')">Weight{{ seasonSortColumn() === 'weight' ? (seasonSortDirection() === 'asc' ? ' ▲' : ' ▼') : '' }}</button> <app-info-icon metricKey="seasonWeight" /></th>
             </tr>
           </thead>
           <tbody>
-            @for (s of detail.seasons; track s.season) {
+            @for (s of sortedSeasons(); track s.season) {
               <tr>
                 <td>{{ s.season }}</td>
                 <td>{{ s.gamesPlayed }}</td>

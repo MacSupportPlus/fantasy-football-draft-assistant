@@ -13,7 +13,7 @@
         <div class="pick-main">
           <div class="pick-name-row">
             <button type="button" class="pick-name" (click)="selectPlayer(pick.entry)">{{ pick.entry.name }}</button>
-            <span class="pos-chip" [attr.data-pos]="pick.entry.position">{{ pick.entry.position }}</span>
+            <span class="pos-chip" [attr.data-pos]="pick.entry.position">{{ pick.entry.position }}{{ pick.entry.livePositionRank }}</span>
             @if (pick.fillsNeed) {
               <span class="need-badge">fills need</span>
             }
