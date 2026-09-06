@@ -936,14 +936,6 @@
     "gsisId": "00-0034161"
   },
   {
-    "sleeperId": "5096",
-    "name": "Ray-Ray McCloud",
-    "position": "WR",
-    "team": "CHI",
-    "fantasyProsId": 17530,
-    "gsisId": "00-0034407"
-  },
-  {
     "sleeperId": "5119",
     "name": "Jason Sanders",
     "position": "K",
@@ -2808,14 +2800,6 @@
     "gsisId": "00-0037525"
   },
   {
-    "sleeperId": "8413",
-    "name": "Chris Oladokun",
-    "position": "QB",
-    "team": "KC",
-    "fantasyProsId": 24575,
-    "gsisId": "00-0037324"
-  },
-  {
     "sleeperId": "8414",
     "name": "Britain Covey",
     "position": "WR",
@@ -2942,6 +2926,14 @@
     "team": "DAL",
     "fantasyProsId": 18520,
     "gsisId": "00-0037801"
+  },
+  {
+    "sleeperId": "8924",
+    "name": "Thomas Odukoya",
+    "position": "TE",
+    "team": "KC",
+    "fantasyProsId": null,
+    "gsisId": null
   },
   {
     "sleeperId": "9220",
@@ -6224,14 +6216,6 @@
     "gsisId": "00-0041084"
   },
   {
-    "sleeperId": "13410",
-    "name": "Chase Roberts",
-    "position": "WR",
-    "team": "LV",
-    "fantasyProsId": 28131,
-    "gsisId": "00-0041004"
-  },
-  {
     "sleeperId": "13411",
     "name": "Zavion Thomas",
     "position": "WR",
@@ -6670,14 +6654,6 @@
     "team": "GB",
     "fantasyProsId": 26139,
     "gsisId": "00-0040948"
-  },
-  {
-    "sleeperId": "13778",
-    "name": "EJ Smith",
-    "position": "RB",
-    "team": "KC",
-    "fantasyProsId": 23120,
-    "gsisId": "00-0040964"
   },
   {
     "sleeperId": "13779",
