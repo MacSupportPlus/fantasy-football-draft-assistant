@@ -8,7 +8,7 @@
     "injuryStatus": null,
     "yearsExp": 18,
     "age": 41,
-    "searchRank": 487
+    "searchRank": 486
   },
   {
     "id": "96",
@@ -41,7 +41,7 @@
     "injuryStatus": null,
     "yearsExp": 18,
     "age": 40,
-    "searchRank": 459
+    "searchRank": 364
   },
   {
     "id": "421",
@@ -52,7 +52,7 @@
     "injuryStatus": null,
     "yearsExp": 17,
     "age": 38,
-    "searchRank": 67
+    "searchRank": 66
   },
   {
     "id": "650",
@@ -107,7 +107,7 @@
     "injuryStatus": null,
     "yearsExp": 14,
     "age": 38,
-    "searchRank": 279
+    "searchRank": 275
   },
   {
     "id": "1373",
@@ -118,7 +118,7 @@
     "injuryStatus": null,
     "yearsExp": 13,
     "age": 35,
-    "searchRank": 213
+    "searchRank": 214
   },
   {
     "id": "1466",
@@ -129,7 +129,7 @@
     "injuryStatus": null,
     "yearsExp": 13,
     "age": 36,
-    "searchRank": 89
+    "searchRank": 90
   },
   {
     "id": "1479",
@@ -140,7 +140,7 @@
     "injuryStatus": null,
     "yearsExp": 13,
     "age": 34,
-    "searchRank": 178
+    "searchRank": 179
   },
   {
     "id": "1592",
@@ -206,7 +206,7 @@
     "injuryStatus": null,
     "yearsExp": 12,
     "age": 35,
-    "searchRank": 143
+    "searchRank": 151
   },
   {
     "id": "1979",
@@ -250,7 +250,7 @@
     "injuryStatus": null,
     "yearsExp": 12,
     "age": 33,
-    "searchRank": 455
+    "searchRank": 450
   },
   {
     "id": "2118",
@@ -294,7 +294,7 @@
     "injuryStatus": null,
     "yearsExp": 11,
     "age": 32,
-    "searchRank": 511
+    "searchRank": 506
   },
   {
     "id": "2307",
@@ -327,7 +327,7 @@
     "injuryStatus": null,
     "yearsExp": 11,
     "age": 32,
-    "searchRank": 108
+    "searchRank": 107
   },
   {
     "id": "2505",
@@ -338,7 +338,7 @@
     "injuryStatus": null,
     "yearsExp": 11,
     "age": 33,
-    "searchRank": 357
+    "searchRank": 362
   },
   {
     "id": "2747",
@@ -393,7 +393,7 @@
     "injuryStatus": null,
     "yearsExp": 10,
     "age": 31,
-    "searchRank": 640
+    "searchRank": 674
   },
   {
     "id": "3161",
@@ -415,7 +415,7 @@
     "injuryStatus": null,
     "yearsExp": 10,
     "age": 31,
-    "searchRank": 63
+    "searchRank": 62
   },
   {
     "id": "3198",
@@ -470,7 +470,7 @@
     "injuryStatus": null,
     "yearsExp": 10,
     "age": 33,
-    "searchRank": 184
+    "searchRank": 186
   },
   {
     "id": "3258",
@@ -558,7 +558,7 @@
     "injuryStatus": null,
     "yearsExp": 10,
     "age": 32,
-    "searchRank": 130
+    "searchRank": 129
   },
   {
     "id": "3634",
@@ -635,7 +635,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 30,
-    "searchRank": 295
+    "searchRank": 297
   },
   {
     "id": "4033",
@@ -657,7 +657,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 9,
     "age": 30,
-    "searchRank": 5
+    "searchRank": 4
   },
   {
     "id": "4035",
@@ -690,7 +690,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 33,
-    "searchRank": 199
+    "searchRank": 198
   },
   {
     "id": "4046",
@@ -701,7 +701,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 9,
     "age": 30,
-    "searchRank": 38
+    "searchRank": 39
   },
   {
     "id": "4054",
@@ -723,7 +723,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 32,
-    "searchRank": 476
+    "searchRank": 462
   },
   {
     "id": "4137",
@@ -756,7 +756,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 30,
-    "searchRank": 464
+    "searchRank": 459
   },
   {
     "id": "4177",
@@ -800,7 +800,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 31,
-    "searchRank": 219
+    "searchRank": 215
   },
   {
     "id": "4199",
@@ -822,7 +822,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 9,
     "age": 32,
-    "searchRank": 84
+    "searchRank": 82
   },
   {
     "id": "4219",
@@ -910,7 +910,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 32,
-    "searchRank": 455
+    "searchRank": 441
   },
   {
     "id": "4451",
@@ -1031,7 +1031,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 29,
-    "searchRank": 11
+    "searchRank": 10
   },
   {
     "id": "4892",
@@ -1042,7 +1042,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 31,
-    "searchRank": 72
+    "searchRank": 74
   },
   {
     "id": "4914",
@@ -1130,7 +1130,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 29,
-    "searchRank": 92
+    "searchRank": 93
   },
   {
     "id": "4950",
@@ -1174,7 +1174,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 29,
-    "searchRank": 53
+    "searchRank": 52
   },
   {
     "id": "4984",
@@ -1196,7 +1196,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 30,
-    "searchRank": 399
+    "searchRank": 408
   },
   {
     "id": "4995",
@@ -1207,7 +1207,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 30,
-    "searchRank": 384
+    "searchRank": 471
   },
   {
     "id": "5001",
@@ -1284,7 +1284,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 31,
-    "searchRank": 660
+    "searchRank": 631
   },
   {
     "id": "5119",
@@ -1350,7 +1350,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 30,
-    "searchRank": 174
+    "searchRank": 175
   },
   {
     "id": "5223",
@@ -1394,7 +1394,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 31,
-    "searchRank": 684
+    "searchRank": 504
   },
   {
     "id": "5638",
@@ -1427,7 +1427,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 31,
-    "searchRank": 9999999
+    "searchRank": 463
   },
   {
     "id": "5844",
@@ -1482,7 +1482,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 29,
-    "searchRank": 90
+    "searchRank": 88
   },
   {
     "id": "5850",
@@ -1526,7 +1526,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 29,
-    "searchRank": 18
+    "searchRank": 17
   },
   {
     "id": "5870",
@@ -1537,7 +1537,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 29,
-    "searchRank": 129
+    "searchRank": 131
   },
   {
     "id": "5872",
@@ -1559,7 +1559,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 29,
-    "searchRank": 44
+    "searchRank": 43
   },
   {
     "id": "5906",
@@ -1581,7 +1581,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 30,
-    "searchRank": 54
+    "searchRank": 55
   },
   {
     "id": "5938",
@@ -1669,7 +1669,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 28,
-    "searchRank": 217
+    "searchRank": 218
   },
   {
     "id": "6001",
@@ -1702,7 +1702,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 28,
-    "searchRank": 695
+    "searchRank": 533
   },
   {
     "id": "6016",
@@ -1900,7 +1900,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 29,
-    "searchRank": 287
+    "searchRank": 313
   },
   {
     "id": "6453",
@@ -1911,7 +1911,7 @@
     "injuryStatus": "IR",
     "yearsExp": 7,
     "age": 29,
-    "searchRank": 642
+    "searchRank": 636
   },
   {
     "id": "6465",
@@ -1944,7 +1944,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 30,
-    "searchRank": 361
+    "searchRank": 505
   },
   {
     "id": "6540",
@@ -2032,7 +2032,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 29,
-    "searchRank": 14
+    "searchRank": 15
   },
   {
     "id": "6783",
@@ -2054,7 +2054,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 27,
-    "searchRank": 11
+    "searchRank": 10
   },
   {
     "id": "6790",
@@ -2065,7 +2065,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 6,
     "age": 27,
-    "searchRank": 47
+    "searchRank": 46
   },
   {
     "id": "6794",
@@ -2076,7 +2076,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 27,
-    "searchRank": 11
+    "searchRank": 12
   },
   {
     "id": "6797",
@@ -2087,7 +2087,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 28,
-    "searchRank": 32
+    "searchRank": 33
   },
   {
     "id": "6801",
@@ -2120,7 +2120,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 27,
-    "searchRank": 63
+    "searchRank": 67
   },
   {
     "id": "6806",
@@ -2153,7 +2153,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 6,
     "age": 28,
-    "searchRank": 104
+    "searchRank": 105
   },
   {
     "id": "6826",
@@ -2230,7 +2230,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 28,
-    "searchRank": 28
+    "searchRank": 26
   },
   {
     "id": "6918",
@@ -2384,7 +2384,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 28,
-    "searchRank": 642
+    "searchRank": 682
   },
   {
     "id": "7090",
@@ -2439,7 +2439,7 @@
     "injuryStatus": null,
     "yearsExp": 6,
     "age": 29,
-    "searchRank": 625
+    "searchRank": 595
   },
   {
     "id": "7262",
@@ -2472,7 +2472,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 28,
-    "searchRank": 616
+    "searchRank": 635
   },
   {
     "id": "7523",
@@ -2483,7 +2483,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 26,
-    "searchRank": 41
+    "searchRank": 43
   },
   {
     "id": "7525",
@@ -2494,7 +2494,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
-    "searchRank": 32
+    "searchRank": 33
   },
   {
     "id": "7526",
@@ -2516,7 +2516,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 28,
-    "searchRank": 407
+    "searchRank": 403
   },
   {
     "id": "7528",
@@ -2538,7 +2538,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 28,
-    "searchRank": 395
+    "searchRank": 582
   },
   {
     "id": "7535",
@@ -2549,7 +2549,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 28,
-    "searchRank": 643
+    "searchRank": 425
   },
   {
     "id": "7536",
@@ -2560,7 +2560,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
-    "searchRank": 560
+    "searchRank": 279
   },
   {
     "id": "7538",
@@ -2604,7 +2604,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 25,
-    "searchRank": 69
+    "searchRank": 67
   },
   {
     "id": "7559",
@@ -2615,7 +2615,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
-    "searchRank": 327
+    "searchRank": 339
   },
   {
     "id": "7562",
@@ -2692,7 +2692,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
-    "searchRank": 666
+    "searchRank": 569
   },
   {
     "id": "7585",
@@ -2736,7 +2736,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
-    "searchRank": 428
+    "searchRank": 433
   },
   {
     "id": "7593",
@@ -2780,7 +2780,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 26,
-    "searchRank": 536
+    "searchRank": 530
   },
   {
     "id": "7599",
@@ -2890,7 +2890,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 5,
     "age": 28,
-    "searchRank": 620
+    "searchRank": 660
   },
   {
     "id": "7720",
@@ -2956,7 +2956,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
-    "searchRank": 152
+    "searchRank": 154
   },
   {
     "id": "7842",
@@ -2999,7 +2999,7 @@
     "status": "Active",
     "injuryStatus": null,
     "yearsExp": 5,
-    "age": 26,
+    "age": 27,
     "searchRank": 241
   },
   {
@@ -3044,7 +3044,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 29,
-    "searchRank": 331
+    "searchRank": 447
   },
   {
     "id": "8076",
@@ -3077,7 +3077,7 @@
     "injuryStatus": "IR",
     "yearsExp": 4,
     "age": 29,
-    "searchRank": 548
+    "searchRank": 236
   },
   {
     "id": "8110",
@@ -3143,7 +3143,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 499
+    "searchRank": 510
   },
   {
     "id": "8121",
@@ -3297,7 +3297,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 25,
-    "searchRank": 22
+    "searchRank": 23
   },
   {
     "id": "8138",
@@ -3418,7 +3418,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 25,
-    "searchRank": 19
+    "searchRank": 18
   },
   {
     "id": "8154",
@@ -3473,7 +3473,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 120
+    "searchRank": 119
   },
   {
     "id": "8162",
@@ -3517,7 +3517,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 579
+    "searchRank": 576
   },
   {
     "id": "8172",
@@ -3561,7 +3561,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 167
+    "searchRank": 170
   },
   {
     "id": "8181",
@@ -3583,7 +3583,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 54
+    "searchRank": 55
   },
   {
     "id": "8188",
@@ -3627,7 +3627,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 406
+    "searchRank": 395
   },
   {
     "id": "8204",
@@ -3638,7 +3638,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 654
+    "searchRank": 668
   },
   {
     "id": "8205",
@@ -3682,7 +3682,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 479
+    "searchRank": 440
   },
   {
     "id": "8210",
@@ -3869,7 +3869,7 @@
     "injuryStatus": "IR",
     "yearsExp": 4,
     "age": 28,
-    "searchRank": 328
+    "searchRank": 442
   },
   {
     "id": "8484",
@@ -3924,7 +3924,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 330
+    "searchRank": 414
   },
   {
     "id": "8676",
@@ -3935,7 +3935,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 28,
-    "searchRank": 148
+    "searchRank": 149
   },
   {
     "id": "8698",
@@ -3990,7 +3990,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 455
+    "searchRank": 448
   },
   {
     "id": "8801",
@@ -4023,7 +4023,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 30,
-    "searchRank": 462
+    "searchRank": 454
   },
   {
     "id": "8924",
@@ -4056,7 +4056,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 24,
-    "searchRank": 2
+    "searchRank": 1
   },
   {
     "id": "9224",
@@ -4067,7 +4067,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 16
+    "searchRank": 14
   },
   {
     "id": "9225",
@@ -4111,7 +4111,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 131
+    "searchRank": 133
   },
   {
     "id": "9229",
@@ -4122,7 +4122,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 24,
-    "searchRank": 444
+    "searchRank": 479
   },
   {
     "id": "9230",
@@ -4144,7 +4144,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 488
+    "searchRank": 479
   },
   {
     "id": "9480",
@@ -4177,7 +4177,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 440
+    "searchRank": 480
   },
   {
     "id": "9484",
@@ -4188,7 +4188,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 63
+    "searchRank": 65
   },
   {
     "id": "9486",
@@ -4210,7 +4210,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 24,
-    "searchRank": 71
+    "searchRank": 69
   },
   {
     "id": "9488",
@@ -4254,7 +4254,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 5
+    "searchRank": 4
   },
   {
     "id": "9494",
@@ -4298,7 +4298,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 491
+    "searchRank": 501
   },
   {
     "id": "9502",
@@ -4430,7 +4430,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 24,
-    "searchRank": 101
+    "searchRank": 102
   },
   {
     "id": "9997",
@@ -4441,7 +4441,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 40
+    "searchRank": 41
   },
   {
     "id": "9998",
@@ -4485,7 +4485,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 182
+    "searchRank": 184
   },
   {
     "id": "10214",
@@ -4529,7 +4529,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 127
+    "searchRank": 128
   },
   {
     "id": "10220",
@@ -4562,7 +4562,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 103
+    "searchRank": 100
   },
   {
     "id": "10224",
@@ -4628,7 +4628,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 29
+    "searchRank": 30
   },
   {
     "id": "10231",
@@ -4672,7 +4672,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 671
+    "searchRank": 683
   },
   {
     "id": "10236",
@@ -4705,7 +4705,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 28,
-    "searchRank": 663
+    "searchRank": 659
   },
   {
     "id": "10859",
@@ -4727,7 +4727,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 28,
-    "searchRank": 586
+    "searchRank": 588
   },
   {
     "id": "10867",
@@ -4848,7 +4848,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 461
+    "searchRank": 551
   },
   {
     "id": "11157",
@@ -4914,7 +4914,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 484
+    "searchRank": 520
   },
   {
     "id": "11256",
@@ -4980,7 +4980,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 27,
-    "searchRank": 486
+    "searchRank": 441
   },
   {
     "id": "11320",
@@ -5002,7 +5002,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 461
+    "searchRank": 456
   },
   {
     "id": "11371",
@@ -5065,7 +5065,7 @@
     "position": "RB",
     "team": "SEA",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 3,
     "age": 27,
     "searchRank": 161
@@ -5112,7 +5112,7 @@
     "injuryStatus": "IR",
     "yearsExp": 3,
     "age": 27,
-    "searchRank": 456
+    "searchRank": 405
   },
   {
     "id": "11520",
@@ -5134,7 +5134,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 31,
-    "searchRank": 90
+    "searchRank": 89
   },
   {
     "id": "11539",
@@ -5145,7 +5145,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 27,
-    "searchRank": 140
+    "searchRank": 147
   },
   {
     "id": "11557",
@@ -5156,7 +5156,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 495
+    "searchRank": 503
   },
   {
     "id": "11558",
@@ -5175,7 +5175,7 @@
     "position": "QB",
     "team": "ATL",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Out",
     "yearsExp": 2,
     "age": 26,
     "searchRank": 228
@@ -5189,7 +5189,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 24,
-    "searchRank": 20
+    "searchRank": 21
   },
   {
     "id": "11562",
@@ -5244,7 +5244,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 19
+    "searchRank": 20
   },
   {
     "id": "11570",
@@ -5343,7 +5343,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 101
+    "searchRank": 102
   },
   {
     "id": "11582",
@@ -5431,7 +5431,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 388
+    "searchRank": 574
   },
   {
     "id": "11595",
@@ -5508,7 +5508,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 23,
-    "searchRank": 22
+    "searchRank": 23
   },
   {
     "id": "11608",
@@ -5574,7 +5574,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 24,
-    "searchRank": 63
+    "searchRank": 64
   },
   {
     "id": "11623",
@@ -5640,7 +5640,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 24,
-    "searchRank": 73
+    "searchRank": 74
   },
   {
     "id": "11629",
@@ -5684,7 +5684,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 23,
-    "searchRank": 27
+    "searchRank": 26
   },
   {
     "id": "11633",
@@ -5695,7 +5695,7 @@
     "injuryStatus": "IR",
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 999
+    "searchRank": 418
   },
   {
     "id": "11635",
@@ -5860,7 +5860,7 @@
     "injuryStatus": "PUP",
     "yearsExp": 2,
     "age": 24,
-    "searchRank": 432
+    "searchRank": 653
   },
   {
     "id": "11729",
@@ -5915,7 +5915,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 169
+    "searchRank": 170
   },
   {
     "id": "11806",
@@ -5926,7 +5926,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 462
+    "searchRank": 688
   },
   {
     "id": "11820",
@@ -6047,7 +6047,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 27,
-    "searchRank": 301
+    "searchRank": 366
   },
   {
     "id": "12048",
@@ -6058,7 +6058,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 467
+    "searchRank": 462
   },
   {
     "id": "12062",
@@ -6069,7 +6069,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 600
+    "searchRank": 565
   },
   {
     "id": "12079",
@@ -6102,7 +6102,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 573
+    "searchRank": 556
   },
   {
     "id": "12154",
@@ -6190,7 +6190,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 345
+    "searchRank": 471
   },
   {
     "id": "12455",
@@ -6322,7 +6322,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 616
+    "searchRank": 615
   },
   {
     "id": "12480",
@@ -6344,7 +6344,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 37
+    "searchRank": 35
   },
   {
     "id": "12482",
@@ -6399,7 +6399,7 @@
     "injuryStatus": "IR",
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 628
+    "searchRank": 604
   },
   {
     "id": "12487",
@@ -6487,7 +6487,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 1,
     "age": 22,
-    "searchRank": 470
+    "searchRank": 473
   },
   {
     "id": "12496",
@@ -6553,7 +6553,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 121
+    "searchRank": 120
   },
   {
     "id": "12502",
@@ -6630,7 +6630,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 37
+    "searchRank": 41
   },
   {
     "id": "12509",
@@ -6652,7 +6652,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 507
+    "searchRank": 491
   },
   {
     "id": "12511",
@@ -6663,7 +6663,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 515
+    "searchRank": 508
   },
   {
     "id": "12512",
@@ -6707,7 +6707,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 22,
-    "searchRank": 36
+    "searchRank": 35
   },
   {
     "id": "12518",
@@ -6751,7 +6751,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 415
+    "searchRank": 420
   },
   {
     "id": "12522",
@@ -6762,7 +6762,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 104
+    "searchRank": 112
   },
   {
     "id": "12523",
@@ -6795,7 +6795,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 36
+    "searchRank": 37
   },
   {
     "id": "12527",
@@ -6894,7 +6894,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 428
+    "searchRank": 562
   },
   {
     "id": "12540",
@@ -6949,7 +6949,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 1,
     "age": 22,
-    "searchRank": 504
+    "searchRank": 507
   },
   {
     "id": "12545",
@@ -6960,7 +6960,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 26,
-    "searchRank": 85
+    "searchRank": 88
   },
   {
     "id": "12547",
@@ -7191,7 +7191,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 676
+    "searchRank": 610
   },
   {
     "id": "12775",
@@ -7202,7 +7202,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 695
+    "searchRank": 475
   },
   {
     "id": "12787",
@@ -7235,7 +7235,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 356
+    "searchRank": 456
   },
   {
     "id": "12797",
@@ -7279,7 +7279,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 603
+    "searchRank": 416
   },
   {
     "id": "12860",
@@ -7323,7 +7323,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 442
+    "searchRank": 632
   },
   {
     "id": "12888",
@@ -7345,7 +7345,7 @@
     "injuryStatus": "IR",
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 253
+    "searchRank": 648
   },
   {
     "id": "12897",
@@ -7367,7 +7367,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 370
+    "searchRank": 385
   },
   {
     "id": "12925",
@@ -7488,7 +7488,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 502
+    "searchRank": 410
   },
   {
     "id": "13013",
@@ -7499,7 +7499,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 381
+    "searchRank": 629
   },
   {
     "id": "13032",
@@ -7576,7 +7576,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 637
+    "searchRank": 574
   },
   {
     "id": "13120",
@@ -7587,7 +7587,7 @@
     "injuryStatus": "IR",
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 262
+    "searchRank": 320
   },
   {
     "id": "13121",
@@ -7598,7 +7598,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 428
+    "searchRank": 641
   },
   {
     "id": "13122",
@@ -7609,7 +7609,7 @@
     "injuryStatus": "IR",
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 295
+    "searchRank": 387
   },
   {
     "id": "13124",
@@ -7642,7 +7642,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 519
+    "searchRank": 341
   },
   {
     "id": "13173",
@@ -7686,7 +7686,7 @@
     "injuryStatus": "IR",
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 242
+    "searchRank": 282
   },
   {
     "id": "13210",
@@ -7741,7 +7741,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 99
+    "searchRank": 104
   },
   {
     "id": "13270",
@@ -7763,7 +7763,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 293
+    "searchRank": 290
   },
   {
     "id": "13273",
@@ -7873,7 +7873,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 199
+    "searchRank": 200
   },
   {
     "id": "13286",
@@ -7884,7 +7884,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 56
+    "searchRank": 53
   },
   {
     "id": "13287",
@@ -7917,7 +7917,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 324
+    "searchRank": 331
   },
   {
     "id": "13292",
@@ -7928,7 +7928,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": null,
-    "searchRank": 340
+    "searchRank": 401
   },
   {
     "id": "13293",
@@ -7939,7 +7939,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 143
+    "searchRank": 146
   },
   {
     "id": "13294",
@@ -7950,7 +7950,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 88
+    "searchRank": 89
   },
   {
     "id": "13295",
@@ -7994,7 +7994,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 21,
-    "searchRank": 112
+    "searchRank": 111
   },
   {
     "id": "13299",
@@ -8027,7 +8027,7 @@
     "injuryStatus": "IR",
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 392
+    "searchRank": 400
   },
   {
     "id": "13303",
@@ -8038,7 +8038,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 400
+    "searchRank": 398
   },
   {
     "id": "13305",
@@ -8049,7 +8049,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 120
+    "searchRank": 123
   },
   {
     "id": "13306",
@@ -8093,7 +8093,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 198
+    "searchRank": 197
   },
   {
     "id": "13313",
@@ -8104,7 +8104,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 265
+    "searchRank": 449
   },
   {
     "id": "13314",
@@ -8115,7 +8115,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 391
+    "searchRank": 673
   },
   {
     "id": "13315",
@@ -8170,7 +8170,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 414
+    "searchRank": 412
   },
   {
     "id": "13320",
@@ -8236,7 +8236,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 494
+    "searchRank": 502
   },
   {
     "id": "13330",
@@ -8379,7 +8379,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 483
+    "searchRank": 498
   },
   {
     "id": "13349",
@@ -8423,7 +8423,7 @@
     "injuryStatus": "IR",
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 999
+    "searchRank": 535
   },
   {
     "id": "13356",
@@ -8445,7 +8445,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 512
+    "searchRank": 511
   },
   {
     "id": "13392",
@@ -8478,7 +8478,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 481
+    "searchRank": 474
   },
   {
     "id": "13401",
@@ -8500,7 +8500,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 387
+    "searchRank": 385
   },
   {
     "id": "13404",
@@ -8511,7 +8511,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 517
+    "searchRank": 515
   },
   {
     "id": "13405",
@@ -8533,7 +8533,7 @@
     "injuryStatus": "IR",
     "yearsExp": 0,
     "age": 25,
-    "searchRank": 554
+    "searchRank": 330
   },
   {
     "id": "13408",
@@ -8555,7 +8555,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 370
+    "searchRank": 372
   },
   {
     "id": "13412",
@@ -8577,7 +8577,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 176
+    "searchRank": 179
   },
   {
     "id": "13414",
@@ -8621,7 +8621,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 116
+    "searchRank": 114
   },
   {
     "id": "13418",
@@ -8654,7 +8654,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 478
+    "searchRank": 477
   },
   {
     "id": "13421",
@@ -8665,7 +8665,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 367
+    "searchRank": 365
   },
   {
     "id": "13422",
@@ -8676,7 +8676,7 @@
     "injuryStatus": "IR",
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 448
+    "searchRank": 530
   },
   {
     "id": "13423",
@@ -8687,7 +8687,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 502
+    "searchRank": 494
   },
   {
     "id": "13424",
@@ -8698,7 +8698,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 384
+    "searchRank": 392
   },
   {
     "id": "13425",
@@ -8742,7 +8742,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 650
+    "searchRank": 241
   },
   {
     "id": "13432",
@@ -8863,7 +8863,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 464
+    "searchRank": 459
   },
   {
     "id": "13541",
@@ -8907,7 +8907,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 637
+    "searchRank": 534
   },
   {
     "id": "13577",
@@ -8918,7 +8918,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 25,
-    "searchRank": 443
+    "searchRank": 627
   },
   {
     "id": "13580",
@@ -8929,7 +8929,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 385
+    "searchRank": 323
   },
   {
     "id": "13582",
@@ -8962,7 +8962,7 @@
     "injuryStatus": "IR",
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 337
+    "searchRank": 320
   },
   {
     "id": "13600",
@@ -9083,7 +9083,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 671
+    "searchRank": 666
   },
   {
     "id": "13705",
@@ -9094,7 +9094,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 372
+    "searchRank": 555
   },
   {
     "id": "13712",
@@ -9237,7 +9237,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 463
+    "searchRank": 678
   },
   {
     "id": "13870",
@@ -9292,7 +9292,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 587
+    "searchRank": 519
   },
   {
     "id": "13962",
@@ -9303,7 +9303,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": null,
-    "searchRank": 697
+    "searchRank": 430
   },
   {
     "id": "13968",
@@ -9347,7 +9347,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 25,
-    "searchRank": 514
+    "searchRank": 605
   },
   {
     "id": "14041",
