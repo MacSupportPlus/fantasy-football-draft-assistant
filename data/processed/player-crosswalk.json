@@ -1592,6 +1592,14 @@
     "gsisId": "00-0036331"
   },
   {
+    "sleeperId": "6853",
+    "name": "Van Jefferson",
+    "position": "WR",
+    "team": "WAS",
+    "fantasyProsId": 19483,
+    "gsisId": "00-0036415"
+  },
+  {
     "sleeperId": "6865",
     "name": "Colby Parkinson",
     "position": "TE",
@@ -3475,7 +3483,7 @@
     "sleeperId": "10983",
     "name": "Sean Clifford",
     "position": "QB",
-    "team": "SF",
+    "team": "CIN",
     "fantasyProsId": 20073,
     "gsisId": "00-0038391"
   },
@@ -4486,6 +4494,14 @@
     "team": "CHI",
     "fantasyProsId": null,
     "gsisId": null
+  },
+  {
+    "sleeperId": "12356",
+    "name": "Jabari Small",
+    "position": "RB",
+    "team": "DET",
+    "fantasyProsId": 24369,
+    "gsisId": "00-0039652"
   },
   {
     "sleeperId": "12357",
@@ -6757,6 +6773,14 @@
     "position": "WR",
     "team": "KC",
     "fantasyProsId": 26041,
+    "gsisId": null
+  },
+  {
+    "sleeperId": "13913",
+    "name": "Patrick Gurd",
+    "position": "TE",
+    "team": "LV",
+    "fantasyProsId": null,
     "gsisId": null
   },
   {
