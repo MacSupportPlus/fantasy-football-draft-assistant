@@ -1256,14 +1256,6 @@
     "gsisId": "00-0035537"
   },
   {
-    "sleeperId": "6045",
-    "name": "Gary Jennings",
-    "position": "WR",
-    "team": "LAC",
-    "fantasyProsId": 18565,
-    "gsisId": "00-0035589"
-  },
-  {
     "sleeperId": "6083",
     "name": "Matt Gay",
     "position": "K",
@@ -1294,14 +1286,6 @@
     "team": "NYG",
     "fantasyProsId": 18454,
     "gsisId": "00-0035283"
-  },
-  {
-    "sleeperId": "6149",
-    "name": "Darius Slayton",
-    "position": "WR",
-    "team": "NYG",
-    "fantasyProsId": 18706,
-    "gsisId": "00-0035535"
   },
   {
     "sleeperId": "6154",
@@ -2640,14 +2624,6 @@
     "gsisId": "00-0037231"
   },
   {
-    "sleeperId": "8202",
-    "name": "Michael Woods",
-    "position": "WR",
-    "team": "DEN",
-    "fantasyProsId": 23893,
-    "gsisId": "00-0037300"
-  },
-  {
     "sleeperId": "8204",
     "name": "Bo Melton",
     "position": "WR",
@@ -3513,7 +3489,7 @@
   },
   {
     "sleeperId": "11068",
-    "name": "Mitch Tinsley",
+    "name": "Mitchell Tinsley",
     "position": "WR",
     "team": "HOU",
     "fantasyProsId": 24370,
@@ -4280,6 +4256,14 @@
     "gsisId": "00-0039364"
   },
   {
+    "sleeperId": "11748",
+    "name": "Bub Means",
+    "position": "WR",
+    "team": "CLE",
+    "fantasyProsId": 26354,
+    "gsisId": "00-0039386"
+  },
+  {
     "sleeperId": "11762",
     "name": "Anthony Gould",
     "position": "WR",
@@ -4334,14 +4318,6 @@
     "team": "NO",
     "fantasyProsId": 26409,
     "gsisId": "00-0039424"
-  },
-  {
-    "sleeperId": "11851",
-    "name": "Carter Bradley",
-    "position": "QB",
-    "team": "JAX",
-    "fantasyProsId": 26384,
-    "gsisId": "00-0039534"
   },
   {
     "sleeperId": "11895",
@@ -4444,7 +4420,7 @@
     "name": "Julian Hicks",
     "position": "WR",
     "team": "SEA",
-    "fantasyProsId": 26726,
+    "fantasyProsId": null,
     "gsisId": null
   },
   {
@@ -4470,14 +4446,6 @@
     "team": "IND",
     "fantasyProsId": 26763,
     "gsisId": "00-0039576"
-  },
-  {
-    "sleeperId": "12210",
-    "name": "Cole Burgess",
-    "position": "WR",
-    "team": "PIT",
-    "fantasyProsId": null,
-    "gsisId": "00-0039626"
   },
   {
     "sleeperId": "12217",
@@ -5296,14 +5264,6 @@
     "gsisId": "00-0040081"
   },
   {
-    "sleeperId": "12829",
-    "name": "Coleman Owen",
-    "position": "WR",
-    "team": "IND",
-    "fantasyProsId": 27621,
-    "gsisId": "00-0040352"
-  },
-  {
     "sleeperId": "12848",
     "name": "Josh Kelly",
     "position": "WR",
@@ -5328,22 +5288,6 @@
     "gsisId": "00-0040298"
   },
   {
-    "sleeperId": "12865",
-    "name": "AJ Henning",
-    "position": "WR",
-    "team": "MIA",
-    "fantasyProsId": 23016,
-    "gsisId": null
-  },
-  {
-    "sleeperId": "12883",
-    "name": "Joshua Simon",
-    "position": "TE",
-    "team": "WAS",
-    "fantasyProsId": 27466,
-    "gsisId": "00-0040552"
-  },
-  {
     "sleeperId": "12888",
     "name": "Dalen Cambre",
     "position": "WR",
@@ -5358,14 +5302,6 @@
     "team": "ATL",
     "fantasyProsId": 22925,
     "gsisId": "00-0040432"
-  },
-  {
-    "sleeperId": "12897",
-    "name": "Nathan Carter",
-    "position": "RB",
-    "team": "KC",
-    "fantasyProsId": 27667,
-    "gsisId": "00-0040547"
   },
   {
     "sleeperId": "12901",
@@ -5526,14 +5462,6 @@
     "team": "MIA",
     "fantasyProsId": 27839,
     "gsisId": null
-  },
-  {
-    "sleeperId": "13120",
-    "name": "Jacoby Jones",
-    "position": "WR",
-    "team": "WAS",
-    "fantasyProsId": null,
-    "gsisId": "00-0040317"
   },
   {
     "sleeperId": "13121",
@@ -6688,6 +6616,14 @@
     "gsisId": null
   },
   {
+    "sleeperId": "13816",
+    "name": "Mark Gronowski",
+    "position": "QB",
+    "team": "HOU",
+    "fantasyProsId": null,
+    "gsisId": "00-0041156"
+  },
+  {
     "sleeperId": "13825",
     "name": "Malik McClain",
     "position": "WR",
@@ -6736,14 +6672,6 @@
     "gsisId": null
   },
   {
-    "sleeperId": "13870",
-    "name": "Quentin Moore",
-    "position": "TE",
-    "team": "WAS",
-    "fantasyProsId": 28722,
-    "gsisId": null
-  },
-  {
     "sleeperId": "13879",
     "name": "Jameson Geers",
     "position": "TE",
@@ -6784,12 +6712,28 @@
     "gsisId": null
   },
   {
+    "sleeperId": "13957",
+    "name": "Kenny Fletcher",
+    "position": "TE",
+    "team": "IND",
+    "fantasyProsId": null,
+    "gsisId": null
+  },
+  {
     "sleeperId": "13962",
     "name": "Cameron Dorner",
     "position": "WR",
     "team": "NE",
     "fantasyProsId": 28817,
     "gsisId": null
+  },
+  {
+    "sleeperId": "13964",
+    "name": "Myles Montgomery",
+    "position": "RB",
+    "team": "NE",
+    "fantasyProsId": 28450,
+    "gsisId": "00-0041323"
   },
   {
     "sleeperId": "13968",
