@@ -1504,6 +1504,14 @@
     "gsisId": "00-0036355"
   },
   {
+    "sleeperId": "6798",
+    "name": "Jalen Reagor",
+    "position": "WR",
+    "team": "MIA",
+    "fantasyProsId": 19219,
+    "gsisId": "00-0036387"
+  },
+  {
     "sleeperId": "6801",
     "name": "Tee Higgins",
     "position": "WR",
@@ -3528,6 +3536,14 @@
     "gsisId": "00-0038359"
   },
   {
+    "sleeperId": "11186",
+    "name": "Carlos Washington",
+    "position": "RB",
+    "team": "MIA",
+    "fantasyProsId": 25644,
+    "gsisId": "00-0038930"
+  },
+  {
     "sleeperId": "11199",
     "name": "Emari Demercado",
     "position": "RB",
@@ -3798,6 +3814,14 @@
     "team": "WAS",
     "fantasyProsId": 22902,
     "gsisId": "00-0039910"
+  },
+  {
+    "sleeperId": "11569",
+    "name": "Jarquez Hunter",
+    "position": "RB",
+    "team": "MIA",
+    "fantasyProsId": 24335,
+    "gsisId": "00-0040692"
   },
   {
     "sleeperId": "11570",
@@ -4344,14 +4368,6 @@
     "gsisId": "00-0039686"
   },
   {
-    "sleeperId": "11959",
-    "name": "Bryce Oliver",
-    "position": "WR",
-    "team": "CLE",
-    "fantasyProsId": 26588,
-    "gsisId": "00-0039650"
-  },
-  {
     "sleeperId": "11963",
     "name": "Chris Collier",
     "position": "RB",
@@ -4420,7 +4436,7 @@
     "name": "Julian Hicks",
     "position": "WR",
     "team": "SEA",
-    "fantasyProsId": null,
+    "fantasyProsId": 26726,
     "gsisId": null
   },
   {
@@ -5536,6 +5552,14 @@
     "gsisId": "00-0040629"
   },
   {
+    "sleeperId": "13208",
+    "name": "Kyrese Rowan",
+    "position": "WR",
+    "team": "NO",
+    "fantasyProsId": null,
+    "gsisId": null
+  },
+  {
     "sleeperId": "13210",
     "name": "Drake Dabney",
     "position": "TE",
@@ -6296,14 +6320,6 @@
     "gsisId": "00-0041579"
   },
   {
-    "sleeperId": "13430",
-    "name": "RJ Maryland",
-    "position": "TE",
-    "team": "GB",
-    "fantasyProsId": 27341,
-    "gsisId": null
-  },
-  {
     "sleeperId": "13432",
     "name": "Khalil Dinkins",
     "position": "TE",
@@ -6708,6 +6724,14 @@
     "name": "Patrick Gurd",
     "position": "TE",
     "team": "LV",
+    "fantasyProsId": null,
+    "gsisId": null
+  },
+  {
+    "sleeperId": "13949",
+    "name": "Damon Bankston",
+    "position": "RB",
+    "team": "GB",
     "fantasyProsId": null,
     "gsisId": null
   },
