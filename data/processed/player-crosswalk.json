@@ -1256,6 +1256,14 @@
     "gsisId": "00-0035537"
   },
   {
+    "sleeperId": "6045",
+    "name": "Gary Jennings",
+    "position": "WR",
+    "team": "LAC",
+    "fantasyProsId": 18565,
+    "gsisId": "00-0035589"
+  },
+  {
     "sleeperId": "6083",
     "name": "Matt Gay",
     "position": "K",
@@ -2424,14 +2432,6 @@
     "gsisId": "00-0037664"
   },
   {
-    "sleeperId": "8143",
-    "name": "Jerome Ford",
-    "position": "RB",
-    "team": "WAS",
-    "fantasyProsId": 22921,
-    "gsisId": "00-0037267"
-  },
-  {
     "sleeperId": "8144",
     "name": "Chris Olave",
     "position": "WR",
@@ -2894,14 +2894,6 @@
     "team": "DAL",
     "fantasyProsId": 24205,
     "gsisId": "00-0037563"
-  },
-  {
-    "sleeperId": "8801",
-    "name": "Dennis Houston",
-    "position": "WR",
-    "team": "TB",
-    "fantasyProsId": 24857,
-    "gsisId": "00-0037570"
   },
   {
     "sleeperId": "8861",
@@ -5320,6 +5312,14 @@
     "gsisId": "00-0040432"
   },
   {
+    "sleeperId": "12897",
+    "name": "Nate Carter",
+    "position": "RB",
+    "team": "KC",
+    "fantasyProsId": 27667,
+    "gsisId": "00-0040547"
+  },
+  {
     "sleeperId": "12901",
     "name": "Patrick Herbert",
     "position": "TE",
@@ -5360,11 +5360,11 @@
     "gsisId": null
   },
   {
-    "sleeperId": "12941",
-    "name": "Bryson Nesbit",
-    "position": "TE",
+    "sleeperId": "12946",
+    "name": "Dontae Fleming",
+    "position": "WR",
     "team": "MIN",
-    "fantasyProsId": 25998,
+    "fantasyProsId": 27718,
     "gsisId": null
   },
   {
@@ -5542,14 +5542,6 @@
     "team": "SEA",
     "fantasyProsId": 27910,
     "gsisId": "00-0040621"
-  },
-  {
-    "sleeperId": "13202",
-    "name": "Dalevon Campbell",
-    "position": "WR",
-    "team": "LAC",
-    "fantasyProsId": 27912,
-    "gsisId": "00-0040629"
   },
   {
     "sleeperId": "13208",
@@ -6100,7 +6092,7 @@
     "name": "Trebor Pena",
     "position": "WR",
     "team": "JAX",
-    "fantasyProsId": null,
+    "fantasyProsId": 28139,
     "gsisId": "00-0041216"
   },
   {
