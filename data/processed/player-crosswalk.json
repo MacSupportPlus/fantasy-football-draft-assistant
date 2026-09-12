@@ -1648,14 +1648,6 @@
     "gsisId": "00-0036425"
   },
   {
-    "sleeperId": "6964",
-    "name": "Sean McKeon",
-    "position": "TE",
-    "team": "IND",
-    "fantasyProsId": 19726,
-    "gsisId": "00-0036032"
-  },
-  {
     "sleeperId": "6992",
     "name": "Michael Warren",
     "position": "RB",
@@ -3496,14 +3488,6 @@
     "gsisId": "00-0038839"
   },
   {
-    "sleeperId": "11082",
-    "name": "Ben Sims",
-    "position": "TE",
-    "team": "MIA",
-    "fantasyProsId": 25349,
-    "gsisId": "00-0038809"
-  },
-  {
     "sleeperId": "11113",
     "name": "Joel Wilson",
     "position": "TE",
@@ -3614,6 +3598,14 @@
     "team": "PHI",
     "fantasyProsId": 25756,
     "gsisId": "00-0038498"
+  },
+  {
+    "sleeperId": "11306",
+    "name": "Xavier Gipson",
+    "position": "WR",
+    "team": "PHI",
+    "fantasyProsId": 25758,
+    "gsisId": "00-0038496"
   },
   {
     "sleeperId": "11320",

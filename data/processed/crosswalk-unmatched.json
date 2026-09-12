@@ -281,6 +281,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Ben Sims",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Will Dissly",
     "position": "TE",
     "team": "FA",
@@ -883,6 +890,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Sean McKeon",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Kenny Yeboah",
     "position": "TE",
     "team": "FA",
@@ -1136,13 +1150,6 @@
   {
     "source": "fantasypros",
     "name": "Dee Eskridge",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Xavier Gipson",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -3207,6 +3214,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Sean McKeon",
+    "position": "TE",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Tyler Mabry",
     "position": "TE",
     "team": "SEA",
@@ -4320,13 +4334,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Xavier Gipson",
-    "position": "WR",
-    "team": "NYJ",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Clayton Tune",
     "position": "QB",
     "team": "ARI",
@@ -4393,6 +4400,13 @@
     "name": "Hunter Luepke",
     "position": "FB",
     "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ben Sims",
+    "position": "TE",
+    "team": "GB",
     "reason": "no-name-match"
   },
   {
