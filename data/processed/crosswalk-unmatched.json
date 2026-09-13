@@ -414,6 +414,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Jermar Jefferson",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Gage Larvadain",
     "position": "WR",
     "team": "FA",
@@ -423,6 +430,13 @@
     "source": "fantasypros",
     "name": "Miles Davis",
     "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jamari Thrash",
+    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -4607,6 +4621,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Jermar Jefferson",
+    "position": "RB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Divine Deablo",
     "position": "MLB",
     "team": "LV",
@@ -4743,6 +4764,13 @@
     "name": "Baylor Cupp",
     "position": "TE",
     "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jamari Thrash",
+    "position": "WR",
+    "team": "CLE",
     "reason": "no-name-match"
   },
   {

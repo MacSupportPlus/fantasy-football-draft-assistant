@@ -2024,14 +2024,6 @@
     "gsisId": "00-0036980"
   },
   {
-    "sleeperId": "7599",
-    "name": "Jermar Jefferson",
-    "position": "RB",
-    "team": "MIN",
-    "fantasyProsId": 20088,
-    "gsisId": "00-0036670"
-  },
-  {
     "sleeperId": "7600",
     "name": "Pat Freiermuth",
     "position": "TE",
@@ -4128,14 +4120,6 @@
     "gsisId": "00-0039337"
   },
   {
-    "sleeperId": "11633",
-    "name": "Jamari Thrash",
-    "position": "WR",
-    "team": "CLE",
-    "fantasyProsId": 26162,
-    "gsisId": "00-0039379"
-  },
-  {
     "sleeperId": "11635",
     "name": "Ladd McConkey",
     "position": "WR",
@@ -5830,6 +5814,14 @@
     "team": "TB",
     "fantasyProsId": 28165,
     "gsisId": "00-0041094"
+  },
+  {
+    "sleeperId": "13310",
+    "name": "Miller Moss",
+    "position": "QB",
+    "team": "CHI",
+    "fantasyProsId": null,
+    "gsisId": null
   },
   {
     "sleeperId": "13311",
