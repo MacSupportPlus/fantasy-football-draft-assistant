@@ -2643,7 +2643,7 @@
     "sleeperId": "8207",
     "name": "Tyler Goodson",
     "position": "RB",
-    "team": "ATL",
+    "team": "DAL",
     "fantasyProsId": 22976,
     "gsisId": "00-0037120"
   },
@@ -5160,6 +5160,14 @@
     "gsisId": "00-0040240"
   },
   {
+    "sleeperId": "12738",
+    "name": "Phil Mafah",
+    "position": "RB",
+    "team": "NYG",
+    "fantasyProsId": 22928,
+    "gsisId": "00-0040021"
+  },
+  {
     "sleeperId": "12746",
     "name": "JP Richardson",
     "position": "WR",
@@ -5301,6 +5309,14 @@
     "position": "TE",
     "team": "LAC",
     "fantasyProsId": 27672,
+    "gsisId": null
+  },
+  {
+    "sleeperId": "12908",
+    "name": "Chandler Brayboy",
+    "position": "WR",
+    "team": "NE",
+    "fantasyProsId": null,
     "gsisId": null
   },
   {
