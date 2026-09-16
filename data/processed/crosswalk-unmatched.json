@@ -162,13 +162,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Marquez Valdes-Scantling",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Taysom Hill",
     "position": "TE",
     "team": "FA",
@@ -227,6 +220,13 @@
     "source": "fantasypros",
     "name": "Michael Woods II",
     "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Hassan Haskins",
+    "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -316,13 +316,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Jack Stoll",
-    "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "JuJu Smith-Schuster",
     "position": "WR",
     "team": "FA",
@@ -344,13 +337,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Eric Gray",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Albert Okwuegbunam Jr.",
     "position": "TE",
     "team": "FA",
@@ -359,13 +345,6 @@
   {
     "source": "fantasypros",
     "name": "Curtis Samuel",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Sterling Shepard",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -414,13 +393,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Gage Larvadain",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Miles Davis",
     "position": "RB",
     "team": "FA",
@@ -435,22 +407,8 @@
   },
   {
     "source": "fantasypros",
-    "name": "Tyler Johnson",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Avery Williams",
     "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Josiah Deguara",
-    "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -1414,6 +1372,13 @@
     "reason": "no-name-match"
   },
   {
+    "source": "fantasypros",
+    "name": "Dalen Cambre",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
     "source": "nflverse",
     "name": "Tom Brady",
     "position": "QB",
@@ -1982,13 +1947,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Sterling Shepard",
-    "position": "WR",
-    "team": "TB",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Brandon Allen",
     "position": "QB",
     "team": "SF",
@@ -2503,13 +2461,6 @@
     "name": "Dontrell Hilliard",
     "position": "RB",
     "team": "TEN",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Marquez Valdes-Scantling",
-    "position": "WR",
-    "team": "NO",
     "reason": "no-name-match"
   },
   {
@@ -3403,13 +3354,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Josiah Deguara",
-    "position": "TE",
-    "team": "JAX",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Anthony McFarland",
     "position": "RB",
     "team": "PIT",
@@ -3602,13 +3546,6 @@
     "name": "Adam Prentice",
     "position": "FB",
     "team": "NO",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Jack Stoll",
-    "position": "TE",
-    "team": "PHI",
     "reason": "no-name-match"
   },
   {
@@ -3903,6 +3840,13 @@
     "name": "Dennis Houston",
     "position": "WR",
     "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Hassan Haskins",
+    "position": "RB",
+    "team": "LAC",
     "reason": "no-name-match"
   },
   {
@@ -4208,13 +4152,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Tyler Johnson",
-    "position": "WR",
-    "team": "LA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Brandin Echols",
     "position": "CB",
     "team": "NYJ",
@@ -4316,13 +4253,6 @@
     "name": "Tucker Fisk",
     "position": "TE",
     "team": "LAC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Eric Gray",
-    "position": "RB",
-    "team": "NYG",
     "reason": "no-name-match"
   },
   {
@@ -4708,13 +4638,6 @@
     "name": "Bryce Ford-Wheaton",
     "position": "WR",
     "team": "NYG",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Ben VanSumeren",
-    "position": "FB",
-    "team": "PHI",
     "reason": "no-name-match"
   },
   {
