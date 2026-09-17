@@ -36,13 +36,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Jerome Ford",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Joe Mixon",
     "position": "RB",
     "team": "FA",
@@ -85,13 +78,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Khalil Herbert",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Ben Sauls",
     "position": "K",
     "team": "FA",
@@ -123,6 +109,13 @@
     "name": "Tyler Lockett",
     "position": "WR",
     "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jimmy Horn Jr.",
+    "position": "WR",
+    "team": "FA",
     "reason": "no-name-match"
   },
   {
@@ -295,6 +288,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Israel Abanikanda",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Donovan Edwards",
     "position": "RB",
     "team": "FA",
@@ -311,6 +311,13 @@
     "source": "fantasypros",
     "name": "Ray-Ray McCloud III",
     "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jake Moody",
+    "position": "K",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -883,6 +890,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Shane Zylstra",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Nick Boyle",
     "position": "TE",
     "team": "FA",
@@ -1373,7 +1387,7 @@
   },
   {
     "source": "fantasypros",
-    "name": "Dalen Cambre",
+    "name": "Chris Hilton Jr.",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -3466,6 +3480,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Shane Zylstra",
+    "position": "TE",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Spencer Brown",
     "position": "RB",
     "team": "CAR",
@@ -3497,6 +3518,13 @@
     "name": "D'Wayne Eskridge",
     "position": "WR",
     "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Ihmir Smith-Marsette",
+    "position": "WR",
+    "team": "NYG",
     "reason": "no-name-match"
   },
   {
@@ -3595,13 +3623,6 @@
     "name": "Penei Sewell",
     "position": "T",
     "team": "DET",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Khalil Herbert",
-    "position": "RB",
-    "team": "CIN",
     "reason": "no-name-match"
   },
   {
@@ -3728,13 +3749,6 @@
     "name": "Snoop Conner",
     "position": "RB",
     "team": "JAX",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Jerome Ford",
-    "position": "RB",
-    "team": "CLE",
     "reason": "no-name-match"
   },
   {
@@ -4253,6 +4267,13 @@
     "name": "Tucker Fisk",
     "position": "TE",
     "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Israel Abanikanda",
+    "position": "RB",
+    "team": "NYJ",
     "reason": "no-name-match"
   },
   {

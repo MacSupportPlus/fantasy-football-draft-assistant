@@ -1928,14 +1928,6 @@
     "gsisId": "00-0036970"
   },
   {
-    "sleeperId": "7559",
-    "name": "Ihmir Smith-Marsette",
-    "position": "WR",
-    "team": "ARI",
-    "fantasyProsId": 20116,
-    "gsisId": "00-0036635"
-  },
-  {
     "sleeperId": "7562",
     "name": "Tutu Atwell",
     "position": "WR",
@@ -2078,6 +2070,14 @@
     "team": "TEN",
     "fantasyProsId": 22728,
     "gsisId": "00-0036924"
+  },
+  {
+    "sleeperId": "7608",
+    "name": "Khalil Herbert",
+    "position": "RB",
+    "team": "ATL",
+    "fantasyProsId": 22763,
+    "gsisId": "00-0036906"
   },
   {
     "sleeperId": "7610",
@@ -2238,14 +2238,6 @@
     "team": "JAX",
     "fantasyProsId": 23438,
     "gsisId": "00-0036497"
-  },
-  {
-    "sleeperId": "8041",
-    "name": "Shane Zylstra",
-    "position": "TE",
-    "team": "NE",
-    "fantasyProsId": 23461,
-    "gsisId": "00-0036534"
   },
   {
     "sleeperId": "8076",
@@ -2446,6 +2438,14 @@
     "team": "IND",
     "fantasyProsId": 23791,
     "gsisId": "00-0037664"
+  },
+  {
+    "sleeperId": "8143",
+    "name": "Jerome Ford",
+    "position": "RB",
+    "team": "MIN",
+    "fantasyProsId": 22921,
+    "gsisId": "00-0037267"
   },
   {
     "sleeperId": "8144",
@@ -2976,14 +2976,6 @@
     "gsisId": "00-0039040"
   },
   {
-    "sleeperId": "9227",
-    "name": "Israel Abanikanda",
-    "position": "RB",
-    "team": "DAL",
-    "fantasyProsId": 24352,
-    "gsisId": "00-0038389"
-  },
-  {
     "sleeperId": "9228",
     "name": "Bryce Young",
     "position": "QB",
@@ -3462,14 +3454,6 @@
     "team": "DAL",
     "fantasyProsId": 25267,
     "gsisId": "00-0038547"
-  },
-  {
-    "sleeperId": "10937",
-    "name": "Jake Moody",
-    "position": "K",
-    "team": "BAL",
-    "fantasyProsId": 24009,
-    "gsisId": "00-0038562"
   },
   {
     "sleeperId": "10955",
@@ -4936,14 +4920,6 @@
     "gsisId": "00-0040676"
   },
   {
-    "sleeperId": "12523",
-    "name": "Jimmy Horn",
-    "position": "WR",
-    "team": "CAR",
-    "fantasyProsId": 27294,
-    "gsisId": "00-0040218"
-  },
-  {
     "sleeperId": "12524",
     "name": "Shedeur Sanders",
     "position": "QB",
@@ -5326,6 +5302,22 @@
     "team": "KC",
     "fantasyProsId": 26400,
     "gsisId": "00-0040298"
+  },
+  {
+    "sleeperId": "12884",
+    "name": "Quincy Skinner",
+    "position": "WR",
+    "team": "GB",
+    "fantasyProsId": null,
+    "gsisId": "00-0040553"
+  },
+  {
+    "sleeperId": "12888",
+    "name": "Dalen Cambre",
+    "position": "WR",
+    "team": "NYG",
+    "fantasyProsId": 27663,
+    "gsisId": null
   },
   {
     "sleeperId": "12889",
@@ -6590,14 +6582,6 @@
     "team": "ARI",
     "fantasyProsId": 28143,
     "gsisId": "00-0041368"
-  },
-  {
-    "sleeperId": "13674",
-    "name": "Chris Hilton",
-    "position": "WR",
-    "team": "GB",
-    "fantasyProsId": 22995,
-    "gsisId": "00-0041179"
   },
   {
     "sleeperId": "13696",
