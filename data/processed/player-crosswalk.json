@@ -2976,6 +2976,14 @@
     "gsisId": "00-0039040"
   },
   {
+    "sleeperId": "9227",
+    "name": "Israel Abanikanda",
+    "position": "RB",
+    "team": "DAL",
+    "fantasyProsId": 24352,
+    "gsisId": "00-0038389"
+  },
+  {
     "sleeperId": "9228",
     "name": "Bryce Young",
     "position": "QB",
@@ -4368,6 +4376,14 @@
     "gsisId": "00-0039686"
   },
   {
+    "sleeperId": "11959",
+    "name": "Bryce Oliver",
+    "position": "WR",
+    "team": "HOU",
+    "fantasyProsId": 26588,
+    "gsisId": "00-0039650"
+  },
+  {
     "sleeperId": "11963",
     "name": "Chris Collier",
     "position": "RB",
@@ -4918,6 +4934,14 @@
     "team": "TEN",
     "fantasyProsId": 24755,
     "gsisId": "00-0040676"
+  },
+  {
+    "sleeperId": "12523",
+    "name": "Jimmy Horn",
+    "position": "WR",
+    "team": "CLE",
+    "fantasyProsId": 27294,
+    "gsisId": "00-0040218"
   },
   {
     "sleeperId": "12524",
@@ -5845,7 +5869,7 @@
     "position": "RB",
     "team": "LV",
     "fantasyProsId": 28108,
-    "gsisId": "WAS569019"
+    "gsisId": "00-0040878"
   },
   {
     "sleeperId": "13306",
@@ -6656,6 +6680,14 @@
     "gsisId": null
   },
   {
+    "sleeperId": "13805",
+    "name": "E.J. Williams",
+    "position": "WR",
+    "team": "CAR",
+    "fantasyProsId": null,
+    "gsisId": null
+  },
+  {
     "sleeperId": "13816",
     "name": "Mark Gronowski",
     "position": "QB",
@@ -6757,7 +6789,7 @@
     "position": "RB",
     "team": "GB",
     "fantasyProsId": null,
-    "gsisId": null
+    "gsisId": "00-0041139"
   },
   {
     "sleeperId": "13957",

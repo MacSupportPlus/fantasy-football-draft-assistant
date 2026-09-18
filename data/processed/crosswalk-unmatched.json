@@ -113,13 +113,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Jimmy Horn Jr.",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "DeAndre Hopkins",
     "position": "WR",
     "team": "BAL",
@@ -288,13 +281,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Israel Abanikanda",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Donovan Edwards",
     "position": "RB",
     "team": "FA",
@@ -324,13 +310,6 @@
   {
     "source": "fantasypros",
     "name": "JuJu Smith-Schuster",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Bryce Oliver",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -4271,13 +4250,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Israel Abanikanda",
-    "position": "RB",
-    "team": "NYJ",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Ty Zentner",
     "position": "P",
     "team": "TEN",
@@ -4785,13 +4757,6 @@
     "name": "Jacob Kibodi",
     "position": "RB",
     "team": "CLE",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Bryce Oliver",
-    "position": "WR",
-    "team": "TEN",
     "reason": "no-name-match"
   },
   {
