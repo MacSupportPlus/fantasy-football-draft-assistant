@@ -1107,6 +1107,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Danny Gray",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Dee Eskridge",
     "position": "WR",
     "team": "FA",
@@ -3861,6 +3868,13 @@
     "name": "Tyrion Davis-Price",
     "position": "RB",
     "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Danny Gray",
+    "position": "WR",
+    "team": "SF",
     "reason": "no-name-match"
   },
   {
