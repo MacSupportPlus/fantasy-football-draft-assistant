@@ -80,6 +80,14 @@
     "gsisId": "00-0029604"
   },
   {
+    "sleeperId": "1339",
+    "name": "Zach Ertz",
+    "position": "TE",
+    "team": "PHI",
+    "fantasyProsId": 11689,
+    "gsisId": "00-0030061"
+  },
+  {
     "sleeperId": "1373",
     "name": "Geno Smith",
     "position": "QB",
@@ -1310,6 +1318,14 @@
     "team": "NYG",
     "fantasyProsId": 18454,
     "gsisId": "00-0035283"
+  },
+  {
+    "sleeperId": "6149",
+    "name": "Darius Slayton",
+    "position": "WR",
+    "team": "IND",
+    "fantasyProsId": 18706,
+    "gsisId": "00-0035535"
   },
   {
     "sleeperId": "6154",
