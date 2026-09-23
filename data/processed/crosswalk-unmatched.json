@@ -113,13 +113,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Brandin Cooks",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "DeAndre Hopkins",
     "position": "WR",
     "team": "BAL",
@@ -309,13 +302,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Jaret Patterson",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Albert Okwuegbunam Jr.",
     "position": "TE",
     "team": "FA",
@@ -456,13 +442,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Will Levis",
-    "position": "QB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Jordan Akins",
     "position": "TE",
     "team": "FA",
@@ -478,13 +457,6 @@
   {
     "source": "fantasypros",
     "name": "Logan Thomas",
-    "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Tanner Conner",
     "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
@@ -514,13 +486,6 @@
     "source": "fantasypros",
     "name": "Kenny McIntosh",
     "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Isaiah Hodgins",
-    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -1031,13 +996,6 @@
   {
     "source": "fantasypros",
     "name": "Laviska Shenault Jr.",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Shedrick Jackson",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -1642,13 +1600,6 @@
     "name": "John Brown",
     "position": "WR",
     "team": "BUF",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Brandin Cooks",
-    "position": "WR",
-    "team": "DAL",
     "reason": "no-name-match"
   },
   {
@@ -3186,13 +3137,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Isaiah Hodgins",
-    "position": "WR",
-    "team": "NYG",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Mason Kinsey",
     "position": "WR",
     "team": "TEN",
@@ -3487,13 +3431,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Ihmir Smith-Marsette",
-    "position": "WR",
-    "team": "NYG",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Larry Rountree",
     "position": "RB",
     "team": "LAC",
@@ -3539,13 +3476,6 @@
     "name": "Adam Prentice",
     "position": "FB",
     "team": "NO",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Jaret Patterson",
-    "position": "RB",
-    "team": "WAS",
     "reason": "no-name-match"
   },
   {
@@ -3756,13 +3686,6 @@
     "name": "Zander Horvath",
     "position": "RB",
     "team": "LAC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Tanner Conner",
-    "position": "WR",
-    "team": "MIA",
     "reason": "no-name-match"
   },
   {
@@ -4348,13 +4271,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Shedrick Jackson",
-    "position": "WR",
-    "team": "CIN",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Malik Cunningham",
     "position": "WR",
     "team": "NE",
@@ -4372,13 +4288,6 @@
     "name": "Zach Evans",
     "position": "RB",
     "team": "LA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Will Levis",
-    "position": "QB",
-    "team": "TEN",
     "reason": "no-name-match"
   },
   {
@@ -4694,13 +4603,6 @@
     "name": "Jaheim Bell",
     "position": "TE",
     "team": "NE",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Brenden Bates",
-    "position": "TE",
-    "team": "CLE",
     "reason": "no-name-match"
   },
   {

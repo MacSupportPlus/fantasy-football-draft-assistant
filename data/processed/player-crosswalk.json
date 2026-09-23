@@ -208,6 +208,14 @@
     "gsisId": "00-0031381"
   },
   {
+    "sleeperId": "2197",
+    "name": "Brandin Cooks",
+    "position": "WR",
+    "team": "SF",
+    "fantasyProsId": 12122,
+    "gsisId": "00-0031236"
+  },
+  {
     "sleeperId": "2216",
     "name": "Mike Evans",
     "position": "WR",
@@ -1672,6 +1680,14 @@
     "gsisId": "00-0036020"
   },
   {
+    "sleeperId": "6920",
+    "name": "Isaiah Hodgins",
+    "position": "WR",
+    "team": "PIT",
+    "fantasyProsId": 19375,
+    "gsisId": "00-0036165"
+  },
+  {
     "sleeperId": "6931",
     "name": "DeeJay Dallas",
     "position": "RB",
@@ -1912,6 +1928,14 @@
     "gsisId": "00-0036590"
   },
   {
+    "sleeperId": "7537",
+    "name": "Jaret Patterson",
+    "position": "RB",
+    "team": "MIN",
+    "fantasyProsId": 20155,
+    "gsisId": "00-0036755"
+  },
+  {
     "sleeperId": "7538",
     "name": "Zach Wilson",
     "position": "QB",
@@ -1942,6 +1966,14 @@
     "team": "ATL",
     "fantasyProsId": 20164,
     "gsisId": "00-0036970"
+  },
+  {
+    "sleeperId": "7559",
+    "name": "Ihmir Smith-Marsette",
+    "position": "WR",
+    "team": "CAR",
+    "fantasyProsId": 20116,
+    "gsisId": "00-0036635"
   },
   {
     "sleeperId": "7562",
@@ -2920,6 +2952,14 @@
     "gsisId": "00-0037563"
   },
   {
+    "sleeperId": "8849",
+    "name": "Tanner Conner",
+    "position": "TE",
+    "team": "NE",
+    "fantasyProsId": 24216,
+    "gsisId": "00-0037348"
+  },
+  {
     "sleeperId": "8861",
     "name": "Irv Charles",
     "position": "WR",
@@ -3246,6 +3286,14 @@
     "team": "TEN",
     "fantasyProsId": 24332,
     "gsisId": "00-0038550"
+  },
+  {
+    "sleeperId": "9999",
+    "name": "Will Levis",
+    "position": "QB",
+    "team": "NYJ",
+    "fantasyProsId": 22987,
+    "gsisId": "00-0039152"
   },
   {
     "sleeperId": "10210",
@@ -3590,6 +3638,14 @@
     "team": "CHI",
     "fantasyProsId": 25321,
     "gsisId": "00-0038416"
+  },
+  {
+    "sleeperId": "11257",
+    "name": "Shedrick Jackson",
+    "position": "WR",
+    "team": "BAL",
+    "fantasyProsId": 25709,
+    "gsisId": "00-0038891"
   },
   {
     "sleeperId": "11261",
@@ -4520,10 +4576,18 @@
     "gsisId": "00-0039648"
   },
   {
+    "sleeperId": "12374",
+    "name": "Brenden Bates",
+    "position": "TE",
+    "team": "JAX",
+    "fantasyProsId": 26437,
+    "gsisId": "00-0039458"
+  },
+  {
     "sleeperId": "12389",
     "name": "Hayden Rucci",
     "position": "TE",
-    "team": "JAX",
+    "team": "LAC",
     "fantasyProsId": 26946,
     "gsisId": "00-0039489"
   },
@@ -6717,6 +6781,14 @@
     "position": "K",
     "team": "NYG",
     "fantasyProsId": 28176,
+    "gsisId": null
+  },
+  {
+    "sleeperId": "13834",
+    "name": "Cody Hardy",
+    "position": "TE",
+    "team": "NYJ",
+    "fantasyProsId": null,
     "gsisId": null
   },
   {
