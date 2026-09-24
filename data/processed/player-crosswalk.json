@@ -1288,14 +1288,6 @@
     "gsisId": "00-0035537"
   },
   {
-    "sleeperId": "6045",
-    "name": "Gary Jennings",
-    "position": "WR",
-    "team": "LAC",
-    "fantasyProsId": 18565,
-    "gsisId": "00-0035589"
-  },
-  {
     "sleeperId": "6083",
     "name": "Matt Gay",
     "position": "K",
@@ -2566,14 +2558,6 @@
     "team": "NYJ",
     "fantasyProsId": 22982,
     "gsisId": "00-0038120"
-  },
-  {
-    "sleeperId": "8157",
-    "name": "Bailey Zappe",
-    "position": "QB",
-    "team": "NYJ",
-    "fantasyProsId": 24027,
-    "gsisId": "00-0038108"
   },
   {
     "sleeperId": "8160",
@@ -3958,14 +3942,6 @@
     "team": "PHI",
     "fantasyProsId": 22930,
     "gsisId": "00-0039746"
-  },
-  {
-    "sleeperId": "11579",
-    "name": "Audric Estime",
-    "position": "RB",
-    "team": "NO",
-    "fantasyProsId": 23054,
-    "gsisId": "00-0039373"
   },
   {
     "sleeperId": "11581",
@@ -5448,6 +5424,14 @@
     "gsisId": null
   },
   {
+    "sleeperId": "12909",
+    "name": "Eli Pancol",
+    "position": "WR",
+    "team": "IND",
+    "fantasyProsId": 27678,
+    "gsisId": "00-0040337"
+  },
+  {
     "sleeperId": "12925",
     "name": "Jamaal Pritchett",
     "position": "WR",
@@ -6744,14 +6728,6 @@
     "gsisId": null
   },
   {
-    "sleeperId": "13805",
-    "name": "E.J. Williams",
-    "position": "WR",
-    "team": "CAR",
-    "fantasyProsId": null,
-    "gsisId": null
-  },
-  {
     "sleeperId": "13825",
     "name": "Malik McClain",
     "position": "WR",
@@ -6904,19 +6880,11 @@
     "gsisId": null
   },
   {
-    "sleeperId": "14038",
-    "name": "Trayvon Rudolph",
+    "sleeperId": "14058",
+    "name": "Malick Meiga",
     "position": "WR",
-    "team": "MIN",
+    "team": "SEA",
     "fantasyProsId": null,
-    "gsisId": null
-  },
-  {
-    "sleeperId": "14041",
-    "name": "Anderson Castle",
-    "position": "RB",
-    "team": "IND",
-    "fantasyProsId": 28903,
     "gsisId": null
   },
   {

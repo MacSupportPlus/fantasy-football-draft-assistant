@@ -8,6 +8,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Audric Estime",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Devin Neal",
     "position": "RB",
     "team": "FA",
@@ -743,6 +750,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Bailey Zappe",
+    "position": "QB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Bisi Johnson",
     "position": "WR",
     "team": "FA",
@@ -1277,6 +1291,13 @@
     "source": "fantasypros",
     "name": "Kendric Pryor",
     "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Anderson Castle",
+    "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -3788,6 +3809,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Bailey Zappe",
+    "position": "QB",
+    "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Desmond Ridder",
     "position": "QB",
     "team": "LV",
@@ -4575,6 +4603,13 @@
     "name": "Baylor Cupp",
     "position": "TE",
     "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Audric Estime",
+    "position": "RB",
+    "team": "DEN",
     "reason": "no-name-match"
   },
   {
