@@ -1288,6 +1288,14 @@
     "gsisId": "00-0035537"
   },
   {
+    "sleeperId": "6045",
+    "name": "Gary Jennings",
+    "position": "WR",
+    "team": "LAC",
+    "fantasyProsId": 18565,
+    "gsisId": "00-0035589"
+  },
+  {
     "sleeperId": "6083",
     "name": "Matt Gay",
     "position": "K",
@@ -4556,7 +4564,7 @@
     "name": "Brenden Bates",
     "position": "TE",
     "team": "JAX",
-    "fantasyProsId": 26437,
+    "fantasyProsId": null,
     "gsisId": "00-0039458"
   },
   {
@@ -5376,6 +5384,14 @@
     "gsisId": "00-0040298"
   },
   {
+    "sleeperId": "12865",
+    "name": "AJ Henning",
+    "position": "WR",
+    "team": "MIA",
+    "fantasyProsId": 23016,
+    "gsisId": null
+  },
+  {
     "sleeperId": "12884",
     "name": "Quincy Skinner",
     "position": "WR",
@@ -5428,7 +5444,7 @@
     "name": "Eli Pancol",
     "position": "WR",
     "team": "IND",
-    "fantasyProsId": 27678,
+    "fantasyProsId": null,
     "gsisId": "00-0040337"
   },
   {
