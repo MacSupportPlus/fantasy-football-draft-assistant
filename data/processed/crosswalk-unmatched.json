@@ -197,6 +197,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Scotty Miller",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Hassan Haskins",
     "position": "RB",
     "team": "FA",
@@ -2846,6 +2853,13 @@
     "name": "Trayveon Williams",
     "position": "RB",
     "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Scott Miller",
+    "position": "WR",
+    "team": "PIT",
     "reason": "no-name-match"
   },
   {
