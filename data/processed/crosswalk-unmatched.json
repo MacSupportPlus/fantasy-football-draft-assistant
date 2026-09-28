@@ -57,15 +57,15 @@
   },
   {
     "source": "fantasypros",
-    "name": "Austin Ekeler",
-    "position": "RB",
+    "name": "Brandon McManus",
+    "position": "K",
     "team": "FA",
     "reason": "no-name-match"
   },
   {
     "source": "fantasypros",
-    "name": "Brandon McManus",
-    "position": "K",
+    "name": "Austin Ekeler",
+    "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -99,23 +99,9 @@
   },
   {
     "source": "fantasypros",
-    "name": "Antonio Gibson",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Tyler Lockett",
     "position": "WR",
     "team": "LV",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Terrell Jennings",
-    "position": "RB",
-    "team": "FA",
     "reason": "no-name-match"
   },
   {
@@ -134,6 +120,20 @@
   },
   {
     "source": "fantasypros",
+    "name": "Antonio Gibson",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Terrell Jennings",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Taysom Hill",
     "position": "TE",
     "team": "FA",
@@ -141,22 +141,8 @@
   },
   {
     "source": "fantasypros",
-    "name": "Raheem Mostert",
-    "position": "RB",
-    "team": "LV",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Diontae Johnson",
     "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Tommy Myers",
-    "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -169,9 +155,23 @@
   },
   {
     "source": "fantasypros",
+    "name": "Tommy Myers",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Gabe Davis",
     "position": "WR",
     "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Raheem Mostert",
+    "position": "RB",
+    "team": "LV",
     "reason": "no-name-match"
   },
   {
@@ -253,20 +253,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "JuJu Smith-Schuster",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Cam Akers",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Ben Sims",
     "position": "TE",
     "team": "FA",
@@ -276,6 +262,13 @@
     "source": "fantasypros",
     "name": "Will Dissly",
     "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Cam Akers",
+    "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -304,6 +297,13 @@
     "source": "fantasypros",
     "name": "Jake Moody",
     "position": "K",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "JuJu Smith-Schuster",
+    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
