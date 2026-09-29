@@ -337,13 +337,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Miles Kitselman",
-    "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Joshua Karty",
     "position": "K",
     "team": "FA",
@@ -430,6 +423,13 @@
     "source": "fantasypros",
     "name": "Trayveon Williams",
     "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Ronnie Bell",
+    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -4271,6 +4271,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Ronnie Bell",
+    "position": "WR",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Elijah Cooks",
     "position": "WR",
     "team": "JAX",
@@ -4316,13 +4323,6 @@
     "name": "Malik Cunningham",
     "position": "WR",
     "team": "NE",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Tyler Scott",
-    "position": "WR",
-    "team": "CHI",
     "reason": "no-name-match"
   },
   {
@@ -4610,6 +4610,13 @@
     "name": "Wanya Morris",
     "position": "T",
     "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jake Haener",
+    "position": "QB",
+    "team": "NO",
     "reason": "no-name-match"
   },
   {

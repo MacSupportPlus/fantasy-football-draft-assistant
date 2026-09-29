@@ -3112,6 +3112,14 @@
     "gsisId": "00-0038590"
   },
   {
+    "sleeperId": "9490",
+    "name": "Tyler Scott",
+    "position": "WR",
+    "team": "LV",
+    "fantasyProsId": 25442,
+    "gsisId": "00-0038941"
+  },
+  {
     "sleeperId": "9492",
     "name": "Trey Palmer",
     "position": "WR",
@@ -3312,14 +3320,6 @@
     "gsisId": "00-0039074"
   },
   {
-    "sleeperId": "10215",
-    "name": "Jake Haener",
-    "position": "QB",
-    "team": "NYG",
-    "fantasyProsId": 24728,
-    "gsisId": "00-0038998"
-  },
-  {
     "sleeperId": "10218",
     "name": "Xavier Hutchinson",
     "position": "WR",
@@ -3342,14 +3342,6 @@
     "team": "IND",
     "fantasyProsId": 23821,
     "gsisId": "00-0038394"
-  },
-  {
-    "sleeperId": "10221",
-    "name": "Ronnie Bell",
-    "position": "WR",
-    "team": "LV",
-    "fantasyProsId": 23012,
-    "gsisId": "00-0038647"
   },
   {
     "sleeperId": "10222",
@@ -3547,7 +3539,7 @@
     "sleeperId": "11068",
     "name": "Mitchell Tinsley",
     "position": "WR",
-    "team": "HOU",
+    "team": "CIN",
     "fantasyProsId": 24370,
     "gsisId": "00-0038839"
   },
@@ -6430,6 +6422,14 @@
     "team": "MIA",
     "fantasyProsId": 28163,
     "gsisId": "00-0041579"
+  },
+  {
+    "sleeperId": "13431",
+    "name": "Miles Kitselman",
+    "position": "TE",
+    "team": "DET",
+    "fantasyProsId": 28156,
+    "gsisId": null
   },
   {
     "sleeperId": "13432",
