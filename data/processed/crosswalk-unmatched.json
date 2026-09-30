@@ -8,20 +8,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Audric Estime",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Devin Neal",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Kareem Hunt",
     "position": "RB",
     "team": "FA",
@@ -30,6 +16,20 @@
   {
     "source": "fantasypros",
     "name": "Tyreek Hill",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jerome Ford",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Odell Beckham Jr.",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -64,8 +64,8 @@
   },
   {
     "source": "fantasypros",
-    "name": "Austin Ekeler",
-    "position": "RB",
+    "name": "Blake Grupe",
+    "position": "K",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -309,7 +309,21 @@
   },
   {
     "source": "fantasypros",
+    "name": "Bryce Oliver",
+    "position": "WR",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Mecole Hardman Jr.",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Ke'Shawn Williams",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -499,6 +513,13 @@
   {
     "source": "fantasypros",
     "name": "Kenny McIntosh",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jaret Patterson",
     "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
@@ -904,6 +925,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Messiah Swinson",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Allen Lazard",
     "position": "WR",
     "team": "FA",
@@ -1192,6 +1220,13 @@
   {
     "source": "fantasypros",
     "name": "Jalen Guyton",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Justin Shorter",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -1884,13 +1919,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Phillip Dorsett",
-    "position": "WR",
-    "team": "DEN",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Tyler Lockett",
     "position": "WR",
     "team": "SEA",
@@ -2202,13 +2230,6 @@
     "name": "Keelan Cole",
     "position": "WR",
     "team": "LV",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Austin Ekeler",
-    "position": "RB",
-    "team": "WAS",
     "reason": "no-name-match"
   },
   {
@@ -2682,13 +2703,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Dante Pettis",
-    "position": "WR",
-    "team": "NO",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "John Wolford",
     "position": "QB",
     "team": "LA",
@@ -2699,13 +2713,6 @@
     "name": "Steven Sims",
     "position": "WR",
     "team": "HOU",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Brett Rypien",
-    "position": "QB",
-    "team": "LA",
     "reason": "no-name-match"
   },
   {
@@ -3515,6 +3522,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Jaret Patterson",
+    "position": "RB",
+    "team": "WAS",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Cade Johnson",
     "position": "WR",
     "team": "SEA",
@@ -3679,6 +3693,13 @@
     "name": "Snoop Conner",
     "position": "RB",
     "team": "JAX",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jerome Ford",
+    "position": "RB",
+    "team": "CLE",
     "reason": "no-name-match"
   },
   {
@@ -3896,6 +3917,13 @@
     "name": "Willie Snead",
     "position": "WR",
     "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Odell Beckham",
+    "position": "WR",
+    "team": "MIA",
     "reason": "no-name-match"
   },
   {
@@ -4155,13 +4183,6 @@
     "name": "Malcolm Rodriguez",
     "position": "ILB",
     "team": "DET",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "John FitzPatrick",
-    "position": "TE",
-    "team": "GB",
     "reason": "no-name-match"
   },
   {
@@ -4628,13 +4649,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Audric Estime",
-    "position": "RB",
-    "team": "DEN",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Jamari Thrash",
     "position": "WR",
     "team": "CLE",
@@ -4708,6 +4722,13 @@
     "name": "Jacob Kibodi",
     "position": "RB",
     "team": "CLE",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Bryce Oliver",
+    "position": "WR",
+    "team": "TEN",
     "reason": "no-name-match"
   },
   {
