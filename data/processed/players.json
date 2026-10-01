@@ -8,7 +8,7 @@
     "injuryStatus": null,
     "yearsExp": 18,
     "age": 41,
-    "searchRank": 484
+    "searchRank": 483
   },
   {
     "id": "96",
@@ -19,7 +19,7 @@
     "injuryStatus": null,
     "yearsExp": 21,
     "age": 42,
-    "searchRank": 187
+    "searchRank": 188
   },
   {
     "id": "138",
@@ -52,7 +52,7 @@
     "injuryStatus": null,
     "yearsExp": 17,
     "age": 38,
-    "searchRank": 65
+    "searchRank": 66
   },
   {
     "id": "650",
@@ -107,7 +107,7 @@
     "injuryStatus": null,
     "yearsExp": 14,
     "age": 38,
-    "searchRank": 273
+    "searchRank": 272
   },
   {
     "id": "1339",
@@ -129,7 +129,7 @@
     "injuryStatus": null,
     "yearsExp": 13,
     "age": 35,
-    "searchRank": 211
+    "searchRank": 210
   },
   {
     "id": "1466",
@@ -151,7 +151,7 @@
     "injuryStatus": null,
     "yearsExp": 13,
     "age": 34,
-    "searchRank": 183
+    "searchRank": 185
   },
   {
     "id": "1592",
@@ -206,7 +206,7 @@
     "injuryStatus": null,
     "yearsExp": 14,
     "age": 38,
-    "searchRank": 550
+    "searchRank": 527
   },
   {
     "id": "1945",
@@ -305,7 +305,7 @@
     "injuryStatus": null,
     "yearsExp": 11,
     "age": 32,
-    "searchRank": 493
+    "searchRank": 492
   },
   {
     "id": "2307",
@@ -349,7 +349,7 @@
     "injuryStatus": null,
     "yearsExp": 11,
     "age": 32,
-    "searchRank": 103
+    "searchRank": 105
   },
   {
     "id": "2505",
@@ -360,7 +360,7 @@
     "injuryStatus": null,
     "yearsExp": 11,
     "age": 34,
-    "searchRank": 354
+    "searchRank": 353
   },
   {
     "id": "2747",
@@ -522,7 +522,7 @@
     "position": "WR",
     "team": "BAL",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 10,
     "age": 33,
     "searchRank": 999
@@ -558,7 +558,7 @@
     "injuryStatus": null,
     "yearsExp": 10,
     "age": 33,
-    "searchRank": 39
+    "searchRank": 38
   },
   {
     "id": "3309",
@@ -591,7 +591,7 @@
     "injuryStatus": null,
     "yearsExp": 10,
     "age": 32,
-    "searchRank": 128
+    "searchRank": 129
   },
   {
     "id": "3634",
@@ -709,10 +709,10 @@
     "position": "WR",
     "team": "TB",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 9,
     "age": 30,
-    "searchRank": 87
+    "searchRank": 88
   },
   {
     "id": "4039",
@@ -723,7 +723,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 33,
-    "searchRank": 198
+    "searchRank": 197
   },
   {
     "id": "4046",
@@ -734,7 +734,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 31,
-    "searchRank": 40
+    "searchRank": 39
   },
   {
     "id": "4054",
@@ -742,7 +742,7 @@
     "position": "TE",
     "team": "IND",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 9,
     "age": 33,
     "searchRank": 528
@@ -789,7 +789,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 31,
-    "searchRank": 451
+    "searchRank": 450
   },
   {
     "id": "4177",
@@ -855,7 +855,7 @@
     "injuryStatus": null,
     "yearsExp": 9,
     "age": 32,
-    "searchRank": 79
+    "searchRank": 80
   },
   {
     "id": "4219",
@@ -1072,7 +1072,7 @@
     "position": "QB",
     "team": "BAL",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 8,
     "age": 29,
     "searchRank": 10
@@ -1215,7 +1215,7 @@
     "position": "WR",
     "team": "BUF",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 8,
     "age": 29,
     "searchRank": 49
@@ -1226,10 +1226,10 @@
     "position": "QB",
     "team": "BUF",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 8,
     "age": 30,
-    "searchRank": 4
+    "searchRank": 3
   },
   {
     "id": "4992",
@@ -1262,7 +1262,7 @@
     "injuryStatus": null,
     "yearsExp": 8,
     "age": 30,
-    "searchRank": 688
+    "searchRank": 689
   },
   {
     "id": "5001",
@@ -1292,7 +1292,7 @@
     "position": "TE",
     "team": "BAL",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 8,
     "age": 31,
     "searchRank": 678
@@ -1490,7 +1490,7 @@
     "position": "WR",
     "team": "SF",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 8,
     "age": 31,
     "searchRank": 695
@@ -1603,7 +1603,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 29,
-    "searchRank": 131
+    "searchRank": 132
   },
   {
     "id": "5872",
@@ -1614,7 +1614,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 30,
-    "searchRank": 131
+    "searchRank": 130
   },
   {
     "id": "5892",
@@ -1666,7 +1666,7 @@
     "position": "WR",
     "team": "JAX",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 7,
     "age": 29,
     "searchRank": 77
@@ -1688,7 +1688,7 @@
     "position": "RB",
     "team": "TEN",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 7,
     "age": 29,
     "searchRank": 63
@@ -1944,7 +1944,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 30,
-    "searchRank": 426
+    "searchRank": 428
   },
   {
     "id": "6427",
@@ -2054,7 +2054,7 @@
     "injuryStatus": null,
     "yearsExp": 7,
     "age": 30,
-    "searchRank": 624
+    "searchRank": 623
   },
   {
     "id": "6677",
@@ -2392,7 +2392,7 @@
     "position": "RB",
     "team": "PIT",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Out",
     "yearsExp": 6,
     "age": 28,
     "searchRank": 65
@@ -2546,7 +2546,7 @@
     "position": "RB",
     "team": "NE",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 6,
     "age": 29,
     "searchRank": 562
@@ -2593,7 +2593,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 26,
-    "searchRank": 41
+    "searchRank": 42
   },
   {
     "id": "7525",
@@ -2601,7 +2601,7 @@
     "position": "WR",
     "team": "PHI",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 5,
     "age": 27,
     "searchRank": 33
@@ -2612,7 +2612,7 @@
     "position": "WR",
     "team": "DEN",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
     "searchRank": 42
@@ -2626,7 +2626,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 28,
-    "searchRank": 405
+    "searchRank": 406
   },
   {
     "id": "7528",
@@ -2703,7 +2703,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 26,
-    "searchRank": 7
+    "searchRank": 6
   },
   {
     "id": "7553",
@@ -2846,7 +2846,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 27,
-    "searchRank": 428
+    "searchRank": 427
   },
   {
     "id": "7593",
@@ -2876,7 +2876,7 @@
     "position": "WR",
     "team": "CLE",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Out",
     "yearsExp": 5,
     "age": 27,
     "searchRank": 670
@@ -2934,7 +2934,7 @@
     "injuryStatus": null,
     "yearsExp": 5,
     "age": 28,
-    "searchRank": 666
+    "searchRank": 664
   },
   {
     "id": "7610",
@@ -2942,7 +2942,7 @@
     "position": "QB",
     "team": "LAC",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 5,
     "age": 26,
     "searchRank": 640
@@ -3008,7 +3008,7 @@
     "position": "RB",
     "team": "NYJ",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 5,
     "age": 28,
     "searchRank": 696
@@ -3187,7 +3187,7 @@
     "injuryStatus": "IR",
     "yearsExp": 4,
     "age": 29,
-    "searchRank": 288
+    "searchRank": 290
   },
   {
     "id": "8110",
@@ -3341,7 +3341,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 106
+    "searchRank": 104
   },
   {
     "id": "8132",
@@ -3448,7 +3448,7 @@
     "position": "TE",
     "team": "NYJ",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 4,
     "age": 26,
     "searchRank": 662
@@ -3525,7 +3525,7 @@
     "position": "RB",
     "team": "NYJ",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Doubtful",
     "yearsExp": 4,
     "age": 25,
     "searchRank": 27
@@ -3649,7 +3649,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 26,
-    "searchRank": 55
+    "searchRank": 56
   },
   {
     "id": "8188",
@@ -3902,7 +3902,7 @@
     "injuryStatus": "IR",
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 92
+    "searchRank": 90
   },
   {
     "id": "8414",
@@ -3932,7 +3932,7 @@
     "position": "TE",
     "team": "TB",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 4,
     "age": 28,
     "searchRank": 641
@@ -4056,7 +4056,7 @@
     "injuryStatus": "IR",
     "yearsExp": 4,
     "age": 27,
-    "searchRank": 443
+    "searchRank": 442
   },
   {
     "id": "8849",
@@ -4089,7 +4089,7 @@
     "injuryStatus": null,
     "yearsExp": 4,
     "age": 30,
-    "searchRank": 447
+    "searchRank": 446
   },
   {
     "id": "8924",
@@ -4196,7 +4196,7 @@
     "position": "QB",
     "team": "PHI",
     "status": "Active",
-    "injuryStatus": "Out",
+    "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
     "searchRank": 677
@@ -4243,7 +4243,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 471
+    "searchRank": 468
   },
   {
     "id": "9484",
@@ -4254,7 +4254,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 25,
-    "searchRank": 64
+    "searchRank": 65
   },
   {
     "id": "9486",
@@ -4287,7 +4287,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 24,
-    "searchRank": 6
+    "searchRank": 7
   },
   {
     "id": "9490",
@@ -4328,7 +4328,7 @@
     "position": "WR",
     "team": "DEN",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": null,
     "yearsExp": 3,
     "age": 24,
     "searchRank": 192
@@ -4405,7 +4405,7 @@
     "position": "RB",
     "team": "TEN",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 3,
     "age": 25,
     "searchRank": 122
@@ -4438,7 +4438,7 @@
     "position": "RB",
     "team": "LAC",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 3,
     "age": 24,
     "searchRank": 148
@@ -4496,7 +4496,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 24,
-    "searchRank": 101
+    "searchRank": 102
   },
   {
     "id": "9997",
@@ -4504,7 +4504,7 @@
     "position": "WR",
     "team": "BAL",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 3,
     "age": 26,
     "searchRank": 40
@@ -4576,6 +4576,17 @@
     "searchRank": 661
   },
   {
+    "id": "10215",
+    "name": "Jake Haener",
+    "position": "QB",
+    "team": "NYG",
+    "status": "Active",
+    "injuryStatus": null,
+    "yearsExp": 3,
+    "age": 27,
+    "searchRank": 655
+  },
+  {
     "id": "10218",
     "name": "Xavier Hutchinson",
     "position": "WR",
@@ -4595,7 +4606,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 27,
-    "searchRank": 127
+    "searchRank": 125
   },
   {
     "id": "10220",
@@ -4613,11 +4624,11 @@
     "name": "Jayden Reed",
     "position": "WR",
     "team": "GB",
-    "status": "Active",
-    "injuryStatus": "Out",
+    "status": "Inactive",
+    "injuryStatus": "IR",
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 99
+    "searchRank": 97
   },
   {
     "id": "10223",
@@ -4639,7 +4650,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 400
+    "searchRank": 402
   },
   {
     "id": "10225",
@@ -4862,8 +4873,19 @@
     "searchRank": 682
   },
   {
+    "id": "11058",
+    "name": "Blake Grupe",
+    "position": "K",
+    "team": "NYJ",
+    "status": "Active",
+    "injuryStatus": null,
+    "yearsExp": 3,
+    "age": 27,
+    "searchRank": 689
+  },
+  {
     "id": "11068",
-    "name": "Mitchell Tinsley",
+    "name": "Mitch Tinsley",
     "position": "WR",
     "team": "CIN",
     "status": "Active",
@@ -4881,7 +4903,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 470
+    "searchRank": 471
   },
   {
     "id": "11157",
@@ -4970,17 +4992,6 @@
     "yearsExp": 3,
     "age": 26,
     "searchRank": 546
-  },
-  {
-    "id": "11257",
-    "name": "Shedrick Jackson",
-    "position": "WR",
-    "team": "BAL",
-    "status": "Active",
-    "injuryStatus": null,
-    "yearsExp": 3,
-    "age": 26,
-    "searchRank": 587
   },
   {
     "id": "11261",
@@ -5079,7 +5090,7 @@
     "injuryStatus": null,
     "yearsExp": 3,
     "age": 26,
-    "searchRank": 455
+    "searchRank": 454
   },
   {
     "id": "11371",
@@ -5113,6 +5124,17 @@
     "yearsExp": 3,
     "age": 27,
     "searchRank": 9999999
+  },
+  {
+    "id": "11384",
+    "name": "Owen Wright",
+    "position": "RB",
+    "team": "LV",
+    "status": "Active",
+    "injuryStatus": null,
+    "yearsExp": 3,
+    "age": 27,
+    "searchRank": 602
   },
   {
     "id": "11421",
@@ -5171,7 +5193,7 @@
   },
   {
     "id": "11506",
-    "name": "Jalen Moreno-Cropper",
+    "name": "Jalen Cropper",
     "position": "WR",
     "team": "NO",
     "status": "Active",
@@ -5288,7 +5310,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 45
+    "searchRank": 46
   },
   {
     "id": "11564",
@@ -5406,7 +5428,7 @@
     "position": "RB",
     "team": "PHI",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 24,
     "searchRank": 686
@@ -5461,7 +5483,7 @@
     "position": "RB",
     "team": "TB",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 24,
     "searchRank": 32
@@ -5538,7 +5560,7 @@
     "position": "TE",
     "team": "WAS",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 24,
     "searchRank": 672
@@ -5618,7 +5640,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 25,
-    "searchRank": 175
+    "searchRank": 177
   },
   {
     "id": "11616",
@@ -5672,7 +5694,7 @@
     "status": "Active",
     "injuryStatus": null,
     "yearsExp": 2,
-    "age": 25,
+    "age": 26,
     "searchRank": 648
   },
   {
@@ -5692,7 +5714,7 @@
     "position": "WR",
     "team": "NYJ",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Doubtful",
     "yearsExp": 2,
     "age": 23,
     "searchRank": 162
@@ -5703,7 +5725,7 @@
     "position": "WR",
     "team": "CAR",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Doubtful",
     "yearsExp": 2,
     "age": 25,
     "searchRank": 527
@@ -5728,7 +5750,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 24,
-    "searchRank": 74
+    "searchRank": 73
   },
   {
     "id": "11629",
@@ -5761,7 +5783,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 23,
-    "searchRank": 75
+    "searchRank": 74
   },
   {
     "id": "11632",
@@ -5780,7 +5802,7 @@
     "position": "WR",
     "team": "LAC",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 24,
     "searchRank": 35
@@ -5802,7 +5824,7 @@
     "position": "WR",
     "team": "BUF",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 23,
     "searchRank": 206
@@ -5923,7 +5945,7 @@
     "position": "RB",
     "team": "NYG",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 26,
     "searchRank": 110
@@ -5992,7 +6014,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 23,
-    "searchRank": 133
+    "searchRank": 132
   },
   {
     "id": "11792",
@@ -6132,10 +6154,10 @@
     "position": "RB",
     "team": "SEA",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 460
+    "searchRank": 459
   },
   {
     "id": "12062",
@@ -6146,7 +6168,7 @@
     "injuryStatus": null,
     "yearsExp": 2,
     "age": 26,
-    "searchRank": 386
+    "searchRank": 384
   },
   {
     "id": "12079",
@@ -6171,23 +6193,12 @@
     "searchRank": 481
   },
   {
-    "id": "12151",
-    "name": "Julian Hicks",
-    "position": "WR",
-    "team": "SEA",
-    "status": "Active",
-    "injuryStatus": null,
-    "yearsExp": 2,
-    "age": 27,
-    "searchRank": 507
-  },
-  {
     "id": "12171",
     "name": "British Brooks",
     "position": "RB",
     "team": "HOU",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 2,
     "age": 26,
     "searchRank": 412
@@ -6575,7 +6586,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 22,
-    "searchRank": 466
+    "searchRank": 465
   },
   {
     "id": "12496",
@@ -6605,7 +6616,7 @@
     "position": "TE",
     "team": "NYJ",
     "status": "Active",
-    "injuryStatus": "Questionable",
+    "injuryStatus": "Doubtful",
     "yearsExp": 1,
     "age": 22,
     "searchRank": 138
@@ -6718,7 +6729,7 @@
     "injuryStatus": "IR",
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 43
+    "searchRank": 42
   },
   {
     "id": "12509",
@@ -6773,7 +6784,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 23,
-    "searchRank": 39
+    "searchRank": 40
   },
   {
     "id": "12516",
@@ -6795,7 +6806,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 22,
-    "searchRank": 36
+    "searchRank": 37
   },
   {
     "id": "12518",
@@ -6806,7 +6817,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 24,
-    "searchRank": 47
+    "searchRank": 49
   },
   {
     "id": "12519",
@@ -7034,7 +7045,7 @@
     "position": "RB",
     "team": "JAX",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 1,
     "age": 22,
     "searchRank": 507
@@ -7223,7 +7234,7 @@
     "status": "Inactive",
     "injuryStatus": "IR",
     "yearsExp": 1,
-    "age": 24,
+    "age": 25,
     "searchRank": 411
   },
   {
@@ -7333,7 +7344,7 @@
     "status": "Active",
     "injuryStatus": null,
     "yearsExp": 1,
-    "age": 24,
+    "age": 25,
     "searchRank": 641
   },
   {
@@ -7357,6 +7368,17 @@
     "yearsExp": 1,
     "age": 23,
     "searchRank": 629
+  },
+  {
+    "id": "12829",
+    "name": "Coleman Owen",
+    "position": "WR",
+    "team": "GB",
+    "status": "Active",
+    "injuryStatus": null,
+    "yearsExp": 1,
+    "age": 25,
+    "searchRank": 244
   },
   {
     "id": "12848",
@@ -7546,6 +7568,17 @@
     "searchRank": 278
   },
   {
+    "id": "12971",
+    "name": "Ke'Shawn Williams",
+    "position": "WR",
+    "team": "CIN",
+    "status": "Active",
+    "injuryStatus": null,
+    "yearsExp": 1,
+    "age": 24,
+    "searchRank": 636
+  },
+  {
     "id": "12984",
     "name": "CJ Dippre",
     "position": "TE",
@@ -7609,7 +7642,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 696
+    "searchRank": 697
   },
   {
     "id": "13047",
@@ -7708,7 +7741,7 @@
     "injuryStatus": "IR",
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 396
+    "searchRank": 398
   },
   {
     "id": "13150",
@@ -7774,7 +7807,7 @@
     "injuryStatus": null,
     "yearsExp": 1,
     "age": 25,
-    "searchRank": 448
+    "searchRank": 449
   },
   {
     "id": "13210",
@@ -7828,8 +7861,8 @@
     "status": "Active",
     "injuryStatus": null,
     "yearsExp": 0,
-    "age": 22,
-    "searchRank": 109
+    "age": 23,
+    "searchRank": 108
   },
   {
     "id": "13270",
@@ -7851,7 +7884,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 285
+    "searchRank": 286
   },
   {
     "id": "13273",
@@ -7969,7 +8002,7 @@
     "position": "RB",
     "team": "SEA",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 22,
     "searchRank": 52
@@ -8005,7 +8038,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 357
+    "searchRank": 356
   },
   {
     "id": "13292",
@@ -8115,7 +8148,7 @@
     "injuryStatus": "IR",
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 395
+    "searchRank": 397
   },
   {
     "id": "13303",
@@ -8189,7 +8222,7 @@
     "position": "WR",
     "team": "MIA",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 22,
     "searchRank": 198
@@ -8269,7 +8302,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 450
+    "searchRank": 448
   },
   {
     "id": "13320",
@@ -8343,7 +8376,7 @@
     "position": "TE",
     "team": "NYJ",
     "status": "Active",
-    "injuryStatus": null,
+    "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 21,
     "searchRank": 109
@@ -8365,10 +8398,10 @@
     "position": "QB",
     "team": "PHI",
     "status": "Active",
-    "injuryStatus": "Out",
+    "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 471
+    "searchRank": 473
   },
   {
     "id": "13336",
@@ -8544,7 +8577,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 498
+    "searchRank": 496
   },
   {
     "id": "13392",
@@ -8599,7 +8632,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 384
+    "searchRank": 385
   },
   {
     "id": "13404",
@@ -8654,7 +8687,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 379
+    "searchRank": 377
   },
   {
     "id": "13412",
@@ -8753,7 +8786,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 472
+    "searchRank": 469
   },
   {
     "id": "13421",
@@ -8764,7 +8797,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 361
+    "searchRank": 362
   },
   {
     "id": "13422",
@@ -8786,7 +8819,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 23,
-    "searchRank": 490
+    "searchRank": 491
   },
   {
     "id": "13424",
@@ -8797,7 +8830,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 390
+    "searchRank": 389
   },
   {
     "id": "13425",
@@ -8962,7 +8995,7 @@
     "injuryStatus": "Questionable",
     "yearsExp": 0,
     "age": 22,
-    "searchRank": 462
+    "searchRank": 461
   },
   {
     "id": "13541",
@@ -9358,7 +9391,7 @@
     "injuryStatus": null,
     "yearsExp": 0,
     "age": 24,
-    "searchRank": 323
+    "searchRank": 322
   },
   {
     "id": "13898",

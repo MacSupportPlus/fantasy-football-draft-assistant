@@ -3328,6 +3328,14 @@
     "gsisId": "00-0039074"
   },
   {
+    "sleeperId": "10215",
+    "name": "Jake Haener",
+    "position": "QB",
+    "team": "NYG",
+    "fantasyProsId": 24728,
+    "gsisId": "00-0038998"
+  },
+  {
     "sleeperId": "10218",
     "name": "Xavier Hutchinson",
     "position": "WR",
@@ -3536,8 +3544,16 @@
     "gsisId": "00-0038728"
   },
   {
+    "sleeperId": "11058",
+    "name": "Blake Grupe",
+    "position": "K",
+    "team": "NYJ",
+    "fantasyProsId": 25533,
+    "gsisId": "00-0038905"
+  },
+  {
     "sleeperId": "11068",
-    "name": "Mitchell Tinsley",
+    "name": "Mitch Tinsley",
     "position": "WR",
     "team": "CIN",
     "fantasyProsId": 24370,
@@ -3614,14 +3630,6 @@
     "team": "CHI",
     "fantasyProsId": 25321,
     "gsisId": "00-0038416"
-  },
-  {
-    "sleeperId": "11257",
-    "name": "Shedrick Jackson",
-    "position": "WR",
-    "team": "BAL",
-    "fantasyProsId": 25709,
-    "gsisId": "00-0038891"
   },
   {
     "sleeperId": "11261",
@@ -3720,6 +3728,14 @@
     "gsisId": "00-0038456"
   },
   {
+    "sleeperId": "11384",
+    "name": "Owen Wright",
+    "position": "RB",
+    "team": "LV",
+    "fantasyProsId": 25831,
+    "gsisId": "00-0038458"
+  },
+  {
     "sleeperId": "11421",
     "name": "Ryan Miller",
     "position": "WR",
@@ -3761,7 +3777,7 @@
   },
   {
     "sleeperId": "11506",
-    "name": "Jalen Moreno-Cropper",
+    "name": "Jalen Cropper",
     "position": "WR",
     "team": "NO",
     "fantasyProsId": 25359,
@@ -4485,14 +4501,6 @@
     "position": "TE",
     "team": "GB",
     "fantasyProsId": null,
-    "gsisId": null
-  },
-  {
-    "sleeperId": "12151",
-    "name": "Julian Hicks",
-    "position": "WR",
-    "team": "SEA",
-    "fantasyProsId": 26726,
     "gsisId": null
   },
   {
@@ -5352,6 +5360,14 @@
     "gsisId": "00-0040081"
   },
   {
+    "sleeperId": "12829",
+    "name": "Coleman Owen",
+    "position": "WR",
+    "team": "GB",
+    "fantasyProsId": 27621,
+    "gsisId": "00-0040352"
+  },
+  {
     "sleeperId": "12848",
     "name": "Josh Kelly",
     "position": "WR",
@@ -5486,6 +5502,14 @@
     "team": "NE",
     "fantasyProsId": 27498,
     "gsisId": "00-0040568"
+  },
+  {
+    "sleeperId": "12971",
+    "name": "Ke'Shawn Williams",
+    "position": "WR",
+    "team": "CIN",
+    "fantasyProsId": 27724,
+    "gsisId": "00-0040534"
   },
   {
     "sleeperId": "12984",

@@ -64,13 +64,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Blake Grupe",
-    "position": "K",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Ben Sauls",
     "position": "K",
     "team": "FA",
@@ -311,19 +304,12 @@
     "source": "fantasypros",
     "name": "Bryce Oliver",
     "position": "WR",
-    "team": "HOU",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Mecole Hardman Jr.",
-    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
   {
     "source": "fantasypros",
-    "name": "Ke'Shawn Williams",
+    "name": "Mecole Hardman Jr.",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -661,13 +647,6 @@
     "source": "fantasypros",
     "name": "Anthony Firkser",
     "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Coleman Owen",
-    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -1058,6 +1037,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Shedrick Jackson",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "James Proche II",
     "position": "WR",
     "team": "FA",
@@ -1284,6 +1270,13 @@
     "source": "fantasypros",
     "name": "Royce Freeman",
     "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Julian Hicks",
+    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -4341,6 +4334,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Shedrick Jackson",
+    "position": "WR",
+    "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Malik Cunningham",
     "position": "WR",
     "team": "NE",
@@ -4631,13 +4631,6 @@
     "name": "Wanya Morris",
     "position": "T",
     "team": "KC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Jake Haener",
-    "position": "QB",
-    "team": "NO",
     "reason": "no-name-match"
   },
   {
