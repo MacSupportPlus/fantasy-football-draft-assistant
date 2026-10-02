@@ -246,6 +246,20 @@
   },
   {
     "source": "fantasypros",
+    "name": "JuJu Smith-Schuster",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Cam Akers",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Ben Sims",
     "position": "TE",
     "team": "FA",
@@ -255,13 +269,6 @@
     "source": "fantasypros",
     "name": "Will Dissly",
     "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Cam Akers",
-    "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -290,13 +297,6 @@
     "source": "fantasypros",
     "name": "Jake Moody",
     "position": "K",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "JuJu Smith-Schuster",
-    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -1137,13 +1137,6 @@
     "source": "fantasypros",
     "name": "Anthony Schwartz",
     "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Ulysses Bentley IV",
-    "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },

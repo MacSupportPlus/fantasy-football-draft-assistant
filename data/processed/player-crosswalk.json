@@ -1088,6 +1088,14 @@
     "gsisId": "00-0034854"
   },
   {
+    "sleeperId": "5781",
+    "name": "Malik Turner",
+    "position": "WR",
+    "team": "SF",
+    "fantasyProsId": 18168,
+    "gsisId": "00-0034867"
+  },
+  {
     "sleeperId": "5844",
     "name": "T.J. Hockenson",
     "position": "TE",
@@ -4493,7 +4501,7 @@
     "position": "TE",
     "team": "NO",
     "fantasyProsId": 26661,
-    "gsisId": null
+    "gsisId": "00-0039518"
   },
   {
     "sleeperId": "12113",
@@ -5360,6 +5368,14 @@
     "gsisId": "00-0040081"
   },
   {
+    "sleeperId": "12826",
+    "name": "Ulysses Bentley",
+    "position": "RB",
+    "team": "NO",
+    "fantasyProsId": 23112,
+    "gsisId": "00-0040476"
+  },
+  {
     "sleeperId": "12829",
     "name": "Coleman Owen",
     "position": "WR",
@@ -5484,8 +5500,8 @@
     "name": "Anthony Tyus",
     "position": "RB",
     "team": "CAR",
-    "fantasyProsId": null,
-    "gsisId": null
+    "fantasyProsId": 27700,
+    "gsisId": "00-0040394"
   },
   {
     "sleeperId": "12961",
@@ -6765,7 +6781,7 @@
     "position": "TE",
     "team": "NE",
     "fantasyProsId": 28166,
-    "gsisId": null
+    "gsisId": "00-0041314"
   },
   {
     "sleeperId": "13830",
@@ -6893,7 +6909,7 @@
     "position": "WR",
     "team": "DEN",
     "fantasyProsId": 28833,
-    "gsisId": null
+    "gsisId": "00-0041292"
   },
   {
     "sleeperId": "14020",
@@ -6909,7 +6925,7 @@
     "position": "RB",
     "team": "MIA",
     "fantasyProsId": null,
-    "gsisId": null
+    "gsisId": "00-0041436"
   },
   {
     "sleeperId": "14058",
