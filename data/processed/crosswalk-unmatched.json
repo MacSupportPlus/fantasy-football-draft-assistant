@@ -204,6 +204,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Xavier Smith",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Patrick Ricard",
     "position": "RB",
     "team": "NYG",
@@ -4596,6 +4603,13 @@
     "name": "Dane Belton",
     "position": "SS",
     "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Xavier Smith",
+    "position": "WR",
+    "team": "LA",
     "reason": "no-name-match"
   },
   {
