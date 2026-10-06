@@ -488,6 +488,14 @@
     "gsisId": "00-0033537"
   },
   {
+    "sleeperId": "4018",
+    "name": "Joe Mixon",
+    "position": "RB",
+    "team": "SEA",
+    "fantasyProsId": 16420,
+    "gsisId": "00-0033897"
+  },
+  {
     "sleeperId": "4033",
     "name": "David Njoku",
     "position": "TE",
@@ -3576,14 +3584,6 @@
     "gsisId": "00-0038840"
   },
   {
-    "sleeperId": "11186",
-    "name": "Carlos Washington",
-    "position": "RB",
-    "team": "MIA",
-    "fantasyProsId": 25644,
-    "gsisId": "00-0038930"
-  },
-  {
     "sleeperId": "11199",
     "name": "Emari Demercado",
     "position": "RB",
@@ -4406,14 +4406,6 @@
     "team": "NO",
     "fantasyProsId": 26546,
     "gsisId": "00-0039623"
-  },
-  {
-    "sleeperId": "11911",
-    "name": "Jeshaun Jones",
-    "position": "WR",
-    "team": "MIN",
-    "fantasyProsId": 26423,
-    "gsisId": null
   },
   {
     "sleeperId": "11942",
@@ -6371,7 +6363,7 @@
     "sleeperId": "13418",
     "name": "Robert Henry",
     "position": "RB",
-    "team": "WAS",
+    "team": "SEA",
     "fantasyProsId": 28404,
     "gsisId": "00-0041178"
   },

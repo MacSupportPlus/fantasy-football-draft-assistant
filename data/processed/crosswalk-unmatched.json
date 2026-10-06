@@ -36,13 +36,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Joe Mixon",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Kyle Juszczyk",
     "position": "RB",
     "team": "SF",
@@ -260,6 +253,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Jeshaun Jones",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Will Dissly",
     "position": "TE",
     "team": "FA",
@@ -333,6 +333,13 @@
     "name": "Curtis Samuel",
     "position": "WR",
     "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Carlos Washington Jr.",
+    "position": "RB",
+    "team": "MIA",
     "reason": "no-name-match"
   },
   {
@@ -2293,13 +2300,6 @@
     "name": "Gerald Everett",
     "position": "TE",
     "team": "CHI",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Joe Mixon",
-    "position": "RB",
-    "team": "HOU",
     "reason": "no-name-match"
   },
   {
