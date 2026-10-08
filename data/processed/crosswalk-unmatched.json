@@ -190,13 +190,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Xavier Smith",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Patrick Ricard",
     "position": "RB",
     "team": "NYG",
@@ -296,13 +289,6 @@
   {
     "source": "fantasypros",
     "name": "JuJu Smith-Schuster",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Bryce Oliver",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -920,7 +906,7 @@
     "source": "fantasypros",
     "name": "Lucas Scott",
     "position": "RB",
-    "team": "FA",
+    "team": "BAL",
     "reason": "no-name-match"
   },
   {
@@ -3774,13 +3760,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Erik Ezukanma",
-    "position": "WR",
-    "team": "MIA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Bailey Zappe",
     "position": "QB",
     "team": "CLE",
@@ -4523,13 +4502,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Xavier Smith",
-    "position": "WR",
-    "team": "LA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Bryce Ford-Wheaton",
     "position": "WR",
     "team": "NYG",
@@ -4652,13 +4624,6 @@
     "name": "Jacob Kibodi",
     "position": "RB",
     "team": "CLE",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Bryce Oliver",
-    "position": "WR",
-    "team": "TEN",
     "reason": "no-name-match"
   },
   {

@@ -2392,6 +2392,14 @@
     "gsisId": "00-0037238"
   },
   {
+    "sleeperId": "8114",
+    "name": "Erik Ezukanma",
+    "position": "WR",
+    "team": "PHI",
+    "fantasyProsId": 23755,
+    "gsisId": "00-0038092"
+  },
+  {
     "sleeperId": "8116",
     "name": "Pierre Strong",
     "position": "RB",
@@ -3624,6 +3632,14 @@
     "gsisId": "00-0038840"
   },
   {
+    "sleeperId": "11168",
+    "name": "Xavier Smith",
+    "position": "WR",
+    "team": "SF",
+    "fantasyProsId": 25627,
+    "gsisId": "00-0038359"
+  },
+  {
     "sleeperId": "11186",
     "name": "Carlos Washington",
     "position": "RB",
@@ -4470,6 +4486,14 @@
     "team": "WAS",
     "fantasyProsId": 26576,
     "gsisId": "00-0039686"
+  },
+  {
+    "sleeperId": "11959",
+    "name": "Bryce Oliver",
+    "position": "WR",
+    "team": "HOU",
+    "fantasyProsId": 26588,
+    "gsisId": "00-0039650"
   },
   {
     "sleeperId": "11963",
@@ -5518,6 +5542,14 @@
     "team": "DET",
     "fantasyProsId": 27697,
     "gsisId": "00-0040390"
+  },
+  {
+    "sleeperId": "12939",
+    "name": "Anthony Tyus",
+    "position": "RB",
+    "team": "CAR",
+    "fantasyProsId": 27700,
+    "gsisId": "00-0040394"
   },
   {
     "sleeperId": "12946",
