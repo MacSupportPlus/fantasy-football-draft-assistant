@@ -904,14 +904,6 @@
     "gsisId": "00-0034857"
   },
   {
-    "sleeperId": "4992",
-    "name": "Dante Pettis",
-    "position": "WR",
-    "team": "SF",
-    "fantasyProsId": 17264,
-    "gsisId": "00-0034860"
-  },
-  {
     "sleeperId": "4993",
     "name": "Mike Gesicki",
     "position": "TE",
@@ -3648,14 +3640,6 @@
     "gsisId": "00-0038930"
   },
   {
-    "sleeperId": "11199",
-    "name": "Emari Demercado",
-    "position": "RB",
-    "team": "DAL",
-    "fantasyProsId": 25654,
-    "gsisId": "00-0038705"
-  },
-  {
     "sleeperId": "11201",
     "name": "Blake Whiteheart",
     "position": "TE",
@@ -4477,7 +4461,7 @@
     "position": "WR",
     "team": "MIN",
     "fantasyProsId": 26423,
-    "gsisId": null
+    "gsisId": "00-0039710"
   },
   {
     "sleeperId": "11942",
@@ -5548,7 +5532,7 @@
     "name": "Anthony Tyus",
     "position": "RB",
     "team": "CAR",
-    "fantasyProsId": 27700,
+    "fantasyProsId": null,
     "gsisId": "00-0040394"
   },
   {
@@ -5613,7 +5597,7 @@
     "position": "TE",
     "team": "GB",
     "fantasyProsId": 23182,
-    "gsisId": null
+    "gsisId": "00-0040598"
   },
   {
     "sleeperId": "13032",
@@ -6368,14 +6352,6 @@
     "gsisId": "00-0040906"
   },
   {
-    "sleeperId": "13405",
-    "name": "Kaytron Allen",
-    "position": "RB",
-    "team": "WAS",
-    "fantasyProsId": 24362,
-    "gsisId": "00-0041096"
-  },
-  {
     "sleeperId": "13407",
     "name": "Carson Towt",
     "position": "TE",
@@ -6546,10 +6522,10 @@
   {
     "sleeperId": "13433",
     "name": "Riley Nowakowski",
-    "position": "TE",
+    "position": "RB",
     "team": "PIT",
-    "fantasyProsId": 28437,
-    "gsisId": "00-0041398"
+    "fantasyProsId": null,
+    "gsisId": null
   },
   {
     "sleeperId": "13434",
@@ -6836,7 +6812,7 @@
     "name": "Mark Gronowski",
     "position": "QB",
     "team": "HOU",
-    "fantasyProsId": null,
+    "fantasyProsId": 28100,
     "gsisId": "00-0041156"
   },
   {

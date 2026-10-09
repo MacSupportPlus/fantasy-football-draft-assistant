@@ -1,9 +1,23 @@
 [
   {
     "source": "fantasypros",
+    "name": "Kaytron Allen",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Travis Hunter",
     "position": "WR",
     "team": "JAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Emari Demercado",
+    "position": "RB",
+    "team": "FA",
     "reason": "no-name-match"
   },
   {
@@ -235,6 +249,13 @@
     "name": "Elijah Mitchell",
     "position": "RB",
     "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Riley Nowakowski",
+    "position": "TE",
+    "team": "PIT",
     "reason": "no-name-match"
   },
   {
@@ -2654,6 +2675,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Dante Pettis",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "John Wolford",
     "position": "QB",
     "team": "LA",
@@ -4211,6 +4239,13 @@
     "name": "Jordan Mims",
     "position": "RB",
     "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Emari Demercado",
+    "position": "RB",
+    "team": "ARI",
     "reason": "no-name-match"
   },
   {
