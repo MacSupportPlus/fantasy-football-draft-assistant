@@ -64,14 +64,6 @@
     "gsisId": "00-0028118"
   },
   {
-    "sleeperId": "829",
-    "name": "Andy Dalton",
-    "position": "QB",
-    "team": "PHI",
-    "fantasyProsId": 9907,
-    "gsisId": "00-0027973"
-  },
-  {
     "sleeperId": "1166",
     "name": "Kirk Cousins",
     "position": "QB",
@@ -3009,7 +3001,7 @@
   },
   {
     "sleeperId": "8861",
-    "name": "Irv Charles",
+    "name": "Irvin Charles",
     "position": "WR",
     "team": "SEA",
     "fantasyProsId": 24904,
