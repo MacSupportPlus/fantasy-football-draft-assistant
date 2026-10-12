@@ -1048,6 +1048,14 @@
     "gsisId": null
   },
   {
+    "sleeperId": "5374",
+    "name": "Justin Watson",
+    "position": "WR",
+    "team": "KC",
+    "fantasyProsId": 17603,
+    "gsisId": "00-0034386"
+  },
+  {
     "sleeperId": "5409",
     "name": "Tanner Hudson",
     "position": "TE",
@@ -2712,14 +2720,6 @@
     "gsisId": "00-0037557"
   },
   {
-    "sleeperId": "8200",
-    "name": "Kevin Austin",
-    "position": "WR",
-    "team": "NO",
-    "fantasyProsId": 23049,
-    "gsisId": "00-0037231"
-  },
-  {
     "sleeperId": "8204",
     "name": "Bo Melton",
     "position": "WR",
@@ -4211,7 +4211,7 @@
     "sleeperId": "11628",
     "name": "Marvin Harrison",
     "position": "WR",
-    "team": "ARI",
+    "team": "HOU",
     "fantasyProsId": 23064,
     "gsisId": "00-0039849"
   },
@@ -5104,14 +5104,6 @@
     "gsisId": "00-0040138"
   },
   {
-    "sleeperId": "12538",
-    "name": "Brady Cook",
-    "position": "QB",
-    "team": "MIA",
-    "fantasyProsId": 27161,
-    "gsisId": "00-0040398"
-  },
-  {
     "sleeperId": "12539",
     "name": "Arian Smith",
     "position": "WR",
@@ -5494,14 +5486,6 @@
     "team": "IND",
     "fantasyProsId": null,
     "gsisId": "00-0040337"
-  },
-  {
-    "sleeperId": "12925",
-    "name": "Jamaal Pritchett",
-    "position": "WR",
-    "team": "NYJ",
-    "fantasyProsId": 27453,
-    "gsisId": "00-0040405"
   },
   {
     "sleeperId": "12928",
