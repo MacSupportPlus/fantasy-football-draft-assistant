@@ -1,8 +1,26 @@
 # Fantasy Football Draft Assistant
 
-A data-driven live draft tool built around **value-based drafting (VBD)** —
-players are ranked by value over replacement at their position, not raw
-projected points. Rankings update client-side as players are drafted.
+**Live app:** https://macsupportplus.github.io/fantasy-football-draft-assistant/
+
+A live draft board that ranks players by **value over replacement** instead of raw projected points, and re-ranks the whole board after every pick. Built for a real 14-team ESPN league.
+
+![Draft board: best available players ranked by VBD score, each with a Draft button](docs/screenshot.jpg)
+
+## Why it's different
+
+Most rankings answer "who scores the most?" A draft is really asking "who is worth the most *compared to who I could get later at the same position?*" This tool answers the second question, and keeps answering it as players come off the board.
+
+- **A real data pipeline.** Three public sources (Sleeper, FantasyPros, nflverse) are merged and matched player by player, even though none of them share an ID.
+- **Projections that respect injuries.** Recency-weighted per-game rates are scaled by an injury-adjusted games-played estimate, and rookies are fitted from consensus rank.
+- **Live re-ranking.** Replacement value is recomputed against whoever is still available after every pick, not just filtered from a static list.
+- **Honest about limits.** Match rates, D/ST volatility, and why kickers aren't ranked are all documented below.
+- **$0 to run.** Scheduled GitHub Actions rebuild the data, the Angular front end reads static JSON, and draft state lives in the browser.
+
+**Stack:** Angular 19 · TypeScript · Node · GitHub Actions · GitHub Pages
+
+Built by [Jason McElvain](https://github.com/MacSupportPlus).
+
+---
 
 ## Constraints
 
@@ -10,7 +28,7 @@ projected points. Rankings update client-side as players are drafted.
 - No backend server. A scheduled GitHub Action runs the data pipeline and
   writes static JSON (and/or SQLite) into the repo. The frontend reads that
   data directly and does all VBD ranking + live draft-state logic client-side.
-- Frontend: Angular, hosted on Vercel or Netlify's free tier.
+- Frontend: Angular 19, deployed to GitHub Pages by `.github/workflows/deploy-pages.yml`.
 
 ## Repo structure
 
@@ -23,7 +41,7 @@ data/
   raw/               Unmodified API responses, for debugging/reprocessing
   processed/         Cleaned data the frontend actually consumes
 .github/workflows/   Scheduled GitHub Action(s) that run the pipeline
-frontend/            Angular app (not yet scaffolded)
+frontend/            Angular 19 app (the live draft board)
 ```
 
 ## Data sources
@@ -89,7 +107,7 @@ point of the whole pipeline. For each scoring format:
    interpolated from FantasyPros' position rank against a curve built from
    players who have both history and an FP rank.
 2. **Replacement level.** League settings (`pipeline/src/vbd/replacement.ts`
-   — defaults to a standard 12-team league) determine a "replacement rank"
+   — defaults to a 14-team league) determine a "replacement rank"
    per position (teams × starters, plus a share of FLEX slots for RB/WR/TE).
    The projected points of the player at that rank is the replacement value.
 3. **VBD score** = projected points − replacement value at that position.
