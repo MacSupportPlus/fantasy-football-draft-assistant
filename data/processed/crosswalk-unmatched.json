@@ -15,7 +15,7 @@
   },
   {
     "source": "fantasypros",
-    "name": "Devin Neal",
+    "name": "Jarquez Hunter",
     "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
@@ -260,6 +260,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Jared Wayne",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Ben Sims",
     "position": "TE",
     "team": "FA",
@@ -386,7 +393,7 @@
   },
   {
     "source": "fantasypros",
-    "name": "Jamari Thrash",
+    "name": "Tyler Johnson",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -939,13 +946,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Brady Cook",
-    "position": "QB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Byron Pringle",
     "position": "WR",
     "team": "FA",
@@ -1353,13 +1353,6 @@
   {
     "source": "fantasypros",
     "name": "Chris Hilton Jr.",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Jamaal Pritchett",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -4082,6 +4075,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Tyler Johnson",
+    "position": "WR",
+    "team": "LA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Brandin Echols",
     "position": "CB",
     "team": "NYJ",
@@ -4603,13 +4603,6 @@
     "name": "Baylor Cupp",
     "position": "TE",
     "team": "KC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Jamari Thrash",
-    "position": "WR",
-    "team": "CLE",
     "reason": "no-name-match"
   },
   {
