@@ -1328,6 +1328,14 @@
     "gsisId": "00-0035269"
   },
   {
+    "sleeperId": "6111",
+    "name": "Jake Browning",
+    "position": "QB",
+    "team": "LAC",
+    "fantasyProsId": 18557,
+    "gsisId": "00-0035100"
+  },
+  {
     "sleeperId": "6130",
     "name": "Devin Singletary",
     "position": "RB",
@@ -2422,6 +2430,14 @@
     "team": "ARI",
     "fantasyProsId": 24901,
     "gsisId": "00-0037157"
+  },
+  {
+    "sleeperId": "8123",
+    "name": "Hassan Haskins",
+    "position": "RB",
+    "team": "NE",
+    "fantasyProsId": 23798,
+    "gsisId": "00-0037617"
   },
   {
     "sleeperId": "8125",
@@ -3568,10 +3584,18 @@
     "gsisId": "00-0038640"
   },
   {
+    "sleeperId": "11056",
+    "name": "Jared Wayne",
+    "position": "WR",
+    "team": "MIA",
+    "fantasyProsId": 25495,
+    "gsisId": "00-0038728"
+  },
+  {
     "sleeperId": "11058",
     "name": "Blake Grupe",
     "position": "K",
-    "team": "NYJ",
+    "team": "LAR",
     "fantasyProsId": 25533,
     "gsisId": "00-0038905"
   },
@@ -3614,6 +3638,14 @@
     "team": "MIA",
     "fantasyProsId": 25644,
     "gsisId": "00-0038930"
+  },
+  {
+    "sleeperId": "11199",
+    "name": "Emari Demercado",
+    "position": "RB",
+    "team": "DAL",
+    "fantasyProsId": 25654,
+    "gsisId": "00-0038705"
   },
   {
     "sleeperId": "11201",
@@ -4411,7 +4443,7 @@
     "sleeperId": "11820",
     "name": "Devin Culp",
     "position": "TE",
-    "team": "TB",
+    "team": "CLE",
     "fantasyProsId": 26440,
     "gsisId": "00-0039754"
   },
@@ -5374,6 +5406,14 @@
     "team": "CAR",
     "fantasyProsId": 27596,
     "gsisId": "00-0040260"
+  },
+  {
+    "sleeperId": "12803",
+    "name": "Luke Grimm",
+    "position": "WR",
+    "team": "LAC",
+    "fantasyProsId": null,
+    "gsisId": "00-0040461"
   },
   {
     "sleeperId": "12817",
