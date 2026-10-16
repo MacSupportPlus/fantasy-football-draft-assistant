@@ -477,13 +477,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "DeAndre Carter",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Coleman Bennett",
     "position": "RB",
     "team": "FA",
@@ -857,13 +850,6 @@
     "source": "fantasypros",
     "name": "Trenton Irwin",
     "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Ian Wheeler",
-    "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -1775,13 +1761,6 @@
     "name": "Eric Tomlinson",
     "position": "TE",
     "team": "LAC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "DeAndre Carter",
-    "position": "WR",
-    "team": "CHI",
     "reason": "no-name-match"
   },
   {

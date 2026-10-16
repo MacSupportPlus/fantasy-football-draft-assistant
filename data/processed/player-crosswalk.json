@@ -272,6 +272,14 @@
     "gsisId": "00-0031492"
   },
   {
+    "sleeperId": "2750",
+    "name": "DeAndre Carter",
+    "position": "WR",
+    "team": "DET",
+    "fantasyProsId": 14103,
+    "gsisId": "00-0031763"
+  },
+  {
     "sleeperId": "2944",
     "name": "Matt LaCosse",
     "position": "TE",
@@ -4512,6 +4520,14 @@
     "gsisId": null
   },
   {
+    "sleeperId": "12036",
+    "name": "Ian Wheeler",
+    "position": "RB",
+    "team": "PHI",
+    "fantasyProsId": 26635,
+    "gsisId": "00-0039466"
+  },
+  {
     "sleeperId": "12045",
     "name": "Jack Westover",
     "position": "TE",
@@ -5404,7 +5420,7 @@
     "name": "Luke Grimm",
     "position": "WR",
     "team": "LAC",
-    "fantasyProsId": null,
+    "fantasyProsId": 27601,
     "gsisId": "00-0040461"
   },
   {
@@ -5469,7 +5485,7 @@
     "position": "WR",
     "team": "NYG",
     "fantasyProsId": 27663,
-    "gsisId": null
+    "gsisId": "00-0040431"
   },
   {
     "sleeperId": "12889",
@@ -5540,7 +5556,7 @@
     "name": "Anthony Tyus",
     "position": "RB",
     "team": "CAR",
-    "fantasyProsId": null,
+    "fantasyProsId": 27700,
     "gsisId": "00-0040394"
   },
   {
@@ -5716,7 +5732,7 @@
     "name": "Ja'seem Reed",
     "position": "WR",
     "team": "CAR",
-    "fantasyProsId": null,
+    "fantasyProsId": 27896,
     "gsisId": "00-0040265"
   },
   {
@@ -6820,7 +6836,7 @@
     "name": "Mark Gronowski",
     "position": "QB",
     "team": "HOU",
-    "fantasyProsId": 28100,
+    "fantasyProsId": null,
     "gsisId": "00-0041156"
   },
   {
@@ -6829,7 +6845,7 @@
     "position": "WR",
     "team": "NYJ",
     "fantasyProsId": 28686,
-    "gsisId": null
+    "gsisId": "00-0041267"
   },
   {
     "sleeperId": "13827",
@@ -6869,7 +6885,7 @@
     "position": "RB",
     "team": "SEA",
     "fantasyProsId": null,
-    "gsisId": null
+    "gsisId": "00-0040984"
   },
   {
     "sleeperId": "13879",
