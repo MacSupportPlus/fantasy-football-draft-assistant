@@ -15,6 +15,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Darius Slayton",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Kareem Hunt",
     "position": "RB",
     "team": "FA",
@@ -2909,6 +2916,13 @@
     "name": "Andy Isabella",
     "position": "WR",
     "team": "BAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Darius Slayton",
+    "position": "WR",
+    "team": "NYG",
     "reason": "no-name-match"
   },
   {

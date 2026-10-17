@@ -1368,14 +1368,6 @@
     "gsisId": "00-0035283"
   },
   {
-    "sleeperId": "6149",
-    "name": "Darius Slayton",
-    "position": "WR",
-    "team": "IND",
-    "fantasyProsId": 18706,
-    "gsisId": "00-0035535"
-  },
-  {
     "sleeperId": "6154",
     "name": "David Sills",
     "position": "WR",
@@ -3867,7 +3859,7 @@
     "sleeperId": "11557",
     "name": "Joe Milton",
     "position": "QB",
-    "team": "DAL",
+    "team": "PHI",
     "fantasyProsId": 25967,
     "gsisId": "00-0039398"
   },
