@@ -64,6 +64,14 @@
     "gsisId": "00-0028118"
   },
   {
+    "sleeperId": "829",
+    "name": "Andy Dalton",
+    "position": "QB",
+    "team": "ATL",
+    "fantasyProsId": 9907,
+    "gsisId": "00-0027973"
+  },
+  {
     "sleeperId": "1166",
     "name": "Kirk Cousins",
     "position": "QB",
@@ -728,14 +736,6 @@
     "gsisId": null
   },
   {
-    "sleeperId": "4574",
-    "name": "Cooper Rush",
-    "position": "QB",
-    "team": "ATL",
-    "fantasyProsId": 16477,
-    "gsisId": "00-0033662"
-  },
-  {
     "sleeperId": "4602",
     "name": "Robert Tonyan",
     "position": "TE",
@@ -966,14 +966,6 @@
     "team": "DEN",
     "fantasyProsId": 17253,
     "gsisId": "00-0034348"
-  },
-  {
-    "sleeperId": "5086",
-    "name": "Marquez Valdes-Scantling",
-    "position": "WR",
-    "team": "LAC",
-    "fantasyProsId": 17528,
-    "gsisId": "00-0034272"
   },
   {
     "sleeperId": "5095",
@@ -1792,6 +1784,14 @@
     "gsisId": "00-0036259"
   },
   {
+    "sleeperId": "7050",
+    "name": "Josiah Deguara",
+    "position": "TE",
+    "team": "SEA",
+    "fantasyProsId": 19456,
+    "gsisId": "00-0036332"
+  },
+  {
     "sleeperId": "7066",
     "name": "K.J. Osborn",
     "position": "WR",
@@ -2414,14 +2414,6 @@
     "team": "ARI",
     "fantasyProsId": 24901,
     "gsisId": "00-0037157"
-  },
-  {
-    "sleeperId": "8123",
-    "name": "Hassan Haskins",
-    "position": "RB",
-    "team": "NE",
-    "fantasyProsId": 23798,
-    "gsisId": "00-0037617"
   },
   {
     "sleeperId": "8125",
