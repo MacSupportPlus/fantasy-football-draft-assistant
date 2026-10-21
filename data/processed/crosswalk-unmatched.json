@@ -8,6 +8,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Najee Harris",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Harrison Mevis",
     "position": "K",
     "team": "FA",
@@ -46,20 +53,6 @@
     "name": "Kyle Juszczyk",
     "position": "RB",
     "team": "SF",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Zane Gonzalez",
-    "position": "K",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Brandon McManus",
-    "position": "K",
-    "team": "FA",
     "reason": "no-name-match"
   },
   {
@@ -122,13 +115,6 @@
     "source": "fantasypros",
     "name": "Taysom Hill",
     "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Marquez Valdes-Scantling",
-    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -232,13 +218,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Elijah Mitchell",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "JuJu Smith-Schuster",
     "position": "WR",
     "team": "FA",
@@ -248,6 +227,13 @@
     "source": "fantasypros",
     "name": "Cam Akers",
     "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Riley Patterson",
+    "position": "K",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -289,13 +275,6 @@
   {
     "source": "fantasypros",
     "name": "Ray-Ray McCloud III",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Mecole Hardman Jr.",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -521,13 +500,6 @@
     "source": "fantasypros",
     "name": "Darrynton Evans",
     "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Jason Brownlee",
-    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -841,6 +813,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Chris Myarick",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Trenton Irwin",
     "position": "WR",
     "team": "FA",
@@ -920,13 +899,6 @@
     "source": "fantasypros",
     "name": "Ainias Smith",
     "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Quentin Moore",
-    "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -2409,13 +2381,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Marquez Valdes-Scantling",
-    "position": "WR",
-    "team": "NO",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Equanimeous St. Brown",
     "position": "WR",
     "team": "CHI",
@@ -2752,13 +2717,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Mecole Hardman",
-    "position": "WR",
-    "team": "KC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Trace McSorley",
     "position": "QB",
     "team": "ARI",
@@ -2874,6 +2832,13 @@
     "name": "Trenton Irwin",
     "position": "WR",
     "team": "CIN",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chris Myarick",
+    "position": "TE",
+    "team": "NYG",
     "reason": "no-name-match"
   },
   {
@@ -3410,13 +3375,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Elijah Mitchell",
-    "position": "RB",
-    "team": "SF",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Gary Brightwell",
     "position": "RB",
     "team": "NYG",
@@ -3529,6 +3487,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Najee Harris",
+    "position": "RB",
+    "team": "PIT",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Kadarius Toney",
     "position": "WR",
     "team": "CLE",
@@ -3539,13 +3504,6 @@
     "name": "Jacob Harris",
     "position": "WR",
     "team": "LA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Kyle Trask",
-    "position": "QB",
-    "team": "TB",
     "reason": "no-name-match"
   },
   {
@@ -4169,13 +4127,6 @@
     "name": "Ty Zentner",
     "position": "P",
     "team": "TEN",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Jason Brownlee",
-    "position": "WR",
-    "team": "NYJ",
     "reason": "no-name-match"
   },
   {

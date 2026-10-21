@@ -96,6 +96,14 @@
     "gsisId": "00-0030565"
   },
   {
+    "sleeperId": "1433",
+    "name": "Brandon McManus",
+    "position": "K",
+    "team": "LAR",
+    "fantasyProsId": 13274,
+    "gsisId": "00-0029822"
+  },
+  {
     "sleeperId": "1466",
     "name": "Travis Kelce",
     "position": "TE",
@@ -656,6 +664,14 @@
     "gsisId": "00-0033303"
   },
   {
+    "sleeperId": "4233",
+    "name": "Zane Gonzalez",
+    "position": "K",
+    "team": "MIA",
+    "fantasyProsId": 16548,
+    "gsisId": "00-0033862"
+  },
+  {
     "sleeperId": "4263",
     "name": "Elijah McGuire",
     "position": "RB",
@@ -968,6 +984,14 @@
     "gsisId": "00-0034348"
   },
   {
+    "sleeperId": "5086",
+    "name": "Marquez Valdes-Scantling",
+    "position": "WR",
+    "team": "PIT",
+    "fantasyProsId": 17528,
+    "gsisId": "00-0034272"
+  },
+  {
     "sleeperId": "5095",
     "name": "Daniel Carlson",
     "position": "K",
@@ -1190,6 +1214,14 @@
     "team": "BUF",
     "fantasyProsId": 18631,
     "gsisId": "00-0035689"
+  },
+  {
+    "sleeperId": "5917",
+    "name": "Mecole Hardman",
+    "position": "WR",
+    "team": "IND",
+    "fantasyProsId": 18587,
+    "gsisId": "00-0035140"
   },
   {
     "sleeperId": "5927",
@@ -1462,14 +1494,6 @@
     "team": "TEN",
     "fantasyProsId": 19028,
     "gsisId": "00-0035192"
-  },
-  {
-    "sleeperId": "6529",
-    "name": "Chris Myarick",
-    "position": "TE",
-    "team": "LV",
-    "fantasyProsId": 19098,
-    "gsisId": "00-0035345"
   },
   {
     "sleeperId": "6540",
@@ -1920,14 +1944,6 @@
     "gsisId": "00-0036972"
   },
   {
-    "sleeperId": "7528",
-    "name": "Najee Harris",
-    "position": "RB",
-    "team": "NYG",
-    "fantasyProsId": 19302,
-    "gsisId": "00-0036893"
-  },
-  {
     "sleeperId": "7531",
     "name": "Feleipe Franks",
     "position": "TE",
@@ -1998,6 +2014,14 @@
     "team": "CAR",
     "fantasyProsId": 20116,
     "gsisId": "00-0036635"
+  },
+  {
+    "sleeperId": "7561",
+    "name": "Elijah Mitchell",
+    "position": "RB",
+    "team": "PHI",
+    "fantasyProsId": 22813,
+    "gsisId": "00-0036567"
   },
   {
     "sleeperId": "7562",
@@ -2144,6 +2168,14 @@
     "gsisId": "00-0036876"
   },
   {
+    "sleeperId": "7605",
+    "name": "Kyle Trask",
+    "position": "QB",
+    "team": "DAL",
+    "fantasyProsId": 19800,
+    "gsisId": "00-0036928"
+  },
+  {
     "sleeperId": "7607",
     "name": "Michael Carter",
     "position": "RB",
@@ -2278,14 +2310,6 @@
     "team": "DET",
     "fantasyProsId": 23341,
     "gsisId": "00-0036754"
-  },
-  {
-    "sleeperId": "7922",
-    "name": "Riley Patterson",
-    "position": "K",
-    "team": "MIA",
-    "fantasyProsId": 23370,
-    "gsisId": "00-0036816"
   },
   {
     "sleeperId": "7933",
@@ -3734,6 +3758,14 @@
     "team": "PHI",
     "fantasyProsId": 25758,
     "gsisId": "00-0038496"
+  },
+  {
+    "sleeperId": "11311",
+    "name": "Jason Brownlee",
+    "position": "WR",
+    "team": "NYG",
+    "fantasyProsId": 25754,
+    "gsisId": "00-0038492"
   },
   {
     "sleeperId": "11320",
@@ -6056,6 +6088,14 @@
     "gsisId": "00-0041525"
   },
   {
+    "sleeperId": "13312",
+    "name": "Josh Kattus",
+    "position": "TE",
+    "team": "CIN",
+    "fantasyProsId": null,
+    "gsisId": null
+  },
+  {
     "sleeperId": "13313",
     "name": "Emmanuel Henderson",
     "position": "WR",
@@ -6880,12 +6920,12 @@
     "gsisId": null
   },
   {
-    "sleeperId": "13852",
-    "name": "Dontae McMillan",
-    "position": "RB",
-    "team": "SEA",
-    "fantasyProsId": null,
-    "gsisId": "00-0040984"
+    "sleeperId": "13870",
+    "name": "Quentin Moore",
+    "position": "TE",
+    "team": "WAS",
+    "fantasyProsId": 28722,
+    "gsisId": null
   },
   {
     "sleeperId": "13879",
@@ -6990,14 +7030,6 @@
     "team": "MIA",
     "fantasyProsId": null,
     "gsisId": "00-0041436"
-  },
-  {
-    "sleeperId": "14058",
-    "name": "Malick Meiga",
-    "position": "WR",
-    "team": "SEA",
-    "fantasyProsId": null,
-    "gsisId": null
   },
   {
     "sleeperId": "HOU",
