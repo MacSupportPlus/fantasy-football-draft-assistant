@@ -27,7 +27,7 @@
     "rankMin": 2,
     "rankMax": 7,
     "rankStd": 1.08,
-    "ownedPct": 99.6,
+    "ownedPct": 99.8,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -91,7 +91,7 @@
     "rankMin": 4,
     "rankMax": 18,
     "rankStd": 1.75,
-    "ownedPct": 99.6,
+    "ownedPct": 99.8,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -171,7 +171,7 @@
     "rankMin": 6,
     "rankMax": 41,
     "rankStd": 5.78,
-    "ownedPct": 97,
+    "ownedPct": 97.5,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -203,7 +203,7 @@
     "rankMin": 9,
     "rankMax": 38,
     "rankStd": 5.78,
-    "ownedPct": 99.4,
+    "ownedPct": 99.5,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -219,7 +219,7 @@
     "rankMin": 5,
     "rankMax": 37,
     "rankStd": 5.9,
-    "ownedPct": 98.7,
+    "ownedPct": 99.1,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -331,7 +331,7 @@
     "rankMin": 8,
     "rankMax": 52,
     "rankStd": 7.82,
-    "ownedPct": 94,
+    "ownedPct": 93.1,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -347,7 +347,7 @@
     "rankMin": 8,
     "rankMax": 47,
     "rankStd": 8.28,
-    "ownedPct": 55.1,
+    "ownedPct": 54.5,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -379,7 +379,7 @@
     "rankMin": 21,
     "rankMax": 47,
     "rankStd": 1.88,
-    "ownedPct": 99.7,
+    "ownedPct": 99.8,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -411,7 +411,7 @@
     "rankMin": 8,
     "rankMax": 55,
     "rankStd": 8.83,
-    "ownedPct": 99.5,
+    "ownedPct": 99.6,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -427,7 +427,7 @@
     "rankMin": 9,
     "rankMax": 50,
     "rankStd": 7.75,
-    "ownedPct": 97.9,
+    "ownedPct": 98.1,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -443,7 +443,7 @@
     "rankMin": 24,
     "rankMax": 73,
     "rankStd": 8.66,
-    "ownedPct": 99.4,
+    "ownedPct": 99.3,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -459,7 +459,7 @@
     "rankMin": 10,
     "rankMax": 54,
     "rankStd": 7.93,
-    "ownedPct": 99.1,
+    "ownedPct": 99.3,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -475,7 +475,7 @@
     "rankMin": 16,
     "rankMax": 96,
     "rankStd": 15.76,
-    "ownedPct": 90.9,
+    "ownedPct": 92.9,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -507,7 +507,7 @@
     "rankMin": 13,
     "rankMax": 60,
     "rankStd": 6.24,
-    "ownedPct": 99.3,
+    "ownedPct": 99.4,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -523,7 +523,7 @@
     "rankMin": 14,
     "rankMax": 96,
     "rankStd": 23.75,
-    "ownedPct": 99.6,
+    "ownedPct": 99.7,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -539,7 +539,7 @@
     "rankMin": 25,
     "rankMax": 68,
     "rankStd": 10.27,
-    "ownedPct": 97.3,
+    "ownedPct": 98.1,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -571,7 +571,7 @@
     "rankMin": 11,
     "rankMax": 92,
     "rankStd": 12.01,
-    "ownedPct": 95.5,
+    "ownedPct": 95.6,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -587,7 +587,7 @@
     "rankMin": 10,
     "rankMax": 68,
     "rankStd": 8.55,
-    "ownedPct": 94.6,
+    "ownedPct": 95.2,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -603,7 +603,7 @@
     "rankMin": 20,
     "rankMax": 57,
     "rankStd": 5.56,
-    "ownedPct": 96.5,
+    "ownedPct": 97,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -619,7 +619,7 @@
     "rankMin": 18,
     "rankMax": 69,
     "rankStd": 8.53,
-    "ownedPct": 98.4,
+    "ownedPct": 98.5,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -635,7 +635,7 @@
     "rankMin": 16,
     "rankMax": 75,
     "rankStd": 11.08,
-    "ownedPct": 93.4,
+    "ownedPct": 93,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -651,7 +651,7 @@
     "rankMin": 14,
     "rankMax": 70,
     "rankStd": 9.75,
-    "ownedPct": 89.6,
+    "ownedPct": 87.2,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -667,7 +667,7 @@
     "rankMin": 27,
     "rankMax": 103,
     "rankStd": 13.68,
-    "ownedPct": 98.5,
+    "ownedPct": 98.6,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -683,7 +683,7 @@
     "rankMin": 23,
     "rankMax": 72,
     "rankStd": 6.95,
-    "ownedPct": 82.3,
+    "ownedPct": 82.2,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -715,7 +715,7 @@
     "rankMin": 23,
     "rankMax": 63,
     "rankStd": 7.12,
-    "ownedPct": 96.8,
+    "ownedPct": 96.9,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -731,7 +731,7 @@
     "rankMin": 26,
     "rankMax": 82,
     "rankStd": 9.84,
-    "ownedPct": 92.9,
+    "ownedPct": 93.4,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -747,7 +747,7 @@
     "rankMin": 19,
     "rankMax": 83,
     "rankStd": 10.61,
-    "ownedPct": 95.9,
+    "ownedPct": 94,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -795,7 +795,7 @@
     "rankMin": 34,
     "rankMax": 71,
     "rankStd": 6.59,
-    "ownedPct": 97.4,
+    "ownedPct": 97.6,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -811,7 +811,7 @@
     "rankMin": 32,
     "rankMax": 74,
     "rankStd": 8.43,
-    "ownedPct": 81.7,
+    "ownedPct": 72.2,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -827,7 +827,7 @@
     "rankMin": 27,
     "rankMax": 112,
     "rankStd": 14.06,
-    "ownedPct": 74.4,
+    "ownedPct": 67.5,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -843,7 +843,7 @@
     "rankMin": 33,
     "rankMax": 95,
     "rankStd": 8.23,
-    "ownedPct": 89,
+    "ownedPct": 89.2,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -859,7 +859,7 @@
     "rankMin": 23,
     "rankMax": 77,
     "rankStd": 8.91,
-    "ownedPct": 92.8,
+    "ownedPct": 92.9,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -875,7 +875,7 @@
     "rankMin": 26,
     "rankMax": 106,
     "rankStd": 12.69,
-    "ownedPct": 92.6,
+    "ownedPct": 93.2,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -891,7 +891,7 @@
     "rankMin": 31,
     "rankMax": 95,
     "rankStd": 8.59,
-    "ownedPct": 95.5,
+    "ownedPct": 93.2,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -907,7 +907,7 @@
     "rankMin": 19,
     "rankMax": 98,
     "rankStd": 12.76,
-    "ownedPct": 92.1,
+    "ownedPct": 91.4,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -923,7 +923,7 @@
     "rankMin": 16,
     "rankMax": 84,
     "rankStd": 17.31,
-    "ownedPct": 97.3,
+    "ownedPct": 96.9,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -939,7 +939,7 @@
     "rankMin": 39,
     "rankMax": 88,
     "rankStd": 8.86,
-    "ownedPct": 86.5,
+    "ownedPct": 86.2,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -955,7 +955,7 @@
     "rankMin": 27,
     "rankMax": 112,
     "rankStd": 17.47,
-    "ownedPct": 90.8,
+    "ownedPct": 89.9,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -971,7 +971,7 @@
     "rankMin": 33,
     "rankMax": 126,
     "rankStd": 10.16,
-    "ownedPct": 76.9,
+    "ownedPct": 76.6,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -987,7 +987,7 @@
     "rankMin": 34,
     "rankMax": 96,
     "rankStd": 10.39,
-    "ownedPct": 94.9,
+    "ownedPct": 95,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -1019,7 +1019,7 @@
     "rankMin": 31,
     "rankMax": 129,
     "rankStd": 13.05,
-    "ownedPct": 95.2,
+    "ownedPct": 94.8,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -1035,7 +1035,7 @@
     "rankMin": 27,
     "rankMax": 103,
     "rankStd": 13.15,
-    "ownedPct": 91.5,
+    "ownedPct": 92.4,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -1067,7 +1067,7 @@
     "rankMin": 47,
     "rankMax": 99,
     "rankStd": 9.41,
-    "ownedPct": 94.1,
+    "ownedPct": 93.7,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -1083,7 +1083,7 @@
     "rankMin": 29,
     "rankMax": 112,
     "rankStd": 13.81,
-    "ownedPct": 64.5,
+    "ownedPct": 62.5,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -1099,7 +1099,7 @@
     "rankMin": 29,
     "rankMax": 104,
     "rankStd": 13.26,
-    "ownedPct": 91.6,
+    "ownedPct": 91.2,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -1115,7 +1115,7 @@
     "rankMin": 41,
     "rankMax": 122,
     "rankStd": 11.86,
-    "ownedPct": 75.5,
+    "ownedPct": 74.6,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -1131,7 +1131,7 @@
     "rankMin": 42,
     "rankMax": 176,
     "rankStd": 13.56,
-    "ownedPct": 79.4,
+    "ownedPct": 78.2,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -1147,7 +1147,7 @@
     "rankMin": 52,
     "rankMax": 117,
     "rankStd": 10.03,
-    "ownedPct": 95.2,
+    "ownedPct": 95.3,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -1163,7 +1163,7 @@
     "rankMin": 36,
     "rankMax": 112,
     "rankStd": 12.57,
-    "ownedPct": 94.3,
+    "ownedPct": 93.8,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -1179,7 +1179,7 @@
     "rankMin": 50,
     "rankMax": 106,
     "rankStd": 9.31,
-    "ownedPct": 91.6,
+    "ownedPct": 92.1,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -1195,7 +1195,7 @@
     "rankMin": 44,
     "rankMax": 142,
     "rankStd": 11.98,
-    "ownedPct": 51.8,
+    "ownedPct": 48.8,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -1227,7 +1227,7 @@
     "rankMin": 57,
     "rankMax": 232,
     "rankStd": 15.87,
-    "ownedPct": 69.4,
+    "ownedPct": 70.7,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -1243,7 +1243,7 @@
     "rankMin": 34,
     "rankMax": 123,
     "rankStd": 11.22,
-    "ownedPct": 97.2,
+    "ownedPct": 97.6,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -1259,7 +1259,7 @@
     "rankMin": 44,
     "rankMax": 343,
     "rankStd": 23.97,
-    "ownedPct": 89.2,
+    "ownedPct": 89.7,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -1275,7 +1275,7 @@
     "rankMin": 57,
     "rankMax": 134,
     "rankStd": 13.27,
-    "ownedPct": 83.3,
+    "ownedPct": 85.2,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -1291,7 +1291,7 @@
     "rankMin": 63,
     "rankMax": 145,
     "rankStd": 13.3,
-    "ownedPct": 73.7,
+    "ownedPct": 76.2,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -1307,7 +1307,7 @@
     "rankMin": 44,
     "rankMax": 142,
     "rankStd": 14.5,
-    "ownedPct": 50.1,
+    "ownedPct": 48.6,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -1323,7 +1323,7 @@
     "rankMin": 48,
     "rankMax": 237,
     "rankStd": 20.97,
-    "ownedPct": 62.7,
+    "ownedPct": 62.1,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -1355,7 +1355,7 @@
     "rankMin": 44,
     "rankMax": 125,
     "rankStd": 13.11,
-    "ownedPct": 63.1,
+    "ownedPct": 61.2,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -1371,7 +1371,7 @@
     "rankMin": 57,
     "rankMax": 196,
     "rankStd": 22.57,
-    "ownedPct": 38.8,
+    "ownedPct": 37.7,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -1387,7 +1387,7 @@
     "rankMin": 36,
     "rankMax": 137,
     "rankStd": 11.23,
-    "ownedPct": 70.3,
+    "ownedPct": 76.6,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -1419,7 +1419,7 @@
     "rankMin": 22,
     "rankMax": 195,
     "rankStd": 15.18,
-    "ownedPct": 90.2,
+    "ownedPct": 88.2,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -1435,7 +1435,7 @@
     "rankMin": 66,
     "rankMax": 145,
     "rankStd": 11.99,
-    "ownedPct": 64.7,
+    "ownedPct": 60.3,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -1451,7 +1451,7 @@
     "rankMin": 60,
     "rankMax": 151,
     "rankStd": 16.27,
-    "ownedPct": 68.7,
+    "ownedPct": 70.8,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -1467,7 +1467,7 @@
     "rankMin": 62,
     "rankMax": 136,
     "rankStd": 11.1,
-    "ownedPct": 93.3,
+    "ownedPct": 93.4,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -1483,7 +1483,7 @@
     "rankMin": 47,
     "rankMax": 259,
     "rankStd": 33.43,
-    "ownedPct": 72.2,
+    "ownedPct": 58,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -1499,7 +1499,7 @@
     "rankMin": 57,
     "rankMax": 143,
     "rankStd": 14.99,
-    "ownedPct": 96.1,
+    "ownedPct": 96.6,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -1515,7 +1515,7 @@
     "rankMin": 58,
     "rankMax": 124,
     "rankStd": 9.83,
-    "ownedPct": 62.1,
+    "ownedPct": 62.9,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -1531,7 +1531,7 @@
     "rankMin": 48,
     "rankMax": 261,
     "rankStd": 20.16,
-    "ownedPct": 92.7,
+    "ownedPct": 92.2,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -1547,7 +1547,7 @@
     "rankMin": 58,
     "rankMax": 152,
     "rankStd": 13.46,
-    "ownedPct": 23.1,
+    "ownedPct": 22.1,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -1563,7 +1563,7 @@
     "rankMin": 67,
     "rankMax": 144,
     "rankStd": 15.65,
-    "ownedPct": 88.9,
+    "ownedPct": 87.3,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -1579,7 +1579,7 @@
     "rankMin": 70,
     "rankMax": 168,
     "rankStd": 16.11,
-    "ownedPct": 24.6,
+    "ownedPct": 23.6,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -1595,7 +1595,7 @@
     "rankMin": 61,
     "rankMax": 149,
     "rankStd": 15.61,
-    "ownedPct": 73.7,
+    "ownedPct": 74.9,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -1611,7 +1611,7 @@
     "rankMin": 58,
     "rankMax": 136,
     "rankStd": 12.23,
-    "ownedPct": 92.9,
+    "ownedPct": 92.4,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -1627,7 +1627,7 @@
     "rankMin": 58,
     "rankMax": 145,
     "rankStd": 12.68,
-    "ownedPct": 86.1,
+    "ownedPct": 86.7,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -1643,7 +1643,7 @@
     "rankMin": 58,
     "rankMax": 134,
     "rankStd": 12.51,
-    "ownedPct": 95,
+    "ownedPct": 94.2,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -1659,7 +1659,7 @@
     "rankMin": 77,
     "rankMax": 167,
     "rankStd": 14.23,
-    "ownedPct": 78.6,
+    "ownedPct": 78.2,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -1675,7 +1675,7 @@
     "rankMin": 75,
     "rankMax": 176,
     "rankStd": 15.15,
-    "ownedPct": 54.5,
+    "ownedPct": 53.3,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -1691,7 +1691,7 @@
     "rankMin": 67,
     "rankMax": 154,
     "rankStd": 13.06,
-    "ownedPct": 94.7,
+    "ownedPct": 94.5,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -1707,7 +1707,7 @@
     "rankMin": 70,
     "rankMax": 229,
     "rankStd": 22.27,
-    "ownedPct": 81.6,
+    "ownedPct": 81.9,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -1723,7 +1723,7 @@
     "rankMin": 66,
     "rankMax": 161,
     "rankStd": 15.36,
-    "ownedPct": 79.2,
+    "ownedPct": 81.5,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -1739,7 +1739,7 @@
     "rankMin": 67,
     "rankMax": 195,
     "rankStd": 16.98,
-    "ownedPct": 82.1,
+    "ownedPct": 84,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -1755,7 +1755,7 @@
     "rankMin": 58,
     "rankMax": 239,
     "rankStd": 16.3,
-    "ownedPct": 56.9,
+    "ownedPct": 62,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -1771,7 +1771,7 @@
     "rankMin": 80,
     "rankMax": 165,
     "rankStd": 14.57,
-    "ownedPct": 80.1,
+    "ownedPct": 78.4,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -1787,7 +1787,7 @@
     "rankMin": 72,
     "rankMax": 200,
     "rankStd": 14.54,
-    "ownedPct": 61.3,
+    "ownedPct": 60.8,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -1803,7 +1803,7 @@
     "rankMin": 66,
     "rankMax": 250,
     "rankStd": 22.08,
-    "ownedPct": 21.8,
+    "ownedPct": 20.5,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -1819,7 +1819,7 @@
     "rankMin": 71,
     "rankMax": 317,
     "rankStd": 18.71,
-    "ownedPct": 51.4,
+    "ownedPct": 49.3,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -1835,7 +1835,7 @@
     "rankMin": 76,
     "rankMax": 253,
     "rankStd": 26.45,
-    "ownedPct": 92.2,
+    "ownedPct": 92.4,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -1851,7 +1851,7 @@
     "rankMin": 69,
     "rankMax": 349,
     "rankStd": 33.85,
-    "ownedPct": 37.7,
+    "ownedPct": 37.6,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -1867,7 +1867,7 @@
     "rankMin": 80,
     "rankMax": 345,
     "rankStd": 30.12,
-    "ownedPct": 53.3,
+    "ownedPct": 52.1,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -1883,7 +1883,7 @@
     "rankMin": 90,
     "rankMax": 198,
     "rankStd": 11.37,
-    "ownedPct": 81,
+    "ownedPct": 81.7,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -1899,7 +1899,7 @@
     "rankMin": 67,
     "rankMax": 245,
     "rankStd": 25.36,
-    "ownedPct": 71.5,
+    "ownedPct": 69.2,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -1915,7 +1915,7 @@
     "rankMin": 79,
     "rankMax": 178,
     "rankStd": 11.64,
-    "ownedPct": 38.5,
+    "ownedPct": 38.9,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -1931,7 +1931,7 @@
     "rankMin": 70,
     "rankMax": 198,
     "rankStd": 20.99,
-    "ownedPct": 93.9,
+    "ownedPct": 94.7,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -1947,7 +1947,7 @@
     "rankMin": 78,
     "rankMax": 161,
     "rankStd": 11.78,
-    "ownedPct": 86.9,
+    "ownedPct": 87.3,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -1979,7 +1979,7 @@
     "rankMin": 81,
     "rankMax": 183,
     "rankStd": 18.37,
-    "ownedPct": 63.6,
+    "ownedPct": 63.1,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -1995,7 +1995,7 @@
     "rankMin": 81,
     "rankMax": 346,
     "rankStd": 25.65,
-    "ownedPct": 59.9,
+    "ownedPct": 60.4,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2011,7 +2011,7 @@
     "rankMin": 88,
     "rankMax": 200,
     "rankStd": 16.37,
-    "ownedPct": 64.9,
+    "ownedPct": 60.7,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2027,7 +2027,7 @@
     "rankMin": 75,
     "rankMax": 209,
     "rankStd": 16.03,
-    "ownedPct": 64.7,
+    "ownedPct": 63.2,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -2043,7 +2043,7 @@
     "rankMin": 97,
     "rankMax": 277,
     "rankStd": 15.37,
-    "ownedPct": 77.8,
+    "ownedPct": 78.3,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2059,7 +2059,7 @@
     "rankMin": 77,
     "rankMax": 174,
     "rankStd": 13.77,
-    "ownedPct": 58.4,
+    "ownedPct": 55.5,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -2075,7 +2075,7 @@
     "rankMin": 95,
     "rankMax": 188,
     "rankStd": 14.22,
-    "ownedPct": 79.3,
+    "ownedPct": 81.1,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2107,7 +2107,7 @@
     "rankMin": 94,
     "rankMax": 299,
     "rankStd": 24.98,
-    "ownedPct": 67.3,
+    "ownedPct": 65.2,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2123,7 +2123,7 @@
     "rankMin": 91,
     "rankMax": 198,
     "rankStd": 15.64,
-    "ownedPct": 89.7,
+    "ownedPct": 91.1,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -2139,7 +2139,7 @@
     "rankMin": 101,
     "rankMax": 201,
     "rankStd": 17.04,
-    "ownedPct": 28.7,
+    "ownedPct": 28.3,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2155,7 +2155,7 @@
     "rankMin": 33,
     "rankMax": 317,
     "rankStd": 44.18,
-    "ownedPct": 90.3,
+    "ownedPct": 93,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2171,7 +2171,7 @@
     "rankMin": 105,
     "rankMax": 235,
     "rankStd": 22.71,
-    "ownedPct": 69.2,
+    "ownedPct": 67.1,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -2187,7 +2187,7 @@
     "rankMin": 99,
     "rankMax": 342,
     "rankStd": 26.11,
-    "ownedPct": 31.6,
+    "ownedPct": 33,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -2203,7 +2203,7 @@
     "rankMin": 102,
     "rankMax": 353,
     "rankStd": 24.03,
-    "ownedPct": 37.1,
+    "ownedPct": 37.9,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -2219,7 +2219,7 @@
     "rankMin": 118,
     "rankMax": 336,
     "rankStd": 19.91,
-    "ownedPct": 41.7,
+    "ownedPct": 39.9,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2235,7 +2235,7 @@
     "rankMin": 80,
     "rankMax": 244,
     "rankStd": 27.95,
-    "ownedPct": 72.3,
+    "ownedPct": 71.7,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2251,7 +2251,7 @@
     "rankMin": 99,
     "rankMax": 312,
     "rankStd": 26.55,
-    "ownedPct": 30.9,
+    "ownedPct": 29,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -2267,7 +2267,7 @@
     "rankMin": 109,
     "rankMax": 214,
     "rankStd": 14.31,
-    "ownedPct": 59.8,
+    "ownedPct": 58.8,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -2283,7 +2283,7 @@
     "rankMin": 121,
     "rankMax": 242,
     "rankStd": 15.73,
-    "ownedPct": 18.4,
+    "ownedPct": 18,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -2299,7 +2299,7 @@
     "rankMin": 117,
     "rankMax": 236,
     "rankStd": 20.34,
-    "ownedPct": 32.9,
+    "ownedPct": 32.2,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -2315,7 +2315,7 @@
     "rankMin": 100,
     "rankMax": 335,
     "rankStd": 21.63,
-    "ownedPct": 55,
+    "ownedPct": 62.2,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2331,7 +2331,7 @@
     "rankMin": 103,
     "rankMax": 338,
     "rankStd": 24.44,
-    "ownedPct": 23.2,
+    "ownedPct": 21.9,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -2347,7 +2347,7 @@
     "rankMin": 105,
     "rankMax": 242,
     "rankStd": 22.06,
-    "ownedPct": 54.5,
+    "ownedPct": 56,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2363,7 +2363,7 @@
     "rankMin": 74,
     "rankMax": 350,
     "rankStd": 34.78,
-    "ownedPct": 54,
+    "ownedPct": 55,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2379,7 +2379,7 @@
     "rankMin": 102,
     "rankMax": 230,
     "rankStd": 15.62,
-    "ownedPct": 44.5,
+    "ownedPct": 42.8,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2395,7 +2395,7 @@
     "rankMin": 111,
     "rankMax": 235,
     "rankStd": 21.82,
-    "ownedPct": 50.6,
+    "ownedPct": 48.3,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -2411,7 +2411,7 @@
     "rankMin": 99,
     "rankMax": 307,
     "rankStd": 24.19,
-    "ownedPct": 61.7,
+    "ownedPct": 63.6,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2427,7 +2427,7 @@
     "rankMin": 98,
     "rankMax": 311,
     "rankStd": 30.34,
-    "ownedPct": 50.5,
+    "ownedPct": 57.8,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -2443,7 +2443,7 @@
     "rankMin": 106,
     "rankMax": 361,
     "rankStd": 27.8,
-    "ownedPct": 70.7,
+    "ownedPct": 70.2,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2459,7 +2459,7 @@
     "rankMin": 149,
     "rankMax": 185,
     "rankStd": 5.67,
-    "ownedPct": 91.1,
+    "ownedPct": 94.9,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2475,7 +2475,7 @@
     "rankMin": 117,
     "rankMax": 257,
     "rankStd": 23.97,
-    "ownedPct": 85.8,
+    "ownedPct": 84.1,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -2491,7 +2491,7 @@
     "rankMin": 119,
     "rankMax": 259,
     "rankStd": 21.11,
-    "ownedPct": 9.8,
+    "ownedPct": 10.3,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2507,7 +2507,7 @@
     "rankMin": 109,
     "rankMax": 287,
     "rankStd": 25.39,
-    "ownedPct": 13.4,
+    "ownedPct": 12.6,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2523,7 +2523,7 @@
     "rankMin": 131,
     "rankMax": 357,
     "rankStd": 30.68,
-    "ownedPct": 20.9,
+    "ownedPct": 20.6,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -2539,7 +2539,7 @@
     "rankMin": 111,
     "rankMax": 256,
     "rankStd": 26.1,
-    "ownedPct": 18.8,
+    "ownedPct": 19.3,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -2555,7 +2555,7 @@
     "rankMin": 133,
     "rankMax": 337,
     "rankStd": 33.99,
-    "ownedPct": 9.8,
+    "ownedPct": 8.9,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -2571,7 +2571,7 @@
     "rankMin": 96,
     "rankMax": 294,
     "rankStd": 38.47,
-    "ownedPct": 13.1,
+    "ownedPct": 15.8,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2587,7 +2587,7 @@
     "rankMin": 113,
     "rankMax": 331,
     "rankStd": 29.67,
-    "ownedPct": 57,
+    "ownedPct": 57.3,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2603,7 +2603,7 @@
     "rankMin": 129,
     "rankMax": 271,
     "rankStd": 24.03,
-    "ownedPct": 16.7,
+    "ownedPct": 15.3,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -2619,7 +2619,7 @@
     "rankMin": 144,
     "rankMax": 205,
     "rankStd": 8.3,
-    "ownedPct": 84,
+    "ownedPct": 81.7,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2635,7 +2635,7 @@
     "rankMin": 125,
     "rankMax": 298,
     "rankStd": 26.53,
-    "ownedPct": 7.2,
+    "ownedPct": 7,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -2651,7 +2651,7 @@
     "rankMin": 149,
     "rankMax": 205,
     "rankStd": 6.66,
-    "ownedPct": 88.6,
+    "ownedPct": 93,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -2667,7 +2667,7 @@
     "rankMin": 149,
     "rankMax": 279,
     "rankStd": 10.2,
-    "ownedPct": 94.2,
+    "ownedPct": 92.4,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2683,7 +2683,7 @@
     "rankMin": 119,
     "rankMax": 316,
     "rankStd": 38.28,
-    "ownedPct": 9.6,
+    "ownedPct": 26.1,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2699,7 +2699,7 @@
     "rankMin": 110,
     "rankMax": 280,
     "rankStd": 31.08,
-    "ownedPct": 39.3,
+    "ownedPct": 38.1,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2715,7 +2715,7 @@
     "rankMin": 93,
     "rankMax": 292,
     "rankStd": 33.49,
-    "ownedPct": 26.3,
+    "ownedPct": 24.4,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -2731,7 +2731,7 @@
     "rankMin": 160,
     "rankMax": 234,
     "rankStd": 7.33,
-    "ownedPct": 72.4,
+    "ownedPct": 71.4,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -2747,7 +2747,7 @@
     "rankMin": 120,
     "rankMax": 368,
     "rankStd": 31.46,
-    "ownedPct": 16.5,
+    "ownedPct": 16.4,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -2763,7 +2763,7 @@
     "rankMin": 133,
     "rankMax": 339,
     "rankStd": 31.79,
-    "ownedPct": 62.8,
+    "ownedPct": 63.8,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -2795,7 +2795,7 @@
     "rankMin": 131,
     "rankMax": 257,
     "rankStd": 27.36,
-    "ownedPct": 4.5,
+    "ownedPct": 4.3,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -2811,7 +2811,7 @@
     "rankMin": 120,
     "rankMax": 296,
     "rankStd": 25.65,
-    "ownedPct": 13.8,
+    "ownedPct": 13.7,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2827,7 +2827,7 @@
     "rankMin": 135,
     "rankMax": 314,
     "rankStd": 29.24,
-    "ownedPct": 7.5,
+    "ownedPct": 6.2,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -2843,7 +2843,7 @@
     "rankMin": 150,
     "rankMax": 258,
     "rankStd": 9.03,
-    "ownedPct": 75.1,
+    "ownedPct": 74.1,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -2859,7 +2859,7 @@
     "rankMin": 168,
     "rankMax": 197,
     "rankStd": 2.27,
-    "ownedPct": 97.2,
+    "ownedPct": 95.5,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -2875,7 +2875,7 @@
     "rankMin": 159,
     "rankMax": 279,
     "rankStd": 14.25,
-    "ownedPct": 85.3,
+    "ownedPct": 75.6,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2891,7 +2891,7 @@
     "rankMin": 166,
     "rankMax": 276,
     "rankStd": 11.08,
-    "ownedPct": 66.6,
+    "ownedPct": 69.6,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -2907,7 +2907,7 @@
     "rankMin": 130,
     "rankMax": 324,
     "rankStd": 26.89,
-    "ownedPct": 11.7,
+    "ownedPct": 11.1,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -2923,7 +2923,7 @@
     "rankMin": 161,
     "rankMax": 279,
     "rankStd": 12.61,
-    "ownedPct": 68.2,
+    "ownedPct": 63.5,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -2939,7 +2939,7 @@
     "rankMin": 142,
     "rankMax": 372,
     "rankStd": 30.13,
-    "ownedPct": 14.5,
+    "ownedPct": 17.1,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -2955,7 +2955,7 @@
     "rankMin": 183,
     "rankMax": 251,
     "rankStd": 6.17,
-    "ownedPct": 94.2,
+    "ownedPct": 95.1,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -2971,7 +2971,7 @@
     "rankMin": 160,
     "rankMax": 279,
     "rankStd": 14.47,
-    "ownedPct": 69.3,
+    "ownedPct": 65.3,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -2987,7 +2987,7 @@
     "rankMin": 179,
     "rankMax": 281,
     "rankStd": 7.35,
-    "ownedPct": 72.2,
+    "ownedPct": 66.8,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -3003,7 +3003,7 @@
     "rankMin": 101,
     "rankMax": 395,
     "rankStd": 47.79,
-    "ownedPct": 44.1,
+    "ownedPct": 46.7,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -3019,7 +3019,7 @@
     "rankMin": 170,
     "rankMax": 355,
     "rankStd": 16.97,
-    "ownedPct": 33.1,
+    "ownedPct": 32.4,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -3035,7 +3035,7 @@
     "rankMin": 135,
     "rankMax": 370,
     "rankStd": 35.55,
-    "ownedPct": 23.3,
+    "ownedPct": 36.2,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -3051,7 +3051,7 @@
     "rankMin": 143,
     "rankMax": 316,
     "rankStd": 32.82,
-    "ownedPct": 18.3,
+    "ownedPct": 14.4,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -3067,7 +3067,7 @@
     "rankMin": 119,
     "rankMax": 365,
     "rankStd": 45.21,
-    "ownedPct": 23.2,
+    "ownedPct": 23.1,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -3083,7 +3083,7 @@
     "rankMin": 89,
     "rankMax": 373,
     "rankStd": 41.01,
-    "ownedPct": 24.3,
+    "ownedPct": 25.9,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -3099,7 +3099,7 @@
     "rankMin": 132,
     "rankMax": 306,
     "rankStd": 28.74,
-    "ownedPct": 4.3,
+    "ownedPct": 3.8,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -3115,7 +3115,7 @@
     "rankMin": 180,
     "rankMax": 332,
     "rankStd": 11.82,
-    "ownedPct": 83.2,
+    "ownedPct": 68.7,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -3131,7 +3131,7 @@
     "rankMin": 116,
     "rankMax": 295,
     "rankStd": 29.56,
-    "ownedPct": 3.7,
+    "ownedPct": 3.6,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -3147,7 +3147,7 @@
     "rankMin": 140,
     "rankMax": 364,
     "rankStd": 42.72,
-    "ownedPct": 1.3,
+    "ownedPct": 1.2,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -3163,7 +3163,7 @@
     "rankMin": 184,
     "rankMax": 252,
     "rankStd": 7.71,
-    "ownedPct": 88.1,
+    "ownedPct": 87.5,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -3179,7 +3179,7 @@
     "rankMin": 96,
     "rankMax": 296,
     "rankStd": 28.98,
-    "ownedPct": 45.4,
+    "ownedPct": 48.1,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -3211,7 +3211,7 @@
     "rankMin": 140,
     "rankMax": 325,
     "rankStd": 33.42,
-    "ownedPct": 3.3,
+    "ownedPct": 4.5,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -3227,7 +3227,7 @@
     "rankMin": 98,
     "rankMax": 314,
     "rankStd": 34.66,
-    "ownedPct": 42.9,
+    "ownedPct": 46.2,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -3243,7 +3243,7 @@
     "rankMin": 123,
     "rankMax": 371,
     "rankStd": 34.03,
-    "ownedPct": 34.1,
+    "ownedPct": 32.9,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -3259,7 +3259,7 @@
     "rankMin": 160,
     "rankMax": 279,
     "rankStd": 17.47,
-    "ownedPct": 62.3,
+    "ownedPct": 48.5,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -3275,7 +3275,7 @@
     "rankMin": 104,
     "rankMax": 340,
     "rankStd": 39.27,
-    "ownedPct": 25.3,
+    "ownedPct": 23.1,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -3291,7 +3291,7 @@
     "rankMin": 142,
     "rankMax": 292,
     "rankStd": 24.08,
-    "ownedPct": 14.8,
+    "ownedPct": 12.9,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -3307,7 +3307,7 @@
     "rankMin": 187,
     "rankMax": 281,
     "rankStd": 11.7,
-    "ownedPct": 58.4,
+    "ownedPct": 54.3,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -3339,7 +3339,7 @@
     "rankMin": 96,
     "rankMax": 333,
     "rankStd": 40.89,
-    "ownedPct": 9.2,
+    "ownedPct": 8.2,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -3355,7 +3355,7 @@
     "rankMin": 121,
     "rankMax": 317,
     "rankStd": 48.52,
-    "ownedPct": 20.2,
+    "ownedPct": 20.1,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -3371,7 +3371,7 @@
     "rankMin": 106,
     "rankMax": 327,
     "rankStd": 37.62,
-    "ownedPct": 16.1,
+    "ownedPct": 17.7,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -3387,7 +3387,7 @@
     "rankMin": 133,
     "rankMax": 341,
     "rankStd": 40.18,
-    "ownedPct": 45.1,
+    "ownedPct": 51.8,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -3403,7 +3403,7 @@
     "rankMin": 102,
     "rankMax": 309,
     "rankStd": 44.68,
-    "ownedPct": 11.4,
+    "ownedPct": 7.4,
     "byeWeek": null,
     "scoring": "STD"
   },
@@ -3419,7 +3419,7 @@
     "rankMin": 191,
     "rankMax": 332,
     "rankStd": 18.14,
-    "ownedPct": 75.6,
+    "ownedPct": 70.6,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -3451,7 +3451,7 @@
     "rankMin": 170,
     "rankMax": 332,
     "rankStd": 25.16,
-    "ownedPct": 26.1,
+    "ownedPct": 25.4,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -3467,7 +3467,7 @@
     "rankMin": 120,
     "rankMax": 378,
     "rankStd": 40.38,
-    "ownedPct": 5.7,
+    "ownedPct": 5.3,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -3483,7 +3483,7 @@
     "rankMin": 153,
     "rankMax": 302,
     "rankStd": 24.02,
-    "ownedPct": 10.2,
+    "ownedPct": 19.5,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -3499,7 +3499,7 @@
     "rankMin": 144,
     "rankMax": 324,
     "rankStd": 28.37,
-    "ownedPct": 48.9,
+    "ownedPct": 48.2,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -3515,7 +3515,7 @@
     "rankMin": 186,
     "rankMax": 254,
     "rankStd": 14.54,
-    "ownedPct": 36.2,
+    "ownedPct": 49.5,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -3531,7 +3531,7 @@
     "rankMin": 185,
     "rankMax": 343,
     "rankStd": 21.63,
-    "ownedPct": 30.3,
+    "ownedPct": 27.9,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -3547,7 +3547,7 @@
     "rankMin": 135,
     "rankMax": 375,
     "rankStd": 37.07,
-    "ownedPct": 9.5,
+    "ownedPct": 9.1,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -3563,7 +3563,7 @@
     "rankMin": 121,
     "rankMax": 326,
     "rankStd": 41.2,
-    "ownedPct": 3.7,
+    "ownedPct": 2.9,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -3579,7 +3579,7 @@
     "rankMin": 126,
     "rankMax": 369,
     "rankStd": 40.06,
-    "ownedPct": 5.8,
+    "ownedPct": 5.6,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -3595,7 +3595,7 @@
     "rankMin": 189,
     "rankMax": 332,
     "rankStd": 20.4,
-    "ownedPct": 29.7,
+    "ownedPct": 35.6,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -3611,7 +3611,7 @@
     "rankMin": 143,
     "rankMax": 296,
     "rankStd": 28.56,
-    "ownedPct": 6,
+    "ownedPct": 5.1,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -3627,7 +3627,7 @@
     "rankMin": 149,
     "rankMax": 313,
     "rankStd": 27.05,
-    "ownedPct": 3.1,
+    "ownedPct": 3,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -3643,7 +3643,7 @@
     "rankMin": 176,
     "rankMax": 355,
     "rankStd": 26.22,
-    "ownedPct": 34.4,
+    "ownedPct": 34.2,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -3659,7 +3659,7 @@
     "rankMin": 191,
     "rankMax": 332,
     "rankStd": 22.03,
-    "ownedPct": 17.4,
+    "ownedPct": 19.4,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -3675,7 +3675,7 @@
     "rankMin": 199,
     "rankMax": 332,
     "rankStd": 23.25,
-    "ownedPct": 24.5,
+    "ownedPct": 25.4,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -3723,7 +3723,7 @@
     "rankMin": 154,
     "rankMax": 308,
     "rankStd": 22.18,
-    "ownedPct": 2.6,
+    "ownedPct": 2.5,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -3739,7 +3739,7 @@
     "rankMin": 132,
     "rankMax": 384,
     "rankStd": 45.44,
-    "ownedPct": 12.5,
+    "ownedPct": 12.4,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -3755,7 +3755,7 @@
     "rankMin": 145,
     "rankMax": 337,
     "rankStd": 39.74,
-    "ownedPct": 7,
+    "ownedPct": 6.9,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -3771,7 +3771,7 @@
     "rankMin": 135,
     "rankMax": 314,
     "rankStd": 28.7,
-    "ownedPct": 11.2,
+    "ownedPct": 11.5,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -3787,7 +3787,7 @@
     "rankMin": 192,
     "rankMax": 330,
     "rankStd": 20.92,
-    "ownedPct": 38.2,
+    "ownedPct": 37.5,
     "byeWeek": null,
     "scoring": "STD"
   },
@@ -3803,7 +3803,7 @@
     "rankMin": 154,
     "rankMax": 305,
     "rankStd": 21.85,
-    "ownedPct": 7.4,
+    "ownedPct": 7.3,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -3819,7 +3819,7 @@
     "rankMin": 152,
     "rankMax": 342,
     "rankStd": 31.4,
-    "ownedPct": 9.5,
+    "ownedPct": 15,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -3835,7 +3835,7 @@
     "rankMin": 181,
     "rankMax": 332,
     "rankStd": 19.93,
-    "ownedPct": 7.3,
+    "ownedPct": 6.9,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -3851,7 +3851,7 @@
     "rankMin": 148,
     "rankMax": 313,
     "rankStd": 35.29,
-    "ownedPct": 81.4,
+    "ownedPct": 73.2,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -3867,7 +3867,7 @@
     "rankMin": 150,
     "rankMax": 355,
     "rankStd": 32.9,
-    "ownedPct": 33.5,
+    "ownedPct": 56.5,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -3883,7 +3883,7 @@
     "rankMin": 139,
     "rankMax": 321,
     "rankStd": 39.13,
-    "ownedPct": 45.7,
+    "ownedPct": 43.7,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -3899,7 +3899,7 @@
     "rankMin": 168,
     "rankMax": 379,
     "rankStd": 31.77,
-    "ownedPct": 45.6,
+    "ownedPct": 54.6,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -3931,7 +3931,7 @@
     "rankMin": 145,
     "rankMax": 380,
     "rankStd": 41.06,
-    "ownedPct": 7,
+    "ownedPct": 8.5,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -3947,7 +3947,7 @@
     "rankMin": 155,
     "rankMax": 331,
     "rankStd": 39.43,
-    "ownedPct": 2.4,
+    "ownedPct": 2.3,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -3963,7 +3963,7 @@
     "rankMin": 142,
     "rankMax": 389,
     "rankStd": 36.44,
-    "ownedPct": 8.8,
+    "ownedPct": 9.7,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -3995,7 +3995,7 @@
     "rankMin": 149,
     "rankMax": 333,
     "rankStd": 28.79,
-    "ownedPct": 40.4,
+    "ownedPct": 39.5,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -4011,7 +4011,7 @@
     "rankMin": 165,
     "rankMax": 367,
     "rankStd": 35.64,
-    "ownedPct": 1.7,
+    "ownedPct": 1.6,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -4043,7 +4043,7 @@
     "rankMin": 191,
     "rankMax": 327,
     "rankStd": 21.67,
-    "ownedPct": 42.7,
+    "ownedPct": 51.7,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -4091,7 +4091,7 @@
     "rankMin": 155,
     "rankMax": 316,
     "rankStd": 29.09,
-    "ownedPct": 79.2,
+    "ownedPct": 82.9,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -4123,7 +4123,7 @@
     "rankMin": 121,
     "rankMax": 386,
     "rankStd": 40.35,
-    "ownedPct": 2.2,
+    "ownedPct": 2.3,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -4155,7 +4155,7 @@
     "rankMin": 116,
     "rankMax": 393,
     "rankStd": 52.01,
-    "ownedPct": 10.7,
+    "ownedPct": 10.6,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -4171,7 +4171,7 @@
     "rankMin": 197,
     "rankMax": 327,
     "rankStd": 26.95,
-    "ownedPct": 66.3,
+    "ownedPct": 84.1,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -4187,7 +4187,7 @@
     "rankMin": 177,
     "rankMax": 352,
     "rankStd": 23.32,
-    "ownedPct": 3.8,
+    "ownedPct": 4.2,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -4203,7 +4203,7 @@
     "rankMin": 164,
     "rankMax": 318,
     "rankStd": 37.58,
-    "ownedPct": 26.3,
+    "ownedPct": 27.6,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -4219,7 +4219,7 @@
     "rankMin": 155,
     "rankMax": 312,
     "rankStd": 30.56,
-    "ownedPct": 25.5,
+    "ownedPct": 28.7,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -4283,7 +4283,7 @@
     "rankMin": 173,
     "rankMax": 357,
     "rankStd": 29.08,
-    "ownedPct": 3.5,
+    "ownedPct": 2.7,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -4315,7 +4315,7 @@
     "rankMin": 199,
     "rankMax": 332,
     "rankStd": 28.14,
-    "ownedPct": 7.5,
+    "ownedPct": 7.8,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -4347,7 +4347,7 @@
     "rankMin": 188,
     "rankMax": 336,
     "rankStd": 23.75,
-    "ownedPct": 2.3,
+    "ownedPct": 2,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -4363,7 +4363,7 @@
     "rankMin": 169,
     "rankMax": 375,
     "rankStd": 35.13,
-    "ownedPct": 1.8,
+    "ownedPct": 1.9,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -4395,7 +4395,7 @@
     "rankMin": 203,
     "rankMax": 344,
     "rankStd": 23.65,
-    "ownedPct": 1.6,
+    "ownedPct": 1.7,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -4475,7 +4475,7 @@
     "rankMin": 191,
     "rankMax": 367,
     "rankStd": 25.85,
-    "ownedPct": 17,
+    "ownedPct": 18.2,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -4507,7 +4507,7 @@
     "rankMin": 171,
     "rankMax": 355,
     "rankStd": 36.91,
-    "ownedPct": 23.6,
+    "ownedPct": 22.2,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -4523,7 +4523,7 @@
     "rankMin": 166,
     "rankMax": 355,
     "rankStd": 36.59,
-    "ownedPct": 49.7,
+    "ownedPct": 47.2,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -4555,7 +4555,7 @@
     "rankMin": 210,
     "rankMax": 347,
     "rankStd": 28.62,
-    "ownedPct": 64.2,
+    "ownedPct": 62.5,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -4619,7 +4619,7 @@
     "rankMin": 168,
     "rankMax": 359,
     "rankStd": 34.35,
-    "ownedPct": 0.7,
+    "ownedPct": 0.8,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -4635,7 +4635,7 @@
     "rankMin": 195,
     "rankMax": 350,
     "rankStd": 26.78,
-    "ownedPct": 16.3,
+    "ownedPct": 16.8,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -4667,7 +4667,7 @@
     "rankMin": 170,
     "rankMax": 355,
     "rankStd": 39.86,
-    "ownedPct": 28.1,
+    "ownedPct": 21.8,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -4731,7 +4731,7 @@
     "rankMin": 218,
     "rankMax": 353,
     "rankStd": 22.75,
-    "ownedPct": 1.9,
+    "ownedPct": 2.1,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -4763,7 +4763,7 @@
     "rankMin": 177,
     "rankMax": 384,
     "rankStd": 36.5,
-    "ownedPct": 6.3,
+    "ownedPct": 8.9,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -4795,7 +4795,7 @@
     "rankMin": 172,
     "rankMax": 377,
     "rankStd": 39.18,
-    "ownedPct": 18.5,
+    "ownedPct": 15,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -4827,7 +4827,7 @@
     "rankMin": 173,
     "rankMax": 363,
     "rankStd": 41.29,
-    "ownedPct": 16.3,
+    "ownedPct": 27.3,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -4859,7 +4859,7 @@
     "rankMin": 193,
     "rankMax": 355,
     "rankStd": 37.97,
-    "ownedPct": 9.5,
+    "ownedPct": 9.2,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -4875,7 +4875,7 @@
     "rankMin": 226,
     "rankMax": 395,
     "rankStd": 25.4,
-    "ownedPct": 2.7,
+    "ownedPct": 2.6,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -4891,7 +4891,7 @@
     "rankMin": 195,
     "rankMax": 354,
     "rankStd": 40.28,
-    "ownedPct": 11.1,
+    "ownedPct": 14.2,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -4939,7 +4939,7 @@
     "rankMin": 168,
     "rankMax": 373,
     "rankStd": 40.91,
-    "ownedPct": 1.9,
+    "ownedPct": 2.4,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -4971,7 +4971,7 @@
     "rankMin": 166,
     "rankMax": 355,
     "rankStd": 50.04,
-    "ownedPct": 21.1,
+    "ownedPct": 22,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -5003,7 +5003,7 @@
     "rankMin": 242,
     "rankMax": 365,
     "rankStd": 16.37,
-    "ownedPct": 1.3,
+    "ownedPct": 1.1,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -5051,7 +5051,7 @@
     "rankMin": 216,
     "rankMax": 381,
     "rankStd": 31.81,
-    "ownedPct": 3.3,
+    "ownedPct": 3.9,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -5067,7 +5067,7 @@
     "rankMin": 230,
     "rankMax": 382,
     "rankStd": 22.38,
-    "ownedPct": 0.8,
+    "ownedPct": 1.1,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -5083,7 +5083,7 @@
     "rankMin": 188,
     "rankMax": 388,
     "rankStd": 26.55,
-    "ownedPct": 8.3,
+    "ownedPct": 6.4,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -5099,7 +5099,7 @@
     "rankMin": 247,
     "rankMax": 393,
     "rankStd": 26.86,
-    "ownedPct": 12.8,
+    "ownedPct": 9.5,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -5147,7 +5147,7 @@
     "rankMin": 178,
     "rankMax": 355,
     "rankStd": 48.01,
-    "ownedPct": 18,
+    "ownedPct": 19.7,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -5179,7 +5179,7 @@
     "rankMin": 183,
     "rankMax": 376,
     "rankStd": 38.49,
-    "ownedPct": 2.9,
+    "ownedPct": 2.3,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -5291,7 +5291,7 @@
     "rankMin": 194,
     "rankMax": 396,
     "rankStd": 50.25,
-    "ownedPct": 23.7,
+    "ownedPct": 22.5,
     "byeWeek": null,
     "scoring": "STD"
   },
@@ -5307,7 +5307,7 @@
     "rankMin": 187,
     "rankMax": 332,
     "rankStd": 40.07,
-    "ownedPct": 6.2,
+    "ownedPct": 5.8,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -5355,7 +5355,7 @@
     "rankMin": 253,
     "rankMax": 356,
     "rankStd": 24.95,
-    "ownedPct": 1.7,
+    "ownedPct": 2.1,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -5403,7 +5403,7 @@
     "rankMin": 198,
     "rankMax": 390,
     "rankStd": 39.25,
-    "ownedPct": 1.1,
+    "ownedPct": 1,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -5419,7 +5419,7 @@
     "rankMin": 143,
     "rankMax": 386,
     "rankStd": 37.38,
-    "ownedPct": 0.9,
+    "ownedPct": 2,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -5451,7 +5451,7 @@
     "rankMin": 181,
     "rankMax": 392,
     "rankStd": 34.87,
-    "ownedPct": 8.6,
+    "ownedPct": 19.2,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -5467,7 +5467,7 @@
     "rankMin": 208,
     "rankMax": 386,
     "rankStd": 36.42,
-    "ownedPct": 1.4,
+    "ownedPct": 1.5,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -5499,7 +5499,7 @@
     "rankMin": 240,
     "rankMax": 372,
     "rankStd": 30.11,
-    "ownedPct": 19.3,
+    "ownedPct": 19.4,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -5547,7 +5547,7 @@
     "rankMin": 170,
     "rankMax": 355,
     "rankStd": 41.93,
-    "ownedPct": 15.9,
+    "ownedPct": 14.9,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -5579,7 +5579,7 @@
     "rankMin": 226,
     "rankMax": 395,
     "rankStd": 42.59,
-    "ownedPct": 1.8,
+    "ownedPct": 1.6,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -5595,7 +5595,7 @@
     "rankMin": 199,
     "rankMax": 332,
     "rankStd": 35.06,
-    "ownedPct": 20.7,
+    "ownedPct": 14.7,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -5611,7 +5611,7 @@
     "rankMin": 213,
     "rankMax": 332,
     "rankStd": 38.19,
-    "ownedPct": 18.5,
+    "ownedPct": 19.7,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -5675,7 +5675,7 @@
     "rankMin": 221,
     "rankMax": 364,
     "rankStd": 26.7,
-    "ownedPct": 1.1,
+    "ownedPct": 1,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -5723,7 +5723,7 @@
     "rankMin": 185,
     "rankMax": 355,
     "rankStd": 51.52,
-    "ownedPct": 17,
+    "ownedPct": 16.4,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -5739,7 +5739,7 @@
     "rankMin": 245,
     "rankMax": 396,
     "rankStd": 25.97,
-    "ownedPct": 1.3,
+    "ownedPct": 1,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -5755,7 +5755,7 @@
     "rankMin": 220,
     "rankMax": 377,
     "rankStd": 37.64,
-    "ownedPct": 13.4,
+    "ownedPct": 11.6,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -5771,7 +5771,7 @@
     "rankMin": 171,
     "rankMax": 355,
     "rankStd": 55.39,
-    "ownedPct": 20.4,
+    "ownedPct": 19.5,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -5819,7 +5819,7 @@
     "rankMin": 236,
     "rankMax": 383,
     "rankStd": 36.63,
-    "ownedPct": 20.1,
+    "ownedPct": 16.7,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -5835,7 +5835,7 @@
     "rankMin": 271,
     "rankMax": 387,
     "rankStd": 34.27,
-    "ownedPct": 1.9,
+    "ownedPct": 6.9,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -5867,7 +5867,7 @@
     "rankMin": 240,
     "rankMax": 397,
     "rankStd": 26.87,
-    "ownedPct": 4.7,
+    "ownedPct": 12.6,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -5931,7 +5931,7 @@
     "rankMin": 230,
     "rankMax": 386,
     "rankStd": 32.89,
-    "ownedPct": 2.7,
+    "ownedPct": 2.6,
     "byeWeek": null,
     "scoring": "STD"
   },
@@ -6011,7 +6011,7 @@
     "rankMin": 212,
     "rankMax": 320,
     "rankStd": 33.89,
-    "ownedPct": 60.3,
+    "ownedPct": 59.3,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -6043,7 +6043,7 @@
     "rankMin": 160,
     "rankMax": 296,
     "rankStd": 43.41,
-    "ownedPct": 7.6,
+    "ownedPct": 20,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -6075,7 +6075,7 @@
     "rankMin": 166,
     "rankMax": 279,
     "rankStd": 30.78,
-    "ownedPct": 12.8,
+    "ownedPct": 13.4,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -6107,7 +6107,7 @@
     "rankMin": 262,
     "rankMax": 394,
     "rankStd": 29.23,
-    "ownedPct": 1.3,
+    "ownedPct": 1.4,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -6203,7 +6203,7 @@
     "rankMin": 271,
     "rankMax": 395,
     "rankStd": 28.8,
-    "ownedPct": 0.9,
+    "ownedPct": 1.1,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -6235,7 +6235,7 @@
     "rankMin": 259,
     "rankMax": 382,
     "rankStd": 31.18,
-    "ownedPct": 1.1,
+    "ownedPct": 1.3,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -6315,7 +6315,7 @@
     "rankMin": 257,
     "rankMax": 387,
     "rankStd": 31.73,
-    "ownedPct": 17.2,
+    "ownedPct": 10.8,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -6379,7 +6379,7 @@
     "rankMin": 290,
     "rankMax": 379,
     "rankStd": 27.77,
-    "ownedPct": 0.8,
+    "ownedPct": 0.9,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -6443,7 +6443,7 @@
     "rankMin": 191,
     "rankMax": 332,
     "rankStd": 49.84,
-    "ownedPct": 2.7,
+    "ownedPct": 3.7,
     "byeWeek": 14,
     "scoring": "STD"
   },
@@ -6587,7 +6587,7 @@
     "rankMin": 189,
     "rankMax": 279,
     "rankStd": 33.85,
-    "ownedPct": 6.4,
+    "ownedPct": 5.9,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -6603,7 +6603,7 @@
     "rankMin": 284,
     "rankMax": 396,
     "rankStd": 29.9,
-    "ownedPct": 2.2,
+    "ownedPct": 1.9,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -6651,7 +6651,7 @@
     "rankMin": 204,
     "rankMax": 332,
     "rankStd": 45.64,
-    "ownedPct": 0.7,
+    "ownedPct": 0.8,
     "byeWeek": 9,
     "scoring": "STD"
   },
@@ -6699,7 +6699,7 @@
     "rankMin": 198,
     "rankMax": 325,
     "rankStd": 42.71,
-    "ownedPct": 21.6,
+    "ownedPct": 16.8,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -6715,7 +6715,7 @@
     "rankMin": 180,
     "rankMax": 220,
     "rankStd": 13.38,
-    "ownedPct": 3.8,
+    "ownedPct": 6.9,
     "byeWeek": 5,
     "scoring": "STD"
   },
@@ -6763,7 +6763,7 @@
     "rankMin": 185,
     "rankMax": 355,
     "rankStd": 63.29,
-    "ownedPct": 8,
+    "ownedPct": 5.6,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -6779,7 +6779,7 @@
     "rankMin": 290,
     "rankMax": 397,
     "rankStd": 27.76,
-    "ownedPct": 1.9,
+    "ownedPct": 1.7,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -6795,7 +6795,7 @@
     "rankMin": 227,
     "rankMax": 386,
     "rankStd": 37.09,
-    "ownedPct": 3.4,
+    "ownedPct": 2.8,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -6811,7 +6811,7 @@
     "rankMin": 196,
     "rankMax": 281,
     "rankStd": 30.33,
-    "ownedPct": 0.6,
+    "ownedPct": 1.6,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -6875,7 +6875,7 @@
     "rankMin": 150,
     "rankMax": 219,
     "rankStd": 25.8,
-    "ownedPct": 11.3,
+    "ownedPct": 22,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -6891,7 +6891,7 @@
     "rankMin": 196,
     "rankMax": 281,
     "rankStd": 39.56,
-    "ownedPct": 15.1,
+    "ownedPct": 8.1,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -6971,7 +6971,7 @@
     "rankMin": 150,
     "rankMax": 279,
     "rankStd": 46.31,
-    "ownedPct": 10.8,
+    "ownedPct": 9.9,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -7003,7 +7003,7 @@
     "rankMin": 262,
     "rankMax": 392,
     "rankStd": 39.01,
-    "ownedPct": 38.9,
+    "ownedPct": 38.3,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -7051,7 +7051,7 @@
     "rankMin": 267,
     "rankMax": 382,
     "rankStd": 29.43,
-    "ownedPct": 1.1,
+    "ownedPct": 1,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -7115,7 +7115,7 @@
     "rankMin": 167,
     "rankMax": 252,
     "rankStd": 35.05,
-    "ownedPct": 0.8,
+    "ownedPct": 1.1,
     "byeWeek": 13,
     "scoring": "STD"
   },
@@ -7195,7 +7195,7 @@
     "rankMin": 246,
     "rankMax": 387,
     "rankStd": 52.2,
-    "ownedPct": 3.2,
+    "ownedPct": 2.8,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -7387,7 +7387,7 @@
     "rankMin": 263,
     "rankMax": 347,
     "rankStd": 32.75,
-    "ownedPct": 1.2,
+    "ownedPct": 0.9,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -7403,7 +7403,7 @@
     "rankMin": 272,
     "rankMax": 340,
     "rankStd": 26.31,
-    "ownedPct": 2.8,
+    "ownedPct": 2.4,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -7627,7 +7627,7 @@
     "rankMin": 310,
     "rankMax": 370,
     "rankStd": 25.48,
-    "ownedPct": 3.9,
+    "ownedPct": 3.5,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -7707,7 +7707,7 @@
     "rankMin": 264,
     "rankMax": 339,
     "rankStd": 31.09,
-    "ownedPct": 4.7,
+    "ownedPct": 3.7,
     "byeWeek": 11,
     "scoring": "STD"
   },
@@ -7771,7 +7771,7 @@
     "rankMin": 217,
     "rankMax": 370,
     "rankStd": 67.72,
-    "ownedPct": 6.3,
+    "ownedPct": 5.2,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -7835,7 +7835,7 @@
     "rankMin": 302,
     "rankMax": 347,
     "rankStd": 20.98,
-    "ownedPct": 0.6,
+    "ownedPct": 1.3,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -7915,7 +7915,7 @@
     "rankMin": 262,
     "rankMax": 319,
     "rankStd": 28.5,
-    "ownedPct": 1.4,
+    "ownedPct": 1.1,
     "byeWeek": 7,
     "scoring": "STD"
   },
@@ -8155,7 +8155,7 @@
     "rankMin": 338,
     "rankMax": 397,
     "rankStd": 19.16,
-    "ownedPct": 1.1,
+    "ownedPct": 1,
     "byeWeek": 10,
     "scoring": "STD"
   },
@@ -8507,7 +8507,7 @@
     "rankMin": 343,
     "rankMax": 384,
     "rankStd": 16.94,
-    "ownedPct": 0.6,
+    "ownedPct": 1,
     "byeWeek": 6,
     "scoring": "STD"
   },
@@ -8523,7 +8523,7 @@
     "rankMin": 344,
     "rankMax": 356,
     "rankStd": 6,
-    "ownedPct": 0.6,
+    "ownedPct": 1.1,
     "byeWeek": 8,
     "scoring": "STD"
   },
@@ -8699,7 +8699,7 @@
     "rankMin": 347,
     "rankMax": 383,
     "rankStd": 18,
-    "ownedPct": 1.3,
+    "ownedPct": 1.1,
     "byeWeek": 10,
     "scoring": "STD"
   },

@@ -193,7 +193,7 @@
   },
   {
     "sleeperId": "2078",
-    "name": "Odell Beckham",
+    "name": "Odell Beckham Jr.",
     "position": "WR",
     "team": "MIN",
     "fantasyProsId": 12127,
@@ -249,7 +249,7 @@
   },
   {
     "sleeperId": "2334",
-    "name": "Phillip Dorsett",
+    "name": "Phillip Dorsett II",
     "position": "WR",
     "team": "LV",
     "fantasyProsId": 13979,
@@ -537,7 +537,7 @@
   },
   {
     "sleeperId": "4037",
-    "name": "Chris Godwin",
+    "name": "Chris Godwin Jr.",
     "position": "WR",
     "team": "TB",
     "fantasyProsId": 16406,
@@ -633,7 +633,7 @@
   },
   {
     "sleeperId": "4199",
-    "name": "Aaron Jones",
+    "name": "Aaron Jones Sr.",
     "position": "RB",
     "team": "MIN",
     "fantasyProsId": 16673,
@@ -1033,7 +1033,7 @@
   },
   {
     "sleeperId": "5154",
-    "name": "Trent Sherfield",
+    "name": "Trent Sherfield Sr.",
     "position": "WR",
     "team": "BUF",
     "fantasyProsId": 17888,
@@ -1193,7 +1193,7 @@
   },
   {
     "sleeperId": "5872",
-    "name": "Deebo Samuel",
+    "name": "Deebo Samuel Sr.",
     "position": "WR",
     "team": "SF",
     "fantasyProsId": 18244,
@@ -1217,7 +1217,7 @@
   },
   {
     "sleeperId": "5917",
-    "name": "Mecole Hardman",
+    "name": "Mecole Hardman Jr.",
     "position": "WR",
     "team": "IND",
     "fantasyProsId": 18587,
@@ -1305,7 +1305,7 @@
   },
   {
     "sleeperId": "6011",
-    "name": "Gardner Minshew",
+    "name": "Gardner Minshew II",
     "position": "QB",
     "team": "ARI",
     "fantasyProsId": 18562,
@@ -1393,7 +1393,7 @@
   },
   {
     "sleeperId": "6154",
-    "name": "David Sills",
+    "name": "David Sills V",
     "position": "WR",
     "team": "TB",
     "fantasyProsId": 18566,
@@ -1649,7 +1649,7 @@
   },
   {
     "sleeperId": "6819",
-    "name": "Michael Pittman",
+    "name": "Michael Pittman Jr.",
     "position": "WR",
     "team": "PIT",
     "fantasyProsId": 19278,
@@ -1985,7 +1985,7 @@
   },
   {
     "sleeperId": "7543",
-    "name": "Travis Etienne",
+    "name": "Travis Etienne Jr.",
     "position": "RB",
     "team": "NO",
     "fantasyProsId": 19231,
@@ -2001,7 +2001,7 @@
   },
   {
     "sleeperId": "7553",
-    "name": "Kyle Pitts",
+    "name": "Kyle Pitts Sr.",
     "position": "TE",
     "team": "ATL",
     "fantasyProsId": 20164,
@@ -2401,7 +2401,7 @@
   },
   {
     "sleeperId": "8116",
-    "name": "Pierre Strong",
+    "name": "Pierre Strong Jr.",
     "position": "RB",
     "team": "GB",
     "fantasyProsId": 24173,
@@ -2441,7 +2441,7 @@
   },
   {
     "sleeperId": "8125",
-    "name": "Calvin Austin",
+    "name": "Calvin Austin III",
     "position": "WR",
     "team": "NYG",
     "fantasyProsId": 23739,
@@ -2529,7 +2529,7 @@
   },
   {
     "sleeperId": "8138",
-    "name": "James Cook",
+    "name": "James Cook III",
     "position": "RB",
     "team": "BUF",
     "fantasyProsId": 22958,
@@ -2585,7 +2585,7 @@
   },
   {
     "sleeperId": "8147",
-    "name": "John Metchie",
+    "name": "John Metchie III",
     "position": "WR",
     "team": "CAR",
     "fantasyProsId": 22895,
@@ -2609,7 +2609,7 @@
   },
   {
     "sleeperId": "8151",
-    "name": "Kenneth Walker",
+    "name": "Kenneth Walker III",
     "position": "RB",
     "team": "KC",
     "fantasyProsId": 23021,
@@ -2617,7 +2617,7 @@
   },
   {
     "sleeperId": "8154",
-    "name": "Brian Robinson",
+    "name": "Brian Robinson Jr.",
     "position": "RB",
     "team": "ATL",
     "fantasyProsId": 20094,
@@ -2736,14 +2736,6 @@
     "gsisId": "00-0037557"
   },
   {
-    "sleeperId": "8200",
-    "name": "Kevin Austin",
-    "position": "WR",
-    "team": "NO",
-    "fantasyProsId": 23049,
-    "gsisId": "00-0037231"
-  },
-  {
     "sleeperId": "8204",
     "name": "Bo Melton",
     "position": "WR",
@@ -2817,7 +2809,7 @@
   },
   {
     "sleeperId": "8223",
-    "name": "Velus Jones",
+    "name": "Velus Jones Jr.",
     "position": "WR",
     "team": "SEA",
     "fantasyProsId": 24214,
@@ -3105,7 +3097,7 @@
   },
   {
     "sleeperId": "9229",
-    "name": "Anthony Richardson",
+    "name": "Anthony Richardson Sr.",
     "position": "QB",
     "team": "IND",
     "fantasyProsId": 24347,
@@ -3201,7 +3193,7 @@
   },
   {
     "sleeperId": "9494",
-    "name": "Marvin Mims",
+    "name": "Marvin Mims Jr.",
     "position": "WR",
     "team": "DEN",
     "fantasyProsId": 23080,
@@ -3409,7 +3401,7 @@
   },
   {
     "sleeperId": "10219",
-    "name": "Chris Rodriguez",
+    "name": "Chris Rodriguez Jr.",
     "position": "RB",
     "team": "JAX",
     "fantasyProsId": 22986,
@@ -3529,7 +3521,7 @@
   },
   {
     "sleeperId": "10857",
-    "name": "Stetson Bennett",
+    "name": "Stetson Bennett IV",
     "position": "QB",
     "team": "LAR",
     "fantasyProsId": 23927,
@@ -3649,7 +3641,7 @@
   },
   {
     "sleeperId": "11186",
-    "name": "Carlos Washington",
+    "name": "Carlos Washington Jr.",
     "position": "RB",
     "team": "MIA",
     "fantasyProsId": 25644,
@@ -3913,7 +3905,7 @@
   },
   {
     "sleeperId": "11559",
-    "name": "Michael Penix",
+    "name": "Michael Penix Jr.",
     "position": "QB",
     "team": "ATL",
     "fantasyProsId": 22973,
@@ -3993,7 +3985,7 @@
   },
   {
     "sleeperId": "11573",
-    "name": "Frank Gore",
+    "name": "Frank Gore Jr.",
     "position": "RB",
     "team": "BUF",
     "fantasyProsId": 25980,
@@ -4048,14 +4040,6 @@
     "gsisId": "00-0039811"
   },
   {
-    "sleeperId": "11582",
-    "name": "Carson Steele",
-    "position": "RB",
-    "team": "PHI",
-    "fantasyProsId": 26372,
-    "gsisId": "00-0039325"
-  },
-  {
     "sleeperId": "11583",
     "name": "Jonathon Brooks",
     "position": "RB",
@@ -4097,7 +4081,7 @@
   },
   {
     "sleeperId": "11592",
-    "name": "Erick All",
+    "name": "Erick All Jr.",
     "position": "TE",
     "team": "CIN",
     "fantasyProsId": 23837,
@@ -4257,7 +4241,7 @@
   },
   {
     "sleeperId": "11628",
-    "name": "Marvin Harrison",
+    "name": "Marvin Harrison Jr.",
     "position": "WR",
     "team": "HOU",
     "fantasyProsId": 23064,
@@ -4281,7 +4265,7 @@
   },
   {
     "sleeperId": "11631",
-    "name": "Brian Thomas",
+    "name": "Brian Thomas Jr.",
     "position": "WR",
     "team": "JAX",
     "fantasyProsId": 23000,
@@ -4409,7 +4393,7 @@
   },
   {
     "sleeperId": "11655",
-    "name": "Tyrone Tracy",
+    "name": "Tyrone Tracy Jr.",
     "position": "RB",
     "team": "NYG",
     "fantasyProsId": 22980,
@@ -4480,14 +4464,6 @@
     "gsisId": "00-0039394"
   },
   {
-    "sleeperId": "11820",
-    "name": "Devin Culp",
-    "position": "TE",
-    "team": "CLE",
-    "fantasyProsId": 26440,
-    "gsisId": "00-0039754"
-  },
-  {
     "sleeperId": "11834",
     "name": "Devaughn Vele",
     "position": "WR",
@@ -4550,14 +4526,6 @@
     "team": "DET",
     "fantasyProsId": null,
     "gsisId": null
-  },
-  {
-    "sleeperId": "12036",
-    "name": "Ian Wheeler",
-    "position": "RB",
-    "team": "PHI",
-    "fantasyProsId": 26635,
-    "gsisId": "00-0039466"
   },
   {
     "sleeperId": "12045",
@@ -4672,16 +4640,8 @@
     "gsisId": "00-0040078"
   },
   {
-    "sleeperId": "12457",
-    "name": "Jaydon Blue",
-    "position": "RB",
-    "team": "PHI",
-    "fantasyProsId": 24344,
-    "gsisId": "00-0040586"
-  },
-  {
     "sleeperId": "12460",
-    "name": "Antwane Wells",
+    "name": "Antwane Wells Jr.",
     "position": "WR",
     "team": "ATL",
     "fantasyProsId": 27218,
@@ -4745,7 +4705,7 @@
   },
   {
     "sleeperId": "12475",
-    "name": "Ricky White",
+    "name": "Ricky White III",
     "position": "WR",
     "team": "SEA",
     "fantasyProsId": 27186,
@@ -4881,7 +4841,7 @@
   },
   {
     "sleeperId": "12495",
-    "name": "Ollie Gordon",
+    "name": "Ollie Gordon II",
     "position": "RB",
     "team": "MIA",
     "fantasyProsId": 25984,
@@ -4969,7 +4929,7 @@
   },
   {
     "sleeperId": "12506",
-    "name": "Harold Fannin",
+    "name": "Harold Fannin Jr.",
     "position": "TE",
     "team": "CLE",
     "fantasyProsId": 27050,
@@ -5057,7 +5017,7 @@
   },
   {
     "sleeperId": "12519",
-    "name": "Luther Burden",
+    "name": "Luther Burden III",
     "position": "WR",
     "team": "CHI",
     "fantasyProsId": 27016,
@@ -5089,7 +5049,7 @@
   },
   {
     "sleeperId": "12523",
-    "name": "Jimmy Horn",
+    "name": "Jimmy Horn Jr.",
     "position": "WR",
     "team": "CLE",
     "fantasyProsId": 27294,
@@ -5193,7 +5153,7 @@
   },
   {
     "sleeperId": "12541",
-    "name": "Dont'e Thornton",
+    "name": "Dont'e Thornton Jr.",
     "position": "WR",
     "team": "LV",
     "fantasyProsId": 27288,
@@ -5201,7 +5161,7 @@
   },
   {
     "sleeperId": "12542",
-    "name": "Efton Chism",
+    "name": "Efton Chism III",
     "position": "WR",
     "team": "NE",
     "fantasyProsId": 27445,
@@ -5217,7 +5177,7 @@
   },
   {
     "sleeperId": "12544",
-    "name": "LeQuint Allen",
+    "name": "LeQuint Allen Jr.",
     "position": "RB",
     "team": "JAX",
     "fantasyProsId": 27285,
@@ -5329,7 +5289,7 @@
   },
   {
     "sleeperId": "12715",
-    "name": "Thomas Fidone",
+    "name": "Thomas Fidone II",
     "position": "TE",
     "team": "NYG",
     "fantasyProsId": 23039,
@@ -5481,7 +5441,7 @@
   },
   {
     "sleeperId": "12860",
-    "name": "Theo Wease",
+    "name": "Theo Wease Jr.",
     "position": "WR",
     "team": "LAC",
     "fantasyProsId": 27222,
@@ -5505,7 +5465,7 @@
   },
   {
     "sleeperId": "12884",
-    "name": "Quincy Skinner",
+    "name": "Quincy Skinner Jr.",
     "position": "WR",
     "team": "GB",
     "fantasyProsId": null,
@@ -5552,14 +5512,6 @@
     "gsisId": null
   },
   {
-    "sleeperId": "12909",
-    "name": "Eli Pancol",
-    "position": "WR",
-    "team": "IND",
-    "fantasyProsId": null,
-    "gsisId": "00-0040337"
-  },
-  {
     "sleeperId": "12925",
     "name": "Jamaal Pritchett",
     "position": "WR",
@@ -5585,7 +5537,7 @@
   },
   {
     "sleeperId": "12939",
-    "name": "Anthony Tyus",
+    "name": "Anthony Tyus III",
     "position": "RB",
     "team": "CAR",
     "fantasyProsId": 27700,
@@ -5728,14 +5680,6 @@
     "gsisId": "00-0040488"
   },
   {
-    "sleeperId": "13124",
-    "name": "Jeremiah Webb",
-    "position": "WR",
-    "team": "NE",
-    "fantasyProsId": null,
-    "gsisId": null
-  },
-  {
     "sleeperId": "13150",
     "name": "Darius Cooper",
     "position": "WR",
@@ -5769,7 +5713,7 @@
   },
   {
     "sleeperId": "13199",
-    "name": "Montorie Foster",
+    "name": "Montorie Foster Jr.",
     "position": "WR",
     "team": "SEA",
     "fantasyProsId": 27910,
@@ -5865,7 +5809,7 @@
   },
   {
     "sleeperId": "13276",
-    "name": "Omar Cooper",
+    "name": "Omar Cooper Jr.",
     "position": "WR",
     "team": "NYJ",
     "fantasyProsId": 28127,
@@ -6001,7 +5945,7 @@
   },
   {
     "sleeperId": "13298",
-    "name": "KC Concepcion",
+    "name": "KC Concepcion Jr.",
     "position": "WR",
     "team": "CLE",
     "fantasyProsId": 27331,
@@ -6041,7 +5985,7 @@
   },
   {
     "sleeperId": "13305",
-    "name": "Mike Washington",
+    "name": "Mike Washington Jr.",
     "position": "RB",
     "team": "LV",
     "fantasyProsId": 28108,
@@ -6097,7 +6041,7 @@
   },
   {
     "sleeperId": "13313",
-    "name": "Emmanuel Henderson",
+    "name": "Emmanuel Henderson Jr.",
     "position": "WR",
     "team": "SEA",
     "fantasyProsId": 24379,
@@ -6121,7 +6065,7 @@
   },
   {
     "sleeperId": "13316",
-    "name": "Eric Rivers",
+    "name": "Eric Rivers Jr.",
     "position": "WR",
     "team": "TB",
     "fantasyProsId": 28128,
@@ -6129,7 +6073,7 @@
   },
   {
     "sleeperId": "13317",
-    "name": "Ted Hurst",
+    "name": "Ted Hurst III",
     "position": "WR",
     "team": "TB",
     "fantasyProsId": 28130,
@@ -6241,7 +6185,7 @@
   },
   {
     "sleeperId": "13338",
-    "name": "Kevin Coleman",
+    "name": "Kevin Coleman Jr.",
     "position": "WR",
     "team": "MIA",
     "fantasyProsId": 28067,
@@ -6265,7 +6209,7 @@
   },
   {
     "sleeperId": "13343",
-    "name": "Vinny Anthony",
+    "name": "Vinny Anthony II",
     "position": "WR",
     "team": "ATL",
     "fantasyProsId": 28150,
@@ -6321,7 +6265,7 @@
   },
   {
     "sleeperId": "13353",
-    "name": "Chris Brazzell",
+    "name": "Chris Brazzell II",
     "position": "WR",
     "team": "CAR",
     "fantasyProsId": 28047,
@@ -6489,7 +6433,7 @@
   },
   {
     "sleeperId": "13418",
-    "name": "Robert Henry",
+    "name": "Robert Henry Jr.",
     "position": "RB",
     "team": "SEA",
     "fantasyProsId": 28404,
@@ -6793,7 +6737,7 @@
   },
   {
     "sleeperId": "13670",
-    "name": "Harrison Wallace",
+    "name": "Harrison Wallace III",
     "position": "WR",
     "team": "ARI",
     "fantasyProsId": 28143,
@@ -6872,14 +6816,6 @@
     "gsisId": null
   },
   {
-    "sleeperId": "13816",
-    "name": "Mark Gronowski",
-    "position": "QB",
-    "team": "HOU",
-    "fantasyProsId": null,
-    "gsisId": "00-0041156"
-  },
-  {
     "sleeperId": "13825",
     "name": "Malik McClain",
     "position": "WR",
@@ -6944,14 +6880,6 @@
     "gsisId": null
   },
   {
-    "sleeperId": "13898",
-    "name": "Corey Rucker",
-    "position": "WR",
-    "team": "LV",
-    "fantasyProsId": null,
-    "gsisId": null
-  },
-  {
     "sleeperId": "13905",
     "name": "Omari Evans",
     "position": "WR",
@@ -6966,14 +6894,6 @@
     "team": "LV",
     "fantasyProsId": null,
     "gsisId": null
-  },
-  {
-    "sleeperId": "13949",
-    "name": "Damon Bankston",
-    "position": "RB",
-    "team": "GB",
-    "fantasyProsId": null,
-    "gsisId": "00-0041139"
   },
   {
     "sleeperId": "13962",
@@ -7017,7 +6937,7 @@
   },
   {
     "sleeperId": "14020",
-    "name": "Dean Patterson",
+    "name": "Dean Patterson IV",
     "position": "WR",
     "team": "TB",
     "fantasyProsId": null,

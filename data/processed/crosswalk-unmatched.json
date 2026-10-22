@@ -29,6 +29,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Jaydon Blue",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Kareem Hunt",
     "position": "RB",
     "team": "FA",
@@ -218,6 +225,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Kevin Austin Jr.",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "JuJu Smith-Schuster",
     "position": "WR",
     "team": "FA",
@@ -260,6 +274,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Carson Steele",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Donovan Edwards",
     "position": "RB",
     "team": "FA",
@@ -276,6 +297,13 @@
     "source": "fantasypros",
     "name": "Ray-Ray McCloud III",
     "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Devin Culp",
+    "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -822,6 +850,13 @@
     "source": "fantasypros",
     "name": "Trenton Irwin",
     "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Ian Wheeler",
+    "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -4418,6 +4453,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Kevin Austin",
+    "position": "WR",
+    "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Tyler Smith",
     "position": "G",
     "team": "DAL",
@@ -4530,6 +4572,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Carson Steele",
+    "position": "RB",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Jha'Quan Jackson",
     "position": "WR",
     "team": "TEN",
@@ -4617,6 +4666,13 @@
     "name": "Ainias Smith",
     "position": "WR",
     "team": "PHI",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Devin Culp",
+    "position": "TE",
+    "team": "TB",
     "reason": "no-name-match"
   },
   {
