@@ -1033,7 +1033,7 @@
   },
   {
     "sleeperId": "5154",
-    "name": "Trent Sherfield Sr.",
+    "name": "Trent Sherfield",
     "position": "WR",
     "team": "BUF",
     "fantasyProsId": 17888,
@@ -3176,14 +3176,6 @@
     "gsisId": "00-0038543"
   },
   {
-    "sleeperId": "9490",
-    "name": "Tyler Scott",
-    "position": "WR",
-    "team": "LV",
-    "fantasyProsId": 25442,
-    "gsisId": "00-0038941"
-  },
-  {
     "sleeperId": "9493",
     "name": "Puka Nacua",
     "position": "WR",
@@ -4640,6 +4632,14 @@
     "gsisId": "00-0040078"
   },
   {
+    "sleeperId": "12457",
+    "name": "Jaydon Blue",
+    "position": "RB",
+    "team": "PHI",
+    "fantasyProsId": 24344,
+    "gsisId": "00-0040586"
+  },
+  {
     "sleeperId": "12460",
     "name": "Antwane Wells Jr.",
     "position": "WR",
@@ -5486,14 +5486,6 @@
     "team": "ATL",
     "fantasyProsId": 22925,
     "gsisId": "00-0040432"
-  },
-  {
-    "sleeperId": "12897",
-    "name": "Nate Carter",
-    "position": "RB",
-    "team": "KC",
-    "fantasyProsId": 27667,
-    "gsisId": "00-0040547"
   },
   {
     "sleeperId": "12901",
