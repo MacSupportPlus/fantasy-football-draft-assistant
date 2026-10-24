@@ -3728,14 +3728,6 @@
     "gsisId": "00-0038440"
   },
   {
-    "sleeperId": "11304",
-    "name": "E.J. Jenkins",
-    "position": "TE",
-    "team": "PHI",
-    "fantasyProsId": 25756,
-    "gsisId": "00-0038498"
-  },
-  {
     "sleeperId": "11306",
     "name": "Xavier Gipson",
     "position": "WR",
@@ -5486,6 +5478,14 @@
     "team": "ATL",
     "fantasyProsId": 22925,
     "gsisId": "00-0040432"
+  },
+  {
+    "sleeperId": "12897",
+    "name": "Nate Carter",
+    "position": "RB",
+    "team": "KC",
+    "fantasyProsId": 27667,
+    "gsisId": "00-0040547"
   },
   {
     "sleeperId": "12901",

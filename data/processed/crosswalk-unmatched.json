@@ -330,13 +330,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Nate Carter",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Joshua Karty",
     "position": "K",
     "team": "FA",
@@ -381,6 +374,13 @@
     "source": "fantasypros",
     "name": "Avery Williams",
     "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "E.J. Jenkins",
+    "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -4533,6 +4533,13 @@
     "name": "Bryce Ford-Wheaton",
     "position": "WR",
     "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "E.J. Jenkins",
+    "position": "TE",
+    "team": "PHI",
     "reason": "no-name-match"
   },
   {
