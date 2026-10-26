@@ -3728,6 +3728,14 @@
     "gsisId": "00-0038440"
   },
   {
+    "sleeperId": "11304",
+    "name": "E.J. Jenkins",
+    "position": "TE",
+    "team": "ATL",
+    "fantasyProsId": 25756,
+    "gsisId": "00-0038498"
+  },
+  {
     "sleeperId": "11306",
     "name": "Xavier Gipson",
     "position": "WR",
@@ -5702,14 +5710,6 @@
     "team": "CAR",
     "fantasyProsId": 27896,
     "gsisId": "00-0040265"
-  },
-  {
-    "sleeperId": "13199",
-    "name": "Montorie Foster Jr.",
-    "position": "WR",
-    "team": "SEA",
-    "fantasyProsId": 27910,
-    "gsisId": "00-0040621"
   },
   {
     "sleeperId": "13208",
