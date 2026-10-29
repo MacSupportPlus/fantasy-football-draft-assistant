@@ -22,13 +22,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Emari Demercado",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Darius Slayton",
     "position": "WR",
     "team": "FA",
@@ -295,13 +288,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Devin Culp",
-    "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Eric Gray",
     "position": "RB",
     "team": "FA",
@@ -325,13 +311,6 @@
     "source": "fantasypros",
     "name": "Raheem Blackshear",
     "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Joshua Karty",
-    "position": "K",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -786,13 +765,6 @@
   {
     "source": "fantasypros",
     "name": "Gerald Everett",
-    "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Bryson Nesbit",
     "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
@@ -4292,13 +4264,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Emari Demercado",
-    "position": "RB",
-    "team": "ARI",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Hunter Luepke",
     "position": "FB",
     "team": "DAL",
@@ -4743,13 +4708,6 @@
     "name": "Ainias Smith",
     "position": "WR",
     "team": "PHI",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Devin Culp",
-    "position": "TE",
-    "team": "TB",
     "reason": "no-name-match"
   },
   {

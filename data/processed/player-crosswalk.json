@@ -3624,6 +3624,14 @@
     "gsisId": "00-0038930"
   },
   {
+    "sleeperId": "11199",
+    "name": "Emari Demercado",
+    "position": "RB",
+    "team": "HOU",
+    "fantasyProsId": 25654,
+    "gsisId": "00-0038705"
+  },
+  {
     "sleeperId": "11201",
     "name": "Blake Whiteheart",
     "position": "TE",
@@ -4400,6 +4408,14 @@
     "gsisId": "00-0039409"
   },
   {
+    "sleeperId": "11789",
+    "name": "Joshua Karty",
+    "position": "K",
+    "team": "LAR",
+    "fantasyProsId": 26478,
+    "gsisId": "00-0039750"
+  },
+  {
     "sleeperId": "11792",
     "name": "Will Reichard",
     "position": "K",
@@ -4422,6 +4438,14 @@
     "team": "CAR",
     "fantasyProsId": 26413,
     "gsisId": "00-0039394"
+  },
+  {
+    "sleeperId": "11820",
+    "name": "Devin Culp",
+    "position": "TE",
+    "team": "MIN",
+    "fantasyProsId": 26440,
+    "gsisId": "00-0039754"
   },
   {
     "sleeperId": "11834",
@@ -5464,6 +5488,14 @@
     "gsisId": null
   },
   {
+    "sleeperId": "12907",
+    "name": "Quentin Skinner",
+    "position": "WR",
+    "team": "PHI",
+    "fantasyProsId": null,
+    "gsisId": null
+  },
+  {
     "sleeperId": "12908",
     "name": "Chandler Brayboy",
     "position": "WR",
@@ -5518,6 +5550,14 @@
     "team": "CAR",
     "fantasyProsId": 27700,
     "gsisId": "00-0040394"
+  },
+  {
+    "sleeperId": "12941",
+    "name": "Bryson Nesbit",
+    "position": "TE",
+    "team": "MIN",
+    "fantasyProsId": 25998,
+    "gsisId": null
   },
   {
     "sleeperId": "12946",
