@@ -3208,14 +3208,6 @@
     "gsisId": "00-0038608"
   },
   {
-    "sleeperId": "9505",
-    "name": "Deuce Vaughn",
-    "position": "RB",
-    "team": "HOU",
-    "fantasyProsId": 22984,
-    "gsisId": "00-0038622"
-  },
-  {
     "sleeperId": "9506",
     "name": "Sean Tucker",
     "position": "RB",
@@ -6876,6 +6868,14 @@
     "name": "Patrick Gurd",
     "position": "TE",
     "team": "LV",
+    "fantasyProsId": null,
+    "gsisId": null
+  },
+  {
+    "sleeperId": "13923",
+    "name": "Joshua Pitsenberger",
+    "position": "RB",
+    "team": "HOU",
     "fantasyProsId": null,
     "gsisId": null
   },

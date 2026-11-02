@@ -729,6 +729,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Deuce Vaughn",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Bailey Zappe",
     "position": "QB",
     "team": "FA",
@@ -4225,6 +4232,13 @@
     "name": "A.T. Perry",
     "position": "WR",
     "team": "NO",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Deuce Vaughn",
+    "position": "RB",
+    "team": "DAL",
     "reason": "no-name-match"
   },
   {
