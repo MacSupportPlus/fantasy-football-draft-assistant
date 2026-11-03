@@ -1120,6 +1120,14 @@
     "gsisId": null
   },
   {
+    "sleeperId": "5773",
+    "name": "KhaDarel Hodge",
+    "position": "WR",
+    "team": "SF",
+    "fantasyProsId": 18166,
+    "gsisId": "00-0034854"
+  },
+  {
     "sleeperId": "5844",
     "name": "T.J. Hockenson",
     "position": "TE",
@@ -3384,6 +3392,14 @@
     "gsisId": "00-0039146"
   },
   {
+    "sleeperId": "10223",
+    "name": "Eric Gray",
+    "position": "RB",
+    "team": "NYG",
+    "fantasyProsId": 23075,
+    "gsisId": "00-0038396"
+  },
+  {
     "sleeperId": "10224",
     "name": "Brayden Willis",
     "position": "TE",
@@ -3984,14 +4000,6 @@
     "gsisId": "00-0039746"
   },
   {
-    "sleeperId": "11579",
-    "name": "Audric Estime",
-    "position": "RB",
-    "team": "CLE",
-    "fantasyProsId": 23054,
-    "gsisId": "00-0039373"
-  },
-  {
     "sleeperId": "11581",
     "name": "MarShawn Lloyd",
     "position": "RB",
@@ -4307,7 +4315,7 @@
     "sleeperId": "11648",
     "name": "Kedon Slovis",
     "position": "QB",
-    "team": "GB",
+    "team": "BAL",
     "fantasyProsId": 23166,
     "gsisId": "00-0039577"
   },
@@ -4464,6 +4472,14 @@
     "gsisId": "00-0039710"
   },
   {
+    "sleeperId": "11931",
+    "name": "Austin Reed",
+    "position": "QB",
+    "team": "BAL",
+    "fantasyProsId": 26383,
+    "gsisId": "00-0039464"
+  },
+  {
     "sleeperId": "11942",
     "name": "Colson Yankoff",
     "position": "TE",
@@ -4598,6 +4614,14 @@
     "team": "LAC",
     "fantasyProsId": 26946,
     "gsisId": "00-0039489"
+  },
+  {
+    "sleeperId": "12412",
+    "name": "Terrell Jennings",
+    "position": "RB",
+    "team": "NE",
+    "fantasyProsId": 26964,
+    "gsisId": "00-0039757"
   },
   {
     "sleeperId": "12455",
@@ -5222,6 +5246,14 @@
     "team": "LAC",
     "fantasyProsId": 24372,
     "gsisId": "00-0040184"
+  },
+  {
+    "sleeperId": "12688",
+    "name": "Cam Miller",
+    "position": "QB",
+    "team": "GB",
+    "fantasyProsId": 27289,
+    "gsisId": "00-0040222"
   },
   {
     "sleeperId": "12699",
@@ -6422,14 +6454,6 @@
     "team": "SF",
     "fantasyProsId": 28138,
     "gsisId": "00-0041035"
-  },
-  {
-    "sleeperId": "13418",
-    "name": "Robert Henry Jr.",
-    "position": "RB",
-    "team": "SEA",
-    "fantasyProsId": 28404,
-    "gsisId": "00-0041178"
   },
   {
     "sleeperId": "13419",
