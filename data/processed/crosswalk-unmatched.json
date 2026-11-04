@@ -29,13 +29,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Audric Estime",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Kareem Hunt",
     "position": "RB",
     "team": "FA",
@@ -52,6 +45,13 @@
     "source": "fantasypros",
     "name": "Joe Mixon",
     "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Daniel Carlson",
+    "position": "K",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -176,23 +176,9 @@
   },
   {
     "source": "fantasypros",
-    "name": "Hassan Haskins",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Patrick Ricard",
     "position": "RB",
     "team": "NYG",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Robert Henry Jr.",
-    "position": "RB",
-    "team": "FA",
     "reason": "no-name-match"
   },
   {
@@ -456,6 +442,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Bub Means",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "D'Onta Foreman",
     "position": "RB",
     "team": "FA",
@@ -464,13 +457,6 @@
   {
     "source": "fantasypros",
     "name": "Kenny McIntosh",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Jaret Patterson",
     "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
@@ -624,6 +610,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Alex Bachman",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Anthony Firkser",
     "position": "TE",
     "team": "FA",
@@ -765,6 +758,13 @@
   {
     "source": "fantasypros",
     "name": "Gerald Everett",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Bryson Nesbit",
     "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
@@ -1289,6 +1289,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Zaire Mitchell-Paden",
+    "position": "TE",
+    "team": "HOU",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Jack Velling",
     "position": "TE",
     "team": "FA",
@@ -1345,7 +1352,7 @@
   },
   {
     "source": "fantasypros",
-    "name": "Daniel Sobkowicz",
+    "name": "Cameron Dorner",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -1353,13 +1360,6 @@
   {
     "source": "fantasypros",
     "name": "Kole Wilson",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Xavier Guillory",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -3494,13 +3494,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Jaret Patterson",
-    "position": "RB",
-    "team": "WAS",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Cade Johnson",
     "position": "WR",
     "team": "SEA",
@@ -3763,13 +3756,6 @@
     "name": "Dennis Houston",
     "position": "WR",
     "team": "DAL",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Hassan Haskins",
-    "position": "RB",
-    "team": "LAC",
     "reason": "no-name-match"
   },
   {
@@ -4411,6 +4397,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Alex Bachman",
+    "position": "WR",
+    "team": "LV",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "James Pierre",
     "position": "CB",
     "team": "PIT",
@@ -4607,16 +4600,16 @@
   },
   {
     "source": "nflverse",
-    "name": "Audric Estime",
-    "position": "RB",
-    "team": "DEN",
+    "name": "Jamari Thrash",
+    "position": "WR",
+    "team": "CLE",
     "reason": "no-name-match"
   },
   {
     "source": "nflverse",
-    "name": "Jamari Thrash",
+    "name": "Bub Means",
     "position": "WR",
-    "team": "CLE",
+    "team": "NO",
     "reason": "no-name-match"
   },
   {
