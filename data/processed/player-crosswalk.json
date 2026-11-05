@@ -1448,6 +1448,14 @@
     "gsisId": "00-0034959"
   },
   {
+    "sleeperId": "6386",
+    "name": "Alex Bachman",
+    "position": "WR",
+    "team": "LAR",
+    "fantasyProsId": 18902,
+    "gsisId": "00-0035602"
+  },
+  {
     "sleeperId": "6427",
     "name": "Ashton Dulin",
     "position": "WR",
@@ -1744,6 +1752,14 @@
     "gsisId": "00-0036425"
   },
   {
+    "sleeperId": "6957",
+    "name": "James Proche II",
+    "position": "WR",
+    "team": "ARI",
+    "fantasyProsId": 19359,
+    "gsisId": "00-0036133"
+  },
+  {
     "sleeperId": "6992",
     "name": "Michael Warren",
     "position": "RB",
@@ -1766,14 +1782,6 @@
     "team": "PIT",
     "fantasyProsId": 19647,
     "gsisId": "00-0036139"
-  },
-  {
-    "sleeperId": "7039",
-    "name": "Cody White",
-    "position": "WR",
-    "team": "LV",
-    "fantasyProsId": 19739,
-    "gsisId": "00-0035891"
   },
   {
     "sleeperId": "7042",
@@ -2126,6 +2134,14 @@
     "team": "ARI",
     "fantasyProsId": 22815,
     "gsisId": "00-0036510"
+  },
+  {
+    "sleeperId": "7599",
+    "name": "Jermar Jefferson",
+    "position": "RB",
+    "team": "ARI",
+    "fantasyProsId": 20088,
+    "gsisId": "00-0036670"
   },
   {
     "sleeperId": "7600",
@@ -2710,6 +2726,14 @@
     "team": "KC",
     "fantasyProsId": 22913,
     "gsisId": "00-0038104"
+  },
+  {
+    "sleeperId": "8194",
+    "name": "Jashaun Corbin",
+    "position": "RB",
+    "team": "DAL",
+    "fantasyProsId": 22948,
+    "gsisId": "00-0037410"
   },
   {
     "sleeperId": "8195",
@@ -3574,6 +3598,14 @@
     "team": "LAR",
     "fantasyProsId": 25533,
     "gsisId": "00-0038905"
+  },
+  {
+    "sleeperId": "11065",
+    "name": "Adrian Martinez",
+    "position": "QB",
+    "team": "SEA",
+    "fantasyProsId": 23040,
+    "gsisId": "00-0038658"
   },
   {
     "sleeperId": "11068",
@@ -6880,6 +6912,14 @@
     "gsisId": null
   },
   {
+    "sleeperId": "13904",
+    "name": "Jacob De Jesus",
+    "position": "WR",
+    "team": "KC",
+    "fantasyProsId": null,
+    "gsisId": null
+  },
+  {
     "sleeperId": "13905",
     "name": "Omari Evans",
     "position": "WR",
@@ -6950,14 +6990,6 @@
     "team": "MIA",
     "fantasyProsId": null,
     "gsisId": "00-0041436"
-  },
-  {
-    "sleeperId": "14058",
-    "name": "Malick Meiga",
-    "position": "WR",
-    "team": "SEA",
-    "fantasyProsId": null,
-    "gsisId": null
   },
   {
     "sleeperId": "14080",

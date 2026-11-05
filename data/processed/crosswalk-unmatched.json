@@ -302,13 +302,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Jermar Jefferson",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Miles Davis",
     "position": "RB",
     "team": "FA",
@@ -394,13 +387,6 @@
   {
     "source": "fantasypros",
     "name": "Gus Edwards",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Jashaun Corbin",
     "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
@@ -605,13 +591,6 @@
     "source": "fantasypros",
     "name": "Jeff Wilson Jr.",
     "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Alex Bachman",
-    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -995,13 +974,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "James Proche II",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "RJ Maryland",
     "position": "TE",
     "team": "FA",
@@ -1102,6 +1074,13 @@
     "source": "fantasypros",
     "name": "Ulysses Bentley IV",
     "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Cody White",
+    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -1291,7 +1270,7 @@
     "source": "fantasypros",
     "name": "Zaire Mitchell-Paden",
     "position": "TE",
-    "team": "HOU",
+    "team": "FA",
     "reason": "no-name-match"
   },
   {
@@ -3088,6 +3067,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Cody White",
+    "position": "WR",
+    "team": "SEA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Jonathan Ward",
     "position": "RB",
     "team": "PIT",
@@ -3140,13 +3126,6 @@
     "name": "J.J. Taylor",
     "position": "RB",
     "team": "HOU",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "James Proche",
-    "position": "WR",
-    "team": "CLE",
     "reason": "no-name-match"
   },
   {
@@ -4117,13 +4096,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Jashaun Corbin",
-    "position": "RB",
-    "team": "NYG",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Kwamie Lassiter",
     "position": "WR",
     "team": "CIN",
@@ -4397,13 +4369,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Alex Bachman",
-    "position": "WR",
-    "team": "LV",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "James Pierre",
     "position": "CB",
     "team": "PIT",
@@ -4442,13 +4407,6 @@
     "name": "Zach Davidson",
     "position": "TE",
     "team": "BUF",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Jermar Jefferson",
-    "position": "RB",
-    "team": "DET",
     "reason": "no-name-match"
   },
   {
