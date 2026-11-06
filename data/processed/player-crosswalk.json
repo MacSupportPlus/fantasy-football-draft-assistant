@@ -1784,6 +1784,14 @@
     "gsisId": "00-0036139"
   },
   {
+    "sleeperId": "7039",
+    "name": "Cody White",
+    "position": "WR",
+    "team": "LV",
+    "fantasyProsId": 19739,
+    "gsisId": "00-0035891"
+  },
+  {
     "sleeperId": "7042",
     "name": "Tyler Bass",
     "position": "K",
@@ -4408,6 +4416,14 @@
     "gsisId": "00-0039364"
   },
   {
+    "sleeperId": "11748",
+    "name": "Bub Means",
+    "position": "WR",
+    "team": "KC",
+    "fantasyProsId": 26354,
+    "gsisId": "00-0039386"
+  },
+  {
     "sleeperId": "11762",
     "name": "Anthony Gould",
     "position": "WR",
@@ -5276,7 +5292,7 @@
     "name": "Cam Miller",
     "position": "QB",
     "team": "GB",
-    "fantasyProsId": 27289,
+    "fantasyProsId": null,
     "gsisId": "00-0040222"
   },
   {

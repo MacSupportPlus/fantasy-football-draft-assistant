@@ -428,13 +428,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Bub Means",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "D'Onta Foreman",
     "position": "RB",
     "team": "FA",
@@ -1074,13 +1067,6 @@
     "source": "fantasypros",
     "name": "Ulysses Bentley IV",
     "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Cody White",
-    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -3067,13 +3053,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Cody White",
-    "position": "WR",
-    "team": "SEA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Jonathan Ward",
     "position": "RB",
     "team": "PIT",
@@ -4561,13 +4540,6 @@
     "name": "Jamari Thrash",
     "position": "WR",
     "team": "CLE",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Bub Means",
-    "position": "WR",
-    "team": "NO",
     "reason": "no-name-match"
   },
   {
