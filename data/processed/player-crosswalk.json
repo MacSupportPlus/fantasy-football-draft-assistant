@@ -395,7 +395,7 @@
     "sleeperId": "3257",
     "name": "Jacoby Brissett",
     "position": "QB",
-    "team": "ARI",
+    "team": "BAL",
     "fantasyProsId": 15642,
     "gsisId": "00-0033119"
   },
@@ -3374,14 +3374,6 @@
     "team": "LAR",
     "fantasyProsId": 23761,
     "gsisId": "00-0039074"
-  },
-  {
-    "sleeperId": "10215",
-    "name": "Jake Haener",
-    "position": "QB",
-    "team": "NYG",
-    "fantasyProsId": 24728,
-    "gsisId": "00-0038998"
   },
   {
     "sleeperId": "10218",
@@ -6704,14 +6696,6 @@
     "gsisId": "00-0041133"
   },
   {
-    "sleeperId": "13580",
-    "name": "Carsen Ryan",
-    "position": "TE",
-    "team": "CLE",
-    "fantasyProsId": 28399,
-    "gsisId": "00-0041131"
-  },
-  {
     "sleeperId": "13582",
     "name": "Anthony Smith",
     "position": "WR",
@@ -6833,7 +6817,7 @@
   },
   {
     "sleeperId": "13743",
-    "name": "Joseph Manjack",
+    "name": "Joseph Manjack IV",
     "position": "WR",
     "team": "NYJ",
     "fantasyProsId": null,

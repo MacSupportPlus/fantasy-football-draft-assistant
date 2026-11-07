@@ -218,6 +218,20 @@
   },
   {
     "source": "fantasypros",
+    "name": "JuJu Smith-Schuster",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Cam Akers",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Riley Patterson",
     "position": "K",
     "team": "FA",
@@ -232,15 +246,15 @@
   },
   {
     "source": "fantasypros",
-    "name": "Will Dissly",
+    "name": "Carsen Ryan",
     "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
   },
   {
     "source": "fantasypros",
-    "name": "Cam Akers",
-    "position": "RB",
+    "name": "Will Dissly",
+    "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -268,13 +282,6 @@
   {
     "source": "fantasypros",
     "name": "Ray-Ray McCloud III",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "JuJu Smith-Schuster",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -4519,6 +4526,13 @@
     "name": "Wanya Morris",
     "position": "T",
     "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Jake Haener",
+    "position": "QB",
+    "team": "NO",
     "reason": "no-name-match"
   },
   {
