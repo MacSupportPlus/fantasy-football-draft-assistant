@@ -256,14 +256,6 @@
     "gsisId": "00-0032268"
   },
   {
-    "sleeperId": "2334",
-    "name": "Phillip Dorsett II",
-    "position": "WR",
-    "team": "LV",
-    "fantasyProsId": 13979,
-    "gsisId": "00-0032208"
-  },
-  {
     "sleeperId": "2359",
     "name": "Ameer Abdullah",
     "position": "RB",
@@ -2472,14 +2464,6 @@
     "gsisId": "00-0038046"
   },
   {
-    "sleeperId": "8129",
-    "name": "Dameon Pierce",
-    "position": "RB",
-    "team": "PHI",
-    "fantasyProsId": 22947,
-    "gsisId": "00-0037258"
-  },
-  {
     "sleeperId": "8130",
     "name": "Trey McBride",
     "position": "TE",
@@ -3374,6 +3358,14 @@
     "team": "LAR",
     "fantasyProsId": 23761,
     "gsisId": "00-0039074"
+  },
+  {
+    "sleeperId": "10215",
+    "name": "Jake Haener",
+    "position": "QB",
+    "team": "NYG",
+    "fantasyProsId": 24728,
+    "gsisId": "00-0038998"
   },
   {
     "sleeperId": "10218",
@@ -4502,14 +4494,6 @@
     "team": "MIN",
     "fantasyProsId": 26423,
     "gsisId": "00-0039710"
-  },
-  {
-    "sleeperId": "11931",
-    "name": "Austin Reed",
-    "position": "QB",
-    "team": "BAL",
-    "fantasyProsId": 26383,
-    "gsisId": "00-0039464"
   },
   {
     "sleeperId": "11942",
@@ -6694,6 +6678,14 @@
     "team": "DEN",
     "fantasyProsId": 28352,
     "gsisId": "00-0041133"
+  },
+  {
+    "sleeperId": "13580",
+    "name": "Carsen Ryan",
+    "position": "TE",
+    "team": "CLE",
+    "fantasyProsId": 28399,
+    "gsisId": "00-0041131"
   },
   {
     "sleeperId": "13582",
