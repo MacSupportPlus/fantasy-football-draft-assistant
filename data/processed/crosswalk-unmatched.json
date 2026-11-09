@@ -22,6 +22,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Kendre Miller",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Darius Slayton",
     "position": "WR",
     "team": "FA",
@@ -885,6 +892,13 @@
     "source": "fantasypros",
     "name": "Brandon Powell",
     "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Treyton Welch",
+    "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -4141,6 +4155,13 @@
     "name": "Jason Brownlee",
     "position": "WR",
     "team": "NYJ",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Kendre Miller",
+    "position": "RB",
+    "team": "NO",
     "reason": "no-name-match"
   },
   {
