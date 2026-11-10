@@ -27,7 +27,7 @@
     "sleeperId": "260",
     "name": "Josh Johnson",
     "position": "QB",
-    "team": "CIN",
+    "team": "ARI",
     "fantasyProsId": 9326,
     "gsisId": "00-0026300"
   },
@@ -5552,14 +5552,6 @@
     "gsisId": null
   },
   {
-    "sleeperId": "12938",
-    "name": "Jackson Meeks",
-    "position": "TE",
-    "team": "DET",
-    "fantasyProsId": 27697,
-    "gsisId": "00-0040390"
-  },
-  {
     "sleeperId": "12939",
     "name": "Anthony Tyus III",
     "position": "RB",
@@ -6515,7 +6507,7 @@
     "sleeperId": "13428",
     "name": "Joey Aguilar",
     "position": "QB",
-    "team": "JAX",
+    "team": "ARI",
     "fantasyProsId": 28299,
     "gsisId": null
   },
@@ -6838,14 +6830,6 @@
     "team": "NYJ",
     "fantasyProsId": 28686,
     "gsisId": "00-0041267"
-  },
-  {
-    "sleeperId": "13827",
-    "name": "Tanner Arkin",
-    "position": "TE",
-    "team": "NE",
-    "fantasyProsId": 28166,
-    "gsisId": "00-0041314"
   },
   {
     "sleeperId": "13830",

@@ -316,6 +316,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Tanner Arkin",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Miles Davis",
     "position": "RB",
     "team": "FA",
@@ -598,6 +605,13 @@
     "source": "fantasypros",
     "name": "Jeff Wilson Jr.",
     "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jackson Meeks",
+    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -1277,7 +1291,7 @@
     "source": "fantasypros",
     "name": "Zaire Mitchell-Paden",
     "position": "TE",
-    "team": "FA",
+    "team": "CLE",
     "reason": "no-name-match"
   },
   {
