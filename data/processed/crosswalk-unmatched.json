@@ -22,15 +22,22 @@
   },
   {
     "source": "fantasypros",
-    "name": "Kendre Miller",
+    "name": "Darius Slayton",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jaydon Blue",
     "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },
   {
     "source": "fantasypros",
-    "name": "Darius Slayton",
-    "position": "WR",
+    "name": "Jarquez Hunter",
+    "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -44,6 +51,13 @@
   {
     "source": "fantasypros",
     "name": "Tyreek Hill",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Odell Beckham Jr.",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -67,6 +81,13 @@
     "name": "Kyle Juszczyk",
     "position": "RB",
     "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Nick Folk",
+    "position": "K",
+    "team": "FA",
     "reason": "no-name-match"
   },
   {
@@ -246,6 +267,20 @@
   },
   {
     "source": "fantasypros",
+    "name": "Nikko Remigio",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "David Moore",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Will Dissly",
     "position": "TE",
     "team": "FA",
@@ -288,6 +323,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "David Sills V",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "JuJu Smith-Schuster",
     "position": "WR",
     "team": "FA",
@@ -309,6 +351,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Nick Vannett",
+    "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Raheem Blackshear",
     "position": "RB",
     "team": "FA",
@@ -318,6 +367,13 @@
     "source": "fantasypros",
     "name": "Tanner Arkin",
     "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Jermar Jefferson",
+    "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -367,6 +423,13 @@
     "source": "fantasypros",
     "name": "Montrell Johnson Jr.",
     "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Hayden Rucci",
+    "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -899,7 +962,7 @@
     "source": "fantasypros",
     "name": "Lucas Scott",
     "position": "RB",
-    "team": "FA",
+    "team": "BAL",
     "reason": "no-name-match"
   },
   {
@@ -911,7 +974,7 @@
   },
   {
     "source": "fantasypros",
-    "name": "Treyton Welch",
+    "name": "Evan Svoboda",
     "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
@@ -1285,13 +1348,6 @@
     "name": "Kendric Pryor",
     "position": "WR",
     "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Zaire Mitchell-Paden",
-    "position": "TE",
-    "team": "CLE",
     "reason": "no-name-match"
   },
   {
@@ -1884,13 +1940,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Phillip Dorsett",
-    "position": "WR",
-    "team": "DEN",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Tyler Lockett",
     "position": "WR",
     "team": "SEA",
@@ -1908,6 +1957,13 @@
     "name": "Duke Johnson",
     "position": "RB",
     "team": "BUF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nick Vannett",
+    "position": "TE",
+    "team": "TEN",
     "reason": "no-name-match"
   },
   {
@@ -2880,6 +2936,13 @@
     "source": "nflverse",
     "name": "Chris Myarick",
     "position": "TE",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "David Sills",
+    "position": "WR",
     "team": "NYG",
     "reason": "no-name-match"
   },
@@ -3872,6 +3935,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Odell Beckham",
+    "position": "WR",
+    "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "AJ McCarron",
     "position": "QB",
     "team": "CIN",
@@ -3903,6 +3973,13 @@
     "name": "Jalen Reeves-Maybin",
     "position": "OLB",
     "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "David Moore",
+    "position": "WR",
+    "team": "CAR",
     "reason": "no-name-match"
   },
   {
@@ -4124,6 +4201,13 @@
   },
   {
     "source": "nflverse",
+    "name": "John FitzPatrick",
+    "position": "TE",
+    "team": "GB",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Kwamie Lassiter",
     "position": "WR",
     "team": "CIN",
@@ -4169,13 +4253,6 @@
     "name": "Jason Brownlee",
     "position": "WR",
     "team": "NYJ",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Kendre Miller",
-    "position": "RB",
-    "team": "NO",
     "reason": "no-name-match"
   },
   {
@@ -4446,6 +4523,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Jermar Jefferson",
+    "position": "RB",
+    "team": "DET",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Divine Deablo",
     "position": "MLB",
     "team": "LV",
@@ -4547,6 +4631,13 @@
     "name": "Grant DuBose",
     "position": "WR",
     "team": "MIA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Nikko Remigio",
+    "position": "WR",
+    "team": "KC",
     "reason": "no-name-match"
   },
   {
