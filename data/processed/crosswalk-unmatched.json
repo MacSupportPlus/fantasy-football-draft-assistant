@@ -15,13 +15,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Harrison Mevis",
-    "position": "K",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Darius Slayton",
     "position": "WR",
     "team": "FA",
@@ -51,13 +44,6 @@
   {
     "source": "fantasypros",
     "name": "Tyreek Hill",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Odell Beckham Jr.",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -253,13 +239,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Riley Patterson",
-    "position": "K",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Riley Nowakowski",
     "position": "TE",
     "team": "PIT",
@@ -268,13 +247,6 @@
   {
     "source": "fantasypros",
     "name": "Nikko Remigio",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "David Moore",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -351,22 +323,8 @@
   },
   {
     "source": "fantasypros",
-    "name": "Nick Vannett",
-    "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Raheem Blackshear",
     "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Tanner Arkin",
-    "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -668,13 +626,6 @@
     "source": "fantasypros",
     "name": "Jeff Wilson Jr.",
     "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Jackson Meeks",
-    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -1957,13 +1908,6 @@
     "name": "Duke Johnson",
     "position": "RB",
     "team": "BUF",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Nick Vannett",
-    "position": "TE",
-    "team": "TEN",
     "reason": "no-name-match"
   },
   {
@@ -3935,13 +3879,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Odell Beckham",
-    "position": "WR",
-    "team": "MIA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "AJ McCarron",
     "position": "QB",
     "team": "CIN",
@@ -3973,13 +3910,6 @@
     "name": "Jalen Reeves-Maybin",
     "position": "OLB",
     "team": "DET",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "David Moore",
-    "position": "WR",
-    "team": "CAR",
     "reason": "no-name-match"
   },
   {

@@ -192,6 +192,14 @@
     "gsisId": "00-0031203"
   },
   {
+    "sleeperId": "2078",
+    "name": "Odell Beckham Jr.",
+    "position": "WR",
+    "team": "MIN",
+    "fantasyProsId": 12127,
+    "gsisId": "00-0031235"
+  },
+  {
     "sleeperId": "2118",
     "name": "Eric Ebron",
     "position": "TE",
@@ -382,6 +390,14 @@
     "team": "BAL",
     "fantasyProsId": 15642,
     "gsisId": "00-0033119"
+  },
+  {
+    "sleeperId": "3258",
+    "name": "Nick Vannett",
+    "position": "TE",
+    "team": "BAL",
+    "fantasyProsId": 15645,
+    "gsisId": "00-0032394"
   },
   {
     "sleeperId": "3269",
@@ -670,6 +686,14 @@
     "team": "KC",
     "fantasyProsId": 16454,
     "gsisId": "00-0033295"
+  },
+  {
+    "sleeperId": "4274",
+    "name": "David Moore",
+    "position": "WR",
+    "team": "CAR",
+    "fantasyProsId": 16757,
+    "gsisId": "00-0033589"
   },
   {
     "sleeperId": "4314",
@@ -1310,14 +1334,6 @@
     "team": "BUF",
     "fantasyProsId": 18406,
     "gsisId": "00-0035537"
-  },
-  {
-    "sleeperId": "6045",
-    "name": "Gary Jennings",
-    "position": "WR",
-    "team": "LAC",
-    "fantasyProsId": 18565,
-    "gsisId": "00-0035589"
   },
   {
     "sleeperId": "6083",
@@ -2262,6 +2278,14 @@
     "team": "DET",
     "fantasyProsId": 23341,
     "gsisId": "00-0036754"
+  },
+  {
+    "sleeperId": "7922",
+    "name": "Riley Patterson",
+    "position": "K",
+    "team": "BAL",
+    "fantasyProsId": 23370,
+    "gsisId": "00-0036816"
   },
   {
     "sleeperId": "7933",
@@ -4472,6 +4496,14 @@
     "gsisId": "00-0039589"
   },
   {
+    "sleeperId": "12015",
+    "name": "Harrison Mevis",
+    "position": "K",
+    "team": "BAL",
+    "fantasyProsId": 26638,
+    "gsisId": "00-0039498"
+  },
+  {
     "sleeperId": "12045",
     "name": "Jack Westover",
     "position": "TE",
@@ -5486,6 +5518,14 @@
     "team": "CIN",
     "fantasyProsId": null,
     "gsisId": null
+  },
+  {
+    "sleeperId": "12938",
+    "name": "Jackson Meeks",
+    "position": "TE",
+    "team": "DET",
+    "fantasyProsId": 27697,
+    "gsisId": "00-0040390"
   },
   {
     "sleeperId": "12939",
@@ -6768,6 +6808,14 @@
     "gsisId": "00-0041267"
   },
   {
+    "sleeperId": "13827",
+    "name": "Tanner Arkin",
+    "position": "TE",
+    "team": "NE",
+    "fantasyProsId": 28166,
+    "gsisId": "00-0041314"
+  },
+  {
     "sleeperId": "13830",
     "name": "Kyle Dixon",
     "position": "WR",
@@ -6838,6 +6886,14 @@
     "team": "HOU",
     "fantasyProsId": null,
     "gsisId": null
+  },
+  {
+    "sleeperId": "13949",
+    "name": "Damon Bankston",
+    "position": "RB",
+    "team": "MIN",
+    "fantasyProsId": null,
+    "gsisId": "00-0041139"
   },
   {
     "sleeperId": "13957",
