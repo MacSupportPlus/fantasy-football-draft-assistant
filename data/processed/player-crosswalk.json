@@ -249,7 +249,7 @@
   },
   {
     "sleeperId": "2334",
-    "name": "Phillip Dorsett II",
+    "name": "Phillip Dorsett",
     "position": "WR",
     "team": "ARI",
     "fantasyProsId": 13979,
@@ -1134,14 +1134,6 @@
     "team": "PIT",
     "fantasyProsId": 18219,
     "gsisId": "00-0035640"
-  },
-  {
-    "sleeperId": "5848",
-    "name": "Marquise Brown",
-    "position": "WR",
-    "team": "PHI",
-    "fantasyProsId": 18226,
-    "gsisId": "00-0035662"
   },
   {
     "sleeperId": "5849",
@@ -3152,6 +3144,14 @@
     "gsisId": "00-0038543"
   },
   {
+    "sleeperId": "9490",
+    "name": "Tyler Scott",
+    "position": "WR",
+    "team": "LAR",
+    "fantasyProsId": 25442,
+    "gsisId": "00-0038941"
+  },
+  {
     "sleeperId": "9493",
     "name": "Puka Nacua",
     "position": "WR",
@@ -3734,6 +3734,14 @@
     "team": "PHI",
     "fantasyProsId": 25758,
     "gsisId": "00-0038496"
+  },
+  {
+    "sleeperId": "11320",
+    "name": "Nikko Remigio",
+    "position": "WR",
+    "team": "HOU",
+    "fantasyProsId": 25772,
+    "gsisId": "00-0038519"
   },
   {
     "sleeperId": "11370",
@@ -6485,7 +6493,7 @@
     "position": "QB",
     "team": "ARI",
     "fantasyProsId": 28299,
-    "gsisId": null
+    "gsisId": "00-0041203"
   },
   {
     "sleeperId": "13429",
@@ -6765,7 +6773,7 @@
     "position": "WR",
     "team": "WAS",
     "fantasyProsId": 28640,
-    "gsisId": null
+    "gsisId": "00-0041176"
   },
   {
     "sleeperId": "13770",

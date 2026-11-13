@@ -15,6 +15,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Hollywood Brown",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Darius Slayton",
     "position": "WR",
     "team": "FA",
@@ -242,13 +249,6 @@
     "name": "Riley Nowakowski",
     "position": "TE",
     "team": "PIT",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Nikko Remigio",
-    "position": "WR",
-    "team": "FA",
     "reason": "no-name-match"
   },
   {
@@ -3018,6 +3018,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Marquise Brown",
+    "position": "WR",
+    "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Darrell Henderson",
     "position": "RB",
     "team": "LA",
@@ -4285,13 +4292,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Tyler Scott",
-    "position": "WR",
-    "team": "CHI",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Trey Palmer",
     "position": "WR",
     "team": "TB",
@@ -4561,13 +4561,6 @@
     "name": "Grant DuBose",
     "position": "WR",
     "team": "MIA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Nikko Remigio",
-    "position": "WR",
-    "team": "KC",
     "reason": "no-name-match"
   },
   {
