@@ -2136,14 +2136,6 @@
     "gsisId": "00-0036928"
   },
   {
-    "sleeperId": "7607",
-    "name": "Michael Carter",
-    "position": "RB",
-    "team": "TEN",
-    "fantasyProsId": 22728,
-    "gsisId": "00-0036924"
-  },
-  {
     "sleeperId": "7608",
     "name": "Khalil Herbert",
     "position": "RB",
@@ -5416,14 +5408,6 @@
     "gsisId": "00-0040081"
   },
   {
-    "sleeperId": "12829",
-    "name": "Coleman Owen",
-    "position": "WR",
-    "team": "GB",
-    "fantasyProsId": 27621,
-    "gsisId": "00-0040352"
-  },
-  {
     "sleeperId": "12848",
     "name": "Josh Kelly",
     "position": "WR",
@@ -6845,14 +6829,6 @@
     "position": "K",
     "team": "NYG",
     "fantasyProsId": 28176,
-    "gsisId": null
-  },
-  {
-    "sleeperId": "13861",
-    "name": "Daniel Sobkowicz",
-    "position": "WR",
-    "team": "HOU",
-    "fantasyProsId": 28711,
     "gsisId": null
   },
   {
