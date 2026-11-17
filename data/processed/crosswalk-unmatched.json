@@ -29,13 +29,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Jaydon Blue",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Jarquez Hunter",
     "position": "RB",
     "team": "FA",
@@ -81,6 +74,13 @@
     "name": "Kyle Juszczyk",
     "position": "RB",
     "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Zane Gonzalez",
+    "position": "K",
+    "team": "FA",
     "reason": "no-name-match"
   },
   {
@@ -302,13 +302,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "David Sills V",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "JuJu Smith-Schuster",
     "position": "WR",
     "team": "FA",
@@ -393,13 +386,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Hayden Rucci",
-    "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Jaheim Bell",
     "position": "TE",
     "team": "FA",
@@ -435,6 +421,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Charlie Jones",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Gus Edwards",
     "position": "RB",
     "team": "FA",
@@ -450,13 +443,6 @@
   {
     "source": "fantasypros",
     "name": "Jordan Akins",
-    "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Harrison Bryant",
     "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
@@ -528,13 +514,6 @@
     "source": "fantasypros",
     "name": "Jonathan Ward",
     "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Jason Brownlee",
-    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -974,13 +953,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Samori Toure",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Zach Horton",
     "position": "TE",
     "team": "FA",
@@ -1039,13 +1011,6 @@
     "source": "fantasypros",
     "name": "Mario Williams",
     "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Cooper Rush",
-    "position": "QB",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -1367,6 +1332,13 @@
   {
     "source": "fantasypros",
     "name": "Chris Hilton Jr.",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Brennan Presley",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -2220,13 +2192,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Cooper Rush",
-    "position": "QB",
-    "team": "DAL",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Keelan Cole",
     "position": "WR",
     "team": "LV",
@@ -2710,13 +2675,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Brett Rypien",
-    "position": "QB",
-    "team": "LA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Irv Smith",
     "position": "TE",
     "team": "CIN",
@@ -2901,13 +2859,6 @@
     "source": "nflverse",
     "name": "Chris Myarick",
     "position": "TE",
-    "team": "NYG",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "David Sills",
-    "position": "WR",
     "team": "NYG",
     "reason": "no-name-match"
   },
@@ -3231,13 +3182,6 @@
     "name": "Dezmon Patmon",
     "position": "WR",
     "team": "IND",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Harrison Bryant",
-    "position": "TE",
-    "team": "LV",
     "reason": "no-name-match"
   },
   {
@@ -3658,13 +3602,6 @@
     "name": "Trestan Ebner",
     "position": "RB",
     "team": "CHI",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Samori Toure",
-    "position": "WR",
-    "team": "GB",
     "reason": "no-name-match"
   },
   {
@@ -4215,9 +4152,9 @@
   },
   {
     "source": "nflverse",
-    "name": "Jason Brownlee",
+    "name": "Charlie Jones",
     "position": "WR",
-    "team": "NYJ",
+    "team": "CIN",
     "reason": "no-name-match"
   },
   {
