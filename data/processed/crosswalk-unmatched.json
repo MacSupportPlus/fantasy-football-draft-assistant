@@ -253,13 +253,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Carsen Ryan",
-    "position": "TE",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Will Dissly",
     "position": "TE",
     "team": "FA",
@@ -414,13 +407,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Charlie Jones",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Gus Edwards",
     "position": "RB",
     "team": "FA",
@@ -456,13 +442,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Bub Means",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "D'Onta Foreman",
     "position": "RB",
     "team": "FA",
@@ -472,6 +451,13 @@
     "source": "fantasypros",
     "name": "Kenny McIntosh",
     "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Isaiah Hodgins",
+    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -1038,13 +1024,6 @@
   {
     "source": "fantasypros",
     "name": "Danny Gray",
-    "position": "WR",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Dee Eskridge",
     "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
@@ -3130,6 +3109,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Isaiah Hodgins",
+    "position": "WR",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Mason Kinsey",
     "position": "WR",
     "team": "TEN",
@@ -3399,13 +3385,6 @@
     "name": "Shi Smith",
     "position": "WR",
     "team": "CAR",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "D'Wayne Eskridge",
-    "position": "WR",
-    "team": "MIA",
     "reason": "no-name-match"
   },
   {
@@ -4131,13 +4110,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Charlie Jones",
-    "position": "WR",
-    "team": "CIN",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Clayton Tune",
     "position": "QB",
     "team": "ARI",
@@ -4540,13 +4512,6 @@
     "name": "Carson Steele",
     "position": "RB",
     "team": "KC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Bub Means",
-    "position": "WR",
-    "team": "NO",
     "reason": "no-name-match"
   },
   {

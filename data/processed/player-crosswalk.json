@@ -1728,14 +1728,6 @@
     "gsisId": "00-0036020"
   },
   {
-    "sleeperId": "6920",
-    "name": "Isaiah Hodgins",
-    "position": "WR",
-    "team": "PIT",
-    "fantasyProsId": 19375,
-    "gsisId": "00-0036165"
-  },
-  {
     "sleeperId": "6927",
     "name": "Quez Watkins",
     "position": "WR",
@@ -2190,6 +2182,14 @@
     "team": "NE",
     "fantasyProsId": 22726,
     "gsisId": "00-0036875"
+  },
+  {
+    "sleeperId": "7612",
+    "name": "Dee Eskridge",
+    "position": "WR",
+    "team": "MIN",
+    "fantasyProsId": 22785,
+    "gsisId": "00-0036620"
   },
   {
     "sleeperId": "7618",
@@ -3464,6 +3464,14 @@
     "gsisId": "00-0039050"
   },
   {
+    "sleeperId": "10228",
+    "name": "Charlie Jones",
+    "position": "WR",
+    "team": "NYG",
+    "fantasyProsId": 25336,
+    "gsisId": "00-0038576"
+  },
+  {
     "sleeperId": "10229",
     "name": "Rashee Rice",
     "position": "WR",
@@ -4414,6 +4422,14 @@
     "team": "DET",
     "fantasyProsId": 26309,
     "gsisId": "00-0039364"
+  },
+  {
+    "sleeperId": "11748",
+    "name": "Bub Means",
+    "position": "WR",
+    "team": "ARI",
+    "fantasyProsId": 26354,
+    "gsisId": "00-0039386"
   },
   {
     "sleeperId": "11762",
@@ -6694,6 +6710,14 @@
     "team": "DEN",
     "fantasyProsId": 28352,
     "gsisId": "00-0041133"
+  },
+  {
+    "sleeperId": "13580",
+    "name": "Carsen Ryan",
+    "position": "TE",
+    "team": "CLE",
+    "fantasyProsId": 28399,
+    "gsisId": "00-0041131"
   },
   {
     "sleeperId": "13582",
