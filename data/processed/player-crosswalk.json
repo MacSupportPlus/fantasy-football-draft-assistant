@@ -1800,6 +1800,14 @@
     "gsisId": "00-0036259"
   },
   {
+    "sleeperId": "7050",
+    "name": "Josiah Deguara",
+    "position": "TE",
+    "team": "LAC",
+    "fantasyProsId": 19456,
+    "gsisId": "00-0036332"
+  },
+  {
     "sleeperId": "7066",
     "name": "K.J. Osborn",
     "position": "WR",
@@ -2280,14 +2288,6 @@
     "gsisId": "00-0036887"
   },
   {
-    "sleeperId": "7865",
-    "name": "Brandon Smith",
-    "position": "WR",
-    "team": "PIT",
-    "fantasyProsId": 23351,
-    "gsisId": "00-0036775"
-  },
-  {
     "sleeperId": "7891",
     "name": "Brock Wright",
     "position": "TE",
@@ -2390,14 +2390,6 @@
     "team": "PHI",
     "fantasyProsId": 23755,
     "gsisId": "00-0038092"
-  },
-  {
-    "sleeperId": "8116",
-    "name": "Pierre Strong Jr.",
-    "position": "RB",
-    "team": "GB",
-    "fantasyProsId": 24173,
-    "gsisId": "00-0038098"
   },
   {
     "sleeperId": "8117",
@@ -3683,7 +3675,7 @@
     "sleeperId": "11210",
     "name": "Malik Heath",
     "position": "WR",
-    "team": "ATL",
+    "team": "WAS",
     "fantasyProsId": 25668,
     "gsisId": "00-0038465"
   },

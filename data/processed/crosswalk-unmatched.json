@@ -141,6 +141,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Pierre Strong Jr.",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Taysom Hill",
     "position": "TE",
     "team": "FA",
@@ -353,13 +360,6 @@
     "source": "fantasypros",
     "name": "Avery Williams",
     "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
-    "name": "Josiah Deguara",
-    "position": "TE",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -927,6 +927,13 @@
     "source": "fantasypros",
     "name": "Zach Horton",
     "position": "TE",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "Brandon Smith",
+    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -3242,13 +3249,6 @@
   },
   {
     "source": "nflverse",
-    "name": "Josiah Deguara",
-    "position": "TE",
-    "team": "JAX",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
     "name": "Anthony McFarland",
     "position": "RB",
     "team": "PIT",
@@ -3728,6 +3728,13 @@
     "name": "Isaiah Spiller",
     "position": "RB",
     "team": "LAC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Pierre Strong",
+    "position": "RB",
+    "team": "CLE",
     "reason": "no-name-match"
   },
   {
