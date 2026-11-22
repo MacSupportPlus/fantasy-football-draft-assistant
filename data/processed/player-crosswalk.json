@@ -216,14 +216,6 @@
     "gsisId": "00-0031381"
   },
   {
-    "sleeperId": "2197",
-    "name": "Brandin Cooks",
-    "position": "WR",
-    "team": "SF",
-    "fantasyProsId": 12122,
-    "gsisId": "00-0031236"
-  },
-  {
     "sleeperId": "2216",
     "name": "Mike Evans",
     "position": "WR",
@@ -1184,14 +1176,6 @@
     "gsisId": "00-0035676"
   },
   {
-    "sleeperId": "5870",
-    "name": "Daniel Jones",
-    "position": "QB",
-    "team": "IND",
-    "fantasyProsId": 18232,
-    "gsisId": "00-0035710"
-  },
-  {
     "sleeperId": "5872",
     "name": "Deebo Samuel Sr.",
     "position": "WR",
@@ -1992,14 +1976,6 @@
     "gsisId": "00-0036970"
   },
   {
-    "sleeperId": "7559",
-    "name": "Ihmir Smith-Marsette",
-    "position": "WR",
-    "team": "CAR",
-    "fantasyProsId": 20116,
-    "gsisId": "00-0036635"
-  },
-  {
     "sleeperId": "7561",
     "name": "Elijah Mitchell",
     "position": "RB",
@@ -2390,6 +2366,14 @@
     "team": "PHI",
     "fantasyProsId": 23755,
     "gsisId": "00-0038092"
+  },
+  {
+    "sleeperId": "8116",
+    "name": "Pierre Strong Jr.",
+    "position": "RB",
+    "team": "GB",
+    "fantasyProsId": 24173,
+    "gsisId": "00-0038098"
   },
   {
     "sleeperId": "8117",

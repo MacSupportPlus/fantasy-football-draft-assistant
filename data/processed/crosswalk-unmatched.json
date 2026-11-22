@@ -1,6 +1,13 @@
 [
   {
     "source": "fantasypros",
+    "name": "Daniel Jones",
+    "position": "QB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Travis Hunter",
     "position": "WR",
     "team": "JAC",
@@ -141,8 +148,8 @@
   },
   {
     "source": "fantasypros",
-    "name": "Pierre Strong Jr.",
-    "position": "RB",
+    "name": "Brandin Cooks",
+    "position": "WR",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -1604,6 +1611,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Brandin Cooks",
+    "position": "WR",
+    "team": "DAL",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Teddy Bridgewater",
     "position": "QB",
     "team": "DET",
@@ -2976,6 +2990,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Daniel Jones",
+    "position": "QB",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Jakob Johnson",
     "position": "FB",
     "team": "LV",
@@ -3389,6 +3410,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Ihmir Smith-Marsette",
+    "position": "WR",
+    "team": "NYG",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Larry Rountree",
     "position": "RB",
     "team": "LAC",
@@ -3728,13 +3756,6 @@
     "name": "Isaiah Spiller",
     "position": "RB",
     "team": "LAC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Pierre Strong",
-    "position": "RB",
-    "team": "CLE",
     "reason": "no-name-match"
   },
   {
