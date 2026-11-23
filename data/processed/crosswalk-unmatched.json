@@ -316,13 +316,6 @@
   },
   {
     "source": "fantasypros",
-    "name": "Eric Gray",
-    "position": "RB",
-    "team": "FA",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "fantasypros",
     "name": "Albert Okwuegbunam Jr.",
     "position": "TE",
     "team": "FA",
@@ -4120,13 +4113,6 @@
     "name": "Tucker Fisk",
     "position": "TE",
     "team": "LAC",
-    "reason": "no-name-match"
-  },
-  {
-    "source": "nflverse",
-    "name": "Eric Gray",
-    "position": "RB",
-    "team": "NYG",
     "reason": "no-name-match"
   },
   {
