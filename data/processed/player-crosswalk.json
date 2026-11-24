@@ -1592,14 +1592,6 @@
     "gsisId": "00-0036410"
   },
   {
-    "sleeperId": "6803",
-    "name": "Brandon Aiyuk",
-    "position": "WR",
-    "team": "SF",
-    "fantasyProsId": 19252,
-    "gsisId": "00-0036261"
-  },
-  {
     "sleeperId": "6804",
     "name": "Jordan Love",
     "position": "QB",
@@ -4344,14 +4336,6 @@
     "gsisId": "00-0039391"
   },
   {
-    "sleeperId": "11648",
-    "name": "Kedon Slovis",
-    "position": "QB",
-    "team": "BAL",
-    "fantasyProsId": 23166,
-    "gsisId": "00-0039577"
-  },
-  {
     "sleeperId": "11649",
     "name": "Kendall Milton",
     "position": "RB",
@@ -4518,14 +4502,6 @@
     "team": "HOU",
     "fantasyProsId": 26588,
     "gsisId": "00-0039650"
-  },
-  {
-    "sleeperId": "11963",
-    "name": "Chris Collier",
-    "position": "RB",
-    "team": "LV",
-    "fantasyProsId": 26597,
-    "gsisId": "00-0039244"
   },
   {
     "sleeperId": "11994",
@@ -6072,28 +6048,12 @@
     "gsisId": "00-0041094"
   },
   {
-    "sleeperId": "13310",
-    "name": "Miller Moss",
-    "position": "QB",
-    "team": "CHI",
-    "fantasyProsId": null,
-    "gsisId": null
-  },
-  {
     "sleeperId": "13311",
     "name": "Chris Bell",
     "position": "WR",
     "team": "MIA",
     "fantasyProsId": 26038,
     "gsisId": "00-0041525"
-  },
-  {
-    "sleeperId": "13312",
-    "name": "Josh Kattus",
-    "position": "TE",
-    "team": "CIN",
-    "fantasyProsId": null,
-    "gsisId": null
   },
   {
     "sleeperId": "13313",
@@ -6846,14 +6806,6 @@
     "team": "GB",
     "fantasyProsId": 26139,
     "gsisId": "00-0040948"
-  },
-  {
-    "sleeperId": "13778",
-    "name": "EJ Smith",
-    "position": "RB",
-    "team": "KC",
-    "fantasyProsId": 23120,
-    "gsisId": "00-0040964"
   },
   {
     "sleeperId": "13779",

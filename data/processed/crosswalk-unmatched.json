@@ -57,6 +57,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Brandon Aiyuk",
+    "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Tyreek Hill",
     "position": "WR",
     "team": "FA",
@@ -1079,6 +1086,13 @@
   },
   {
     "source": "fantasypros",
+    "name": "Chris Collier",
+    "position": "RB",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
     "name": "Mason Kinsey",
     "position": "WR",
     "team": "FA",
@@ -1102,6 +1116,13 @@
     "source": "fantasypros",
     "name": "Daurice Fountain",
     "position": "WR",
+    "team": "FA",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "fantasypros",
+    "name": "EJ Smith",
+    "position": "RB",
     "team": "FA",
     "reason": "no-name-match"
   },
@@ -3214,6 +3235,13 @@
   },
   {
     "source": "nflverse",
+    "name": "Brandon Aiyuk",
+    "position": "WR",
+    "team": "SF",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
     "name": "Laviska Shenault Jr.",
     "position": "WR",
     "team": "SEA",
@@ -4512,6 +4540,13 @@
     "name": "Wanya Morris",
     "position": "T",
     "team": "KC",
+    "reason": "no-name-match"
+  },
+  {
+    "source": "nflverse",
+    "name": "Chris Collier",
+    "position": "RB",
+    "team": "LV",
     "reason": "no-name-match"
   },
   {
