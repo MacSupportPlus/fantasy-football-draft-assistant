@@ -8,14 +8,6 @@
     "gsisId": "00-0026158"
   },
   {
-    "sleeperId": "96",
-    "name": "Aaron Rodgers",
-    "position": "QB",
-    "team": "PIT",
-    "fantasyProsId": 9001,
-    "gsisId": "00-0023459"
-  },
-  {
     "sleeperId": "138",
     "name": "Ben Roethlisberger",
     "position": "QB",
@@ -214,6 +206,14 @@
     "team": "LAR",
     "fantasyProsId": 12123,
     "gsisId": "00-0031381"
+  },
+  {
+    "sleeperId": "2197",
+    "name": "Brandin Cooks",
+    "position": "WR",
+    "team": "SF",
+    "fantasyProsId": 12122,
+    "gsisId": "00-0031236"
   },
   {
     "sleeperId": "2216",
@@ -766,14 +766,6 @@
     "team": "BAL",
     "fantasyProsId": null,
     "gsisId": null
-  },
-  {
-    "sleeperId": "4718",
-    "name": "Dare Ogunbowale",
-    "position": "RB",
-    "team": "HOU",
-    "fantasyProsId": 16879,
-    "gsisId": "00-0033854"
   },
   {
     "sleeperId": "4744",
@@ -4360,6 +4352,14 @@
     "gsisId": "00-0039391"
   },
   {
+    "sleeperId": "11648",
+    "name": "Kedon Slovis",
+    "position": "QB",
+    "team": "ARI",
+    "fantasyProsId": 23166,
+    "gsisId": "00-0039577"
+  },
+  {
     "sleeperId": "11649",
     "name": "Kendall Milton",
     "position": "RB",
@@ -5462,6 +5462,14 @@
     "team": "HOU",
     "fantasyProsId": 27485,
     "gsisId": null
+  },
+  {
+    "sleeperId": "12860",
+    "name": "Theo Wease Jr.",
+    "position": "WR",
+    "team": "LAC",
+    "fantasyProsId": 27222,
+    "gsisId": "00-0040311"
   },
   {
     "sleeperId": "12863",
