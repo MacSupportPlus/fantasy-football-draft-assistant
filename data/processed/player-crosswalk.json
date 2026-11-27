@@ -3664,14 +3664,6 @@
     "gsisId": "00-0038710"
   },
   {
-    "sleeperId": "11210",
-    "name": "Malik Heath",
-    "position": "WR",
-    "team": "WAS",
-    "fantasyProsId": 25668,
-    "gsisId": "00-0038465"
-  },
-  {
     "sleeperId": "11237",
     "name": "Jacob Saylors",
     "position": "RB",
@@ -5780,8 +5772,8 @@
     "name": "Max Hurleman",
     "position": "WR",
     "team": "PIT",
-    "fantasyProsId": null,
-    "gsisId": null
+    "fantasyProsId": 27911,
+    "gsisId": "00-0040618"
   },
   {
     "sleeperId": "13210",
@@ -6916,7 +6908,7 @@
     "name": "Jacob De Jesus",
     "position": "WR",
     "team": "SEA",
-    "fantasyProsId": 28756,
+    "fantasyProsId": null,
     "gsisId": "00-0040967"
   },
   {
